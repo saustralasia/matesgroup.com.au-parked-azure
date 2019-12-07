@@ -24,7 +24,7 @@
             <div class="top-fo-block third-fo-block">
               <h2>Sudney Office</h2>
               <p>
-              <span>Let's Discuss What's Next.</span><br>
+              <span>Let's Discuss What's Next</span><br>
               <span>Have a project or a question?</span><br>
               <span>We'd love to hear from you.</span><br>
             </p>
