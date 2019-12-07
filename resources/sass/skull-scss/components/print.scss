@@ -1,0 +1,110 @@
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   http://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+   @media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        //color: #000 !important; /* Black prints faster: http://www.sanbeiji.com/archives/953 */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre {
+        white-space: pre-wrap !important;
+    }
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+/* ==========================================================================
+   HTML5 Boilerplate v6.0.1 | MIT License | https://html5boilerplate.com/
+   ========================================================================== */
+// Bootstrap specific changes start
+
+// Specify a size and min-width to make printing closer across browsers.
+// We don't set margin here because it breaks `size` in Chrome. We also
+// don't use `!important` on `size` as it breaks in Chrome.
+@page {
+    // size: $print-page-size;
+    }
+    body {
+    // min-width: $print-body-min-width !important;
+    }
+    .container {
+    // min-width: $print-body-min-width !important;
+    }
+
+    // Bootstrap components
+    .navbar {
+    display: none;
+    }
+    .badge {
+    // border: $border-width solid $black;
+    }
+
+    .table {
+    border-collapse: collapse !important;
+
+    td,
+    th {
+        // background-color: $white !important;
+    }
+    }    
+  

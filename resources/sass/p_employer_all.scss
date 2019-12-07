@@ -1,0 +1,204 @@
+/* === REQUIREMENT === */
+.requirement-sologan {
+    
+}
+.requirement-history {
+    box-shadow: 0 3px 3px -2px grey;
+    padding:0 5px 40px 5px;
+    @media only screen and (min-width: $md){
+      padding:0 0px 40px 0px;
+    }
+}
+.requirement-insights-header {
+    position: relative;
+    h4 {
+      padding: 30px 0px;
+      font-size: 18px;
+      text-transform: uppercase;
+      letter-spacing: 8px;
+    }
+    hr {
+      width: 90px;
+      height: 5px;
+      background: #F79A2A;
+      margin-left: -30px;
+      border: none;
+    }
+    h2 {
+      padding: 15px 0px 35px 0px;
+      font-size: 35px;
+      color: #2189CA;
+    }
+    p {
+      font-size: 18px;
+    }
+    @media only screen and (min-width: $md){
+      h2 {
+        font-size: 26px;
+      }
+    }
+    @media only screen and (min-width: 900px){
+      h2 {
+        font-size: 30px;
+      }
+    }
+    @media only screen and (min-width: 1180px){
+      h2 {
+        font-size: 40px;
+      }
+    }
+    @media only screen and (min-width: $md){
+      background: none;
+    }
+  } 
+.dot-requirement {
+    display: none;
+    @media only screen and (min-width: $md){
+    position: absolute;
+    top: -156px;
+    left: -129px;
+    z-index: -9;
+    display: block;
+    }
+  }
+.focus-best {
+  padding: 40px 0;
+}  
+.focus-best-last {
+  padding-bottom: 20px;
+  ul {
+    padding-left: 24px;
+    li {
+      list-style: circle;
+      font-size: 18px;
+    }
+  }
+}  
+.focus-best-block p {
+  padding-bottom: 10px;
+}
+  /* === COMMITMENT === */
+.pre-employment {
+  padding: 40px 30px 60px 30px; 
+  margin-bottom: 40px;
+  @media only screen and (min-width: $md){
+    padding: 40px 0 60px 0;
+  }
+}
+.pre-employment-body {
+  @include span(12);
+}
+.pre-employment-block {
+@include span(12);
+  p {
+      padding-right:20px; 
+      font-size: 18px;
+      line-height: 27px;
+      text-align: justify;
+      padding-bottom: 10px;
+  }
+  img {
+      padding-top: 30px;
+      width: 100%;
+  }
+  @media only screen and (min-width: $md){
+    @include span(6);
+    margin-right: 0;
+    img {
+      padding-top: 7px;
+  }
+  }
+}
+.pre-employment-block {
+  ul {
+    padding: 10px 0 0 20px;
+    li {
+      font-size: 18px;
+      list-style: circle !important;
+    }
+  }
+}
+.requirement-team-details {
+  padding: 0 30px 40px 30px;
+  @media only screen and (min-width: $md){
+  padding: 0 0 40px 0;
+  }
+  h3 {
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: 300;
+  }
+  img {
+    width: 100%;
+  }
+}
+
+.client-process {
+  padding: 0 30px 40px 30px;
+  @media only screen and (min-width: $md){
+  padding: 0 0 40px 0;
+  }
+}
+.client-process-block {
+@include span(12);
+  @media only screen and (min-width: $md){
+    @include span(6);
+    margin-right: 0;
+  }
+}
+.c-l-first, .c-l-sec, .c-l-the, .c-r-first, .c-r-sec {
+  padding: 50px 30px 50px 30px;
+  width: 100%;
+  height: 500px;
+  h3 {
+    padding-bottom: 50px;
+  }
+  @media only screen and (min-width: $md){
+    padding: 50px;
+    font-size: 15px;
+  }
+  color: #fff;
+  text-align: justify;
+}
+.c-l-first {
+  background: #3597D4;
+}
+.c-l-sec {
+  background: #17618F;
+  margin-top: 30px;
+  @media only screen and (min-width: $md){
+    margin-top: 150px;
+  }
+  
+}
+.c-l-the {
+  background: #3597D4;
+  margin-top: 30px;
+  @media only screen and (min-width: $md){
+    margin-top: 150px;
+  }
+  
+} 
+.c-r-first {
+  background: #1E7DB8;
+  margin-top: 30px;
+  @media only screen and (min-width: $md){
+    margin-top: 320px;
+  }
+  
+} 
+.c-r-sec {
+  background: #1E7DB8;
+  margin-top: 30px;
+  @media only screen and (min-width: $md){
+    margin-top: 150px;
+  }
+}
+.post-employment {
+  padding: 0px 30px 0px 30px;
+  @media only screen and (min-width: $md){
+    padding: 150px 0 60px 0;
+  }
+  
+}

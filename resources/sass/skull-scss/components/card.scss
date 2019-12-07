@@ -1,0 +1,48 @@
+/* ==========================================================================
+    Card
+
+    version:   1.1
+    date:      6/12/2017
+    author:    [Microtech na]
+    email:     [info@microtechna.com]
+    website:   [microtechna.com]
+
+    .card
+      .header
+        .title
+        .icon
+      .image
+      .content
+      .footer
+        .item
+   ========================================================================== */
+.card {
+  display: inline-block;
+  width: 100%;
+  //max-width: 350px;
+  margin: 20px;
+  padding: 25px;
+  border-radius: 2px;
+  //transition: all 0.1s ease;
+  text-align: left;
+  background: $light;
+  box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.2);
+  &:hover {
+    //transform: translateY(1px);
+    //box-shadow: 0 7px 10px -2px rgba(0, 0, 0, 0.3);
+  }
+  .header {
+    .title{}
+    .subtitle {
+      margin-bottom: 0;
+    }
+    .icon{}
+  }
+  .image{width: 100%;}
+  .content{}
+  .footer{
+    .item{}
+  }
+}
+.card-link {
+}

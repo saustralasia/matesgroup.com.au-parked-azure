@@ -1,0 +1,187 @@
+/* ==========================================================================
+    Typography
+    by: Matesglobal
+   ========================================================================== */
+
+/* 
+http://topfunky.com/baseline-rhythm-calculator/
+http://pxtoem.com/
+
+/******************************************************/
+/*         Typo code starts from here                 */
+/*                                                    */
+/*  web:   https://codepen.io/bdjunayed/pen/veZLEy    */
+/*                                                    */
+/*  Generate for diffrents font-size with line-height */
+/*  http://topfunky.com/baseline-rhythm-calculator/   */
+/*  css to scss: http://css2sass.herokuapp.com/       */
+/******************************************************/
+
+/****   Initialize the HTML                        ****/
+//Hypen https://css-tricks.com/almanac/properties/h/hyphenate/
+
+/*  ------------------------------------------
+    Font stacks
+    ------------------------------------------  */
+//@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,700&display=swap');
+
+$open-sans: 'Open Sans', sans-serif;
+$oswald: 'Oswald', sans-serif;
+
+
+.hy {
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;   
+    word-wrap: break-word;
+}
+
+html {
+    /* Change default typefaces here */
+    font-family: $open-sans;
+    line-height: 1.4;
+    font-size: calc(14px + 0.5vw); //font-size: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+ul,
+ol {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+ul li,
+ol li {
+    line-height: 1.5rem;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+    margin: 0;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.4em;
+}
+
+h1 {
+    font-size: 2em;
+    line-height: 1.3em;
+}
+
+h2 {
+    font-size: 1.625em;
+    line-height: 1.15384615em;
+}
+
+h3 {
+    font-size: 1.375em;
+    line-height: 1.13636364em;
+}
+
+h4 {
+    font-size: 1.125em;
+    line-height: 1.11111111em;
+}
+
+h5 {
+    font-size: 0.4713333333333333rem;
+}
+
+h6 {
+    font-size: 0.3535rem;
+}
+
+/* Tables */
+table {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5em;
+    border-spacing: 0;
+    border-collapse: collapse;
+    td,
+    th {
+        padding: 0;
+        line-height: 33px;
+    }
+}
+
+@media screen and (min-width: $md) {
+    p {
+        font-size: 1.1em;
+        line-height: 1.4em;
+    }
+    h1 {
+        font-size: 2.5em;
+        line-height: 1.125em;
+    }
+
+    h2 {
+        font-size: 2em;
+        line-height: 1.25em;
+    }
+    h3 {
+        font-size: 1.5em;
+        line-height: 1.25em;
+    }
+
+    h4 {
+        font-size: 1.125em;
+        line-height: 1.22222222em;
+    }
+}
+
+@media screen and (min-width: $lg) {
+    p {
+        font-size: 1.2em;
+    }
+    h1 {
+        font-size: 1em;
+        line-height: 1.05em;
+    }
+
+    h2 {
+        font-size: 2.25em;
+        line-height: 1.25;
+    }
+    h3 {
+        font-size: 1.75em;
+        line-height: 1.25em;
+    }
+
+    h4 {
+        font-size: 1.125em;
+        line-height: 1.22222222em;
+    }
+}
+
+//
+// Text
+//
+
+
+// Alignment
+.text-justify  { text-align: justify !important; }
+.text-nowrap   { white-space: nowrap !important; }
+.text-truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+// Transformation
+.text-lowercase  { text-transform: lowercase !important; }
+.text-uppercase  { text-transform: uppercase !important; }
+.text-capitalize { text-transform: capitalize !important; }
+
+// Text selection
+::selection {
+    background-color: rgba(255, 133, 52, 0.5);
+    color: $accent-color;
+    text-shadow: none;
+  }

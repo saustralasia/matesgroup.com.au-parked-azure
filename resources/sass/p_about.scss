@@ -1,0 +1,315 @@
+.about-history {
+    box-shadow: 0 3px 3px -2px grey;
+    padding:0 30px 40px 30px;
+    @media only screen and (min-width: $md){
+      padding:0 0px 40px 0px;
+    }
+}
+.dot-about {
+  display: none;
+  @media only screen and (min-width: $md){
+    position: absolute;
+    top: 379px;
+    display: block;
+  }
+}
+.pages-sologan {
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.7)), url(../images/AboutUs.jpg) ;
+    background-position:top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    position: relative;
+    h2 {
+      position: absolute;
+      bottom: -5px;
+      left: 6%;
+      font-size:30px;
+      text-transform: uppercase;
+      color: $white;
+      font-family: $oswald;
+    }
+    @media only screen and (min-width: $md){
+      h2 {
+        bottom: -7px;
+        font-size: 40px;
+      }
+    }
+    @media only screen and (min-width: 1096px){
+      h2 {
+        bottom: -11px;
+        left: 10%;
+        font-size: 64px;
+      }
+    }
+    
+    p {
+      display: none;
+    }
+    @media only screen and (min-width: $md){
+    p {
+      display: block;
+      position: absolute;
+      bottom: -5px;
+      right: 6%;
+      font-size:18px;
+      color: $white;
+      font-family: $oswald;
+      a {
+        color: #fff;
+        &:hover {
+          color: #2189CA;
+        }
+      }
+    }
+    }
+    
+  }
+  .about-insights-header {
+    
+   h4 {
+     padding: 30px 0px;
+     font-size: 18px;
+     text-transform: uppercase;
+     letter-spacing: 8px;
+   }
+   hr {
+     width: 90px;
+     height: 5px;
+     background: #2189CA;
+     margin-left: -30px;
+     border: none;
+   }
+   h2 {
+     padding: 15px 0px 35px 0px;
+     font-size: 27px;
+   }
+   @media only screen and (min-width: $md){
+     h2 {
+       font-size: 40px;
+     }
+   }
+   @media only screen and (min-width: 880px){
+     h2 {
+       font-size: 40px;
+     }
+   }
+   @media only screen and (min-width: 880px){
+     h2 {
+       font-size: 40px;
+     }
+   }
+   @media only screen and (min-width: 1180px){
+     h2 {
+       font-size: 40px;
+     }
+   }
+   @media only screen and (min-width: $md){
+     background: none;
+   }
+ } 
+  .about-main {
+    p {
+      font-size: 18px;
+      line-height: 27px;
+      padding-bottom: 10px;
+    }
+    @media only screen and (min-width: $md){
+      @include span(9);  
+      margin-left: span(3);
+    } 
+  }
+  .services-circle {
+      text-align: center;
+      padding: 70px 0 0px 0;
+      h3 {
+          padding-bottom: 10px;
+      }
+      img {
+        width: 100%;
+      }
+  }
+  .about-partner {
+      box-shadow: 0 3px 3px -2px grey;
+      padding:0 30px 60px 30px;
+    @media only screen and (min-width: $md){
+      padding:0 0px 60px 0px;
+    }
+  }
+  .about-partner-p {
+      padding-bottom: 40px;
+      font-size: 18px;
+      line-height: 27px;
+  }
+  .about-partner-list {
+    @include span(12);
+    text-align: center;
+  }
+  .about-partner-block {
+      text-align: center;
+      border-radius: 3px;
+      height: 100px;
+      line-height: 100px;
+      box-shadow: 0 0 3px 0px #c3bfbf;
+      margin-top: 10px;
+      @include span(4);
+      &:nth-child(3n+3) {
+        margin-right: 0;
+      } 
+      img {
+      max-height: 80px;
+      max-width: 80px;
+    } 
+    @media only screen and (min-width: $md){
+      @include span(3);
+      &:nth-child(3n+3) {
+        @include span(3);
+      } 
+      &:nth-child(4n+4) {
+        margin-right: 0;
+      }
+    }
+  }
+/* === ABOUT HAND === */
+.about-hand {
+    
+    position: relative;
+    img {
+        padding: 0px 0px 0px 0px !important;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+.about-dot-two {
+    position: absolute;
+    top: -228px;
+    right: 0;
+    z-index: -99;
+}
+/* === ABOUT VISION === */
+.about-vision {
+    box-shadow: 0 3px 3px -2px grey;
+    padding: 90px 30px 60px 30px;
+    @media only screen and (min-width: $md){
+      padding: 90px 0px 60px 0px;
+    }
+}
+.about-vision-body {
+    p {
+        font-size: 18px;
+        line-height: 27px;
+        padding-bottom: 30px;
+     &:first-child {
+       padding-bottom: 10px;
+     }   
+    }
+    h6 {
+        font-size: 18px;
+        line-height: 27px;
+        padding-bottom: 3px;
+    }
+    ul {
+        padding-left: 40px;
+        li {
+            font-size: 18px;
+            line-height: 27px;
+            list-style: circle;
+        }
+    }
+}
+
+/* === PART OF === */
+.part-of {
+    box-shadow: 0 3px 3px -2px grey;
+    padding: 40px 30px 60px 30px;
+    @media only screen and (min-width: $md){
+    padding: 40px 0 60px 0;
+    }
+}
+.part-img-body {
+    @include span(12);
+}
+.about-part-p {
+    padding-bottom: 40px;
+}
+.part-img-block {
+  padding: 20px 0 0 0;
+  img {
+    width: 100%;
+  }
+    @media only screen and (min-width: $md){
+      padding:0;
+        @include span(6);
+        &:last-child {
+          margin-right: 0;
+        }
+    }
+}
+/* === ABOUT TEAM === */
+.about-team {
+    box-shadow: 0 3px 3px -2px grey;
+    padding: 40px 30px 60px 30px; 
+    @media only screen and (min-width: $md){
+    padding: 40px 0px 60px 0px;
+    }
+}
+.about-team-p {
+    font-size: 18px;
+    line-height: 27px;
+    padding: 0 0 60px 0;
+}
+.about-team-details {
+    p {
+        font-size: 18px;
+        line-height: 27px;
+        padding: 60px 0 30px 0;
+    }
+    h6 {
+        font-size: 18px;
+        padding-bottom: 3px;
+    }
+    ul {
+        padding-left: 40px;
+        li {
+            font-size: 18px;
+            list-style: circle;
+        }
+    }
+    img {
+      max-width: 100%;
+    }
+}
+
+/* === COMMITMENT === */
+.commitment {
+    box-shadow: 0 3px 3px -2px grey;
+    padding: 40px 30px 60px 30px; 
+    margin-bottom: 40px;
+    @media only screen and (min-width: $md){
+      padding: 40px 0 60px 0;
+    }
+}
+.commitment-body {
+    @include span(12);
+}
+.commitment-block {
+  @include span(12);
+    p {
+        padding-right:20px; 
+    }
+    img {
+        padding-top: 30px;
+        width: 100%;
+    }
+    @media only screen and (min-width: $md){
+      @include span(6);
+      margin-right: 0;
+      img {
+        padding-top: 130px;
+    }
+    }
+}
+.about-commitment-p {
+  font-size: 18px;
+  line-height: 27px;
+}

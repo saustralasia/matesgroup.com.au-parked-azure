@@ -1,0 +1,41 @@
+/*
+5 Reasons Against Resets, Normalizers, Reboots:                     https://meiert.com/en/blog/reasons-against-resets/
+*/
+
+/* ==========================================================================
+   Reset
+   by: microTechna.com
+   ========================================================================== */
+html {
+    margin: 0 auto;
+    color: #3b4042;
+    background: #FAFAFA;
+    overflow-x: hidden;
+    position: relative;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a,
+a:active,
+a:focus,
+a:hover {
+    //color: #f00;
+    text-decoration: none;
+    outline: none;
+    //-webkit-transition: all ease-in-out 0.3s;
+    //-moz-transition: all ease-in-out 0.3s;
+    //-o-transition: all ease-in-out 0.3s;
+    //transition: all ease-in-out 0.1ms;
+}
+
+ul,
+li {
+    list-style: none;
+    //margin: 0;
+    //padding: 0;
+}
+

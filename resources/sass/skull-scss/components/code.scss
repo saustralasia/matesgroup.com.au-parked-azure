@@ -1,0 +1,34 @@
+// Inline code
+code {
+  word-break: break-word;
+
+  // Streamline the style when inside anchors to avoid broken underline and more
+  a > & {
+    color: inherit;
+  }
+}
+
+// User input typically entered via keyboard
+kbd {
+  kbd {
+    padding: 0;
+    font-size: 100%;
+  }
+}
+
+// Blocks of code
+pre {
+  display: block;
+
+  // Account for some code outputs that place code tags in pre tags
+  code {
+    font-size: inherit;
+    color: inherit;
+    word-break: normal;
+  }
+}
+
+// Enable scrollable blocks of code
+.pre-scrollable {
+  overflow-y: scroll;
+}

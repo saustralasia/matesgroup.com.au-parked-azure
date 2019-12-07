@@ -1,0 +1,23 @@
+// Base class
+.tooltip {
+  position: absolute;
+  display: block;
+  // Our parent element can be arbitrary since tooltips are by default inserted as a sibling of their target element.
+  // So reset our font and text properties to avoid inheriting weird values.
+  word-wrap: break-word;
+  opacity: 0;
+
+  &.show {  }
+
+  .arrow {
+    position: absolute;
+    display: block;
+
+    &::before {
+      position: absolute;
+      content: "";
+      border-color: transparent;
+      border-style: solid;
+    }
+  }
+}

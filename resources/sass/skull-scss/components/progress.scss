@@ -1,0 +1,26 @@
+// @keyframes progress-bar-stripes {
+//   from { background-position: $progress-height 0; }
+//   to { background-position: 0 0; }
+// }
+
+.progress {
+  display: flex;
+  overflow: hidden; 
+
+}
+
+.progress-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.progress-bar-striped {
+  //background-image: linear-gradient($angle, $color 25%, transparent 25%, transparent 50%, $color 50%, $color 75%, transparent 75%, transparent);
+}
+
+.progress-bar-animated {
+  //animation: progress-bar-stripes 100;
+}

@@ -1,0 +1,73 @@
+/* ==========================================================================
+    Susy settings
+    by: @bdjunayed
+   ========================================================================== */
+
+/*
+    Pushing, Pulling, & Padding Elements:       https://codepen.io/aaandre/pen/goGXgz
+    Split Gutters:                              https://codepen.io/mirisuzanne/pen/bREZWW
+*/
+@import '~susy/sass/susy'; // unprefixed for on debug
+@import '~susy/sass/plugins/svg-grid';
+
+/*
+scss default values
+ 4 symmetrical, fluid columns
+ gutters are 1/4 the size of a column
+ elements span 1 less gutter than columns
+ containers span 1 less gutter as well
+*/
+
+$susy: (
+    'columns': susy-repeat(12),
+    'gutters': 0.25,
+    'spread': 'narrow', // default
+    'container-spread': 'narrow', // default
+);
+
+// box-sizing required by susy
+* {
+    box-sizing: border-box;
+}
+
+
+/*  ------------------------------------------
+    Susy Helpers
+    ------------------------------------------  */
+
+// Clearfix
+@mixin clearfix {
+    &::after {
+        clear: both;
+        content: ' ';
+        display: table;
+    }
+}
+
+// Container
+@mixin container( $width: all, $config: $susy, $debug: false) {
+    $config: susy-settings($config);
+    $container-spread: map-get($config, 'container-spread');
+    $width: span($width $container-spread of $container-spread, $config);
+    @include clearfix;
+    margin: 0 auto;
+    max-width: $width or 100%;
+    @if $debug {
+        background: susy-svg-grid($grid: $config) no-repeat scroll;
+    }
+}
+
+// Span
+@mixin span( $span, $config: $susy) {
+    width: span($span, $config);
+    @if index($span, 'last') {
+        float: right; // margin-right: 0; if you want an explicit reset
+    }
+    @else {
+        float: left;
+        margin-right: gutter();
+    }
+}
+
+/*  Media Queries & Grid Settings
+Practical media helpers for Susy3:      http://oddbird.net/2017/09/25/susy-use/ */
