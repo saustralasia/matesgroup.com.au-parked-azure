@@ -248,13 +248,12 @@ input[type="email"],
 input[type="number"]{height:50px;width:100%;border:2px solid #e5e5ee;-webkit-border-radius:80px;-moz-border-radius:80px;-ms-border-radius:80px;-o-border-radius:80px;border-radius:80px;padding:0 30px;outline:none;color:#636375;}
 .build-title{display:inline-block;width:100%;text-align:center;margin-bottom:40px;}
 .build-title h6{color:#9a9a9a;font-weight:400;font-family:'Graviola-Regular';font-size:15px;}
-.icon-default{position:absolute;left:50%;top:-59px;width:254px;background:url('../images/pattern-white.png') no-repeat center center;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%);transform:translateX(-50%);height:59px;z-index:30;text-align:center;padding:20px 0 0 0;}
+.icon-default{position:absolute;left:50%;top:-59px;width:254px;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%);transform:translateX(-50%);height:59px;z-index:30;text-align:center;padding:20px 0 0 0;}
 .btn-primary-gold{background:#e4b95b;color:#ffffff;border-color:#e4b95b;}
 .btn-large{height:55px;line-height:55px;padding:0 50px;}
 .icon-black{background:url('../images/pattern-black.png') no-repeat center center;}
 .icon-skeen{background:url('../images/pattern-skeen.png') no-repeat center center;}
 .icon-gold{background:url('../images/pattern-gold.png') no-repeat center center;}
-.icon-dark{background:url('../images/pattern-dark.png') no-repeat center center;}
 .banner-bg{background-size:cover;background-position:center center;background-repeat:no-repeat;}
 body main .txt-default{color:#e4b95b;}
 .invert .build-title h2{color:#e4b95b;}
