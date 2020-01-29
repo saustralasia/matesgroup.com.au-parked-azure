@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/all.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/custom-animate.css') }}">
     <link rel="stylesheet" href="{{ asset('css/theme.css') }}">
     <link rel="stylesheet" href="{{ asset('css/aos.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
@@ -22,13 +22,12 @@
 @include('layouts.footer')
 
 
-<script src="asset{{'js/jquery.min.js'}}"></script>
-<script src="asset{{'js/bootstrap.min.js'}}"></script>
-<script src="asset{{'js/owl.carousel.min.js'}}"></script>
-<script src="asset{{'js/jquery.magnific-popup.min.js'}}"></script>
-<script src="asset{{'js/aos.js'}}"></script>
-<script src="asset{{'js/wow.min.js'}}"></script>
-<script src="asset{{'js/script.js'}}"></script>
+<script src="{{ asset('js/jquery.min.js') }}"></script>
+<script src="{{asset('js/bootstrap.min.js') }}"></script>
+<script src="{{asset('js/owl.carousel.min.js') }}"></script>
+<script src="{{asset('js/jquery.magnific-popup.min.js') }}"></script>
+<script src="{{asset('js/aos.js') }}"></script>
+<script src="{{asset('js/wow.min.js') }}"></script>
 
 
 

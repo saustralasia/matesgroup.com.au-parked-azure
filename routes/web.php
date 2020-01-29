@@ -12,3 +12,15 @@
 */
 
 Route::get('/', 'Matesgroup@index')->name('index');
+Route::get('/approach', 'Matesgroup@approach')->name('approach');
+Route::get('/commitment', 'Matesgroup@commitment')->name('commitment');
+Route::get('/vision', 'Matesgroup@vision')->name('vision');
+Route::get('/team', 'Matesgroup@team')->name('team');
+Route::get('/why_choose', 'Matesgroup@why_choose')->name('why_choose');
+Route::get('/workforce', 'Matesgroup@workforce')->name('workforce');
+Route::get('/matesglobal', 'Matesgroup@matesglobal')->name('matesglobal');
+Route::get('/contact', 'Matesgroup@contact')->name('contact');
+Route::get('/career', 'Matesgroup@career')->name('career');
+Route::get('/safety_policy', 'Matesgroup@safety_policy')->name('safety_policy');
+Route::get('/privacy', 'Matesgroup@privacy')->name('privacy');
+Route::get('/terms', 'Matesgroup@terms')->name('terms');

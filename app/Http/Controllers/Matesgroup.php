@@ -10,4 +10,52 @@ class Matesgroup extends Controller
     {
         return view('index');
     }
+    public function approach ()
+    {
+        return view('approach');
+    }
+    public function commitment ()
+    {
+        return view('commitment');
+    }
+    public function vision ()
+    {
+        return view('vision');
+    }
+    public function team ()
+    {
+        return view('team');
+    }
+    public function why_choose ()
+    {
+        return view('why_choose');
+    }
+    public function workforce ()
+    {
+        return view('workforce');
+    }
+    public function matesglobal ()
+    {
+        return view('matesglobal');
+    }
+    public function contact ()
+    {
+        return view('contact');
+    }
+    public function career ()
+    {
+        return view('career');
+    }
+    public function safety_policy ()
+    {
+        return view('safety_policy');
+    }
+    public function privacy ()
+    {
+        return view('privacy');
+    }
+    public function terms ()
+    {
+        return view('terms');
+    }
 }
