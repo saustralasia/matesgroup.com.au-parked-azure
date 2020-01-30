@@ -104,10 +104,25 @@
 
                    <div class="row">
 	                <div class="col-md-6">
-	                    <form method="post" style="margin-bottom:5px" action="">
+                    @if (session('status'))
+                                    <div class="alert alert-success">
+                                       {{ session('status') }}
+                                    </div>
+                                  @endif
+                                  @if ($errors->any())
+                                      <div class="alert alert-danger">
+                                         <ul>
+                                  @foreach ($errors->all() as $error)
+                                             <li>{{ $error }}</li>
+                                  @endforeach
+                                         </ul>
+                                      </div>
+                                  @endif
+	                    <form method="post" style="margin-bottom:5px" action="{{ route('contact') }}">
+                        @csrf
 	                        <div class="form-group">
 	                            <label>Full name</label>
-	                            <input type="text" id="input-field" name="fullname" class="form-control" required>
+	                            <input type="text" id="input-field" name="name" class="form-control" required>
 	                        </div>
 	                        <div class="form-group">
 	                            <label>Email</label>
@@ -115,12 +130,12 @@
 	                          </div>
 	                        <div class="form-group">
 	                           <label>Contact number(optional)</label>
-	                           <input type="number" name="contact" class="form-control">
+	                           <input type="number" name="phone" class="form-control">
 	                        </div>
 	                          
 							<div class="form-group">
 								<label>Country</label>
-								<select name="country" class="form-control" style="height:45px" required>
+								<select name="nationality" class="form-control" style="height:45px" required>
 									<option>Select Country</option>
 									<option value="Afghanistan">Afghanistan</option>
                 <option value="Åland Islands">Åland Islands</option>
@@ -373,7 +388,7 @@
 	                            <label>Message</label>
 	                            <textarea class="form-control" name="message" required></textarea>
 	                        </div>
-	                        <input type="submit" name="Submit" value="Submit" class="btn btn-success">
+	                        <input type="submit" name="Submit" value="Send" class="mates-btn btn btn-success">
 	                    </form>
 	                </div>
 	                <div class="col-md-6"> 

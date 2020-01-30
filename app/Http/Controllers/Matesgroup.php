@@ -38,10 +38,6 @@ class Matesgroup extends Controller
     {
         return view('matesglobal');
     }
-    public function contact ()
-    {
-        return view('contact');
-    }
     public function career ()
     {
         return view('career');
