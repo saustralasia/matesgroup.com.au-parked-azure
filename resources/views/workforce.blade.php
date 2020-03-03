@@ -6,7 +6,7 @@
     </center>
 </div>
 <div class="single-content">
-  
+
     <div class="container">
     	<div class="col-md-12" class="text-justify">
 		<p><strong>Mates Group</strong> is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers.</p>

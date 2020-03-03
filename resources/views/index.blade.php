@@ -87,7 +87,7 @@
               <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank"><img src="{{asset('images/logo/logo2.jpg')}}" alt="Specialises in job recruitment, interviews and candidate selection"></a>
             </div>
             <center>
-             <p class="slogan"> 
+             <p class="slogan">
                Specialises in job recruitment, interviews and candidate selection.
              </p>
            </center>
@@ -108,7 +108,7 @@
                <p class="slogan">Specialises in worldwide import, export and shipping services.</p>
            </center>
         </div>
-    
+
         <div class="item">
            <div class="serive-image">
                 <a rel="nofollow" href="http://winfred.com.au" target="_blank"><img src="{{asset('images/logo/winfred.png')}}" alt="Speciallises in experienced cleaning labour and providing Security personal"></a>
@@ -204,7 +204,7 @@
     </div>
 </div>
 
-<!--    =================  Second Slider    =================-->   
+<!--    =================  Second Slider    =================-->
 
 <div class="main-bg">
     <div class="single-main-area">
@@ -216,7 +216,7 @@
             <center><h3 class="section-head">MG CONSTRUCTION STAFF</h3></center>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Mates group supply civil and construction workers to various sites around the world, from small to large level of projects and development. Mates Group provides construction services, managing and developing production.</p>
+            <p data-aos="fade-right"  class="white text-18">Mates group supply civil and construction workers to various sites around the Australia, from small to large level of projects and development. Mates Group provides construction services, managing and developing production.</p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white text-18">We provide superior carpentry labour and building components to the commercial construction industry with a team of qualified and experienced members.</p>
         </div>
@@ -275,7 +275,7 @@
 				    	                <li>Field Engineer</li>
 				    	            </ul>
 				    	        </td>
-				    	        
+
 				    	        <td>
 				    	            <ul class="tab-l">
 				    	                <li>Concrete Laborers</li>
@@ -297,7 +297,7 @@
 				    	                <li>Construction Supervisor</li>
 				    	                <li>Construction Worker</li>
 				    	            </ul>
-				    	        </td>  
+				    	        </td>
 				    	    </tr>
 				    	</table>
 				    </div>
@@ -363,7 +363,7 @@
                             <li>Painters</li>
                             <li>Interior Plasterers</li>
                         </ul>
-                    </td>  
+                    </td>
                 </table>
               </div>
 	 	   </div>
@@ -431,7 +431,7 @@
                                 <li>Milkers</li>
                                 <li>Calf rearing</li>
                             </ul>
-                        </td>  
+                        </td>
                         <td>
                             <ul class="tab-l">
                                 <li>General farm work</li>
@@ -440,7 +440,7 @@
                                 <li>Farm sitter</li>
                                 <li>Turf cleaning</li>
                             </ul>
-                        </td>  
+                        </td>
                     </tr>
 				</table>
             </div>
@@ -460,7 +460,7 @@
              data-aos-duration="500" data-aos-delay="300">
             <center><h3 class="section-head">MG ENGINEERING STAFF</h3></center>
           </div>
-      
+
         <div class="main-section-area">
             <p data-aos="fade-right"  class="white text-18">With a database of highly skilled office support staff, MG Engineers specialises in recruiting employees for a wide range of engineering jobs. Our specialist recruitment services include the recruitment of permanent, part time or casual staff who hold extensive experience in the desired engineering field.</p>
         </div>
@@ -507,7 +507,7 @@
 				    	                <li>Design Engineer</li>
 				    	                <li>System design engineer</li>
 				    	                <li>Engineering Associate</li>
-				    	                
+
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -664,7 +664,7 @@
                                 <li>Building process </li>
                                 <li>Post building</li>
                             </ul>
-                        </td>  
+                        </td>
                         <td>
                             <ul class="tab-l">
                                 <li>Accounting</li>
@@ -673,7 +673,7 @@
                                 <li>Recruitment and selection</li>
                                 <li>HR</li>
                             </ul>
-                        </td>  
+                        </td>
                     </tr>
                 </table>
             </div>
@@ -758,11 +758,11 @@
              data-aos-duration="500" data-aos-delay="300">
             <center><h3 class="section-head">MG LABOURER</h3></center>
           </div>
-   
+
         <div class="main-section-area">
             <p data-aos="fade-right"  class="white text-18">We have worked with the major industry groups and we have a strong knowledge of their employment needs. We have experienced personnel who understand the labour market and can find the best candidates for any business.</p>
         </div>
-      
+
     </div>
 </div>
 
@@ -776,7 +776,7 @@
 				    	        <th>Dry Cleaning and Laundry</th>
 				    	        <th>Gardening</th>
 				    	        <th>Manufacturing</th>
-				    	      
+
 				    	    </tr>
 				    	    <tr>
 				    	        <td>
@@ -831,4 +831,4 @@
 
 
 @endsection
-    
+

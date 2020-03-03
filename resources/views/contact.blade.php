@@ -8,97 +8,56 @@
     </div>
     <div class="container">
         <div class="about-box">
-            
+
                 <div class="row">
-                    <div class="col-md-4">
-                        <div class="address">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i> SYDNEY OFFICE</h3>
-                            <span>Level 34, AMP Tower, 50 Bridge Street</span> 
-                            <span>Sydney New South Wales 2000</span> 
-                            <span>Australia</span>
-                            <span>Landline: (02) 8216 0934</span>
-                            <span>FAX: (02) 9475 0522</span>
-                            <span>Email: info@matesglobal.com</span>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4">
-                        <div class="address">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i> BRISBANE OFFICE</h3>
-                            
-                            <span>Level 5, City Central, Tower 2 </span>
-                            <span>121 King William Street </span>
-                            <span>Adelaide South Australia 5000</span> 
-							<span>Australia</span>
-							<span>Landline: (02) 8733 3549</span>
-                            <span>Email: info@matesglobal.com</span>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="address" style="padding:15px">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i> MELBOURNE OFFICE</h3>
-                            
-                            <span>G05, 55 Produce Drive</span>
-                            <span>Epping VIC 3076</span> 
-                            <span>Melbourne</span>
-                            <span>Landline: (02) 8733 3549</span>
-                            <span>Email: info@matesglobal.com</span>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4">
-                        <div class="address" style="padding:15px">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i> ADELAIDE OFFICE</h3>
-                            
-                            <span>Level 5, City Central, Tower 2 </span>
-                            <span>121 King William Street </span> 
-                            <span>Adelaide South Australia 5000</span> 
-                            <span>Australia</span>
-                            <span>Landline: (02) 8733 3549</span>
-                            <span>Email: info@matesglobal.com</span>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4">
-                        <div class="address" style="padding:15px">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i> AUBURN OFFICE </h3>
-                
+                            <h3 class="black">HEAD OFFICE </h3>
+
                             <span>Level 1, Suite 11/35-39 Auburn Road</span>
-                            <span>Auburn New South Wales 2144  </span> 
+                            <span>Auburn New South Wales 2144  </span>
                             <span>Australia</span>
                             <span>Landline: (02) 8733 3549</span>
                             <span>FAX: (02) 9423 6947</span>
                             <span>Email: info@matesglobal.com</span>
                         </div>
+
                     </div>
-                    
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="address" style="padding:15px">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i>PERTH, Forrest Centre</h3>
-                
-                            <span>Level 29/221 St Georges Terrace  </span>
-                            <span>Perth Western Australia WA 6000  </span> 
-                            <span>Australia  </span> 
+                            <h3 class="black">NEWZEALAND OFFICE</h3>
+                            <!--<span>H-34 FLAT-2C Road-2 Nikunja-2  </span>-->
+                            <span>NEWZEALAND  </span>
+                            <span>NEWZEALAND  </span>
                             <span>Landline: (02) 8733 3549</span>
+                            <span>FAX: (02) 9423 6947</span>
                             <span>Email: info@matesglobal.com</span>
                         </div>
                     </div>
-                    
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="address" style="padding:15px">
-                            <h3 class="black"><i class="fa fa-map-marker" class="color-maroon"> </i> SINGAPORE, OFFICE</h3>
-                
+                            <h3 class="black">SINGAPORE OFFICE</h3>
                             <!--<span>H-34 FLAT-2C Road-2 Nikunja-2  </span>-->
-                            <span>PULAU UJONG  </span> 
-                            <span>SINGAPORE  </span> 
+                            <span>PULAU UJONG  </span>
+                            <span>SINGAPORE  </span>
+                            <span>Landline: (02) 8733 3549</span>
+                            <span>FAX: (02) 9423 6947</span>
+                            <span>Email: info@matesglobal.com</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="address" style="padding:15px">
+                            <h3 class="black">BANGLADESH OFFICE</h3>
+                            <!--<span>H-34 FLAT-2C Road-2 Nikunja-2  </span>-->
+                            <span>BANGLADESH  </span>
+                            <span>BANGLADESH  </span>
                             <span>Landline: (02) 8733 3549</span>
                             <span>FAX: (02) 9423 6947</span>
                             <span>Email: info@matesglobal.com</span>
                         </div>
                     </div>
                 </div>
-                
+
                 	<center><h3 class="black">Get in Touch</h3></center>
                	<hr>
 
@@ -132,7 +91,7 @@
 	                           <label>Contact number(optional)</label>
 	                           <input type="number" name="phone" class="form-control">
 	                        </div>
-	                          
+
 							<div class="form-group">
 								<label>Country</label>
 								<select name="nationality" class="form-control" style="height:45px" required>
@@ -391,7 +350,7 @@
 	                        <input type="submit" name="Submit" value="Send" class="mates-btn btn btn-success">
 	                    </form>
 	                </div>
-	                <div class="col-md-6"> 
+	                <div class="col-md-6">
 	               		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.495641443278!2d151.03051191520967!3d-33.851115280661105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12bdb04dce39ef%3A0xb5f33454a7428244!2sMates+Group!5e0!3m2!1sen!2sbd!4v1551854555296" width="600" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
 	               </div>
                 </div>

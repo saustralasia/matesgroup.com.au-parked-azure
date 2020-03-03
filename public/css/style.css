@@ -3,7 +3,7 @@
   src: url(TrajanPro.otf);
 }
 body
-{   
+{
     font-family: 'Source Sans Pro', sans-serif !important;
     position: relative;
 }
@@ -159,7 +159,7 @@ body
     .heading p
     {
         padding: 0px 14px !important;
-        
+
     }
     .heading p.text-20
     {
@@ -168,7 +168,7 @@ body
 }
 @media screen and (max-width:1400px)
 {
-    
+
 .heading
    {
         width: 86% !important;
@@ -192,7 +192,7 @@ body
     {
         font-size: 26px !important;
     }
-    
+
 }
 @media screen and (max-width:700px)
 {
@@ -264,7 +264,7 @@ body
     background-size: cover;
     position: relative;
 /*    margin-top: 90px;*/
-    
+
 }
 
 .single-site-area-6
@@ -278,7 +278,7 @@ body
     background-size: cover;
     position: relative;
 /*    margin-top: 90px;*/
-    
+
 }
 
 .single-site-area-7
@@ -292,7 +292,7 @@ body
     background-size: cover;
     position: relative;
 /*    margin-top: 90px;*/
-    
+
 }
 
 .single-site-area-8
@@ -306,7 +306,7 @@ body
     background-size: cover;
     position: relative;
 /*    margin-top: 90px;*/
-    
+
 }
 
 .single-site-area-9
@@ -319,7 +319,7 @@ body
     background-attachment: fixed;
     background-size: cover;
     position: relative;
-    
+
 }
 .single-site-area-10
 {
@@ -331,7 +331,7 @@ body
     background-attachment: fixed;
     background-size: cover;
     position: relative;
-    
+
 }
 .single-site-area-11
 {
@@ -343,7 +343,7 @@ body
     background-attachment: fixed;
     background-size: cover;
     position: relative;
-    
+
 }
 
 .site-logo p
@@ -355,7 +355,7 @@ body
 {
     font-size: 16px;
     text-align: justify;
-} 
+}
 .board-area
 {
 /*    background: url(../images/back.jpg);*/
@@ -456,7 +456,7 @@ body
 .header-banner
 {
     width: 100%;
-    min-height: 80vh;    
+    min-height: 80vh;
     max-height: auto;
     background: url(../images/bannermap.jpg);
     background-size: cover;
@@ -474,7 +474,7 @@ body
     font-family: verdana;
     text-transform: uppercase;
     text-shadow: 5px 2px 4px #00000059;
-    font-size:18px;margin-top:-23px    
+    font-size:18px;margin-top:-23px
 }
 .second-banner
 {
@@ -485,7 +485,7 @@ body
     .banner-head
     {
         display: none !important;
-    }   
+    }
     .banner-area
     {
          display: none !important;
@@ -564,7 +564,7 @@ body
     height: 100%;
     width: 5px;
     background: #20A557;
-   
+
 }
 @media screen and (max-width:446px)
 {
@@ -608,7 +608,7 @@ body
 {
     width: 100%;
     height: auto;
-    
+
 }
 .test-parts
 {
@@ -801,7 +801,7 @@ fgh
     {
         width: 98%;
         margin-left: 0px ;
-        
+
     }
 }
 .slider-stick
@@ -826,14 +826,14 @@ fgh
 {
     .page-head-area
     {
-        height:50vh; 
+        height:50vh;
     }
 }
 @media screen and (max-width:588px)
 {
     .page-head-area
     {
-        height:35vh; 
+        height:35vh;
     }
 }
 .page-head-area img
@@ -1026,7 +1026,7 @@ span.round-tabs.five{
     border: 5px solid transparent;
     border-bottom-color: #ddd;
     transition:0.1s ease-in-out;
-    
+
 }
 .nav-tabs > li.active:after {
     content: " ";
@@ -1037,7 +1037,7 @@ span.round-tabs.five{
     bottom: 0px;
     border: 10px solid transparent;
     border-bottom-color: #ddd;
-    
+
 }
 .nav-tabs > li a{
    width: 70px;
@@ -1086,7 +1086,7 @@ span.round-tabs.five{
 }
 
 @media( max-width : 585px ){
-    
+
 .board {
 width: 90%;
 height:auto !important;
@@ -1151,7 +1151,7 @@ left: 35%;
 {
     width: 300px;
     margin: 0 auto;
-    
+
 }
 .tab-list li
 {
@@ -1174,7 +1174,7 @@ left: 35%;
 /*    box-shadow: 5px 8px 13px #000;*/
     color: #fff;
     font-weight: bold;
-    font-family: 
+    font-family:
 }
 
 @media screen and (max-width:1011px)
@@ -1272,7 +1272,7 @@ left: 35%;
 }
 .site-descript p
 {
-    
+
 }
 .site-descript h3 .site-descript p
 {
@@ -1291,16 +1291,16 @@ left: 35%;
     margin: 0px;
     list-style: none;
     margin-bottom: 10px;
-    
+
     margin-left: 30px;
 }
 .com-list2 li
 {
-   list-style-type: square; 
+   list-style-type: square;
 }
 .com-list3 li
 {
-    list-style-type: circle; 
+    list-style-type: circle;
 }
 
 .top-arrow {
@@ -1349,7 +1349,7 @@ left: 35%;
 .side-text a
 {
     color: #b3a0e6;
-    
+
 }
 .side-text .read-more
 {
@@ -1370,7 +1370,7 @@ left: 35%;
 {
     background: #DD0000;
     border: 0px;
-    
+
 }
 .item .slogan
 {
@@ -1382,7 +1382,7 @@ left: 35%;
 .mg-btn:hover{
     background: #7B62BE;
 }
-.copyright p 
+.copyright p
 {
     font-size: 14px;
 }
@@ -1424,7 +1424,7 @@ left: 35%;
     width: 50px;
     height: 50px;
     background: #ff00006b;
-  
+
 }
 .choose li
 {
@@ -1462,7 +1462,7 @@ left: 35%;
 
 @media screen and (max-width:996px)
 {
-	
+
 	#noti
 	{
 		height:140px;
@@ -1474,8 +1474,8 @@ left: 35%;
 }
 @media screen and (max-width:709px)
 {
-	
-    #noti button 
+
+    #noti button
     {
         margin-top: -20px;
     }
@@ -1486,7 +1486,7 @@ left: 35%;
 }
 @media screen and (max-width:656px)
 {
-    #noti button 
+    #noti button
     {
         margin-top: -20px;
     }
@@ -1494,27 +1494,27 @@ left: 35%;
 	{
 		font-size: 14px;
 	}
-  
+
 }
 @media screen and (max-width:480px)
 {
-    #noti 
+    #noti
     {
         height: 160px;
     }
-   
+
 }
 @media screen and (max-width:391px)
 {
-    #noti 
+    #noti
     {
         height: 170px;
     }
-   
+
 }
 @media screen and (max-width:383px)
 {
-    #noti 
+    #noti
     {
         height: 180px;
     }
@@ -1527,7 +1527,7 @@ left: 35%;
     }
 }
 @media screen and (max-width:){
-    
+
 }
 .partner-text
 {
@@ -1560,7 +1560,7 @@ left: 35%;
 {
 	margin-left:26% !important;
 }
-.nav-stacked > li 
+.nav-stacked > li
 {
     float: none;
     width: 152px;
@@ -1683,7 +1683,7 @@ ul.tab-l
 {
 	margin-left:9%;
 }
-.test-des 
+.test-des
 {
     width: 60%;
     background: #eee;
@@ -1717,7 +1717,7 @@ ul.tab-l
 {
     .board-pera
     {
-         width: 87% !important;   
+         width: 87% !important;
     }
 }
 
@@ -1734,6 +1734,7 @@ ul.tab-l
 .black
 {
     color: #000;
+    font-size: 17px;
 }
 .text-18
 {
@@ -1752,7 +1753,7 @@ ul.tab-l
     color: #960A0A;
 }
 .partner
-{     
+{
     width:100%;
     height:auto;
     overflow:hidden;
@@ -1785,9 +1786,9 @@ ul.tab-l
 }
 .text-20
 {
-    
+
 }
-.break 
+.break
 {
     margin-top: 10px;
 }
