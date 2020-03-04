@@ -23,7 +23,6 @@
 
                         <li><a href="http://matesglobal.com" target="_blank">Mates Global</a></li>
                         <li><a href="http://matesworkforce.com.au/" target="_blank">Mates Workforce</a></li>
-                        <li><a href="#" target="_blank">Mates Picker & Packers</a></li>
                         <li><a href="http://www.freshexport.com.au" target="_blank">Fresh Export Australia</a></li>
                         <li><a href="http://austship.com.au/" target="_blank">Australia Shipping Corporation </a></li>
                         <li><a href="http://winfred.com.au/" target="_blank">Winfred Services</a></li>
