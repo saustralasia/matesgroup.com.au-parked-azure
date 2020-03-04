@@ -10,50 +10,39 @@
         <div class="about-box">
 
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="address" style="padding:15px">
-                            <h3 class="black">HEAD OFFICE </h3>
-
-                            <span>Level 1, Suite 11/35-39 Auburn Road</span>
-                            <span>Auburn New South Wales 2144  </span>
-                            <span>Australia</span>
-                            <span>Landline: (02) 8733 3549</span>
+                            <h3 class="black">HEAD OFFICE</h3>
+                            <span>LEVEL 1, SUITE 11/35-39 AUBURN ROAD</span>
+                            <span>AUBURN NEW SOUTH WALES 2144</span>
+                            <span>AUSTRALIA</span>
+                            <span>LANDLINE: (02) 8733 3549</span>
                             <span>FAX: (02) 9423 6947</span>
-                            <span>Email: info@matesglobal.com</span>
+                            <span>EMAIL: enquiries@matesgroup.com.au</span>
                         </div>
 
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="address" style="padding:15px">
-                            <h3 class="black">NEWZEALAND OFFICE</h3>
+                            <h3 class="black">NEW ZEALAND OFFICE</h3>
                             <!--<span>H-34 FLAT-2C Road-2 Nikunja-2  </span>-->
-                            <span>NEWZEALAND  </span>
-                            <span>NEWZEALAND  </span>
-                            <span>Landline: (02) 8733 3549</span>
-                            <span>FAX: (02) 9423 6947</span>
-                            <span>Email: info@matesglobal.com</span>
+                            <span>LEVEL 8</span>
+                            <span>WEST PLAZA BUSINESS CENTER</span>
+                            <span>3 ALBERT ST</span>
+                            <span>AUCKLAND 1010</span>
+                            <span>NEW ZEALAND</span>
+                            <span>LANDLINE: (64) 9930 1278</span>
+                            <span>EMAIL: enquiries@matesgroup.com.au</span>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="address" style="padding:15px">
                             <h3 class="black">SINGAPORE OFFICE</h3>
                             <!--<span>H-34 FLAT-2C Road-2 Nikunja-2  </span>-->
-                            <span>PULAU UJONG  </span>
-                            <span>SINGAPORE  </span>
-                            <span>Landline: (02) 8733 3549</span>
-                            <span>FAX: (02) 9423 6947</span>
-                            <span>Email: info@matesglobal.com</span>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="address" style="padding:15px">
-                            <h3 class="black">BANGLADESH OFFICE</h3>
-                            <!--<span>H-34 FLAT-2C Road-2 Nikunja-2  </span>-->
-                            <span>BANGLADESH  </span>
-                            <span>BANGLADESH  </span>
-                            <span>Landline: (02) 8733 3549</span>
-                            <span>FAX: (02) 9423 6947</span>
-                            <span>Email: info@matesglobal.com</span>
+                            <span>30 ROBERTS LANE, #02-01</span>
+                            <span>SINGAPORE 218309 </span>
+                            <span>LANDLINE: (65) 6396 6293 / 6341 5238</span>
+                            <span>EMAIL: enquiries@matesgroup.com.au</span>
                         </div>
                     </div>
                 </div>
