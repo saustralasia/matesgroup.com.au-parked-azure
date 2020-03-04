@@ -102,7 +102,7 @@
         </div>
         <div class="item">
            <div class="serive-image">
-                <a rel="nofollow" href="" target="_blank"><img src="{{asset('images/logo/logo4.jpg')}}" alt="Specialises in worldwide import, export and shipping services."></a>
+                <a rel="nofollow" href="http://pacl.com.au/" target="_blank"><img src="{{asset('images/logo/logo4.jpg')}}" alt="Specialises in worldwide import, export and shipping services."></a>
           </div>
           <center>
                <p class="slogan">Specialises in worldwide import, export and shipping services.</p>
