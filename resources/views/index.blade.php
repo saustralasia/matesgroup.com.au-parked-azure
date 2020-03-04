@@ -94,7 +94,7 @@
           </div>
           <div class="item">
                <div class="serive-image">
-                   <a rel="nofollow" href="http://matesglobal.com" target="_blank"> <img src="{{asset('images/logo/logo3.jpg')}}" alt="Specialises in providing staff recruitment and labour hire to clients around the world"></a>
+                   <a rel="nofollow" href="http://matesglobal.com" target="_blank"> <img src="{{asset('images/logo/Mates-Global.png')}}" alt="Specialises in providing staff recruitment and labour hire to clients around the world"></a>
                 </div>
             <center>
                <p class="slogan">Specialises in providing staff recruitment and labour hire to clients around the world.</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="item">
            <div class="serive-image">
-                <a rel="nofollow" href="http://pacl.com.au/" target="_blank"><img src="{{asset('images/logo/logo4.jpg')}}" alt="Specialises in worldwide import, export and shipping services."></a>
+                <a rel="nofollow" href="http://asc.net.au/" target="_blank"><img src="{{asset('images/logo/asc.png')}}" alt="Specialises in worldwide import, export and shipping services."></a>
           </div>
           <center>
                <p class="slogan">Specialises in worldwide import, export and shipping services.</p>
@@ -119,7 +119,7 @@
         </div>
         <div class="item">
            <div class="serive-image">
-                <a rel="nofollow" href="http://matesworkforce.com.au/" target="_blank"><img src="{{asset('images/logo/workforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
+                <a rel="nofollow" href="http://matesworkforce.com.au/" target="_blank"><img src="{{asset('images/logo/matesworkforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
            </div>
            <center>
                <p class="slogan">Specialising providing skilled and unskilled labour to Australian companies.</p>

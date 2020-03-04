@@ -137,11 +137,10 @@ body
     margin: 0 auto;
 */
 }
-.service-image .item .serive-image img
-{
-    width: 70%;
-    height: 100%;
-    margin: 0 auto;
+.service-image .item .serive-image img {
+    width: 150px !important;
+    height: 74px;
+    margin: 20px auto;
 }
 .heading
 {
