@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="{{asset('images/mgr.ico')}}">
     <title>Document</title>
     <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
@@ -41,25 +42,25 @@ $('.tab-menu a').hover(function (e) {
 
         function acceptsCookies(){
             document.getElementById("noti").style.display = "none";
-            $.ajax({  
-            	url:"{{asset('home/cookiessAccept')}}",  
-            	method:"POST", 
-            	success:function(a){  
-               		
-            	}  
-           }); 
+            $.ajax({
+            	url:"{{asset('home/cookiessAccept')}}",
+            	method:"POST",
+            	success:function(a){
+
+            	}
+           });
         }
 
         function declineCookies(){
             document.getElementById("noti").style.display = "none";
-            $.ajax({  
-            	url:"{{asset('home/cookiessAccept')}}",  
-            	method:"POST", 
-            	success:function(a){  
-               		
-            	}  
-           }); 
-        } 
+            $.ajax({
+            	url:"{{asset('home/cookiessAccept')}}",
+            	method:"POST",
+            	success:function(a){
+
+            	}
+           });
+        }
 
         $(".force-cross").click(function(){
             $("#loader_div").fadeOut(3000);
@@ -86,7 +87,7 @@ $('.tab-menu a').hover(function (e) {
                 }
             }
         });
-                
+
         $(function(){
             $('a[title]').tooltip();
         });
