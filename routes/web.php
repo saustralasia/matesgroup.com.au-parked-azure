@@ -15,6 +15,8 @@ Route::get('/', 'Matesgroup@index')->name('index');
 Route::get('/approach', 'Matesgroup@approach')->name('approach');
 Route::get('/commitment', 'Matesgroup@commitment')->name('commitment');
 Route::get('/vision', 'Matesgroup@vision')->name('vision');
+Route::get('/mission', 'Matesgroup@mission')->name('mission');
+Route::get('/safety', 'Matesgroup@safety')->name('safety');
 Route::get('/team', 'Matesgroup@team')->name('team');
 Route::get('/why_choose', 'Matesgroup@why_choose')->name('why_choose');
 Route::get('/workforce', 'Matesgroup@workforce')->name('workforce');

@@ -22,6 +22,14 @@ class Matesgroup extends Controller
     {
         return view('vision');
     }
+    public function mission ()
+    {
+        return view('mission');
+    }
+    public function safety ()
+    {
+        return view('safety');
+    }
     public function team ()
     {
         return view('team');
