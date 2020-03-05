@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Engr. Mohammed Junayed Chowdhury -- Web Developer -- @bdjunayed
+
+Name: Engr. Junayed M. Chowdhury             
+Role: Software Engineer
+Twitter: @bdjunayed
+Location: Dhaka, Bangladesh.
+
+# THANKS
+    www.microtechna.com
+
+# TECHNOLOGY COLOPHON
+    Laravel, Vue.js, PHP, git, CSS3, HTML5, MySQL
