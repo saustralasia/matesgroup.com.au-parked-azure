@@ -8,7 +8,7 @@
 </div>
 <div class="single-content">
    <center>
-       <h2>Our Approach</h2>
+       <h2 class="extra-h2">Our Approach</h2>
        <hr>
    </center>
     <div class="container">

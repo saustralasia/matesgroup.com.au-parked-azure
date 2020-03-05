@@ -8,7 +8,7 @@
 </div>
 <div class="single-content">
    <center>
-       <h2>Our Vision</h2>
+       <h2 class="extra-h2">Our Vision</h2>
        <hr>
    </center>
     <div class="container">
@@ -17,7 +17,7 @@
         We have an experienced and diverse team who follow current market trends and employment requirements for all industries, so we can recruit the best candidates. <br>
         The management team has accumulated a wealth of industry experience and expertise. The depth of experience of our management team covers all facets of recruitment and short-term hire. <br>
         Our commitment to the Total Quality Management philosophy ensures continuity and client satisfaction. Our highly experiences and skilled team enables Mates Group to seamlessly plan and provide solutions for you labour requirements. <br>
-        The Team is committed to a high standard of excellence.</p>        
+        The Team is committed to a high standard of excellence.</p>
         </div>
     </div>
 </div>

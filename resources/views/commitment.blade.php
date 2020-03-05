@@ -3,19 +3,19 @@
 <div class="page-head-area">
     <img src="{{asset('images/commitment.jpg')}}">
     <div class="page-text">
-       
+
     </div>
 </div>
 
 
 <div class="single-content">
    <center>
-       <h2>Our Commitment</h2>
+       <h2 class="extra-h2">Our Commitment</h2>
        <hr>
    </center>
     <div class="container">
 
-     
+
     <div class="col-md-12" style="text-align:justify">
 
       <p>Our commitment is to provide candidates which meets out client requirements.<br>
