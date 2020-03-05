@@ -8,11 +8,11 @@
 </div>
 <div class="container">
     <center>
-        <h2>
+        <h2 class="extra-h2">
             Career
         </h2>
     </center>
-    <p>“We wanted our candidates to get a sense of who we were, no matter how they were interacting with us.
+    <p>“We wanted our candidates to get a sense of who we are, no matter how they were interacting with us.
 
 Mates Group is a great platform that enables us to really communicate our brand clearly and directly to potential candidates.</p>
 
@@ -38,7 +38,7 @@ Mates Group is a great platform that enables us to really communicate our brand 
             <li><i class="fa fa-check" aria-hidden="true"> </i> Have good posture</li>
             <li><i class="fa fa-check" aria-hidden="true"> </i> Speak clearly</li>
             <li><i class="fa fa-check" aria-hidden="true"> </i> Don&#39;t wear perfume or cologne!</li>
- 
+
         </ul>
         <h3 class="black">
             Our industry specialisations
@@ -50,8 +50,9 @@ Mates Group is a great platform that enables us to really communicate our brand 
             <li><i class="fa fa-check" aria-hidden="true"> </i> Manufacturing &amp; Engineering</li>
             <li><i class="fa fa-check" aria-hidden="true"> </i> Agribusiness</li>
         </ul>
-        
-        <h3 class="black">OR MORE DETAIL</h3>
+
+        <h3 class="black">Job application</h3>
+        <b>If you are interested to work with mates group. Please fill up the below form. One of our placement office will contact with you for further details and interview you for the future job vacancy.</b><br>
         <b>Warehouse Industry</b>
         <ul class="com-list1">
             <li><i class="fa fa-check" aria-hidden="true"> </i> forklift drivers</li>

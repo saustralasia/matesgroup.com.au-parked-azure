@@ -206,10 +206,12 @@ body
         width: 100% !important;
     }
 }
+.single-site-area, .single-site-area-2, .single-site-area-3, .single-site-area-4, .single-site-area-5, .single-site-area-6, .single-site-area-7, .single-site-area-8, .single-site-area-9, .single-site-area-10, .single-site-area-11 {
+    min-height: 60vh;
+}
 .single-site-area
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/mo-3.jpg);
     background-position: center;
@@ -221,7 +223,6 @@ body
 .single-site-area-2
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-engineers.jpg);
     background-position: center;
@@ -233,7 +234,6 @@ body
 .single-site-area-3
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-it.jpg);
     background-position: center;
@@ -245,7 +245,6 @@ body
 .single-site-area-4
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-labour.jpg);
     background-attachment: fixed;
@@ -257,7 +256,6 @@ body
 .single-site-area-5
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-construction.jpg);
     background-position: center;
@@ -271,7 +269,6 @@ body
 .single-site-area-6
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-shipbuilding.jpg);
     background-position: center;
@@ -285,7 +282,6 @@ body
 .single-site-area-7
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-agriculture.jpg);
     background-position: center;
@@ -299,7 +295,6 @@ body
 .single-site-area-8
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-global.jpg);
     background-position: center;
@@ -313,7 +308,6 @@ body
 .single-site-area-9
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-warehouse-staff.png);
     background-position: center;
@@ -325,7 +319,6 @@ body
 .single-site-area-10
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-transport.png);
     background-position: center;
@@ -337,7 +330,6 @@ body
 .single-site-area-11
 {
     width: 100%;
-    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-maintenace.jpg);
     background-position: center;
@@ -370,7 +362,7 @@ body
         height: auto !important;
         background-size: cover;
         margin: 0;
-        padding: 60px 0;
+        padding: 80px 0;
     }
 .board-area-2
 {
@@ -1837,5 +1829,12 @@ ul.tab-l
 .text-22
 {
     font-size: 22px;
+}
+
+.extra-h2 {
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
