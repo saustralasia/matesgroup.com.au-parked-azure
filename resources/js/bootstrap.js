@@ -11,7 +11,9 @@ try {
     // global.$ = global.jQuery = require('jquery');
 
     require('bootstrap');
-} catch (e) {}
+} catch (e) {
+    console.log("my errors!")
+}
 
 
 window.axios = require('axios');
