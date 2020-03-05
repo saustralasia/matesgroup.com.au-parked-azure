@@ -13,11 +13,10 @@
                     <div class="col-md-4">
                         <div class="address" style="padding:15px">
                             <h3 class="black">HEAD OFFICE</h3>
-                            <span>LEVEL 1, SUITE 11/35-39 AUBURN ROAD</span>
+                            <span>LEVEL 1, 35-39 AUBURN ROAD,</span>
                             <span>AUBURN NEW SOUTH WALES 2144</span>
                             <span>AUSTRALIA</span>
                             <span>LANDLINE: (02) 8733 3549</span>
-                            <span>FAX: (02) 9423 6947</span>
                             <span>EMAIL: enquiries@matesgroup.com.au</span>
                         </div>
 

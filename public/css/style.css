@@ -29,8 +29,6 @@ body
 {
     width: 100%;
     height: auto;
-    margin-top: 20px;
-    margin-bottom: 30px;
     background-repeat: no-repeat;
     background-attachment: fixed;
 
@@ -96,7 +94,7 @@ body
 
 .single-main-area
 {
-    margin-bottom: -60px;
+
 }
 .maingpage-logo
 {
@@ -142,16 +140,17 @@ body
     height: 74px;
     margin: 20px auto;
 }
-.heading
-{
+.heading {
     margin: 0 auto;
     width: 60%;
     min-height: 350px;
     max-height: auto;
     background: #3373798f;
-    left: 20%;
+    left: 50%;
     box-shadow: 9px 20px 20px 0px #000;
-    top: 10%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
 }
 @media screen and (max-width:320px)
 {
@@ -167,12 +166,11 @@ body
 }
 @media screen and (max-width:1400px)
 {
+    .heading
+    {
+         width: 90% !important;
+     }
 
-.heading
-   {
-        width: 86% !important;
-        left:8% !important;
-    }
 }
 @media screen and (max-width:1033px)
 {
@@ -193,7 +191,7 @@ body
     }
 
 }
-@media screen and (max-width:700px)
+@media screen and (max-width:778px)
 {
     .heading p
     {
@@ -203,11 +201,15 @@ body
     {
         font-size: 15px !important;
     }
+    .heading
+   {
+        width: 100% !important;
+    }
 }
 .single-site-area
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/mo-3.jpg);
     background-position: center;
@@ -219,7 +221,7 @@ body
 .single-site-area-2
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-engineers.jpg);
     background-position: center;
@@ -231,7 +233,7 @@ body
 .single-site-area-3
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-it.jpg);
     background-position: center;
@@ -243,7 +245,7 @@ body
 .single-site-area-4
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-labour.jpg);
     background-attachment: fixed;
@@ -255,7 +257,7 @@ body
 .single-site-area-5
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-construction.jpg);
     background-position: center;
@@ -269,7 +271,7 @@ body
 .single-site-area-6
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-shipbuilding.jpg);
     background-position: center;
@@ -283,7 +285,7 @@ body
 .single-site-area-7
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-agriculture.jpg);
     background-position: center;
@@ -297,7 +299,7 @@ body
 .single-site-area-8
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/mates-group-global.jpg);
     background-position: center;
@@ -311,7 +313,7 @@ body
 .single-site-area-9
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-warehouse-staff.png);
     background-position: center;
@@ -323,7 +325,7 @@ body
 .single-site-area-10
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-transport.png);
     background-position: center;
@@ -335,7 +337,7 @@ body
 .single-site-area-11
 {
     width: 100%;
-    min-height: 80vh;
+    min-height: 50vh;
     max-height: auto;
     background: url(../images/matesgroup-maintenace.jpg);
     background-position: center;
@@ -344,7 +346,15 @@ body
     position: relative;
 
 }
-
+@media screen and (max-width:778px)
+{
+   .single-site-area, .single-site-area-2, .single-site-area-3, .single-site-area-4, .single-site-area-5, .single-site-area-6, .single-site-area-7, .single-site-area-8, .single-site-area-9, .single-site-area-10, .single-site-area-11 {
+    min-height: 80vh;
+}
+.board-pera {
+    width: 100% !important;
+}
+}
 .site-logo p
 {
   font-size: 16px;
@@ -355,19 +365,18 @@ body
     font-size: 16px;
     text-align: justify;
 }
-.board-area
-{
-/*    background: url(../images/back.jpg);*/
-    height: auto !important;
-    background-size: cover;
-    margin-top: -60px;
-}
+.board-area {
+        background: #006a729c;
+        height: auto !important;
+        background-size: cover;
+        margin: 0;
+        padding: 60px 0;
+    }
 .board-area-2
 {
 /*    background: url(../images/mates-2.jpg);*/
     height: auto !important;;
     background-size: cover;
-    margin-top: -60px;
 }
 .site-descript
 {
@@ -1706,7 +1715,7 @@ ul.tab-l
 .board-pera
 {
     width: 60%;
-    margin: 70px auto 60px auto;
+    margin: 0 auto;
     padding: 10px;
     height: auto;
     background: #006a729c;
@@ -1714,10 +1723,6 @@ ul.tab-l
 }
 @media screen and (max-width:1400px)
 {
-    .board-pera
-    {
-         width: 87% !important;
-    }
 }
 
 .main-section-area

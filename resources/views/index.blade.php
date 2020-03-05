@@ -131,7 +131,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -152,7 +151,7 @@
 	 	<div class="board-pera">
 	 	    <div class="table-class">
                     <h5 class="white font-cursive">Specialises in</h5>
-				    	<table class="table table-bordered table-responsive key-th">
+				    	<table class="table table-bordered key-th">
 				    	    <tr>
 				    	        <th>Accounting</th>
 				    	        <th>Administration</th>
@@ -209,7 +208,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-5">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -227,7 +225,7 @@
 	 	<div class="board-pera">
         <h5 class="white font-cursive">Specialises in</h5>
 				<div class="table-class">
-				    <table class="table table-bordered table-responsive key-th">
+				    <table class="table table-bordered key-th">
 				    	    <tr>
 				    	        <td>
 				    	            <ul class="tab-l">
@@ -312,7 +310,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-6">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -330,7 +327,7 @@
 	 	<div class="board-pera">
 	 	    <h5 class="white font-cursive">Specialises in</h5>
                 <div class="table-class">
-                <table class="table table-bordered table-responsive key-th">
+                <table class="table table-bordered key-th">
                    <tr>
                        <th>Pre-building</th>
                        <th>Building process</th>
@@ -377,7 +374,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-7">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -395,7 +391,7 @@
 	 	<div class="board-pera">
         <h5 class="white font-cursive">Specialises in</h5>
            <div class="table-class">
-				<table class="table table-bordered table-responsive key-th">
+				<table class="table table-bordered key-th">
                     <tr>
                         <th>Vegetable farm</th>
                         <th>Fruit farm</th>
@@ -454,7 +450,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-2">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -471,7 +466,7 @@
 	 	<div class="board-pera">
 	 	    <div class="table-class">
                     <h5 class="white font-cursive">Specialises in</h5>
-				    	<table class="table table-bordered table-responsive key-th">
+				    	<table class="table table-bordered key-th">
 				    	    <tr>
 				    	        <th>Civil Engineers</th>
 				    	        <th>Electrical Engineer</th>
@@ -552,7 +547,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-3">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -570,7 +564,7 @@
 	 	<div class="board-pera">
 	 	    <h5 class="white font-cursive">Specialises in</h5>
 				    	<div class="table-class">
-				    	<table class="table table-bordered table-responsive key-th">
+				    	<table class="table table-bordered key-th">
 				    	    <tr>
 				    	        <th>Software and programming</th>
 				    	        <th>Hardware and manufacturing</th>
@@ -615,7 +609,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-8">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -633,7 +626,7 @@
 	 	<div class="board-pera">
             <h5 class="white font-cursive">Specialises in</h5>
            <div class="table-class">
-                <table class="table table-bordered table-responsive key-th">
+                <table class="table table-bordered key-th">
                     <tr>
                         <th>Construction</th>
                         <th>Labour</th>
@@ -688,7 +681,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-9">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -706,7 +698,6 @@
  <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-10">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -727,7 +718,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-11">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -752,7 +742,6 @@
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area-4">
-    <br><br><br><br>
     <div class="heading">
            <div class="page-header" data-aos="fade-up"
              data-aos-duration="500" data-aos-delay="300">
@@ -770,7 +759,7 @@
 	 	<div class="board-pera">
                  <h5 class="white font-cursive">Specialises in</h5>
 				    	<div class="table-class">
-				    	<table class="table table-bordered table-responsive key-th">
+				    	<table class="table table-bordered key-th">
 				    	    <tr>
 				    	        <th>Warehouse </th>
 				    	        <th>Dry Cleaning and Laundry</th>
