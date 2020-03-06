@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -28,5 +30,3 @@ Route::get('/terms', 'Matesgroup@terms')->name('terms');
 
 Route::get('/contact', 'MatesgroupController@contact')->name('contact');
 Route::post('/contact', 'MatesgroupController@create');
-
-
