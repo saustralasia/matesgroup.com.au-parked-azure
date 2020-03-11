@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'Contact us'])
 @section('content')
 <div class="page-head-area">
         <img src="{{asset('images/contact.jpg')}}">

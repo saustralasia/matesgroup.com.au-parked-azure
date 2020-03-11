@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'Mates Global'])
 @section('content')
 <div class="header-banner">
     <center>
@@ -6,7 +6,7 @@
     </center>
 </div>
 <div class="single-content">
-  
+
     <div class="container">
         <div class="col-md-12" class="text-justify">
         <h2><strong>Ship and Submarine Building workers</strong></h2>
@@ -65,7 +65,7 @@
 <p><strong>Why choose us?<br /> </strong>We provide superior carpentry labour and building components to the commercial construction industry with a team of qualified and experienced members. Sourcing high skilled workers from overseas allow a person with a different perspective to be able to contribute to a project.</p>
 <h2><strong>Highly skilled Electrical Trades</strong></h2>
 <p>Mates global source and recruit highly skilled electrical trades staff. Whether you need&nbsp;a qualified electrician for long term or short term, we can provide.</p>
-<p><strong>Why choose us?<br /> </strong>Our service is fast and effective, this allows our clients to achieve their project objectives and rely on us to find staff.</p> 
+<p><strong>Why choose us?<br /> </strong>Our service is fast and effective, this allows our clients to achieve their project objectives and rely on us to find staff.</p>
         </div>
     </div>
 </div>

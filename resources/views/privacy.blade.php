@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'Privacy'])
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/privacy.jpg')}}">
@@ -15,14 +15,14 @@
     <div class="col-md-12" class="text-justify">
                <h3 class="black">"Privacy is essential to us!" </h3>
                 <p>
-                   Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy. 
+                   Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.
                 </p>
                 <p>
-                    Competitors can be guaranteed that when they connect with our assistance to assemble their profession, security is the best need. At times, individual or delicate data can enable us to help with verifying a chance; anyway, we won't unveil any close to home data to an outsider without earlier ascent. 
+                    Competitors can be guaranteed that when they connect with our assistance to assemble their profession, security is the best need. At times, individual or delicate data can enable us to help with verifying a chance; anyway, we won't unveil any close to home data to an outsider without earlier ascent.
                 </p>
                 <h4>Privacy Policy for Australia</h4>
                 <p>
-                    Mates Group in Australia asks for you read the accompanying data in regards to how we gather your own and touchy data and how we look after, use, store and exposure of your own and delicate data regarding your conceivable or genuine work arrangements and sign where shown to recognize your acknowledgment and comprehension of this data. 
+                    Mates Group in Australia asks for you read the accompanying data in regards to how we gather your own and touchy data and how we look after, use, store and exposure of your own and delicate data regarding your conceivable or genuine work arrangements and sign where shown to recognize your acknowledgment and comprehension of this data.
                 </p>
                 <h4>Data Collection </h4>
                 <b>Individual and touchy data can be gathered in various distinctive ways including: </b>
@@ -33,7 +33,7 @@
                     <li>Provision of any extra data in regards to a particular hopeful </li>
                     <li>Inquiries by Mates Group to any previous businesses, work partners, instructive organizations, proficient affiliations or enlistment body </li>
                </ul>
-               
+
                <h4>Data Use </h4>
                <b>We will utilize this data to: </b>
                <ul class="privacy">
@@ -49,7 +49,7 @@
                    <li>A Workers Compensation body </li>
                    <li>Any individual legitimately qualified for the data, where Outstanding Recruitment may unveil individual data for the reasons for which it is fundamentally held or for a related optional reason. </li>
                    <p>
-                       Data we ask for from hopefuls is intentional, be that as it may, if the applicant decides not to furnish us with data we might be restricted in our capacity to help them in looking for work. 
+                       Data we ask for from hopefuls is intentional, be that as it may, if the applicant decides not to furnish us with data we might be restricted in our capacity to help them in looking for work.
                    </p>
                    <p>On the off chance that you don't give us the data we look for </p>
                    <li>We might be restricted in our capacity to find reasonable work for you; and </li>
@@ -58,7 +58,7 @@
                <p>Hopeful's Access to their very own Information </p>
                <p>Hopefuls can get to their data to refresh or address it. (a few exemptions apply under the law). </p>
                <p>Outstanding Recruitment may deny access to data on the off chance that it meddles with the protection privileges of others or in the event that it would rupture any privacy identifying with that data. </p>
-               
+
                <p>Except if a competitor exhorts us else, we may crush any close to home or delicate data on the off chance that it has not been refreshed for a time of two years. On the off chance that it is necessitated that Mates Group discards hopeful data previously this time our protection agent should be educated recorded as a hard copy. The check of personality might be required. Outstanding Recruitment will wreck hopeful data in a protected and classified way. </p>
                <h4>Extra data contained in our security arrangement </h4>
                <p>Our security arrangement which is situated on the base of our site, www.matesgroup.com.au contains additional data about the sort of data we hold and how we deal with your data, including how you can, subject to a few exceptions, get to individual and delicate data about you that we hold and demand that it be remedied. It additionally sets out how you can grumble about any supposed ruptures of the APP or IPP and how we will manage any grievances. </p>
@@ -70,11 +70,11 @@
                <h4>Are Cookies and IP tends to utilize? </h4>
                <p>The Mates Group site utilizes "Cookies" to distinguish you and your interests and to follow utilization of the Mates Group site so as to help customize your perusing knowledge. Treats are little bits of content put away on your PC that assistance us know which program you are utilizing and where you have been on the Mates Group site and on sites to which you may interface so as to utilize a portion of our highlights. Cookies likewise told us whether you have enlisted with us and generally empower us to relate your present utilization of the Mates Group site to your earlier use. In the event that you don't wish to get Cookies, you can set your program to deny them. In regulating the Mates Group site and diagnosing potential framework issues, we additionally log all IP tends to which get to the Mates Group site. </p>
                <p>Approach for Privacy – Updated 20 February 2019</p>
-               
+
                <h4>CONTACT</h4>
-               
+
         <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 02 8733 3549 or via <a href="mailto:info@matesgroup.com.au">info@matesgroup.com.au</a></p>
-               
+
         </div>
     </div>
 </div>

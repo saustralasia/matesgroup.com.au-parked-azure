@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'WHY CHOOSE US'])
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/choose.jpg')}}">

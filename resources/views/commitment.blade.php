@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'Our Commitment'])
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/commitment.jpg')}}">

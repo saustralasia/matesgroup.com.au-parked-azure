@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'Mates Group'])
 @section('content')
 
 <br>

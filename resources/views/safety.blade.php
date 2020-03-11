@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.master', ['title' => 'Our Safety'])
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/safety.jpg')}}">
