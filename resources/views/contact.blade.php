@@ -65,7 +65,7 @@
                                          </ul>
                                       </div>
                                   @endif
-	                    <form method="post" style="margin-bottom:5px" action="{{ route('contact') }}">
+	                    <form method="post" style="margin-bottom:5px" action="{{ route('contactus_store') }}">
                         @csrf
 	                        <div class="form-group">
 	                            <label>Full name</label>

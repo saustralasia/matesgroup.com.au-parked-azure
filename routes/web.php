@@ -28,5 +28,5 @@ Route::get('/safety_policy', 'Matesgroup@safety_policy')->name('safety_policy');
 Route::get('/privacy', 'Matesgroup@privacy')->name('privacy');
 Route::get('/terms', 'Matesgroup@terms')->name('terms');
 
-Route::get('/contact', 'MatesgroupController@contact')->name('contact');
-Route::post('/contact', 'MatesgroupController@create');
+Route::get('/contact', 'ContactUsController@index')->name('contact');
+Route::post('/contact', 'ContactUsController@store')->name('contactus_store');

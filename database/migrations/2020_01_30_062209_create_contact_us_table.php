@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateMatesgroupsTable extends Migration
+class CreateContactUsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,12 @@ class CreateMatesgroupsTable extends Migration
      */
     public function up()
     {
-        Schema::create('matesgroups', function (Blueprint $table) {
+        Schema::create('contact_us', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->text('name');
-            $table->string('email');
-            $table->string('phone');
-            $table->string('nationality');
+            $table->string('name', 40);
+            $table->string('email', 60);
+            $table->string('phone', 20)->nullable();
+            $table->string('nationality')->nullable();
             $table->text('message');
             $table->timestamps();
         });
