@@ -10,6 +10,7 @@ const mix = require('laravel-mix');
  | file for the application as well as bundling up all the JS files.
  |
  */
+
 // mix.autoload({ 'jquery': ['window.$', 'window.jQuery'] }); 
 mix.autoload({ jquery: ['$', 'window.jQuery', 'jQuery'] });
 // mix.autoload({ jquery: ['$', 'window.jQuery'] });
@@ -24,10 +25,8 @@ mix.js('resources/js/app.js', 'public/js')
         .options({
             processCssUrls: false
         })
-        // .sourceMaps(true, 'source-map')
+        //.sourceMaps(true, 'source-map')
         .extract(['vue', 'jquery']);//always ON, except sourcemap
-
-
 
 mix.copyDirectory('resources/images', 'public/images');
 //mix.copy('resources/sass/slicknav.min.css', 'public/css/slicknav.min.css');
@@ -35,7 +34,6 @@ mix.copyDirectory('resources/images', 'public/images');
 // Versioning
 if (mix.inProduction()) {
     mix.version();
-    mix.sourceMaps(false, 'source-map');
 }
 
 // Proxy server address
