@@ -1,4 +1,4 @@
-@extends('layouts.master', ['title' => 'Our Approach'])
+@extends('layouts.master', ['title' =>'Our Approach'])
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/approach.png')}}">

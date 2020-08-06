@@ -4,6 +4,10 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\ContactUs;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\SendMail;
+
+
 
 class ContactUsController extends Controller
 {
@@ -14,6 +18,7 @@ class ContactUsController extends Controller
 
     public function store(Request $data)
     {
+
         $data->validate([
             'name' => 'required|regex:/^[a-z A-Z]+$/u|max:25|min:3',
             'email' => 'required',
@@ -28,6 +33,42 @@ class ContactUsController extends Controller
         $contact->nationality = $data->nationality;
         $contact->message = $data->message;
         $contact->save();
+
+
+
         return redirect()->route('contact')->with('status', 'Thank you for your message!');
+        //Mailing code
+//        $inputs=[
+//            'name' => $data->input('name'),
+//            'email' => $data->input('email'),
+//            'phone' => $data->input('phone'),
+//            'nationality' => $data->input('nationality'),
+//            'bodyMessage' => $data->input('message'),
+//        ];
+
+//        Mail::send('emails.contactmsg', $contact, function ($mail) use ($contact){
+//            $mail->from($contact['email'], $contact['name'])
+//                ->to('md.talatcse@gmail.com', 'Talat');
+//                //->subject
+//        });
     }
+
+//    public function send(Request $request)
+//    {
+//        $this->validate($request,[
+//            'name' => 'required',
+//            'email' => 'required',
+//            'phone' =>'required',
+//            'nationality' =>'required',
+//            'message' =>'required',
+//        ]);
+//
+//        $data = array(
+//          'name'=>$request->name,
+//          'message'  =>$request->message
+//        );
+//
+//        Mail::to('md.talatcse@yahoo.com')->send(new SendMail($data));
+//        return view('contact');
+//    }
 }
