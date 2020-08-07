@@ -82,10 +82,10 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'md.talatcse@gmail.com'),
         'name' => env('MAIL_FROM_NAME', 'Example'),
     ],
-
+    //'from' => ['address' => 'md.talatcse@gmail.com', 'name' => 'hawle'],
     /*
     |--------------------------------------------------------------------------
     | Markdown Mail Settings

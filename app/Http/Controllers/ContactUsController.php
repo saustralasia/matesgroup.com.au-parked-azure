@@ -7,6 +7,8 @@ use App\ContactUs;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\SendMail;
 
+use App\Mail\WelcomeMail;
+
 
 
 class ContactUsController extends Controller
@@ -34,8 +36,13 @@ class ContactUsController extends Controller
         $contact->message = $data->message;
         $contact->save();
 
-
-
+       // Mail::to('email@email.com')->send(new WelcomeMail());
+       Mail::send('emails.welcome', $contact, function ($mail) use ($contact){
+           $mail->from($contact['email'], $contact['name'])
+               ->to('md.talatcse@gmail.com', 'Talat');
+               //->subject
+       });
+       
         return redirect()->route('contact')->with('status', 'Thank you for your message!');
         //Mailing code
 //        $inputs=[

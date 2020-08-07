@@ -9,11 +9,11 @@
                     <h4 class="black">ABOUT US</h4>
                     <ul class="f-list">
                         <li><a href="/">Home</a></li>
-                        <li><a href="{{route('approach')}}">Our Approach</a></li>
-                        <li><a href="{{route('commitment')}}">Our Commitment</a></li>
-                        <li><a href="{{route('vision')}}">Our Vision</a></li>
-                        <li><a href="{{route('team')}}">Our Team</a></li>
-                        <li><a href="{{route('why_choose')}}">Why Choose us</a></li>
+                        <li><a href="/approach">Our Approach</a></li>
+                        <li><a href="/commitment">Our Commitment</a></li>
+                        <li><a href="/vision">Our Vision</a></li>
+                        <li><a href="/team">Our Team</a></li>
+                        <li><a href="/why_choose">Why Choose us</a></li>
                     </ul>
                 </div>
 
@@ -33,14 +33,14 @@
                 <div class="col-md-3">
                     <h4 class="black">OUR SERVICES</h4>
                <ul class="f-list">
-                        <li><a href="{{route('workforce')}}">MG Office Staff</a></li>
-                        <li><a href="{{route('workforce')}}">MG Construction Staff </a></li>
-                        <li><a href="{{route('matesglobal')}}">MG Shipbuilding Staff</a></li>
-                        <li><a href="{{route('workforce')}}">MG Agriculture Staff</a></li>
-                        <li><a href="{{route('matesglobal')}}">MG International Staff</a></li>
-                        <li><a href="{{route('workforce')}}">MG Warehouse Staff</a></li>
-                        <li><a href="{{route('workforce')}}">MG Maintenance Staff</a></li>
-                        <li><a href="{{route('workforce')}}">MG Transport Staff</a></li>
+                        <li><a href="/workforce">MG Office Staff</a></li>
+                        <li><a href="/workforce">MG Construction Staff </a></li>
+                        <li><a href="/matesglobal">MG Shipbuilding Staff</a></li>
+                        <li><a href="/workforce">MG Agriculture Staff</a></li>
+                        <li><a href="/matesglobal">MG International Staff</a></li>
+                        <li><a href="/workforce">MG Warehouse Staff</a></li>
+                        <li><a href="/workforce">MG Maintenance Staff</a></li>
+                        <li><a href="/workforce">MG Transport Staff</a></li>
 
 
                     </ul>
@@ -49,7 +49,7 @@
                    <h4 class="black">RESOURCES</h4>
                    <ul class="f-list">
                        <li><a href="{{route('contact')}}">Contact us</a></li>
-                       <li><a href="{{route('career')}}">Career</a></li>
+                       <li><a href="/career">Career</a></li>
                     </ul>
                     <div class="break"></div>
                 </div>
@@ -73,7 +73,7 @@
             <br>
             <div class="copyright">
                 <center>
-                	<a href="{{route('safety_policy')}}">Safety Policy</a> &nbsp; <a href="{{route('privacy')}}">Privacy Policy</a> &nbsp; <a href="{{route('terms')}}">Terms & Condition</a> &nbsp; <a href="">Sitemap</a>
+                	<a href="/safety_policy">Safety Policy</a> &nbsp; <a href="/privacy">Privacy Policy</a> &nbsp; <a href="/terms">Terms & Condition</a> &nbsp; <a href="">Sitemap</a>
                     <p> &copy; Mates Group {{date('Y')}}</p>
                  <p>All Rights Reserved 2012 - {{date('Y')}} &copy; Mates Group </p>
                 </center>
