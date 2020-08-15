@@ -1,4 +1,10 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
+
+@section('title', 'Mates Group Vision')
+@section('meta_keywords', 'Best recruitment company australia, australia leading recruitment agency, best recruitment service australia, top recruitment service worldwide
+best hire company australia')
+@section('meta_des', 'Are you looking for the best recruitment and labor hire company in Australia? Mates Group provides quality staff to different organizations worldwide.')
+
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/vision.jpg')}}">
@@ -8,7 +14,7 @@
 </div>
 <div class="single-content">
    <center>
-       <h2 class="extra-h2">Our Vision</h2>
+       <h1 class="extra-h2">Mates Group: Leading Staff Recruitment & Labour Hire Company</h1>
        <hr>
    </center>
     <div class="container">

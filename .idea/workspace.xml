@@ -21,12 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ContactUsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ContactUsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Matesgroup.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Matesgroup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Mail/WelcomeMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/WelcomeMail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/test.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/matesglobal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/matesglobal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/team.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/team.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vision.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vision.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/workforce.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/workforce.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -148,6 +149,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1faTJjgrlHaACqSLerrDZaCpBMZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -209,7 +213,10 @@
       <workItem from="1596724093133" duration="2357000" />
       <workItem from="1596726675827" duration="2171000" />
       <workItem from="1596767582396" duration="4287000" />
-      <workItem from="1596780611334" duration="2441000" />
+      <workItem from="1596780611334" duration="3114000" />
+      <workItem from="1596871433206" duration="1825000" />
+      <workItem from="1597292718748" duration="16885000" />
+      <workItem from="1597381432968" duration="11820000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -225,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596727576895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-controller removal(controller name Matesgroup.php)">
+      <created>1596786090193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596786090193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +261,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing commit" />
     <MESSAGE value="mail send" />
-    <option name="LAST_COMMIT_MESSAGE" value="mail send" />
+    <MESSAGE value="-controller removal(controller name Matesgroup.php)" />
+    <option name="LAST_COMMIT_MESSAGE" value="-controller removal(controller name Matesgroup.php)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />

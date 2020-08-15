@@ -1,4 +1,9 @@
 @extends('layouts.master', ['title' => 'Our Team'])
+
+@section('title', 'Mates Group: Best Company for Labour Hire Solutions Australia')
+@section('meta_keywords', 'best labour hire services australia, labour hire solutions australia')
+@section('meta_des', 'Mates Group is the leading company that provides labor hire solutions in Australia and worldwide.')
+
 @section('content')
 <div class="page-head-area">
     <img src="{{asset('images/ourteam.jpg')}}">
@@ -9,7 +14,7 @@
 
 <div class="single-content">
    <center>
-       <h2 class="extra-h2">Our Team</h2>
+       <h1 class="extra-h2">Mates Group: Get Quality Labour Hire Service </h1>
        <hr>
    </center>
     <div class="container">

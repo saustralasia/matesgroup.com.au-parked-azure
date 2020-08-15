@@ -1,5 +1,14 @@
-@extends('layouts.master', ['title' => 'Mates Group'])
+@extends('layouts.master')
+
+{{--@extends('layouts.master', ['title' => 'Staff Recruitment Service & Labour Hire Australia'])--}}
+{{--adding three lines for search engine meta link--}}
+@section('title', 'Staff Recruitment Service & Labour Hire Australia')
+@section('meta_keywords', 'staff recruitment Australia, staff recruitment services Australia, staff recruitment worldwide, labour hire Australia, labour hire worldwide, global labour hire,staff solution Australia, staff recruitment company Australia, global staff recruiting services')
+@section('meta_des', 'Mates Group is a reputed Australian company with clients around the world. We offer people recruitment, labor hire solutions in Australia and worldwide.')
+
+
 @section('content')
+
 
 <br>
 <div class="main-area">
@@ -119,7 +128,7 @@
         </div>
         <div class="item">
            <div class="serive-image">
-                <a rel="nofollow" href="http://matesworkforce.com.au/" target="_blank"><img src="{{asset('images/logo/matesworkforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
+                <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank"><img src="{{asset('images/logo/matesworkforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
            </div>
            <center>
                <p class="slogan">Specialising providing skilled and unskilled labour to Australian companies.</p>

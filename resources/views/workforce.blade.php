@@ -1,4 +1,11 @@
 @extends('layouts.master', ['title' => 'Mates Workforce'])
+
+{{--adding three lines for search engine meta link--}}
+@section('title', 'Construction Recruitment Staff & Labour Hire Service Australia')
+@section('meta_keywords', 'construction staff hiring Australia, construction staff recruitment Australia, construction staff recruitment service Australia construction labourer recruitment service australia,agriculture staff recruitment australia, agriculture staff hire australia, agriculture staff recruitment service australia, agricultural recruitment company australia, farm workers hire australia, agriculture staff recruitment worldwide,hire international workers australia, international staff recruitment service australia, international staff recruitment worldwide, global international staff recruitment')
+@section('meta_des', 'Mates Group is the leading Australian recruitment company that provides highly skilled construction workers worldwide., Mates Group specializes in recruiting for agricultural jobs including farm work, station work, and agribusiness across Australia and worldwide.')
+
+
 @section('content')
 <div class="header-banner">
     <center>
