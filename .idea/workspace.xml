@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/shipbuilding-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/shipbuilding-staff-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +211,7 @@
       <workItem from="1597292718748" duration="16885000" />
       <workItem from="1597381432968" duration="11820000" />
       <workItem from="1597466006243" duration="843000" />
-      <workItem from="1597563501729" duration="6717000" />
+      <workItem from="1597563501729" duration="7512000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597573407744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-content writing edit of construction-staff-recruitment">
+      <created>1597575480006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597575480006</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +280,8 @@
     <MESSAGE value="-controller removal(controller name Matesgroup.php)" />
     <MESSAGE value="Adding&#10;-meta data&#10;-meta description&#10;-suggested title&#10;-&lt;h1&gt; tag" />
     <MESSAGE value="-content writing of construction-staff-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="-content writing of construction-staff-recruitment" />
+    <MESSAGE value="-content writing edit of construction-staff-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="-content writing edit of construction-staff-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
