@@ -18,9 +18,9 @@
             <div class="col-md-12" class="text-justify">
                 <p><strong>Mates Group</strong> is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers.</p>
 
-                <h2><strong>Farmworkers (Agriculture)</strong></h2>
+                <h2><strong>Farm workers (Agriculture)</strong></h2>
                 <p>Agriculture is the science and art of cultivating plants and livestock. Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities. The history of agriculture began thousands of years ago. </p>
-                <p>Mates is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers. Our aim is to provide you the best agriculture workforce. We are always ready to spread our helping hand for you.</p>
+                <p>Mates is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers. Our aim is to provide you the best agriculture workforce. We provide agriculture recruitment in our company. We are always ready to spread our helping hand for you. We are the best we aim to provide our clients with the best agricultural recruitment company in Australia. The farm workers hire solution is here!</p>
                 <p><strong>Why choose us?<br /> </strong>Our team's combined experience in recruitment, working rurally and being in the vegetable industry for many years allows us to provide the best and most suitable candidates for the job.&nbsp;</p>
                 <table width="643">
                     <tbody>
