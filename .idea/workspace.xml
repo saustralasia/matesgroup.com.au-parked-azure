@@ -212,7 +212,7 @@
       <workItem from="1597381432968" duration="11820000" />
       <workItem from="1597466006243" duration="843000" />
       <workItem from="1597563501729" duration="15595000" />
-      <workItem from="1597636930426" duration="13950000" />
+      <workItem from="1597636930426" duration="14708000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -284,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597651403968</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="-content writing of garden-maintenance-staff-recruitment">
+      <created>1597655603709</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597655603709</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +320,8 @@
     <MESSAGE value="-content writing of shipbuilding-staff-recruitment" />
     <MESSAGE value="-content writing of agriculture-staff-recruitment" />
     <MESSAGE value="-content writing of warehouse-staff-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="-content writing of warehouse-staff-recruitment" />
+    <MESSAGE value="-content writing of garden-maintenance-staff-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="-content writing of garden-maintenance-staff-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
