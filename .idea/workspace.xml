@@ -21,7 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/fruit-picking-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/fruit-picking-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/garden-maintenance-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/garden-maintenance-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/international-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/international-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/process-worker-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/process-worker-recruitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/transport-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/transport-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/warehouse-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/warehouse-staff-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +162,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laravel_Email" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -166,6 +172,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\matesgroup.com.au\resources\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\matesgroup.com.au\resources\views" />
     </key>
@@ -212,7 +221,9 @@
       <workItem from="1597381432968" duration="11820000" />
       <workItem from="1597466006243" duration="843000" />
       <workItem from="1597563501729" duration="15595000" />
-      <workItem from="1597636930426" duration="20295000" />
+      <workItem from="1597636930426" duration="22659000" />
+      <workItem from="1597671731002" duration="850000" />
+      <workItem from="1597724608364" duration="12033000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -305,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597661903339</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="-content writing of edit transport-staff-recruitment.blade">
+      <created>1597662680107</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597662680107</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +355,8 @@
     <MESSAGE value="-content writing of garden-maintenance-staff-recruitment" />
     <MESSAGE value="-content writing of edit garden-maintenance-staff-recruitment" />
     <MESSAGE value="-content writing of transport-staff-recruitment.blade" />
-    <option name="LAST_COMMIT_MESSAGE" value="-content writing of transport-staff-recruitment.blade" />
+    <MESSAGE value="-content writing of edit transport-staff-recruitment.blade" />
+    <option name="LAST_COMMIT_MESSAGE" value="-content writing of edit transport-staff-recruitment.blade" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />

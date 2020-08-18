@@ -20,7 +20,7 @@
 
                 <h2><strong>International People Hire Company</strong></h2>
                 <p>We trust that to be successfull, high-quality employees are the assets in a company. That's why we welcome the international staff. We provide international staff recruitment service Australia.&nbsp;</p>
-                <p><strong>Why joining Mates Group as a international staff?<br /> </strong>People in Australia are very friendly. They are very helpful. In our company we will provide you to the best suitable workplace. As a result you can express yourself in the perfect workplace.</p>
+                <p><strong>Why joining Mates Group as a international staff?<br /> </strong>People in Australia are very friendly. They are very helpful. In our company we will provide you to the perfect & suitable workplace. As a result you can express yourself in your workplace.</p>
                 <table width="612">
                     <tbody>
                     <tr>

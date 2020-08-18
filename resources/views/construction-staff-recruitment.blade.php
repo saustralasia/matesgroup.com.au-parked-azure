@@ -16,7 +16,7 @@
             <div class="col-md-12" class="text-justify">
                 <p><strong>Mates Group</strong> is an Australian company with clients around the world. We proudly represent major agribusiness, large primary producers and rural operators. We provide pickers, turf, packer, cleaners and experienced workers.</p>
                 <h2><strong>Careers at Mates Group </strong></h2>
-                <p><strong>Mates Group</strong> office support provides specialised office support staff Australia wide. Our company provides right kind of staff. As a result in your business you can reach to your goal. We are the <strong>best</strong> construction staff recruiter in Australia. Side by side we also recruit skillful construction labourer. That's why we are the best construction staff recruitment service & labourer recruitment service in Australia.</p>
+                <p><strong>Mates Group</strong> office support provides specialised office support staff Australia wide. Our company provides right kind of staff. As a result in your business you can reach to your goal. We try to make sure that we are following the perfect process of recruiting as construction staff recruiter in Australia. Side by side we also recruit skillful construction labourer. That's why we are the best construction staff recruitment service & labourer recruitment service in Australia.</p>
                 <p><strong>Why choose us?<br /> </strong>We are an elite team of recruitment experts, ethical conduct, encouraging professionalism, and best practices.<br>If you are seeking qualified and technically experienced construction staff, we’ll give you access to more talent, more quickly and in more locations than any other specialist recruitment company do.</p>
 
 

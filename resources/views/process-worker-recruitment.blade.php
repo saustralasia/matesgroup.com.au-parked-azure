@@ -10,4 +10,5 @@
         <h1 class="extra-h2">Leading Process Staff & Labour Hire Company</h1>
         <p>UNDER CONSTRUCTION</p>
     </center>
+
 @endsection
