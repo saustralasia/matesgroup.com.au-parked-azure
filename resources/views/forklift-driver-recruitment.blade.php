@@ -27,9 +27,9 @@ forklift driver recruitment worldwide')
                 <li>-Experience in loading and handling containers</li>
             </ul>
 
-            <p style="font-size: 20px;"><strong>Forklift And Driver Hire:</strong></p>
+            <p style="font-size: 20px;"><strong>Forklift driver hire service Australia:</strong></p>
             <p style="padding-left: 90px;">A forklift is an industrial truck which is used to lift and move materials over short distances in a company. The forklift was developed in the early 20th century by various companies, including Clark, which made transmissions, and Yale & Towne Manufacturing, which made hoists.</p>
-            <p style="padding-left: 90px;">Forklift trucks are an important sight for construction, manufacturing, and warehousing. Many businessman want forklift-man for their industries. This is very time consuming process than the manual process. We offer the business companies forklift labour.<br> </p>
+            <p style="padding-left: 90px;">We do forklift driver recruitment worldwide. Forklift trucks are an important sight for construction, manufacturing, and warehousing. Many businessman want forklift-man for their industries. This is very time consuming process than the manual process. We offer the business companies forklift labour.<br> </p>
 
             <p style="font-size: 20px;"><strong>Costing:</strong></p>
             <p style="padding-left: 90px;">Hiring a forklift operator can be a tough and expensive process. In a short time period it can’t be possible. If you are wanting forklift operator for a short period of time, then it would be a nightmare for you to have a perfect and cost efficient labour. So, we are here to reduce your cost and make you happy to have a perfect labour.</p>
