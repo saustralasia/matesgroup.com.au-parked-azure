@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="-content writing of bookkeeping-recruitment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/bookkeeping-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/bookkeeping-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accounts-payable-officer-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accounts-payable-officer-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -218,7 +218,7 @@
       <workItem from="1597636930426" duration="22659000" />
       <workItem from="1597671731002" duration="850000" />
       <workItem from="1597724608364" duration="19942000" />
-      <workItem from="1597810915076" duration="13808000" />
+      <workItem from="1597810915076" duration="17684000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -360,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597823222659</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="-content writing of bookkeeping-recruitment">
+      <created>1597829289070</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1597829289070</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +406,8 @@
     <MESSAGE value="-content writing edit of forklift-driver-recruitment" />
     <MESSAGE value="-content writing of security-guard-recruitment" />
     <MESSAGE value="-content writing of chicken-catcher-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="-content writing of chicken-catcher-recruitment" />
+    <MESSAGE value="-content writing of bookkeeping-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="-content writing of bookkeeping-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
