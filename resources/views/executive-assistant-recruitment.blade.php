@@ -5,8 +5,16 @@
 @section('meta_des', 'Mates Group: Trusted Executive Assistant Hire Company')
 
 @section('content')
-    <center>
-        <h1 class="extra-h2">Mates Group: Trusted Executive Assistant Hire Company</h1>
-        <p>UNDER CONSTRUCTION</p>
-    </center>
+    <div class="header-banner">
+        <center>
+            <h1 class="white line-12 text-45">Mates Group: Trusted Executive Assistant Hire Company</h1>
+        </center>
+    </div>
+
+    <div class="single-content">
+        <div class="container">
+            <p style="text-align: center; font-size: 30px;"><strong>Executive assistant recruitment service Australia</strong></p>
+
+        </div>
+    </div>
 @endsection
