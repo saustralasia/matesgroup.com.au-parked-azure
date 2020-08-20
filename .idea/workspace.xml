@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/it-business-analyst-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/it-business-analyst-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/land-surveyor-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/land-surveyor-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/systems-engineer-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/systems-engineer-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +221,7 @@
       <workItem from="1597724608364" duration="19942000" />
       <workItem from="1597810915076" duration="23321000" />
       <workItem from="1597894570692" duration="7866000" />
-      <workItem from="1597906469908" duration="11262000" />
+      <workItem from="1597906469908" duration="14370000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -397,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597917427492</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="-content writing of it-business-analyst-recruitment">
+      <created>1597921384437</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1597921384437</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +449,8 @@
     <MESSAGE value="-content writing of assistant-accountant-recruitment" />
     <MESSAGE value="-content writing of office-administrator-recruitment" />
     <MESSAGE value="-content writing of receptionist-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="-content writing of receptionist-recruitment" />
+    <MESSAGE value="-content writing of it-business-analyst-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="-content writing of it-business-analyst-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
