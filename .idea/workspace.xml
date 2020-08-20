@@ -22,8 +22,7 @@
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/executive-assistant-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/executive-assistant-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/financial-analyst-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/financial-analyst-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/office-administrator-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/office-administrator-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/receptionist-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/receptionist-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +220,8 @@
       <workItem from="1597671731002" duration="850000" />
       <workItem from="1597724608364" duration="19942000" />
       <workItem from="1597810915076" duration="23321000" />
-      <workItem from="1597894570692" duration="7749000" />
+      <workItem from="1597894570692" duration="7866000" />
+      <workItem from="1597906469908" duration="7749000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -384,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597841433466</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="-content writing of office-administrator-recruitment">
+      <created>1597905676696</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1597905676696</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +433,8 @@
     <MESSAGE value="-content writing of bookkeeping-recruitment" />
     <MESSAGE value="-content writing of accounts-payable-officer-recruitment" />
     <MESSAGE value="-content writing of assistant-accountant-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="-content writing of assistant-accountant-recruitment" />
+    <MESSAGE value="-content writing of office-administrator-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="-content writing of office-administrator-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
