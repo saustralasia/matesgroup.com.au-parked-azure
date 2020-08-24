@@ -2,7 +2,50 @@
 
 {{--adding three lines for search engine meta link--}}
 @section('title', 'Best Warehouse Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Warehouse staff recruitment service australia, warehousing labour hire staff australia, warehouse staff recruitment worldwide')
+@section('meta_keywords', 'Warehouse staff recruitment service australia, warehousing labour hire staff australia, warehouse staff recruitment worldwide,
+Warehouse staff recruitment in Sydney,
+Warehouse staff recruitment in Melbourne,
+Warehouse staff recruitment in Queensland,
+Warehouse staff recruitment in Victoria,
+Warehouse staff recruitment in NSW,
+Warehouse staff recruitment in Brisbane,
+
+
+Warehouse Labour hire services in Sydney,
+Warehouse Labour hire services in Melbourne,
+Warehouse Labour hire services in Queensland,
+Warehouse Labour hire services in Victoria,
+Warehouse Labour hire services in NSW,
+Warehouse Labour hire services in Brisbane,
+
+
+Warehouse staff recruitment services in Sydney,
+Warehouse staff recruitment services in Queensland,
+Warehouse staff recruitment services in Melbourne,
+Warehouse staff recruitment services in NSW,
+Warehouse staff recruitment services in Victoria,
+Warehouse staff recruitment services in Brisbane,
+
+
+Warehouse regional job Queensland,
+Warehouse regional job Sydney,
+Warehouse regional job Melbourne,
+Warehouse regional job NSW,
+Warehouse regional job Victoria,
+Warehouse regional job Brisbane,
+
+
+Warehouse local staff recruitment company,
+Warehouse local labour hire company,
+
+
+Warehouse local staff recruitment company in Sydney,
+Warehouse local staff recruitment company in Melbourne,
+Warehouse local staff recruitment company in Queensland,
+Warehouse local staff recruitment company in Victoria,
+Warehouse local staff recruitment company in NSW,
+Warehouse local staff recruitment company in Brisbane,
+')
 @section('meta_des', 'With many years of experience, the Mates Group provides warehouse people recruitment or labor hire solutions in Australia and worldwide.')
 
 
