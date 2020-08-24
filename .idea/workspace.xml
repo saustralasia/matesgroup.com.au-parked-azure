@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/agriculture-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/agriculture-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/international-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/international-staff-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +224,7 @@
       <workItem from="1597935353946" duration="82000" />
       <workItem from="1597983515807" duration="5138000" />
       <workItem from="1598192015375" duration="935000" />
-      <workItem from="1598244783479" duration="6042000" />
+      <workItem from="1598244783479" duration="6266000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -422,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598262704438</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="new meta_keywords adding in &#10;-agriculture-staff-recruitment">
+      <created>1598266705736</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1598266705736</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,7 +449,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-controller removal(controller name Matesgroup.php)" />
     <MESSAGE value="Adding&#10;-meta data&#10;-meta description&#10;-suggested title&#10;-&lt;h1&gt; tag" />
     <MESSAGE value="-content writing of construction-staff-recruitment" />
     <MESSAGE value="-content writing edit of construction-staff-recruitment" />
@@ -467,7 +473,8 @@
     <MESSAGE value="-content writing of it-business-analyst-recruitment" />
     <MESSAGE value="-content writing of systems-engineer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-index,&#10;-office-staff-recruitment&#10;-construction-staff-recruitment&#10;-shipbuilding-staff-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-index,&#10;-office-staff-recruitment&#10;-construction-staff-recruitment&#10;-shipbuilding-staff-recruitment" />
+    <MESSAGE value="new meta_keywords adding in &#10;-agriculture-staff-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-agriculture-staff-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
