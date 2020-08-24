@@ -4,7 +4,49 @@
 @section('title', 'Shipbuilding/Submarine Recruitment Service in Australia')
 @section('meta_keywords', 'Submarine building workers Australia, shipbuilding staff australia
 shipbuilding staff recruitment Australia, shipbuilding staff hire australia
-shipbuilding staff recruitment service Australia, shipbuilding staff recruitment worldwide
+shipbuilding staff recruitment service Australia, shipbuilding staff recruitment worldwide,
+Shipbuilding staff recruitment in Sydney,
+Shipbuilding staff recruitment in Melbourne,
+Shipbuilding staff recruitment in Queensland,
+Shipbuilding staff recruitment in Victoria,
+Shipbuilding staff recruitment in NSW,
+Shipbuilding staff recruitment in Brisbane,
+
+
+Shipbuilding Labour hire services in Sydney,
+Shipbuilding Labour hire services in Melbourne,
+Shipbuilding Labour hire services in Queensland,
+Shipbuilding Labour hire services in Victoria,
+Shipbuilding Labour hire services in NSW,
+Shipbuilding Labour hire services in Brisbane,
+
+
+Shipbuilding staff recruitment services in Sydney,
+Shipbuilding staff recruitment services in Queensland,
+Shipbuilding staff recruitment services in Melbourne,
+Shipbuilding staff recruitment services in NSW,
+Shipbuilding staff recruitment services in Victoria,
+Shipbuilding staff recruitment services in Brisbane,
+
+
+Shipbuilding regional job Queensland,
+Shipbuilding regional job Sydney,
+Shipbuilding regional job Melbourne,
+Shipbuilding regional job NSW,
+Shipbuilding regional job Victoria,
+Shipbuilding regional job Brisbane,
+
+
+Shipbuilding local staff recruitment company,
+Shipbuilding local labour hire company,
+
+
+Shipbuilding local staff recruitment company in Sydney,
+Shipbuilding local staff recruitment company in Melbourne,
+Shipbuilding local staff recruitment company in Queensland,
+Shipbuilding local staff recruitment company in Victoria,
+Shipbuilding local staff recruitment company in NSW,
+Shipbuilding local staff recruitment company in Brisbane,
 ')
 @section('meta_des', 'Mates Group is an innovative Australian recruitment company supplying highly skilled shipbuilding, submarine workers to different organizations worldwide.')
 
@@ -69,13 +111,7 @@ shipbuilding staff recruitment service Australia, shipbuilding staff recruitment
                     </tr>
                     </tbody>
                 </table>
-                <p>&nbsp;</p>
-                <h2><strong>Skilled Construction Workers </strong></h2>
-                <p>Mates global supply skilled construction workers to various sites from around the world. We hire International high skill workers, allocating them to jobs to fill local shortages. Mates provide construction services, managing and developing production.</p>
-                <p><strong>Why choose us?<br /> </strong>We provide superior carpentry labour and building components to the commercial construction industry with a team of qualified and experienced members. Sourcing high skilled workers from overseas allow a person with a different perspective to be able to contribute to a project.</p>
-                <h2><strong>Highly skilled Electrical Trades</strong></h2>
-                <p>Mates global source and recruit highly skilled electrical trades staff. Whether you need&nbsp;a qualified electrician for long term or short term, we can provide.</p>
-                <p><strong>Why choose us?<br /> </strong>Our service is fast and effective, this allows our clients to achieve their project objectives and rely on us to find staff.</p>
+
             </div>
         </div>
     </div>

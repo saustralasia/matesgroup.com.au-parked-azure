@@ -5,8 +5,16 @@
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide help desk officer recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
-    <center>
-        <h1 class="extra-h2">Mates Group: Trusted Help Desk Officer Hire Company</h1>
-        <p>UNDER CONSTRUCTION</p>
-    </center>
+    <div class="header-banner">
+        <center>
+            <h1 class="white line-12 text-45">Mates Group: Trusted Help Desk Officer Hire Company</h1>
+        </center>
+    </div>
+
+    <div class="single-content">
+        <div class="container">
+            <p style="font-size: 30px;">Help desk officer recruitment service Australia</p>
+            
+        </div>
+    </div>
 @endsection
