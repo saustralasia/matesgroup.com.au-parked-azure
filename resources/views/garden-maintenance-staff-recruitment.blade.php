@@ -1,7 +1,51 @@
 @extends('layouts.master')
 
 @section('title', 'Garden Maintenance Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Garden maintenance staff recruitment service australia, garden maintenance staff hire company worldwide')
+@section('meta_keywords', 'Garden maintenance staff recruitment service australia,
+garden maintenance staff hire company worldwide,
+Garden maintenance staff recruitment in Sydney,
+Garden maintenance staff recruitment in Melbourne,
+Garden maintenance staff recruitment in Queensland,
+Garden maintenance staff recruitment in Victoria,
+Garden maintenance staff recruitment in NSW,
+Garden maintenance staff recruitment in Brisbane,
+
+
+Garden maintenance Labour hire services in Sydney,
+Garden maintenance Labour hire services in Melbourne,
+Garden maintenance Labour hire services in Queensland,
+Garden maintenance Labour hire services in Victoria,
+Garden maintenance Labour hire services in NSW,
+Garden maintenance Labour hire services in Brisbane,
+
+
+Garden maintenance staff recruitment services in Sydney,
+Garden maintenance staff recruitment services in Queensland,
+Garden maintenance staff recruitment services in Melbourne,
+Garden maintenance staff recruitment services in NSW,
+Garden maintenance staff recruitment services in Victoria,
+Garden maintenance staff recruitment services in Brisbane,
+
+
+Garden maintenance regional job Queensland,
+Garden maintenance regional job Sydney,
+Garden maintenance regional job Melbourne,
+Garden maintenance regional job NSW,
+Garden maintenance regional job Victoria,
+Garden maintenance regional job Brisbane,
+
+
+Garden maintenance local staff recruitment company,
+Garden maintenance local labour hire company,
+
+
+Garden maintenance local staff recruitment company in Sydney,
+Garden maintenance local staff recruitment company in Melbourne,
+Garden maintenance local staff recruitment company in Queensland,
+Garden maintenance local staff recruitment company in Victoria,
+Garden maintenance local staff recruitment company in NSW,
+Garden maintenance local staff recruitment company in Brisbane,
+')
 @section('meta_des', 'Mates Group provides garden maintenance staff recruitment or hire solutions in Australia and worldwide.')
 
 @section('content')

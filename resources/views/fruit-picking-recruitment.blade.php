@@ -1,7 +1,52 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Fruit Picking Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'vegetable pickers recruitment service australia, fruit picking staff recruitment australia, fruit picking recruitment service australia, fruit picker hire australia, fruit picker worldwide')
+@section('meta_keywords', 'vegetable pickers recruitment service australia, fruit picking staff recruitment australia,
+fruit picking recruitment service australia, fruit picker hire australia, fruit picker worldwide,
+Fruit picking staff recruitment in Sydney,
+Fruit picking staff recruitment in Melbourne,
+Fruit picking staff recruitment in Queensland,
+Fruit picking staff recruitment in Victoria,
+Fruit picking staff recruitment in NSW,
+Fruit picking staff recruitment in Brisbane,
+
+
+Fruit picking Labour hire services in Sydney,
+Fruit picking Labour hire services in Melbourne,
+Fruit picking Labour hire services in Queensland,
+Fruit picking Labour hire services in Victoria,
+Fruit picking Labour hire services in NSW,
+Fruit picking Labour hire services in Brisbane,
+
+
+Fruit picking staff recruitment services in Sydney,
+Fruit picking staff recruitment services in Queensland,
+Fruit picking staff recruitment services in Melbourne,
+Fruit picking staff recruitment services in NSW,
+Fruit picking staff recruitment services in Victoria,
+Fruit picking staff recruitment services in Brisbane,
+
+
+Fruit picking regional job Queensland,
+Fruit picking regional job Sydney,
+Fruit picking regional job Melbourne,
+Fruit picking regional job NSW,
+Fruit picking regional job Victoria,
+Fruit picking regional job Brisbane,
+
+
+Fruit picking local staff recruitment company,
+Fruit picking local labour hire company,
+
+
+Fruit picking local staff recruitment company in Sydney,
+Fruit picking local staff recruitment company in Melbourne,
+Fruit picking local staff recruitment company in Queensland,
+Fruit picking local staff recruitment company in Victoria,
+Fruit picking local staff recruitment company in NSW,
+Fruit picking local staff recruitment company in Brisbane,
+
+')
 @section('meta_des', 'Are you looking for vegetable, fruit pickers hiring solutions? Mates Group is a leading company that offers recruitment services in Australia & worldwide.')
 
 @section('content')

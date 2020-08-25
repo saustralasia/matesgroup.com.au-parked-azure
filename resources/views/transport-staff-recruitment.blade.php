@@ -3,7 +3,51 @@
 {{--adding three lines for search engine meta link--}}
 @section('title', 'Transport Staff Recruitment/Hire Service Australia')
 @section('meta_keywords', 'Transport staff recruitment service Australia, transport labour hire Australia,
-transport staff recruitment worldwide')
+transport staff recruitment worldwide,
+transport staff recruitment in Sydney,
+transport staff recruitment in Melbourne,
+transport staff recruitment in Queensland,
+transport staff recruitment in Victoria,
+transport staff recruitment in NSW,
+transport staff recruitment in Brisbane,
+
+
+transport Labour hire services in Sydney,
+transport Labour hire services in Melbourne,
+transport Labour hire services in Queensland,
+transport Labour hire services in Victoria,
+transport Labour hire services in NSW,
+transport Labour hire services in Brisbane,
+
+
+transport staff recruitment services in Sydney,
+transport staff recruitment services in Queensland,
+transport staff recruitment services in Melbourne,
+transport staff recruitment services in NSW,
+transport staff recruitment services in Victoria,
+transport staff recruitment services in Brisbane,
+
+
+transport regional job Queensland,
+transport regional job Sydney,
+transport regional job Melbourne,
+transport regional job NSW,
+transport regional job Victoria,
+transport regional job Brisbane,
+
+
+transport local staff recruitment company,
+transport local labour hire company,
+
+
+transport local staff recruitment company in Sydney,
+transport local staff recruitment company in Melbourne,
+transport local staff recruitment company in Queensland,
+transport local staff recruitment company in Victoria,
+transport local staff recruitment company in NSW,
+transport local staff recruitment company in Brisbane,
+
+')
 @section('meta_des', 'Mates Group is a reputed Australian company with clients around the world. We provide transport worker recruitment or hire solutions in Australia & worldwide.')
 
 
