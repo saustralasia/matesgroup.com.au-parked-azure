@@ -1,7 +1,51 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Office Administrator Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Office administrator recruitment australia, office administrator hire company worldwide, office administrator recruitment hire services')
+@section('meta_keywords', 'Office administrator recruitment australia, office administrator hire company worldwide,
+office administrator recruitment hire services,
+Office administrator recruitment in Sydney,
+Office administrator recruitment in Melbourne,
+Office administrator recruitment in Queensland,
+Office administrator recruitment in Victoria,
+Office administrator recruitment in NSW,
+Office administrator recruitment in Brisbane,
+
+
+Office administrator hire services in Sydney,
+Office administrator hire services in Melbourne,
+Office administrator hire services in Queensland,
+Office administrator hire services in Victoria,
+Office administrator hire services in NSW,
+Office administrator hire services in Brisbane,
+
+
+Office administrator recruitment services in Sydney,
+Office administrator recruitment services in Queensland,
+Office administrator recruitment services in Melbourne,
+Office administrator recruitment services in NSW,
+Office administrator recruitment services in Victoria,
+Office administrator recruitment services in Brisbane,
+
+
+Office administrator regional job Queensland,
+Office administrator regional job Sydney,
+Office administrator regional job Melbourne,
+Office administrator regional job NSW,
+Office administrator regional job Victoria,
+Office administrator regional job Brisbane,
+
+
+local Office administrator recruitment company,
+local Office administrator hire company,
+
+
+local Office administrator recruitment company in Sydney,
+local Office administrator recruitment company in Melbourne,
+local Office administrator recruitment company in Queensland,
+local Office administrator recruitment company in Victoria,
+local Office administrator recruitment company in NSW,
+local Office administrator recruitment company in Brisbane,
+')
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide office administrator recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
