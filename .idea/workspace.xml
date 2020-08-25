@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="new meta_keywords adding in &#10;-security-guard-recruitment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/security-guard-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/security-guard-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/chicken-catcher-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/chicken-catcher-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +225,7 @@
       <workItem from="1597983515807" duration="5138000" />
       <workItem from="1598192015375" duration="935000" />
       <workItem from="1598244783479" duration="8407000" />
-      <workItem from="1598330913173" duration="5255000" />
+      <workItem from="1598330913173" duration="6012000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -465,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598337614409</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="new meta_keywords adding in &#10;-security-guard-recruitment">
+      <created>1598338108303</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1598338108303</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-content writing of warehouse-staff-recruitment" />
     <MESSAGE value="-content writing of garden-maintenance-staff-recruitment" />
     <MESSAGE value="-content writing of edit garden-maintenance-staff-recruitment" />
     <MESSAGE value="-content writing of transport-staff-recruitment.blade" />
@@ -510,7 +516,8 @@
     <MESSAGE value="new meta_keywords adding in &#10;-garden-maintenance-staff-recruitment&#10;-transport-staff-recruitment&#10;-process-worker-recruitment&#10;-fruit-picking-recruitment&#10;-farm-hand-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-forklift-driver-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-truck-driver-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-truck-driver-recruitment" />
+    <MESSAGE value="new meta_keywords adding in &#10;-security-guard-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-security-guard-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />

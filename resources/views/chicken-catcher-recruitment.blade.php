@@ -1,7 +1,53 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Chicken Catcher Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'chicken catcher staff recruitment australia, chicken catcher staff recruitment service, chicken catcher staff hire service, chicken catcher staff hire service worldwide')
+@section('meta_keywords', 'chicken catcher staff recruitment australia,
+chicken catcher staff recruitment service, chicken catcher staff hire service,
+chicken catcher staff hire service worldwide,
+Chicken catcher staff recruitment in Sydney,
+Chicken catcher staff recruitment in Melbourne,
+Chicken catcher staff recruitment in Queensland,
+Chicken catcher staff recruitment in Victoria,
+Chicken catcher staff recruitment in NSW,
+Chicken catcher staff recruitment in Brisbane,
+
+
+Chicken catcher Labour hire services in Sydney,
+Chicken catcher Labour hire services in Melbourne,
+Chicken catcher Labour hire services in Queensland,
+Chicken catcher Labour hire services in Victoria,
+Chicken catcher Labour hire services in NSW,
+Chicken catcher Labour hire services in Brisbane,
+
+
+Chicken catcher staff recruitment services in Sydney,
+Chicken catcher staff recruitment services in Queensland,
+Chicken catcher staff recruitment services in Melbourne,
+Chicken catcher staff recruitment services in NSW,
+Chicken catcher staff recruitment services in Victoria,
+Chicken catcher staff recruitment services in Brisbane,
+
+
+Chicken catcher regional job Queensland,
+Chicken catcher regional job Sydney,
+Chicken catcher regional job Melbourne,
+Chicken catcher regional job NSW,
+Chicken catcher regional job Victoria,
+Chicken catcher regional job Brisbane,
+
+
+Chicken catcher local staff recruitment company,
+Chicken catcher local labour hire company,
+
+
+Chicken catcher local staff recruitment company in Sydney,
+Chicken catcher local staff recruitment company in Melbourne,
+Chicken catcher local staff recruitment company in Queensland,
+Chicken catcher local staff recruitment company in Victoria,
+Chicken catcher local staff recruitment company in NSW,
+Chicken catcher local staff recruitment company in Brisbane,
+
+')
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide chicken or poultry catcher staff recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
