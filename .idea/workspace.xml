@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/coordinator-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/coordinator-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/it-business-analyst-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/it-business-analyst-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +225,7 @@
       <workItem from="1597983515807" duration="5138000" />
       <workItem from="1598192015375" duration="935000" />
       <workItem from="1598244783479" duration="8407000" />
-      <workItem from="1598330913173" duration="11721000" />
+      <workItem from="1598330913173" duration="12011000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -542,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598348770623</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="new meta_keywords adding in &#10;-coordinator-recruitment">
+      <created>1598349140337</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1598349140337</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-content writing of bookkeeping-recruitment" />
     <MESSAGE value="-content writing of accounts-payable-officer-recruitment" />
     <MESSAGE value="-content writing of assistant-accountant-recruitment" />
     <MESSAGE value="-content writing of office-administrator-recruitment" />
@@ -587,7 +593,8 @@
     <MESSAGE value="new meta_keywords adding in &#10;-executive-assistant-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-receptionist-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-customer-services-officer-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-customer-services-officer-recruitment" />
+    <MESSAGE value="new meta_keywords adding in &#10;-coordinator-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-coordinator-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
