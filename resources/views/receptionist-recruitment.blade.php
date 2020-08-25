@@ -1,7 +1,51 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Receptionist Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Receptionist recruitment australia, receptionist recruitment service australia, receptionist recruitment company worldwide, global receptionist recruitment')
+@section('meta_keywords', 'Receptionist recruitment australia, receptionist recruitment service australia,
+receptionist recruitment company worldwide, global receptionist recruitment,
+Receptionist staff recruitment in Sydney,
+Receptionist staff recruitment in Melbourne,
+Receptionist staff recruitment in Queensland,
+Receptionist staff recruitment in Victoria,
+Receptionist staff recruitment in NSW,
+Receptionist staff recruitment in Brisbane,
+
+
+Receptionist hire services in Sydney,
+Receptionist hire services in Melbourne,
+Receptionist hire services in Queensland,
+Receptionist hire services in Victoria,
+Receptionist hire services in NSW,
+Receptionist hire services in Brisbane,
+
+
+Receptionist recruitment services in Sydney,
+Receptionist recruitment services in Queensland,
+Receptionist recruitment services in Melbourne,
+Receptionist recruitment services in NSW,
+Receptionist recruitment services in Victoria,
+Receptionist recruitment services in Brisbane,
+
+
+Receptionist regional job Queensland,
+Receptionist regional job Sydney,
+Receptionist regional job Melbourne,
+Receptionist regional job NSW,
+Receptionist regional job Victoria,
+Receptionist regional job Brisbane,
+
+
+local Receptionist recruitment company,
+local Receptionist hire company,
+
+
+local Receptionist recruitment company in Sydney,
+local Receptionist recruitment company in Melbourne,
+local Receptionist recruitment company in Queensland,
+local Receptionist recruitment company in Victoria,
+local Receptionist recruitment company in NSW,
+local Receptionist recruitment company in Brisbane,
+')
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide receptionist recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
