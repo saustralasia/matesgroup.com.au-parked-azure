@@ -1,7 +1,52 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Executive Assistant Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Executive assistant recruitment service australia, executive assistant hire australia, global executive assistant hire company, executive assistant hire worldwide')
+@section('meta_keywords', 'Executive assistant recruitment service australia,
+executive assistant hire australia, global executive assistant hire company,
+executive assistant hire worldwide,
+Executive assistant recruitment in Sydney,
+Executive assistant recruitment in Melbourne,
+Executive assistant recruitment in Queensland,
+Executive assistant recruitment in Victoria,
+Executive assistant recruitment in NSW,
+Executive assistant recruitment in Brisbane,
+
+
+Executive assistant hire services in Sydney,
+Executive assistant hire services in Melbourne,
+Executive assistant hire services in Queensland,
+Executive assistant hire services in Victoria,
+Executive assistant hire services in NSW,
+Executive assistant hire services in Brisbane,
+
+
+Executive assistant recruitment services in Sydney,
+Executive assistant recruitment services in Queensland,
+Executive assistant recruitment services in Melbourne,
+Executive assistant recruitment services in NSW,
+Executive assistant recruitment services in Victoria,
+Executive assistant recruitment services in Brisbane,
+
+
+Executive assistant regional job Queensland,
+Executive assistant regional job Sydney,
+Executive assistant regional job Melbourne,
+Executive assistant regional job NSW,
+Executive assistant regional job Victoria,
+Executive assistant regional job Brisbane,
+
+
+local Executive assistant recruitment company,
+local Executive assistant hire company,
+
+
+local Executive assistant recruitment company in Sydney,
+local Executive assistant recruitment company in Melbourne,
+local Executive assistant recruitment company in Queensland,
+local Executive assistant recruitment company in Victoria,
+local Executive assistant recruitment company in NSW,
+local Executive assistant recruitment company in Brisbane,
+')
 @section('meta_des', 'Mates Group: Trusted Executive Assistant Hire Company')
 
 @section('content')
