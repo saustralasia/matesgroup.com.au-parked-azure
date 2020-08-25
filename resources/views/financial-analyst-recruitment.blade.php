@@ -1,7 +1,50 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Financial Analyst Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Financial analyst recruitment service australia, financial analyst hire service')
+@section('meta_keywords', 'Financial analyst recruitment service australia, financial analyst hire service,
+financial analyst recruitment in Sydney,
+financial analyst recruitment in Melbourne,
+financial analyst recruitment in Queensland,
+financial analyst recruitment in Victoria,
+financial analyst recruitment in NSW,
+financial analyst recruitment in Brisbane,
+
+
+financial analyst hire services in Sydney,
+financial analyst hire services in Melbourne,
+financial analyst hire services in Queensland,
+financial analyst hire services in Victoria,
+financial analyst hire services in NSW,
+financial analyst hire services in Brisbane,
+
+
+financial analyst recruitment services in Sydney,
+financial analyst recruitment services in Queensland,
+financial analyst recruitment services in Melbourne,
+financial analyst recruitment services in NSW,
+financial analyst recruitment services in Victoria,
+financial analyst recruitment services in Brisbane,
+
+
+financial analyst regional job Queensland,
+financial analyst regional job Sydney,
+financial analyst regional job Melbourne,
+financial analyst regional job NSW,
+financial analyst regional job Victoria,
+financial analyst regional job Brisbane,
+
+
+local financial analyst recruitment company,
+local financial analyst hire company,
+
+
+local financial analyst recruitment company in Sydney,
+local financial analyst recruitment company in Melbourne,
+local financial analyst recruitment company in Queensland,
+local financial analyst recruitment company in Victoria,
+local financial analyst recruitment company in NSW,
+local financial analyst recruitment company in Brisbane,
+')
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide financial analyst recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
