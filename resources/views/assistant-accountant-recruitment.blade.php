@@ -1,7 +1,51 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Assistant Accountant Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Assistant accountant recruitment service australia, assistant accountant hire service, assistant accountant hire company worldwide')
+@section('meta_keywords', 'Assistant accountant recruitment service australia,
+assistant accountant hire service, assistant accountant hire company worldwide,
+assistant-accountant recruitment in Sydney,
+assistant-accountant recruitment in Melbourne,
+assistant-accountant recruitment in Queensland,
+assistant-accountant recruitment in Victoria,
+assistant-accountant recruitment in NSW,
+assistant-accountant recruitment in Brisbane,
+
+
+assistant-accountant hire services in Sydney,
+assistant-accountant hire services in Melbourne,
+assistant-accountant hire services in Queensland,
+assistant-accountant hire services in Victoria,
+assistant-accountant hire services in NSW,
+assistant-accountant hire services in Brisbane,
+
+
+assistant-accountant recruitment services in Sydney,
+assistant-accountant recruitment services in Queensland,
+assistant-accountant recruitment services in Melbourne,
+assistant-accountant recruitment services in NSW,
+assistant-accountant recruitment services in Victoria,
+assistant-accountant recruitment services in Brisbane,
+
+
+assistant-accountant regional job Queensland,
+assistant-accountant regional job Sydney,
+assistant-accountant regional job Melbourne,
+assistant-accountant regional job NSW,
+assistant-accountant regional job Victoria,
+assistant-accountant regional job Brisbane,
+
+
+local assistant-accountant recruitment company,
+local assistant-accountant hire company,
+
+
+local assistant-accountant recruitment company in Sydney,
+local assistant-accountant recruitment company in Melbourne,
+local assistant-accountant recruitment company in Queensland,
+local assistant-accountant recruitment company in Victoria,
+local assistant-accountant recruitment company in NSW,
+local assistant-accountant recruitment company in Brisbane,
+')
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide assistant accountant recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')

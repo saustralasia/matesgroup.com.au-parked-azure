@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/accounts-payable-officer-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accounts-payable-officer-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/assistant-accountant-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/assistant-accountant-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +224,7 @@
       <workItem from="1597983515807" duration="5138000" />
       <workItem from="1598192015375" duration="935000" />
       <workItem from="1598244783479" duration="8407000" />
-      <workItem from="1598330913173" duration="8344000" />
+      <workItem from="1598330913173" duration="8596000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit">
       <created>1596645811976</created>
@@ -493,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598343057761</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="new meta_keywords adding in &#10;-account-payable-officer-recruitment">
+      <created>1598343407360</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1598343407360</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-content writing of edit transport-staff-recruitment.blade" />
     <MESSAGE value="-content writing of fruit-picking-recruitment" />
     <MESSAGE value="-content writing of farm-hand-recruitment" />
     <MESSAGE value="-content writing of forklift-driver-recruitment" />
@@ -538,7 +543,8 @@
     <MESSAGE value="new meta_keywords adding in &#10;-chicken-catcher-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-mail-sorter-recruitment&#10;-payroll-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-bookkeeping-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-bookkeeping-recruitment" />
+    <MESSAGE value="new meta_keywords adding in &#10;-account-payable-officer-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-account-payable-officer-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" />
