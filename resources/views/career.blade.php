@@ -1,17 +1,17 @@
 @extends('layouts.master', ['title' =>'Career'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/career.jpg')}}">
+    <img src="{{asset('images/career.jpg')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#fff">Career</h2>-->
     </div>
 </div>
 <div class="container">
-    <center>
-        <h2 class="extra-h2">
+
+        <h2 class="extra-h2" style="text-align: center">
             Career
         </h2>
-    </center>
+
     <p>“We wanted our candidates to get a sense of who we are, no matter how they were interacting with us.
 
 Mates Group is a great platform that enables us to really communicate our brand clearly and directly to potential candidates.</p>

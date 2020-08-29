@@ -49,10 +49,8 @@ local Bookkeeper recruitment company in Brisbane,
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide bookkeeper staff recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
             <h1 class="white line-12 text-45">Mates Group: Trusted Bookkeeper Hire Company</h1>
-        </center>
     </div>
     <div class="single-content">
         <div class="container">
