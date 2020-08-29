@@ -1,7 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Commitment'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/commitment.jpg')}}">
+    <img src="{{asset('images/commitment.jpg')}}" alt="">
     <div class="page-text">
 
     </div>
@@ -9,10 +9,10 @@
 
 
 <div class="single-content">
-   <center>
-       <h2 class="extra-h2">Our Commitment</h2>
+
+       <h2 class="extra-h2" style="text-align: center">Our Commitment</h2>
        <hr>
-   </center>
+
     <div class="container">
 
 
