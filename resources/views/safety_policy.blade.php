@@ -1,18 +1,18 @@
 @extends('layouts.master', ['title' => 'Safety Policy'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/safety.jpg')}}">
+    <img src="{{asset('images/safety.jpg')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#000">Our Approach</h2>-->
     </div>
 </div>
 <div class="single-content">
-   <center>
-       <h2></h2>
+
+       <h2 style="text-align: center"></h2>
        <hr>
-   </center>
+
     <div class="container">
-    <div class="col-md-12" class="text-justify">
+    <div class="col-md-12, text-justify">
                 <p>
                     Security is our first need. It is basic for our industry and we trust that each worker ought to hope to return home securely toward the finish of every day. We ceaselessly endeavor to enhance our execution while moving in the direction of damage free workplace for our representatives and competitors.
                 </p>
