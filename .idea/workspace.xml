@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="new meta_keywords adding in &#10;-electrical-lineman-recruitment">
-      <change beforePath="$PROJECT_DIR$/.idea/matesgroup.com.au.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/matesgroup.com.au.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,14 +216,7 @@
       <workItem from="1598502830806" duration="344000" />
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
-      <workItem from="1598676000842" duration="786000" />
-    </task>
-    <task id="LOCAL-00005" summary="-content writing of construction-staff-recruitment">
-      <created>1597573407744</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1597573407744</updated>
+      <workItem from="1598676000842" duration="860000" />
     </task>
     <task id="LOCAL-00006" summary="-content writing edit of construction-staff-recruitment">
       <created>1597575480006</created>
@@ -563,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598351796314</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="new meta_keywords adding in &#10;-farm-hand-recruitment">
+      <created>1598676830111</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1598676830112</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +580,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-agriculture-staff-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-international-staff-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-warehouse-staff-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-garden-maintenance-staff-recruitment&#10;-transport-staff-recruitment&#10;-process-worker-recruitment&#10;-fruit-picking-recruitment&#10;-farm-hand-recruitment" />
@@ -607,7 +604,8 @@
     <MESSAGE value="new meta_keywords adding in &#10;-helpdesk-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-land-surveyor-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
+    <MESSAGE value="new meta_keywords adding in &#10;-farm-hand-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-farm-hand-recruitment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -616,9 +614,13 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1598504630861">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598676827076">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598504630861" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598676827076" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598676834942">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598676834942" />
   </component>
 </project>
