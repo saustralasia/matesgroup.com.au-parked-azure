@@ -7,18 +7,17 @@ best hire company australia')
 
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/vision.jpg')}}">
+    <img src="{{asset('images/vision.jpg')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#fff">Our Vision</h2>-->
     </div>
 </div>
 <div class="single-content">
-   <center>
-       <h1 class="extra-h2">Mates Group: Leading Staff Recruitment & Labour Hire Company</h1>
+       <h1 class="extra-h2" style="text-align: center;">Mates Group: Leading Staff Recruitment & Labour Hire Company</h1>
        <hr>
-   </center>
+
     <div class="container">
-        <div class="col-md-12" class="text-justify">
+        <div class="col-md-12, text-justify">
             <p class="black text-18 text-justify">Our vision is to put Mates Group on the map as one of the leading organisations. We will engage in sustainable practices and anticipate the needs of our clients, while still maintaining quality services. <br>
         We have an experienced and diverse team who follow current market trends and employment requirements for all industries, so we can recruit the best candidates. <br>
         The management team has accumulated a wealth of industry experience and expertise. The depth of experience of our management team covers all facets of recruitment and short-term hire. <br>
