@@ -53,18 +53,18 @@ Farm hand local staff recruitment company in Brisbane,
 @section('content')
 
     <div class="header-banner">
-        <center>
-            <h1 class="white line-12 text-45">Leading Process Staff & Labour Hire Company</h1>
-        </center>
+
+            <h1 style="text-align: center" class="white line-12 text-45">Leading Process Staff & Labour Hire Company</h1>
+
     </div>
     <div class="single-content">
         <div class="container">
-            <center>
-                <p>Farming is a part of agriculture. It started thousands years ago. Eventually, people used domesticated animals such as oxen for ploughing, pulling, and transportation. Agriculture enabled people to produce surplus food. They could use this extra food when crops failed or trade it for other goods. Food surpluses allowed people to work at other tasks unrelated to farming.<br>
+
+                <p style="text-align: center">Farming is a part of agriculture. It started thousands years ago. Eventually, people used domesticated animals such as oxen for ploughing, pulling, and transportation. Agriculture enabled people to produce surplus food. They could use this extra food when crops failed or trade it for other goods. Food surpluses allowed people to work at other tasks unrelated to farming.<br>
                     If you are looking for farm work in Australia, then please contact with us soon! We offer farm hand staff recruitment service in Australia.<br>
                     Candidates with agricultural experience in tractor, header/combine or truck driving will get a plus point.
                 </p>
-            </center>
+
 
             <div style="margin-top: 70px;">
                 <p style="font-size: 30px; text-decoration: underline;">Connect The Candidates</p>

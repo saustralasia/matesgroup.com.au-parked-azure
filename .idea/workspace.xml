@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/electrical-lineman-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/electrical-lineman-recruitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/garden-maintenance-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/garden-maintenance-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/helpdesk-officer-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/helpdesk-officer-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,14 +220,7 @@
       <workItem from="1598502830806" duration="344000" />
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
-      <workItem from="1598676000842" duration="860000" />
-    </task>
-    <task id="LOCAL-00006" summary="-content writing edit of construction-staff-recruitment">
-      <created>1597575480006</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1597575480006</updated>
+      <workItem from="1598676000842" duration="3443000" />
     </task>
     <task id="LOCAL-00007" summary="-content writing of shipbuilding-staff-recruitment">
       <created>1597576260514</created>
@@ -561,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598676830112</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="new meta_keywords adding in &#10;-farm-hand-recruitment">
+      <created>1598676877324</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1598676877324</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,13 +618,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598676827076">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598676875099">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598676827076" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598676875099" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598676834942">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598676834942" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1598682038088">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1598682038088" />
   </component>
 </project>

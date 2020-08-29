@@ -49,15 +49,15 @@ Garden maintenance local staff recruitment company in Brisbane,
 @section('meta_des', 'Mates Group provides garden maintenance staff recruitment or hire solutions in Australia and worldwide.')
 
 @section('content')
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
+
             <h1 class="white line-12 text-45">Mates Group: Garden Maintenance People Hire Company</h1>
-        </center>
+
     </div>
     <div class="single-content">
 
         <div class="container">
-            <div class="col-md-12" class="text-justify">
+            <div class="col-md-12, text-justify">
                 <p style="font-size:30px; color:#660066;"><strong>We provide warehouse staff recruitment service Australia</strong></p>
                 <p style="font-size:20px; color: #3366ff"><strong>Looking for gardener for your garden?</strong></p>
                 <p><strong>Mates Group </strong>is the greatest garden maintenance staff recruitment service Australia. We provide you skilled gardener. We will let you to have the skilled & qualified gardener. We are the perfect garden maintenance staff hire company Australia as well as we are the supreme garden maintenance staff hire company worldwide.</p>
@@ -77,8 +77,6 @@ Garden maintenance local staff recruitment company in Brisbane,
                         <li>-have an eye for design and colour</li>
 
                     </ul>
-                </p>
-
             </div>
         </div>
     </div>
