@@ -1,7 +1,7 @@
 @extends('layouts.master', ['title' => 'Terms and Conditions'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/terms.jpg')}}">
+    <img src="{{asset('images/terms.jpg')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#000">Our Approach</h2>-->
     </div>
@@ -9,7 +9,7 @@
 <div class="single-content">
 
     <div class="container">
-    <div class="col-md-12" class="text-justify">
+    <div class="col-md-12, text-justify">
                <h4>Terms and Conditions </h4>
                 <ol class="terms">
                     <li>All missions acknowledged by Mates Group (hereinafter, "The Company") will be administered by the present General Terms and Conditions. Except if The Company explicitly acknowledges the Client's conditions recorded as a hard copy, the present terms and conditions supplant every single other term and conditions in case of a contention. </li>
