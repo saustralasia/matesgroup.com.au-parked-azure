@@ -1,18 +1,17 @@
 @extends('layouts.master', ['title' => 'Privacy'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/privacy.jpg')}}">
+    <img src="{{asset('images/privacy.jpg')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#000">Our Approach</h2>-->
     </div>
 </div>
 <div class="single-content">
-   <center>
-       <h2></h2>
+       <h2 style="text-align: center;"></h2>
        <hr>
-   </center>
+
     <div class="container">
-    <div class="col-md-12" class="text-justify">
+    <div class="col-md-12, text-justify">
                <h3 class="black">"Privacy is essential to us!" </h3>
                 <p>
                    Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.

@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/office-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/office-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/privacy.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/privacy.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,14 +217,7 @@
       <workItem from="1598502830806" duration="344000" />
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
-      <workItem from="1598676000842" duration="9988000" />
-    </task>
-    <task id="LOCAL-00019" summary="-content writing of security-guard-recruitment">
-      <created>1597821526146</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1597821526146</updated>
+      <workItem from="1598676000842" duration="10152000" />
     </task>
     <task id="LOCAL-00020" summary="-content writing of chicken-catcher-recruitment">
       <created>1597823222659</created>
@@ -561,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598694505642</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="-bug fixing">
+      <created>1598694582253</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1598694582253</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,10 +615,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598694504114">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598694580731">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598694504114" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598694580731" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598676834942">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
