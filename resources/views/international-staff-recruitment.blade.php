@@ -31,16 +31,14 @@ International staff recruitment services in Brisbane,
 
 
 @section('content')
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center;">
             <h1 class="white line-12 text-45">Mates Group: Innovative International People Hire Company</h1>
-        </center>
     </div>
 
     <div class="single-content">
 
         <div class="container">
-            <div class="col-md-12" class="text-justify">
+            <div class="col-md-12, text-justify">
 
                 <h2><strong>International People Hire Company</strong></h2>
                 <p>We trust that to be successfull, high-quality employees are the assets in a company. That's why we welcome the international staff. We provide international staff recruitment service Australia.&nbsp;</p>
@@ -49,13 +47,13 @@ International staff recruitment services in Brisbane,
                     <tbody>
                     <tr>
                         <td width="203">
-                            <center><p><strong>Highly Qualified</strong></p></center>
+                            <p style="text-align: center;"><strong>Highly Qualified</strong></p>
                         </td>
                         <td width="203">
-                            <center><p><strong>Extensive Selection</strong></p></center>
+                            <p style="text-align: center;"><strong>Extensive Selection</strong></p>
                         </td>
                         <td width="203">
-                            <center><p><strong>Professional Support</strong></p></center>
+                            <p style="text-align: center;"><strong>Professional Support</strong></p>
                         </td>
                     </tr>
                     <tr>
