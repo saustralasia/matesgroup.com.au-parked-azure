@@ -10,15 +10,13 @@ shipbuilding staff recruitment service Australia, shipbuilding staff recruitment
 
 
 @section('content')
-<div class="header-banner">
-    <center>
+<div class="header-banner" style="text-align: center;">
         <h4 class="white line-12 text-45">Mates Global</h4>
-    </center>
 </div>
 <div class="single-content">
 
     <div class="container">
-        <div class="col-md-12" class="text-justify">
+        <div class="col-md-12, text-justify">
         <h2><strong>Ship and Submarine Building workers</strong></h2>
 <p>&nbsp;Mates provides ship and submarine building facilities with the assistance of highly qualified employees who specialise in the field.</p>
 <p><strong>Why choose us?<br /> </strong>Our aim is to provide customers with outstanding value through quality ship construction and repair services that are delivered on schedule while setting the industry standard for operational reliability and maintainability. We have qualified staff who finish the job to perfection.</p>
