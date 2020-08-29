@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="new meta_keywords adding in &#10;-electrical-lineman-recruitment">
+      <change beforePath="$PROJECT_DIR$/.idea/matesgroup.com.au.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/matesgroup.com.au.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/electrical-lineman-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/electrical-lineman-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +31,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -164,6 +162,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -173,25 +172,13 @@
       <recent name="C:\xampp\htdocs\matesgroup.com.au\resources\views" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -225,14 +212,13 @@
       <workItem from="1597983515807" duration="5138000" />
       <workItem from="1598192015375" duration="935000" />
       <workItem from="1598244783479" duration="8407000" />
-      <workItem from="1598330913173" duration="14372000" />
-    </task>
-    <task id="LOCAL-00004" summary="Adding&#10;-meta data&#10;-meta description&#10;-suggested title&#10;-&lt;h1&gt; tag">
-      <created>1597466197554</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1597466197554</updated>
+      <workItem from="1598330913173" duration="14932000" />
+      <workItem from="1598418039334" duration="2787000" />
+      <workItem from="1598502569125" duration="80000" />
+      <workItem from="1598502830806" duration="344000" />
+      <workItem from="1598504324068" duration="485000" />
+      <workItem from="1598675820546" duration="65000" />
+      <workItem from="1598676000842" duration="786000" />
     </task>
     <task id="LOCAL-00005" summary="-content writing of construction-staff-recruitment">
       <created>1597573407744</created>
@@ -570,27 +556,32 @@
       <option name="project" value="LOCAL" />
       <updated>1598351452860</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="new meta_keywords adding in &#10;-electrical-lineman-recruitment">
+      <created>1598351796314</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1598351796314</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-index,&#10;-office-staff-recruitment&#10;-construction-staff-recruitment&#10;-shipbuilding-staff-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-agriculture-staff-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-international-staff-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-warehouse-staff-recruitment" />
@@ -615,10 +606,19 @@
     <MESSAGE value="new meta_keywords adding in &#10;-system-engineer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-helpdesk-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-land-surveyor-recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-land-surveyor-recruitment" />
+    <MESSAGE value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="770" y="399" key="#Composer" />
-    <state x="770" y="399" key="#Composer/0.0.1920.1040@0.0.1920.1040" />
+    <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
+    <state x="770" y="399" key="#Composer/0.0.1920.1040@0.0.1920.1040" timestamp="1598504617531" />
+    <state x="438" y="193" key="#Notifications" timestamp="1598676145230">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1598504630861">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598504630861" />
   </component>
 </project>
