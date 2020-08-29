@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/bookkeeping-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/bookkeeping-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/career.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/career.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/chicken-catcher-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/chicken-catcher-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,14 +216,7 @@
       <workItem from="1598502830806" duration="344000" />
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
-      <workItem from="1598676000842" duration="6977000" />
-    </task>
-    <task id="LOCAL-00011" summary="-content writing of garden-maintenance-staff-recruitment">
-      <created>1597655603709</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1597655603709</updated>
+      <workItem from="1598676000842" duration="7026000" />
     </task>
     <task id="LOCAL-00012" summary="-content writing of edit garden-maintenance-staff-recruitment">
       <created>1597656450081</created>
@@ -563,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598690389441</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="-bug fixing">
+      <created>1598690536559</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1598690536560</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,10 +614,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598690387872">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598690535038">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598690387872" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598690535038" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598676834942">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
