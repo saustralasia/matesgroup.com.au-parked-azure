@@ -69,10 +69,8 @@ local Office administrator recruitment company in Brisbane,
             clear: both;
         }
     </style>
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center;">
             <h1 class="white line-12 text-45">Mates Group: Trusted Office Administrator Hire Company</h1>
-        </center>
     </div>
 
     <div class="single-content">
@@ -102,7 +100,7 @@ local Office administrator recruitment company in Brisbane,
                             <li>Reception</li>
                             <li>Office Manager</li>
                         </ul>
-                    </p>
+
                 </div>
                 <div class="column" style="background-color:white; text-align: center">
                     <p>
@@ -116,7 +114,7 @@ local Office administrator recruitment company in Brisbane,
                             <li>Order Processing</li>
                             <li>Personal Assistant</li>
                         </ul>
-                    </p>
+
                 </div>
                 <div class="column" style="background-color:white; text-align: center">
                     <p>
@@ -130,7 +128,7 @@ local Office administrator recruitment company in Brisbane,
                             <li>Administration</li>
                             <li>Workforce Management</li>
                         </ul>
-                    </p>
+
                 </div>
             </div>
         </div>
