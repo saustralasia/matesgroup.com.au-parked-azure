@@ -49,8 +49,7 @@ local Customer services officer recruitment company in Brisbane,
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide customer service officer recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
-    <center>
-        <h1 class="extra-h2">Mates Group: Trusted Customer Service Officer Hire Company</h1>
+        <h1 class="extra-h2" style="text-align: center">Mates Group: Trusted Customer Service Officer Hire Company</h1>
         <p>UNDER CONSTRUCTION</p>
-    </center>
+
 @endsection

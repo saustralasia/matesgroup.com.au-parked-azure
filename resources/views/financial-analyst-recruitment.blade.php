@@ -49,10 +49,8 @@ local financial analyst recruitment company in Brisbane,
 
 @section('content')
 
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
             <h1 class="white line-12 text-45">Mates Group: Trusted Financial Analyst Hire Company</h1>
-        </center>
     </div>
 
     <p style="font-size: 30px; text-align: center; margin-top: 20px;"><strong>Financial analyst recruitment service Australia</strong></p>

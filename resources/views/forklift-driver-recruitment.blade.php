@@ -52,10 +52,8 @@ Forklift local staff recruitment company in Brisbane,
 
 @section('content')
 
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
             <h1 class="white line-12 text-45">Mates Group: Reputed Forklift Operators Hire Company</h1>
-        </center>
     </div>
 
     <div class="single-content">

@@ -21,8 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/customer-services-officer-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer-services-officer-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/database-developer-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/database-developer-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/executive-assistant-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/executive-assistant-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/financial-analyst-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/financial-analyst-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/forklift-driver-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/forklift-driver-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/fruit-picking-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/fruit-picking-recruitment.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,14 +222,7 @@
       <workItem from="1598502830806" duration="344000" />
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
-      <workItem from="1598676000842" duration="8340000" />
-    </task>
-    <task id="LOCAL-00013" summary="-content writing of transport-staff-recruitment.blade">
-      <created>1597661903339</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1597661903339</updated>
+      <workItem from="1598676000842" duration="8639000" />
     </task>
     <task id="LOCAL-00014" summary="-content writing of edit transport-staff-recruitment.blade">
       <created>1597662680107</created>
@@ -563,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598690565941</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="-bug fixing">
+      <created>1598692925240</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1598692925240</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,10 +620,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598690564161">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1598692923569">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598690564161" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598692923569" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598676834942">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
