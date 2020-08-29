@@ -50,14 +50,12 @@ office local staff recruitment company in Brisbane, ')
 
 @section('content')
     <div class="header-banner">
-        <center>
-            <h1 class="white line-12 text-45">Exceptional Office Staff Hiring Specialist </h1>
-        </center>
+            <h1 class="white line-12 text-45" style="text-align: center;">Exceptional Office Staff Hiring Specialist </h1>
     </div>
     <div class="single-content">
 
         <div class="container">
-            <div class="col-md-12" class="text-justify">
+            <div class="col-md-12, text-justify">
                 <p>Under construction!</p>
             </div>
         </div>
