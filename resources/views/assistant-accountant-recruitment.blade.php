@@ -70,10 +70,8 @@ local assistant-accountant recruitment company in Brisbane,
         }
     </style>
 
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
             <h1 class="white line-12 text-45">Mates Group: Trusted Assistant Accountant Hire Company</h1>
-        </center>
     </div>
 
     <div class="single-content">
@@ -92,7 +90,7 @@ local assistant-accountant recruitment company in Brisbane,
                     <li>-Get genuine feelings of serenity knowing your applications and information are secure with virtual work desktops.</li>
 
                 </ul>
-            </p>
+
 
             <p style="font-size: 20px;"><strong>Flexible hiring:</strong></p>
             <p style="margin-left: 40px;">Adaptable, on-request staffing to help oversee dynamic outstanding burdens, new tasks or worker nonappearances.<br>
