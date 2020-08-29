@@ -48,15 +48,13 @@ Construction local staff recruitment company in Brisbane, ')
 @section('meta_des', 'Mates Group is the leading Australian recruitment company that provides highly skilled construction workers worldwide.')
 
 @section('content')
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
             <h1 class="white line-12 text-45">Exceptional Building Development Staff Hiring Specialist </h1>
-        </center>
     </div>
     <div class="single-content">
 
         <div class="container">
-            <div class="col-md-12" class="text-justify">
+            <div class="col-md-12, text-justify">
                 <p><strong>Mates Group</strong> is an Australian company with clients around the world. We proudly represent major agribusiness, large primary producers and rural operators. We provide pickers, turf, packer, cleaners and experienced workers.</p>
                 <h2><strong>Careers at Mates Group </strong></h2>
                 <p><strong>Mates Group</strong> office support provides specialised office support staff Australia wide. Our company provides right kind of staff. As a result in your business you can reach to your goal. We try to make sure that we are following the perfect process of recruiting as construction staff recruiter in Australia. Side by side we also recruit skillful construction labourer. That's why we are the best construction staff recruitment service & labourer recruitment service in Australia.</p>
@@ -70,9 +68,6 @@ Construction local staff recruitment company in Brisbane, ')
                 <p>Our aim is to give the most specialised and personalised recruitment experience to our clients and candidates, to ensure that both parties recieve top quality service and have their needs met.</p>
                 <p>We are dedicated to providing the highest levels of service, offering a personalised service to both companies and individuals. We have a strong industry network, and our knowledge base allows us to partner companies with the individuals they need. Focusing on innovation and results, we manage the recruitment process in a way that allows us to achieve consistently great results.</p>
                 <p>We connect candidates with leading Australian companies across the construction, design, engineering, architecture, mining and resource sectors. We have a special team of experienced recruiters. They specialise in each of these sectors to assist you in furthering your career, or building your team.</p>
-
-
-
 
             </div>
         </div>

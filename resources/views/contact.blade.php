@@ -6,7 +6,7 @@
 
 @section('content')
 <div class="page-head-area">
-        <img src="{{asset('images/contact.jpg')}}">
+        <img src="{{asset('images/contact.jpg')}}" alt="">
         <div class="page-text">
             <h1 class="white">Contact Us</h1>
         </div>
@@ -51,8 +51,10 @@
                     </div>
                 </div>
 
-                	<center><h3 class="black">Get in Touch</h3></center>
-               	<hr>
+                <div style="text-align: center">
+                	<h3 class="black">Get in Touch</h3>
+               	    <hr>
+                </div>
 
                    <div class="row">
 	                <div class="col-md-6">
@@ -73,8 +75,8 @@
 	                    <form method="post" style="margin-bottom:5px" action="{{ route('contactus_store') }}">
                         @csrf
 	                        <div class="form-group">
-	                            <label>Full name</label>
-	                            <input type="text" id="input-field" name="name" class="form-control" required>
+                                <label for="input-field">Full name</label>
+                                <input type="text" id="input-field" name="name" class="form-control" required>
 	                        </div>
 	                        <div class="form-group">
 	                            <label>Email</label>
