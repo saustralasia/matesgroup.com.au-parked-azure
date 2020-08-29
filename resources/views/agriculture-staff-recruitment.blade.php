@@ -52,15 +52,13 @@ Agriculture local staff recruitment company in Brisbane,
 
 
 @section('content')
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center">
             <h1 class="white line-12 text-45">Mates Group: Quality Farm Workers Hire Company</h1>
-        </center>
     </div>
     <div class="single-content">
 
         <div class="container">
-            <div class="col-md-12" class="text-justify">
+            <div class="col-md-12, text-justify">
                 <p><strong>Mates Group</strong> is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers.</p>
 
                 <h2><strong>Farm workers (Agriculture)</strong></h2>

@@ -1,18 +1,17 @@
 @extends('layouts.master', ['title' =>'Our Approach'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/approach.png')}}">
+    <img src="{{asset('images/approach.png')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#000">Our Approach</h2>-->
     </div>
 </div>
 <div class="single-content">
-   <center>
-       <h2 class="extra-h2">Our Approach</h2>
+       <h2 class="extra-h2" style="text-align: center">Our Approach</h2>
        <hr>
-   </center>
+
     <div class="container">
-    <div class="col-md-12" class="text-justify">
+    <div class="col-md-12, text-justify" >
     <p>Our approach is to conduct our business in an honest and ethical manner and respecting all.</p>
 
     <p><strong>Producing enduring connections</strong><br>

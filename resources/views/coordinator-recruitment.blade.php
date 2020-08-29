@@ -50,8 +50,8 @@ local Coordinator recruitment company in Brisbane,
 @section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide coordinator recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
-    <center>
+    <div style="text-align: center">
         <h1 class="extra-h2">Mates Group: Trusted Coordinator Hire Company</h1>
         <p>UNDER CONSTRUCTION</p>
-    </center>
+    </div>
 @endsection
