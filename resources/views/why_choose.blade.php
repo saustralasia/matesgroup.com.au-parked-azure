@@ -1,20 +1,19 @@
 @extends('layouts.master', ['title' => 'WHY CHOOSE US'])
 @section('content')
 <div class="page-head-area">
-    <img src="{{asset('images/choose.jpg')}}">
+    <img src="{{asset('images/choose.jpg')}}" alt="">
     <div class="page-text">
 <!--        <h2 style="color:#fff">Our Vision</h2>-->
     </div>
 </div>
 <div class="single-content">
-   <center>
-       <h2 class="extra-h2">
+       <h2 class="extra-h2" style="text-align: center;">
             WHY CHOOSE US
         </h2>
        <hr>
-   </center>
+
     <div class="container">
-    <div class="col-md-12" class="text-justify">
+    <div class="col-md-12, text-justify">
     <p>We’re confident that we are the only international business support & services company that provides following benefits to your company.</p>
 
         <ul class="choose">

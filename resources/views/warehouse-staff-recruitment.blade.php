@@ -50,15 +50,13 @@ Warehouse local staff recruitment company in Brisbane,
 
 
 @section('content')
-    <div class="header-banner">
-        <center>
+    <div class="header-banner" style="text-align: center;">
             <h1 class="white line-12 text-45">Mates Group: Trusted Warehouse People Hire Company</h1>
-        </center>
     </div>
     <div class="single-content">
 
         <div class="container">
-            <div class="col-md-12" class="text-justify">
+            <div class="col-md-12, text-justify">
                 <p style="font-size:30px; color:#660066;"><strong>We provide warehouse staff recruitment service Australia</strong></p>
                 <p style="font-size:20px; color: #3366ff"><strong>Looking for staff for your warehouse?</strong></p>
                 <p>Group Mates provides you pre-screened warehouse staff. We will let you to have the greatest qualified warehouse staff. We provide perfect warehouse staff recruitment service Australia.</p>
@@ -83,7 +81,7 @@ Warehouse local staff recruitment company in Brisbane,
                     <li>-Order Fulfilment Staff</li>
                     <li>-MR/HR Drivers</li>
                 </ul>
-                </p>
+
 
             </div>
         </div>
