@@ -78,6 +78,19 @@ local staff recruitment company in Brisbane,
         #more16{display: none;}
         #more17{display: none;}
         #more18{display: none;}
+        /*19,20 for table 6*/
+        #more19{display: none;}
+        #more20{display: none;}
+        /*21 22 23 24 for table 7*/
+        #more21{display: none;}
+        #more22{display: none;}
+        #more23{display: none;}
+        #more24{display: none;}
+        /*25, 26, 27, 28 for table 8*/
+        #more25{display: none;}
+        #more26{display: none;}
+        #more27{display: none;}
+        #more28{display: none;}
     </style>
 
 <br>
@@ -712,11 +725,14 @@ local staff recruitment company in Brisbane,
 				    	                <li>Data analyst</li>
 				    	                <li>Graphic designer</li>
 				    	                <li>Systems administrator</li>
+                                        <span id="dots19"></span>
+                                        <span id="more19">
 				    	                <li>Web designer </li>
 				    	                <li>Technical support</li>
 				    	                <li>Computer programmer</li>
 				    	                <li>Software developer</li>
 				    	                <li>Cloud computing specialist</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -724,15 +740,19 @@ local staff recruitment company in Brisbane,
 				    	                <li>Computer repair technician</li>
 				    	                <li>Assembler</li>
 				    	                <li>Computer aided drafter</li>
+                                        <span id="dots20"></span>
+                                        <span id="more20">
 				    	                <li>Tester</li>
 				    	                <li>Helpdesk technician</li>
 				    	                <li>Operations technician</li>
 				    	                <li>Desktop support analyst</li>
 				    	                <li>IT hardware sales professional</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	    </tr>
 				    	</table>
+                        <button onclick="read_more_less6()" class="btn btn-success" id="mybtn6">Read more</button>
                     </div>
 	 	        </div>
             </div>
@@ -776,8 +796,11 @@ local staff recruitment company in Brisbane,
                                 <li>Labourer</li>
                                 <li>Electrician</li>
                                 <li>Plumber</li>
+                                <span id="dots21"></span>
+                                <span id="more21">
                                 <li>Engineer</li>
                                 <li>Architect</li>
+                                </span>
                             </ul>
                         </td>
                         <td>
@@ -785,7 +808,10 @@ local staff recruitment company in Brisbane,
                                 <li>Warehouse</li>
                                 <li>Dry Cleaning and Laundry</li>
                                 <li>Gardening</li>
+                                <span id="dots22"></span>
+                                <span id="more22">
                                 <li>Manufacturing</li>
+                                </span>
                             </ul>
                         </td>
                         <td>
@@ -793,6 +819,9 @@ local staff recruitment company in Brisbane,
                                 <li>Pre-building</li>
                                 <li>Building process </li>
                                 <li>Post building</li>
+                                <span id="dots20"></span>
+                                <span id="more20">
+                                </span>
                             </ul>
                         </td>
                         <td>
@@ -800,12 +829,16 @@ local staff recruitment company in Brisbane,
                                 <li>Accounting</li>
                                 <li>Administration</li>
                                 <li>It and technology</li>
+                                <span id="dots24"></span>
+                                <span id="more24">
                                 <li>Recruitment and selection</li>
                                 <li>HR</li>
+                                </span>
                             </ul>
                         </td>
                     </tr>
                 </table>
+               <button onclick="read_more_less7()" class="btn btn-success" id="mybtn7">Read more</button>
             </div>
 	 	</div>
     </div>
@@ -910,9 +943,12 @@ local staff recruitment company in Brisbane,
 				    	                <li>Warehouse picker</li>
 				    	                <li>Warehouse admin</li>
 				    	                <li>Forklift driver</li>
+                                        <span id="dots25"></span>
+                                        <span id="more25">
 				    	                <li>Van driver </li>
 				    	                <li>Cutter</li>
 				    	                <li>General hand</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -920,9 +956,12 @@ local staff recruitment company in Brisbane,
 				    	                <li>Dry cleaner</li>
 				    	                <li>Presser</li>
 				    	                <li>Customer service</li>
+                                        <span id="dots26"></span>
+                                        <span id="more26">
 				    	                <li>Laundry hand</li>
 				    	                <li>Laundry machine operator</li>
 				    	                <li>Folder/ironer</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -930,9 +969,12 @@ local staff recruitment company in Brisbane,
 				    	                <li>Horticulturalist</li>
 				    	                <li>General gardener</li>
 				    	                <li>Garden labourer</li>
+                                        <span id="dots27"></span>
+                                        <span id="more27">
 				    	                <li>Laundry hand</li>
 				    	                <li>Weeder</li>
 				    	                <li>Garden maintenance</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -940,13 +982,16 @@ local staff recruitment company in Brisbane,
 				    	                <li>Production worker</li>
 				    	                <li>Production assembly operator</li>
 				    	                <li>Manufacturing packer</li>
+                                        <span id="dots28"></span>
+                                        <span id="more28">
 				    	                <li>Assembler</li>
 				    	                <li>Manufacturing general hand</li>
-
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	    </tr>
 				    	</table>
+                        <button onclick="read_more_less8()" class="btn btn-success" id="mybtn8">Read more</button>
                     </div>
 	 	        </div>
             </div>
@@ -1274,6 +1319,188 @@ local staff recruitment company in Brisbane,
                     mybtn5.innerHTML="Read less";
                 }
 
+            }
+        </script>
+        <script>
+            function read_more_less6()
+            {
+                var dots19 = document.getElementById('dots19');
+                var moretext19 = document.getElementById('more19');
+                var mybtn6 = document.getElementById('mybtn5');
+
+                if (dots19.style.display === 'none')
+                {
+                    dots19.style.display='inline';
+                    moretext19.style.display='none';
+                    mybtn6.innerHTML="Read more";
+                }
+                else
+                {
+                    dots19.style.display="none";
+                    moretext19.style.display="inline";
+                    mybtn6.innerHTML="Read less";
+                }
+
+                var dots20 = document.getElementById('dots20');
+                var moretext20 = document.getElementById('more20');
+
+
+                if (dots20.style.display === 'none')
+                {
+                    dots20.style.display='inline';
+                    moretext20.style.display='none';
+                    mybtn6.innerHTML="Read more";
+                }
+                else
+                {
+                    dots20.style.display="none";
+                    moretext20.style.display="inline";
+                    mybtn6.innerHTML="Read less";
+                }
+            }
+        </script>
+        <script>
+            function read_more_less7()
+            {
+                var dots21 = document.getElementById('dots21');
+                var moretext21 = document.getElementById('more21');
+                var mybtn7 = document.getElementById('mybtn7');
+
+                if (dots21.style.display === 'none')
+                {
+                    dots21.style.display='inline';
+                    moretext21.style.display='none';
+                    mybtn7.innerHTML="Read more";
+                }
+                else
+                {
+                    dots21.style.display="none";
+                    moretext21.style.display="inline";
+                    mybtn7.innerHTML="Read less";
+                }
+
+                var dots22 = document.getElementById('dots22');
+                var moretext22 = document.getElementById('more22');
+
+
+                if (dots22.style.display === 'none')
+                {
+                    dots22.style.display='inline';
+                    moretext22.style.display='none';
+                    mybtn7.innerHTML="Read more";
+                }
+                else
+                {
+                    dots22.style.display="none";
+                    moretext22.style.display="inline";
+                    mybtn7.innerHTML="Read less";
+                }
+
+                var dots23 = document.getElementById('dots23');
+                var moretext23 = document.getElementById('more23');
+
+
+                if (dots23.style.display === 'none')
+                {
+                    dots23.style.display='inline';
+                    moretext23.style.display='none';
+                    mybtn7.innerHTML="Read more";
+                }
+                else
+                {
+                    dots23.style.display="none";
+                    moretext23.style.display="inline";
+                    mybtn7.innerHTML="Read less";
+                }
+
+                var dots24 = document.getElementById('dots24');
+                var moretext24 = document.getElementById('more24');
+
+
+                if (dots24.style.display === 'none')
+                {
+                    dots24.style.display='inline';
+                    moretext24.style.display='none';
+                    mybtn7.innerHTML="Read more";
+                }
+                else
+                {
+                    dots24.style.display="none";
+                    moretext24.style.display="inline";
+                    mybtn7.innerHTML="Read less";
+                }
+            }
+        </script>
+        <script>
+            function read_more_less8()
+            {
+                var dots25 = document.getElementById('dots25');
+                var moretext25 = document.getElementById('more25');
+                var mybtn8 = document.getElementById('mybtn8');
+
+                if (dots25.style.display === 'none')
+                {
+                    dots25.style.display='inline';
+                    moretext25.style.display='none';
+                    mybtn8.innerHTML="Read more";
+                }
+                else
+                {
+                    dots25.style.display="none";
+                    moretext25.style.display="inline";
+                    mybtn8.innerHTML="Read less";
+                }
+
+                var dots26 = document.getElementById('dots26');
+                var moretext26 = document.getElementById('more26');
+
+
+                if (dots26.style.display === 'none')
+                {
+                    dots26.style.display='inline';
+                    moretext26.style.display='none';
+                    mybtn8.innerHTML="Read more";
+                }
+                else
+                {
+                    dots26.style.display="none";
+                    moretext26.style.display="inline";
+                    mybtn8.innerHTML="Read less";
+                }
+
+                var dots27 = document.getElementById('dots27');
+                var moretext27 = document.getElementById('more27');
+
+
+                if (dots27.style.display === 'none')
+                {
+                    dots27.style.display='inline';
+                    moretext27.style.display='none';
+                    mybtn8.innerHTML="Read more";
+                }
+                else
+                {
+                    dots27.style.display="none";
+                    moretext27.style.display="inline";
+                    mybtn8.innerHTML="Read less";
+                }
+
+                var dots28 = document.getElementById('dots28');
+                var moretext28 = document.getElementById('more28');
+
+
+                if (dots28.style.display === 'none')
+                {
+                    dots28.style.display='inline';
+                    moretext28.style.display='none';
+                    mybtn8.innerHTML="Read more";
+                }
+                else
+                {
+                    dots28.style.display="none";
+                    moretext28.style.display="inline";
+                    mybtn8.innerHTML="Read less";
+                }
             }
         </script>
 
