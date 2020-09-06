@@ -55,10 +55,15 @@ local staff recruitment company in Brisbane,
 @section('content')
 
     <style>
+        /*1,2,3,4 for table 1*/
         #more {display: none;}
         #more2{display: none;}
         #more3{display: none;}
         #more4{display: none;}
+        /*5,6,7 for table 2*/
+        #more5{display: none;}
+        #more6{display: none;}
+        #more7{display: none;}
     </style>
 
 <br>
@@ -307,8 +312,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Linemen</li>
 				    	                <li>Fencer</li>
 				    	                <li>Glazier </li>
-{{--                                        <span id="dots">...</span>--}}
-{{--                                        <span id="more">--}}
+                                        <span id="dots5"></span>
+                                        <span id="more5">
 				    	                <li>Heavy equipment operator,</li>
 				    	                <li>Insulation installer</li>
 				    	                <li>Ironworker (or steel erector</li>
@@ -324,7 +329,7 @@ local staff recruitment company in Brisbane,
 				    	                <li>Project Assistant</li>
 				    	                <li>Framing Carpenter</li>
 				    	                <li>Safety Director</li>
-{{--                                        </span>--}}
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -333,8 +338,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Joiner</li>
 				    	                <li>Inspector</li>
 				    	                <li>Plasterer </li>
-{{--                                        <span id="dots">...</span>--}}
-{{--                                        <span id="more">--}}
+                                        <span id="dots6"></span>
+                                        <span id="more6">
 				    	                <li>Dry Wall Finisher</li>
 				    	                <li>Dry wall Installer</li>
 				    	                <li>Planner</li>
@@ -350,7 +355,7 @@ local staff recruitment company in Brisbane,
 				    	                <li>Contract Administrator</li>
 				    	                <li>Scheduler</li>
 				    	                <li>Field Engineer</li>
-{{--                                        </span>--}}
+                                        </span>
 				    	            </ul>
 				    	        </td>
 
@@ -360,8 +365,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Pipefitter</li>
 				    	                <li>Crane Operator</li>
 				    	                <li>Carpet layer</li>
-{{--                                        <span id="dots">...</span>--}}
-{{--                                        <span id="more">--}}
+                                        <span id="dots7"></span>
+                                        <span id="more7">
 				    	                <li>Sheet metal worker </li>
 				    	                <li>Safety manager / Safety Officer</li>
 				    	                <li>Site manager</li>
@@ -376,12 +381,12 @@ local staff recruitment company in Brisbane,
 				    	                <li>Construction Superintendent</li>
 				    	                <li>Construction Supervisor</li>
 				    	                <li>Construction Worker</li>
-{{--                                        </span>--}}
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	    </tr>
 				    	</table>
-{{--                        <button onclick="read_more_less()" class="btn btn-success" id="mybtn">Read more</button>--}}
+                        <button onclick="read_more_less2()" class="btn btn-success" id="mybtn2">Read more</button>
 				    </div>
 	 	        </div>
             </div>
@@ -934,7 +939,6 @@ local staff recruitment company in Brisbane,
 
                 var dots2 = document.getElementById('dots2');
                 var moretext2 = document.getElementById('more2');
-                // var mybtn = document.getElementById('mybtn');
 
                 if (dots2.style.display === 'none')
                 {
@@ -980,6 +984,61 @@ local staff recruitment company in Brisbane,
                     moretext4.style.display="inline";
                     mybtn.innerHTML="Read less";
                 }
+            }
+        </script>
+        <script>
+            function read_more_less2()
+            {
+                var dots5 = document.getElementById('dots5');
+                var moretext5 = document.getElementById('more5');
+                var mybtn2 = document.getElementById('mybtn2');
+
+                if (dots5.style.display === 'none')
+                {
+                    dots5.style.display='inline';
+                    moretext5.style.display='none';
+                    mybtn2.innerHTML="Read more";
+                }
+                else
+                {
+                    dots5.style.display="none";
+                    moretext5.style.display="inline";
+                    mybtn2.innerHTML="Read less";
+                }
+
+                var dots6 = document.getElementById('dots6');
+                var moretext6 = document.getElementById('more6');
+
+
+                if (dots6.style.display === 'none')
+                {
+                    dots6.style.display='inline';
+                    moretext6.style.display='none';
+                    mybtn2.innerHTML="Read more";
+                }
+                else
+                {
+                    dots6.style.display="none";
+                    moretext6.style.display="inline";
+                    mybtn2.innerHTML="Read less";
+                }
+
+                var dots7 = document.getElementById('dots7');
+                var moretext7 = document.getElementById('more7');
+
+                if (dots7.style.display === 'none')
+                {
+                    dots7.style.display='inline';
+                    moretext7.style.display='none';
+                    mybtn2.innerHTML="Read more";
+                }
+                else
+                {
+                    dots7.style.display="none";
+                    moretext7.style.display="inline";
+                    mybtn2.innerHTML="Read less";
+                }
+
             }
         </script>
 
