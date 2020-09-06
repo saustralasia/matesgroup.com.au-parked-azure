@@ -68,6 +68,11 @@ local staff recruitment company in Brisbane,
         #more8{display: none;}
         #more9{display: none;}
         #more10{display: none;}
+        /*11,12,13,14 for table 4*/
+        #more11{display: none;}
+        #more12{display: none;}
+        #more13{display: none;}
+        #more14{display: none;}
     </style>
 
 <br>
@@ -507,10 +512,13 @@ local staff recruitment company in Brisbane,
                                 <li>Vegetable grower</li>
                                 <li>Tractor operator</li>
                                 <li>Farm hand</li>
+                                <span id="dots11"></span>
+                                <span id="more11">
                                 <li>Washing/cleaning</li>
                                 <li>Vegetable pickers</li>
                                 <li>Vegetable packers</li>
                                 <li>Stock control clerk</li>
+                                </span>
                             </ul>
                         </td>
                         <td>
@@ -518,9 +526,11 @@ local staff recruitment company in Brisbane,
                                 <li>Fruit pickers</li>
                                 <li>Forklift operator</li>
                                 <li>Administration clerk</li>
+                                <span id="dots12"></span>
+                                <span id="more12">
                                 <li>Fruit grower</li>
                                 <li>Orchard hand</li>
-
+                                </span>
                             </ul>
                         </td>
                         <td>
@@ -528,7 +538,10 @@ local staff recruitment company in Brisbane,
                                 <li>Dairy farm hand</li>
                                 <li>Heard manager</li>
                                 <li>Milkers</li>
+                                <span id="dots13"></span>
+                                <span id="more13">
                                 <li>Calf rearing</li>
+                                </span>
                             </ul>
                         </td>
                         <td>
@@ -536,12 +549,16 @@ local staff recruitment company in Brisbane,
                                 <li>General farm work</li>
                                 <li>Weed sprayingr</li>
                                 <li>Painting job</li>
+                                <span id="dots14"></span>
+                                <span id="more14">
                                 <li>Farm sitter</li>
                                 <li>Turf cleaning</li>
+                                </span>
                             </ul>
                         </td>
                     </tr>
 				</table>
+               <button onclick="read_more_less4()" class="btn btn-success" id="mybtn4">Read more</button>
             </div>
 	 	   </div>
         </div>
@@ -1096,6 +1113,77 @@ local staff recruitment company in Brisbane,
                     dots10.style.display="none";
                     moretext10.style.display="inline";
                     mybtn3.innerHTML="Read less";
+                }
+
+            }
+        </script>
+        <script>
+            function read_more_less4()
+            {
+                var dots11 = document.getElementById('dots11');
+                var moretext11 = document.getElementById('more11');
+                var mybtn4 = document.getElementById('mybtn4');
+
+                if (dots11.style.display === 'none')
+                {
+                    dots11.style.display='inline';
+                    moretext11.style.display='none';
+                    mybtn4.innerHTML="Read more";
+                }
+                else
+                {
+                    dots11.style.display="none";
+                    moretext11.style.display="inline";
+                    mybtn4.innerHTML="Read less";
+                }
+
+                var dots12 = document.getElementById('dots12');
+                var moretext12 = document.getElementById('more12');
+
+
+                if (dots12.style.display === 'none')
+                {
+                    dots12.style.display='inline';
+                    moretext12.style.display='none';
+                    mybtn4.innerHTML="Read more";
+                }
+                else
+                {
+                    dots12.style.display="none";
+                    moretext12.style.display="inline";
+                    mybtn4.innerHTML="Read less";
+                }
+
+                var dots13 = document.getElementById('dots13');
+                var moretext13 = document.getElementById('more13');
+
+                if (dots13.style.display === 'none')
+                {
+                    dots13.style.display='inline';
+                    moretext13.style.display='none';
+                    mybtn4.innerHTML="Read more";
+                }
+                else
+                {
+                    dots13.style.display="none";
+                    moretext13.style.display="inline";
+                    mybtn4.innerHTML="Read less";
+                }
+
+                var dots14 = document.getElementById('dots14');
+                var moretext14 = document.getElementById('more14');
+
+                if (dots14.style.display === 'none')
+                {
+                    dots14.style.display='inline';
+                    moretext14.style.display='none';
+                    mybtn4.innerHTML="Read more";
+                }
+                else
+                {
+                    dots14.style.display="none";
+                    moretext14.style.display="inline";
+                    mybtn4.innerHTML="Read less";
                 }
 
             }

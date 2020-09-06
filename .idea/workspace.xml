@@ -218,14 +218,7 @@
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
       <workItem from="1598676000842" duration="13129000" />
-      <workItem from="1599370060929" duration="12630000" />
-    </task>
-    <task id="LOCAL-00030" summary="new meta_keywords adding in &#10;-international-staff-recruitment">
-      <created>1598266932288</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1598266932288</updated>
+      <workItem from="1599370060929" duration="13365000" />
     </task>
     <task id="LOCAL-00031" summary="new meta_keywords adding in &#10;-warehouse-staff-recruitment">
       <created>1598271561914</created>
@@ -563,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599387327037</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="-Table 3 hiding">
+      <created>1599387959112</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1599387959113</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +582,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-forklift-driver-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-truck-driver-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-security-guard-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-chicken-catcher-recruitment" />
@@ -607,7 +606,8 @@
     <MESSAGE value="-bug fixing" />
     <MESSAGE value="-Table hiding" />
     <MESSAGE value="-Table 2 hiding" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Table 2 hiding" />
+    <MESSAGE value="-Table 3 hiding" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Table 3 hiding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -616,10 +616,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1599387325240">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1599387957194">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599387325240" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599387957194" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599370114293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
