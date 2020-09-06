@@ -73,6 +73,11 @@ local staff recruitment company in Brisbane,
         #more12{display: none;}
         #more13{display: none;}
         #more14{display: none;}
+        /*15, 16, 17, 18 for table 5*/
+        #more15{display: none;}
+        #more16{display: none;}
+        #more17{display: none;}
+        #more18{display: none;}
     </style>
 
 <br>
@@ -599,6 +604,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Building control surveyor</li>
 				    	                <li>Consulting civil engineer</li>
 				    	                <li>Contracting civil engineer</li>
+                                        <span id="dots15"></span>
+                                        <span id="more15">
 				    	                <li>Design engineer</li>
 				    	                <li>Site engineer</li>
 				    	                <li>Structural engineer</li>
@@ -609,6 +616,7 @@ local staff recruitment company in Brisbane,
 				    	                <li>Quantity surveyor</li>
 				    	                <li>Sustainability consultant</li>
 				    	                <li>Urban designer</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -616,13 +624,15 @@ local staff recruitment company in Brisbane,
 				    	                <li>Project Engineer</li>
 				    	                <li>Senior software Engineer</li>
 				    	                <li>E engineering manager</li>
+                                        <span id="dots16"></span>
+                                        <span id="more16">
 				    	                <li>Electrics technician</li>
 				    	                <li>Electrical project engineer</li>
 				    	                <li>Principal electric engineer</li>
 				    	                <li>Design Engineer</li>
 				    	                <li>System design engineer</li>
 				    	                <li>Engineering Associate</li>
-
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -630,6 +640,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Coastal/Marine Environmental</li>
 				    	                <li>Scientist</li>
 				    	                <li>Marine Project Engineer</li>
+                                        <span id="dots17"></span>
+                                        <span id="more17">
 				    	                <li>Marine Design Engineers</li>
 				    	                <li>Projects Planners Estimators (Marine Engineering/Machining</li>
 				    	                <li>Senior Marine Engineer</li>
@@ -637,6 +649,7 @@ local staff recruitment company in Brisbane,
 				    	                <li>Construction manager</li>
 				    	                <li>Maintenance technician</li>
 				    	                <li>Maintenance supervisor</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -644,6 +657,8 @@ local staff recruitment company in Brisbane,
 				    	              <li>Sitecore senior developer</li>
 				    	              <li>Software engineering intern</li>
 				    	              <li>Software engineering graduate</li>
+                                      <span id="dots18"></span>
+                                      <span id="more18">
 				    	              <li>Embedded wireless engineer</li>
 				    	              <li>Data centre operations</li>
 				    	              <li>Computer systems validation specialist</li>
@@ -653,10 +668,12 @@ local staff recruitment company in Brisbane,
 				    	              <li>Android engineer</li>
 				    	              <li>Networking consultant</li>
 				    	              <li>developers</li>
+                                      </span>
 				    	            </ul>
 				    	        </td>
 				    	    </tr>
 				    	</table>
+                        <button onclick="read_more_less5()" class="btn btn-success" id="mybtn5">Read more</button>
                   </div>
 	 	        </div>
             </div>
@@ -1184,6 +1201,77 @@ local staff recruitment company in Brisbane,
                     dots14.style.display="none";
                     moretext14.style.display="inline";
                     mybtn4.innerHTML="Read less";
+                }
+
+            }
+        </script>
+        <script>
+            function read_more_less5()
+            {
+                var dots15 = document.getElementById('dots15');
+                var moretext15 = document.getElementById('more15');
+                var mybtn5 = document.getElementById('mybtn5');
+
+                if (dots15.style.display === 'none')
+                {
+                    dots15.style.display='inline';
+                    moretext15.style.display='none';
+                    mybtn5.innerHTML="Read more";
+                }
+                else
+                {
+                    dots15.style.display="none";
+                    moretext15.style.display="inline";
+                    mybtn5.innerHTML="Read less";
+                }
+
+                var dots16 = document.getElementById('dots16');
+                var moretext16 = document.getElementById('more16');
+
+
+                if (dots16.style.display === 'none')
+                {
+                    dots16.style.display='inline';
+                    moretext16.style.display='none';
+                    mybtn5.innerHTML="Read more";
+                }
+                else
+                {
+                    dots16.style.display="none";
+                    moretext16.style.display="inline";
+                    mybtn5.innerHTML="Read less";
+                }
+
+                var dots17 = document.getElementById('dots17');
+                var moretext17 = document.getElementById('more17');
+
+                if (dots17.style.display === 'none')
+                {
+                    dots17.style.display='inline';
+                    moretext17.style.display='none';
+                    mybtn5.innerHTML="Read more";
+                }
+                else
+                {
+                    dots17.style.display="none";
+                    moretext17.style.display="inline";
+                    mybtn5.innerHTML="Read less";
+                }
+
+                var dots18 = document.getElementById('dots18');
+                var moretext18 = document.getElementById('more18');
+
+                if (dots18.style.display === 'none')
+                {
+                    dots18.style.display='inline';
+                    moretext18.style.display='none';
+                    mybtn5.innerHTML="Read more";
+                }
+                else
+                {
+                    dots18.style.display="none";
+                    moretext18.style.display="inline";
+                    mybtn5.innerHTML="Read less";
                 }
 
             }
