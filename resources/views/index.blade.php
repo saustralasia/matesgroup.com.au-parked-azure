@@ -54,6 +54,12 @@ local staff recruitment company in Brisbane,
 
 @section('content')
 
+    <style>
+        #more {display: none;}
+        #more2{display: none;}
+        #more3{display: none;}
+        #more4{display: none;}
+    </style>
 
 <br>
 <div class="main-area">
@@ -208,45 +214,63 @@ local staff recruitment company in Brisbane,
 				    	        <th>IT and Technology</th>
 				    	        <th>Recruitment and selection</th>
 				    	    </tr>
+
 				    	    <tr>
 				    	        <td>
 				    	            <ul class="tab-l">
 				    	                <li>Payroll officer</li>
+                                        <span id="dots">...</span>
+                                        <span id="more">
 				    	                <li>Book keeper</li>
 				    	                <li>Accounts payable officer</li>
 				    	                <li>Assistant accountant</li>
 				    	                <li>Financial analyst</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
+
 				    	        <td>
 				    	            <ul class="tab-l">
 				    	                <li>Office administrator</li>
+                                        <span id="dots2"></span>
+                                        <span id="more2">
 				    	                <li>Executive assistant</li>
 				    	                <li>Receptionist</li>
 				    	                <li>Customer service officer</li>
-				    	                <li>coordinator</li>
+                                        <li>coordinator</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
 				    	            <ul class="tab-l">
 				    	                <li>IT Business Analyst</li>
-				    	                <li>Network administrator</li>
+                                        <span id="dots3">...</span>
+                                        <span id="more3">
+                                        <li>Network administrator</li>
 				    	                <li>Database developer</li>
 				    	                <li>Systems engineer</li>
 				    	                <li>Help desk officer</li>
+                                        </span>
 				    	            </ul>
 				    	        </td>
 				    	        <td>
                                     <ul class="tab-l">
                                         <li>Recruitment consultant </li>
+                                        <span id="dots4"></span>
+                                        <span id="more4">
                                         <li>Business development manager</li>
                                         <li>Sales consultant</li>
                                         <li>Assistant recruitment consultant</li>
                                         <li>Assistant business development executive</li>
+                                        </span>
                                     </ul>
-				               </td>
-				         </tr>
+                                </td>
+
+				            </tr>
+
 				    </table>
+
+                    <button onclick="read_more_less()" class="btn btn-success" id="mybtn">Read more</button>
                 </div>
 	 	    </div>
         </div>
@@ -283,6 +307,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Linemen</li>
 				    	                <li>Fencer</li>
 				    	                <li>Glazier </li>
+{{--                                        <span id="dots">...</span>--}}
+{{--                                        <span id="more">--}}
 				    	                <li>Heavy equipment operator,</li>
 				    	                <li>Insulation installer</li>
 				    	                <li>Ironworker (or steel erector</li>
@@ -298,6 +324,7 @@ local staff recruitment company in Brisbane,
 				    	                <li>Project Assistant</li>
 				    	                <li>Framing Carpenter</li>
 				    	                <li>Safety Director</li>
+{{--                                        </span>--}}
 				    	            </ul>
 				    	        </td>
 				    	        <td>
@@ -306,6 +333,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Joiner</li>
 				    	                <li>Inspector</li>
 				    	                <li>Plasterer </li>
+{{--                                        <span id="dots">...</span>--}}
+{{--                                        <span id="more">--}}
 				    	                <li>Dry Wall Finisher</li>
 				    	                <li>Dry wall Installer</li>
 				    	                <li>Planner</li>
@@ -321,6 +350,7 @@ local staff recruitment company in Brisbane,
 				    	                <li>Contract Administrator</li>
 				    	                <li>Scheduler</li>
 				    	                <li>Field Engineer</li>
+{{--                                        </span>--}}
 				    	            </ul>
 				    	        </td>
 
@@ -330,6 +360,8 @@ local staff recruitment company in Brisbane,
 				    	                <li>Pipefitter</li>
 				    	                <li>Crane Operator</li>
 				    	                <li>Carpet layer</li>
+{{--                                        <span id="dots">...</span>--}}
+{{--                                        <span id="more">--}}
 				    	                <li>Sheet metal worker </li>
 				    	                <li>Safety manager / Safety Officer</li>
 				    	                <li>Site manager</li>
@@ -344,10 +376,12 @@ local staff recruitment company in Brisbane,
 				    	                <li>Construction Superintendent</li>
 				    	                <li>Construction Supervisor</li>
 				    	                <li>Construction Worker</li>
+{{--                                        </span>--}}
 				    	            </ul>
 				    	        </td>
 				    	    </tr>
 				    	</table>
+{{--                        <button onclick="read_more_less()" class="btn btn-success" id="mybtn">Read more</button>--}}
 				    </div>
 	 	        </div>
             </div>
@@ -387,14 +421,19 @@ local staff recruitment company in Brisbane,
                         <ul class="tab-l">
                             <li>Naval Architect </li>
                             <li>Ship/Submarine designers </li>
+{{--                            <span id="dots">...</span>--}}
+{{--                            <span id="more">--}}
                             <li>Mechanical Engineer</li>
                             <li>Electrical Engineers</li>
+{{--                            </span>--}}
                         </ul>
                     </td>
                     <td>
                         <ul class="tab-l">
                             <li>Welders</li>
                             <li>Solderers</li>
+{{--                            <span id="dots">...</span>--}}
+{{--                            <span id="more">--}}
                             <li>Structural Fabricators</li>
                             <li>Plumbers</li>
                             <li>Electricians</li>
@@ -402,16 +441,21 @@ local staff recruitment company in Brisbane,
                             <li>Riggers</li>
                             <li>Supervisors</li>
                             <li>Marine Surveyors</li>
+{{--                            </span>--}}
                         </ul>
                     </td>
                     <td>
                         <ul class="tab-l">
                             <li>Quality Control Inspectors</li>
                             <li>Painters</li>
+{{--                            <span id="dots">...</span>--}}
+{{--                            <span id="more">--}}
                             <li>Interior Plasterers</li>
+{{--                            </span>--}}
                         </ul>
                     </td>
                 </table>
+{{--                    <button onclick="read_more_less()" class="btn btn-success" id="mybtn">Read more</button>--}}
               </div>
 	 	   </div>
         </div>
@@ -866,6 +910,100 @@ local staff recruitment company in Brisbane,
         </div>
     </div>
 
+
+
+        <script>
+            function read_more_less()
+            {
+                var dots = document.getElementById('dots');
+                var moretext = document.getElementById('more');
+                var mybtn = document.getElementById('mybtn');
+
+                if (dots.style.display === 'none')
+                {
+                    dots.style.display='inline';
+                    moretext.style.display='none';
+                    mybtn.innerHTML="Read more";
+                }
+                else
+                {
+                    dots.style.display="none";
+                    moretext.style.display="inline";
+                    mybtn.innerHTML="Read less";
+                }
+
+                var dots2 = document.getElementById('dots2');
+                var moretext2 = document.getElementById('more2');
+                // var mybtn = document.getElementById('mybtn');
+
+                if (dots2.style.display === 'none')
+                {
+                    dots2.style.display='inline';
+                    moretext2.style.display='none';
+                    mybtn.innerHTML="Read more";
+                }
+                else
+                {
+                    dots2.style.display="none";
+                    moretext2.style.display="inline";
+                    mybtn.innerHTML="Read less";
+                }
+
+                var dots3 = document.getElementById('dots3');
+                var moretext3 = document.getElementById('more3');
+
+                if (dots3.style.display === 'none')
+                {
+                    dots3.style.display='inline';
+                    moretext3.style.display='none';
+                    mybtn.innerHTML="Read more";
+                }
+                else
+                {
+                    dots3.style.display="none";
+                    moretext3.style.display="inline";
+                    mybtn.innerHTML="Read less";
+                }
+
+                var dots4 = document.getElementById('dots4');
+                var moretext4 = document.getElementById('more4');
+
+                if (dots4.style.display === 'none')
+                {
+                    dots4.style.display='inline';
+                    moretext4.style.display='none';
+                    mybtn.innerHTML="Read more";
+                }
+                else
+                {
+                    dots4.style.display="none";
+                    moretext4.style.display="inline";
+                    mybtn.innerHTML="Read less";
+                }
+            }
+        </script>
+
+{{--        <script>--}}
+{{--            function read_more_less2()--}}
+{{--            {--}}
+{{--                var dots = document.getElementById('dots2');--}}
+{{--                var moretext = document.getElementById('more2');--}}
+{{--                var mybtn = document.getElementById('mybtn2');--}}
+
+{{--                if (dots.style.display === 'none')--}}
+{{--                {--}}
+{{--                    dots.style.display='inline';--}}
+{{--                    moretext.style.display='none';--}}
+{{--                    mybtn.innerHTML="Read more";--}}
+{{--                }--}}
+{{--                else--}}
+{{--                {--}}
+{{--                    dots.style.display="none";--}}
+{{--                    moretext.style.display="inline";--}}
+{{--                    mybtn.innerHTML="Read less";--}}
+{{--                }--}}
+{{--            }--}}
+{{--        </script>--}}
 
 
 
