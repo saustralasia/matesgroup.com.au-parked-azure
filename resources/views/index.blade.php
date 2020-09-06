@@ -64,6 +64,10 @@ local staff recruitment company in Brisbane,
         #more5{display: none;}
         #more6{display: none;}
         #more7{display: none;}
+        /*8,9,10 for table 3*/
+        #more8{display: none;}
+        #more9{display: none;}
+        #more10{display: none;}
     </style>
 
 <br>
@@ -426,19 +430,19 @@ local staff recruitment company in Brisbane,
                         <ul class="tab-l">
                             <li>Naval Architect </li>
                             <li>Ship/Submarine designers </li>
-{{--                            <span id="dots">...</span>--}}
-{{--                            <span id="more">--}}
+                            <span id="dots8">...</span>
+                            <span id="more8">
                             <li>Mechanical Engineer</li>
                             <li>Electrical Engineers</li>
-{{--                            </span>--}}
+                            </span>
                         </ul>
                     </td>
                     <td>
                         <ul class="tab-l">
                             <li>Welders</li>
                             <li>Solderers</li>
-{{--                            <span id="dots">...</span>--}}
-{{--                            <span id="more">--}}
+                            <span id="dots9">...</span>
+                            <span id="more9">
                             <li>Structural Fabricators</li>
                             <li>Plumbers</li>
                             <li>Electricians</li>
@@ -446,21 +450,21 @@ local staff recruitment company in Brisbane,
                             <li>Riggers</li>
                             <li>Supervisors</li>
                             <li>Marine Surveyors</li>
-{{--                            </span>--}}
+                            </span>
                         </ul>
                     </td>
                     <td>
                         <ul class="tab-l">
                             <li>Quality Control Inspectors</li>
                             <li>Painters</li>
-{{--                            <span id="dots">...</span>--}}
-{{--                            <span id="more">--}}
+                            <span id="dots10">...</span>
+                            <span id="more10">
                             <li>Interior Plasterers</li>
-{{--                            </span>--}}
+                            </span>
                         </ul>
                     </td>
                 </table>
-{{--                    <button onclick="read_more_less()" class="btn btn-success" id="mybtn">Read more</button>--}}
+                    <button onclick="read_more_less3()" class="btn btn-success" id="mybtn3">Read more</button>
               </div>
 	 	   </div>
         </div>
@@ -1041,28 +1045,63 @@ local staff recruitment company in Brisbane,
 
             }
         </script>
+        <script>
+            function read_more_less3()
+            {
+                var dots8 = document.getElementById('dots8');
+                var moretext8 = document.getElementById('more8');
+                var mybtn3 = document.getElementById('mybtn3');
 
-{{--        <script>--}}
-{{--            function read_more_less2()--}}
-{{--            {--}}
-{{--                var dots = document.getElementById('dots2');--}}
-{{--                var moretext = document.getElementById('more2');--}}
-{{--                var mybtn = document.getElementById('mybtn2');--}}
+                if (dots8.style.display === 'none')
+                {
+                    dots8.style.display='inline';
+                    moretext8.style.display='none';
+                    mybtn3.innerHTML="Read more";
+                }
+                else
+                {
+                    dots8.style.display="none";
+                    moretext8.style.display="inline";
+                    mybtn3.innerHTML="Read less";
+                }
 
-{{--                if (dots.style.display === 'none')--}}
-{{--                {--}}
-{{--                    dots.style.display='inline';--}}
-{{--                    moretext.style.display='none';--}}
-{{--                    mybtn.innerHTML="Read more";--}}
-{{--                }--}}
-{{--                else--}}
-{{--                {--}}
-{{--                    dots.style.display="none";--}}
-{{--                    moretext.style.display="inline";--}}
-{{--                    mybtn.innerHTML="Read less";--}}
-{{--                }--}}
-{{--            }--}}
-{{--        </script>--}}
+                var dots9 = document.getElementById('dots9');
+                var moretext9 = document.getElementById('more9');
+
+
+                if (dots9.style.display === 'none')
+                {
+                    dots9.style.display='inline';
+                    moretext9.style.display='none';
+                    mybtn3.innerHTML="Read more";
+                }
+                else
+                {
+                    dots9.style.display="none";
+                    moretext9.style.display="inline";
+                    mybtn3.innerHTML="Read less";
+                }
+
+                var dots10 = document.getElementById('dots10');
+                var moretext10 = document.getElementById('more10');
+
+                if (dots10.style.display === 'none')
+                {
+                    dots10.style.display='inline';
+                    moretext10.style.display='none';
+                    mybtn3.innerHTML="Read more";
+                }
+                else
+                {
+                    dots10.style.display="none";
+                    moretext10.style.display="inline";
+                    mybtn3.innerHTML="Read less";
+                }
+
+            }
+        </script>
+
+
 
 
 
