@@ -72,7 +72,21 @@ Route::get('/it-business-analyst-recruitment',          function () { return vie
 Route::get('/office-administrator-recruitment',         function () { return view('office-administrator-recruitment'); });
 Route::get('/payroll-officer-recruitment',              function () { return view('payroll-officer-recruitment'); });
 
-
+//.............>>>Commit the written contents by Talat routes are the following<<<..................
+Route::get('/agriculture-recruitment',              function () { return view('agriculture-recruitment'); });
+Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
+Route::get('/engineering-recruitment',              function () { return view('engineering-recruitment'); });
+Route::get('/international-recruitment',              function () { return view('international-recruitment'); });
+Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
+Route::get('/maintenance-recruitment',              function () { return view('maintenance-recruitment'); });
+Route::get('/payroll-recruitment',              function () { return view('payroll-recruitment'); });
+Route::get('/labour-hire-company',              function () { return view('labour-hire-company'); });
+Route::get('/shipbuilding-recruitment',              function () { return view('shipbuilding-recruitment'); });
+Route::get('/transport-recruitment',              function () { return view('transport-recruitment'); });
+Route::get('/warehouse-recruitment',              function () { return view('warehouse-recruitment'); });
+Route::get('/office-support-recruitment',              function () { return view('office-support-recruitment'); });
+Route::get('/construction-recruitment',              function () { return view('construction-recruitment'); });
+//.............>>>Commit the written contents by Talat routes are the the up codes<<<..................
 
 
 Route::get('/contact', 'ContactUsController@index')->name('contact');

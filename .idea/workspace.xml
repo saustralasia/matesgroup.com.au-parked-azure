@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="-Table 6,7,8 hiding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +156,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Testing JS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -164,11 +167,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\matesgroup.com.au\resources\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\matesgroup.com.au\resources\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\matesgroup.com.au\resources\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -218,14 +221,11 @@
       <workItem from="1598504324068" duration="485000" />
       <workItem from="1598675820546" duration="65000" />
       <workItem from="1598676000842" duration="13129000" />
-      <workItem from="1599370060929" duration="16969000" />
-    </task>
-    <task id="LOCAL-00033" summary="new meta_keywords adding in &#10;-forklift-driver-recruitment">
-      <created>1598337122938</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1598337122938</updated>
+      <workItem from="1599370060929" duration="17106000" />
+      <workItem from="1601907623278" duration="12505000" />
+      <workItem from="1601959629384" duration="4300000" />
+      <workItem from="1601990401638" duration="3578000" />
+      <workItem from="1602041213693" duration="1502000" />
     </task>
     <task id="LOCAL-00034" summary="new meta_keywords adding in &#10;-truck-driver-recruitment">
       <created>1598337614409</created>
@@ -563,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599390070974</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="-Table 6,7,8 hiding">
+      <created>1599392348194</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1599392348194</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +589,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-chicken-catcher-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-mail-sorter-recruitment&#10;-payroll-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-bookkeeping-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-account-payable-officer-recruitment" />
@@ -607,7 +613,8 @@
     <MESSAGE value="-Table 3 hiding" />
     <MESSAGE value="-Table 4 hiding" />
     <MESSAGE value="-Table 5 hiding" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Table 5 hiding" />
+    <MESSAGE value="-Table 6,7,8 hiding" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Table 6,7,8 hiding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -616,10 +623,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1599390068987">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1601916196819">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599390068987" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601916196819" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599370114293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -628,9 +635,13 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598676834942" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599371695932">
+    <state x="339" y="165" key="run.anything.popup" timestamp="1601992564588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1599371695932" />
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601992564588" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602045399413">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602045399413" />
   </component>
 </project>
