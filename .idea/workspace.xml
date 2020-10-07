@@ -22,9 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="-Table 6,7,8 hiding">
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="-agriculture-recruitment&#10;-casual-labour-hire">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,14 +224,7 @@
       <workItem from="1601907623278" duration="12505000" />
       <workItem from="1601959629384" duration="4300000" />
       <workItem from="1601990401638" duration="3578000" />
-      <workItem from="1602041213693" duration="1502000" />
-    </task>
-    <task id="LOCAL-00034" summary="new meta_keywords adding in &#10;-truck-driver-recruitment">
-      <created>1598337614409</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1598337614409</updated>
+      <workItem from="1602041213693" duration="3341000" />
     </task>
     <task id="LOCAL-00035" summary="new meta_keywords adding in &#10;-security-guard-recruitment">
       <created>1598338108303</created>
@@ -570,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599392348194</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="-agriculture-recruitment&#10;-casual-labour-hire">
+      <created>1602045561546</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1602045561547</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +588,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-mail-sorter-recruitment&#10;-payroll-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-bookkeeping-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-account-payable-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-assistant-accountant-recruitment" />
@@ -614,7 +612,8 @@
     <MESSAGE value="-Table 4 hiding" />
     <MESSAGE value="-Table 5 hiding" />
     <MESSAGE value="-Table 6,7,8 hiding" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Table 6,7,8 hiding" />
+    <MESSAGE value="-agriculture-recruitment&#10;-casual-labour-hire" />
+    <option name="LAST_COMMIT_MESSAGE" value="-agriculture-recruitment&#10;-casual-labour-hire" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -623,10 +622,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1601916196819">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1602045588834">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601916196819" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602045588834" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599370114293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -639,9 +638,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601992564588" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602045399413">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602047532852">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602045399413" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602047532852" />
   </component>
 </project>
