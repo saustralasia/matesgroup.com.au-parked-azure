@@ -11,8 +11,9 @@
     <meta name="keywords" content="@yield('meta_keywords')">
     <title>@yield('title')</title>
 
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
+{{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">--}}
+{{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">--}}
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}">
     <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
@@ -42,6 +43,10 @@
     <script src="{{asset('js/jquery.magnific-popup.min.js') }}"></script>
     <script src="{{asset('js/aos.js') }}"></script>
     <script src="{{asset('js/wow.min.js') }}"></script>
+
+    <script src="{{mix('js/manifest.js')}}"></script>
+    <script src="{{mix('js/vendor.js')}}"></script>
+    <script src="{{mix('js/app.js')}}"></script>
 
     <script type="text/javascript">
         $('.tab-menu a').hover(function (e) {

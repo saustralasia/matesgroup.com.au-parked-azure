@@ -26,7 +26,7 @@ mix.js('resources/js/app.js', 'public/js')
             processCssUrls: false
         })
         //.sourceMaps(true, 'source-map')
-        .extract(['vue', 'jquery']);//always ON, except sourcemap
+        .extract(['vue', 'jquery']); //always ON, except sourcemap
 
 mix.copyDirectory('resources/images', 'public/images');
 //mix.copy('resources/sass/slicknav.min.css', 'public/css/slicknav.min.css');
