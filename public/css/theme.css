@@ -585,7 +585,7 @@ textarea{height:175px;padding:25px 30px;width:100%;border:2px solid #e5e5ee;-web
 .gallery-slider .item:hover .gallery-overlay{opacity:1;-webkit-transform:scale(1) rotate(0deg);-moz-transform:scale(1) rotate(0deg);-ms-transform:scale(1) rotate(0deg);-o-transform:scale(1) rotate(0deg);transform:scale(1) rotate(0deg);-webkit-transition-delay:0.1s;-moz-transition-delay:0.1s;-ms-transition-delay:0.1s;-o-transition-delay:0.1s;transition-delay:0.1s;z-index:1;}
 .gallery-slider .owl-theme .owl-nav .owl-prev{left:-60px;}
 .gallery-slider .owl-theme .owl-nav .owl-next{right:-60px;}
-.footer-part{float:left;width:100%;background:#20202f;position:relative;padding:20px 0 40px 0;color:#f6f0f2;border-bottom:8px solid #e4b95b;font-size:15px;}
+/*.footer-part{float:left;width:100%;background:#20202f;position:relative;padding:20px 0 40px 0;color:#f6f0f2;border-bottom:8px solid #e4b95b;font-size:15px;}*/
 .footer-part h1,
 .footer-part h2,
 .footer-part h3,
@@ -1259,4 +1259,4 @@ body main .team-page{padding-bottom:70px;}
     }
 .about-box {
     padding-bottom: 30px;
-}    
+}

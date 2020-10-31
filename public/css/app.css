@@ -9215,3 +9215,18 @@ h3 {
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: #869791;
 }
+
+.footer-part {
+  float: left;
+  width: 100%;
+  background: #20202f;
+  position: relative;
+  padding: 20px 0 40px 0;
+  color: #f6f0f2;
+  border-bottom: 8px solid #e4b95b;
+  font-size: 15px;
+}
+
+.footer-part {
+  background: #fff;
+}

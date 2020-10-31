@@ -1,8 +1,6 @@
 <footer>
 
-    <div class="footer-part wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-        <div class="icon-default icon-dark"></div>
-    </div>
+
 
     <div class="container">
         <div class="row">
@@ -56,9 +54,9 @@
     </div>
 
 
-    <div class="container">
-        <div class="row">
-            <div class="col">
+    <div class="container px-lg-5">
+        <div class="row mx-lg-n5">
+            <div class="col py-3 px-lg-5">
                 <div class="footer-social">
                     <center>
                         <div class="social-round">
@@ -68,24 +66,25 @@
                                 <li><a href="https://www.instagram.com/matesgroup.au/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 <li><a href="https://www.pinterest.com/matesgroup/" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/28771085" target="_blank" rel=""><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-
                             </ul>
                         </div>
                     </center>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col">
+        <div class="row mx-lg-n5">
+            <div class="col py-3 px-lg-5">
                 <div class="copyright">
                     <center>
                         <a href="/safety_policy">Safety Policy</a> &nbsp; <a href="/privacy">Privacy Policy</a> &nbsp; <a href="/terms">Terms & Condition</a> &nbsp; <a href="">Sitemap</a>
                         <p> &copy; Mates Group {{date('Y')}}</p>
-                        <p>All Rights Reserved 2012 - {{date('Y')}} &copy; Mates Group </p>
                     </center>
                 </div>
             </div>
         </div>
+    </div>
+
+    <div class="footer-part">
     </div>
 </footer>
         <!-- End Footer -->
