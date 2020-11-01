@@ -35,15 +35,13 @@
 }
 .res-blog-post-title
 {
-    @include font-size(4rem);
+    @include font-size(3.5rem);
 }
 
-
-
-.blog-post-meta {
-    margin-bottom: 1.25rem;
-    color: #999;
-}
+//.blog-post-meta {
+//    margin-bottom: 1.25rem;
+//    color: #999;
+//}
 
 /*
  * Footer

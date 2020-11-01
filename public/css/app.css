@@ -8966,17 +8966,12 @@ h3 {
 }
 
 .res-blog-post-title {
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 @media (max-width: 1200px) {
   .res-blog-post-title {
-    font-size: calc(1.525rem + 3.3vw);
+    font-size: calc(1.475rem + 2.7vw);
   }
-}
-
-.blog-post-meta {
-  margin-bottom: 1.25rem;
-  color: #999;
 }
 
 /*

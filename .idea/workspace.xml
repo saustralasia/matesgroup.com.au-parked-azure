@@ -34,7 +34,6 @@
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/commitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/commitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/aside-links/agriculture.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/aside-links/agriculture.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,14 +262,8 @@
       <workItem from="1604245621642" duration="1773000" />
       <workItem from="1604247431575" duration="2087000" />
       <workItem from="1604249552674" duration="1780000" />
-      <workItem from="1604251428822" duration="767000" />
-    </task>
-    <task id="LOCAL-00037" summary="new meta_keywords adding in &#10;-mail-sorter-recruitment&#10;-payroll-officer-recruitment">
-      <created>1598342259329</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1598342259329</updated>
+      <workItem from="1604251428822" duration="1782000" />
+      <workItem from="1604253553326" duration="877000" />
     </task>
     <task id="LOCAL-00038" summary="new meta_keywords adding in &#10;-bookkeeping-recruitment">
       <created>1598343057761</created>
@@ -608,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604162905113</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="page layout working!">
+      <created>1604252236054</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1604252236055</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +639,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-assistant-accountant-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-financial-analyst-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-office-administrator-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-executive-assistant-recruitment" />
@@ -664,7 +663,8 @@
     <MESSAGE value="-agriculture-recruitment&#10;-casual-labour-hire" />
     <MESSAGE value="footer BS3 correction." />
     <MESSAGE value="footer rebuild." />
-    <option name="LAST_COMMIT_MESSAGE" value="footer rebuild." />
+    <MESSAGE value="page layout working!" />
+    <option name="LAST_COMMIT_MESSAGE" value="page layout working!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -673,11 +673,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604162903447">
+    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604252234892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602045588834" />
-    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604162903447" />
+    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604252234892" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599370114293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
