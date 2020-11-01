@@ -11,6 +11,8 @@
     <meta name="keywords" content="@yield('meta_keywords')">
     <title>@yield('title')</title>
 
+{{--    <link rel="stylesheet" href="{{ mix('/css/app.css') }}">--}}
+
     <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">

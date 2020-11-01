@@ -1,11 +1,48 @@
+//@import "reboot";
+
 // Bootstrap settings
 @import "bootstrap_custom";
 //@import "~bootstrap/scss/bootstrap";
 
 
-@import '~owl.carousel/src/scss/owl.carousel';
-@import '~owl.carousel/src/scss/owl.theme.default';
+//@import '~owl.carousel/src/scss/owl.carousel';
+//@import '~owl.carousel/src/scss/owl.theme.default';
 
+
+.res-blog-post-title
+{
+    @include font-size(4rem);
+}
+
+
+/*
+ * Blog posts
+ */
+.blog-post {
+    margin-bottom: 4rem;
+}
+.blog-post-title {
+    margin-bottom: .25rem;
+    font-size: 2.5rem;
+}
+.blog-post-meta {
+    margin-bottom: 1.25rem;
+    color: #999;
+}
+
+/*
+ * Footer
+ */
+.social-round{display:inline-block;width:auto;text-align:center;}
+.social-round ul,
+.social-round li{list-style:none;margin:0px;padding:0px;}
+.social-round li{display:inline-block;width:auto;margin-right:18px;}
+.social-round li a{display:block;width:50px;height:50px;-webkit-border-radius:100%;-moz-border-radius:100%;-ms-border-radius:100%;-o-border-radius:100%;border-radius:100%;border:2px solid #383848;line-height:50px;font-size:16px;color:#5c5c6e;}
+
+.footer-social
+{
+    padding-top: 30px;
+}
 .footer-part{float:left;width:100%;background:#20202f;position:relative;padding:20px 0 40px 0;color:#f6f0f2;border-bottom:8px solid #e4b95b;font-size:15px;}
 
 .footer-part
@@ -13,3 +50,4 @@
     background: #fff;
     //border-top: 1px solid #898989;
 }
+

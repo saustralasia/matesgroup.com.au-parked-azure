@@ -23108,4 +23108,4 @@ module.exports = __webpack_require__(/*! jquery */"./node_modules/jquery/dist/jq
 
 /***/ })
 
-},[[1,"/js/manifest"]]]);
+}]);

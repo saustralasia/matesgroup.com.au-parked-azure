@@ -16,11 +16,11 @@
 {{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">--}}
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/aos.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
+{{--    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">--}}
+{{--    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">--}}
+{{--    <link rel="stylesheet" href="{{ asset('css/aos.css') }}">--}}
+{{--    <link rel="stylesheet" href="{{ asset('css/style.css') }}">--}}
+{{--    <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">--}}
 
     <!-- Fonts -->
 
@@ -31,11 +31,10 @@
 
 </head>
 <body class="antialiased">
-    Page.Layout
 
     @include('layouts.header')
     @yield('content')
-    @include('layouts.footer')
+    @include('layouts.footer-page')
 
     <script src="{{ asset('js/jquery.min.js') }}"></script>
     <script src="{{asset('js/bootstrap.min.js') }}"></script>
