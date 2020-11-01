@@ -8944,13 +8944,13 @@ h3 {
     border-color: #dee2e6;
   }
 }
-.res-blog-post-title {
-  font-size: 4rem;
-}
-@media (max-width: 1200px) {
-  .res-blog-post-title {
-    font-size: calc(1.525rem + 3.3vw);
-  }
+/*
+ * Page background
+ */
+.bg-image-full {
+  background: no-repeat center center scroll;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 /*
@@ -8963,6 +8963,15 @@ h3 {
 .blog-post-title {
   margin-bottom: 0.25rem;
   font-size: 2.5rem;
+}
+
+.res-blog-post-title {
+  font-size: 4rem;
+}
+@media (max-width: 1200px) {
+  .res-blog-post-title {
+    font-size: calc(1.525rem + 3.3vw);
+  }
 }
 
 .blog-post-meta {

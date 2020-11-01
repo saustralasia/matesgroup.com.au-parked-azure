@@ -41,67 +41,67 @@ Route::get('/terms',            function () { return view('terms'); });
 
 
 //.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-//.............>>>Agriculture<<<..................
-
-Route::get('/warehouse-staff-recruitment',              function () { return view('warehouse-staff-recruitment'); });
-Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
-Route::get('/office-staff-recruitment',                 function () { return view('office-staff-recruitment'); });
-Route::get('/construction-staff-recruitment',           function () { return view('construction-staff-recruitment'); });
-Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });
-Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
-Route::get('/agriculture-staff-recruitment',            function () { return view('agriculture-staff-recruitment'); });
-Route::get('/international-staff-recruitment',          function () { return view('international-staff-recruitment'); });
-Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
 Route::get('/fruit-picking-recruitment',                function () { return view('fruit-picking-recruitment'); });
+Route::get('/agriculture-recruitment',              function () { return view('agriculture-recruitment'); });
+Route::get('/agriculture-staff-recruitment',            function () { return view('agriculture-staff-recruitment'); });
 Route::get('/farm-hand-recruitment',                    function () { return view('farm-hand-recruitment'); });
-Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
-Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
-Route::get('/security-guard-recruitment',               function () { return view('security-guard-recruitment'); });
 Route::get('/chicken-catcher-recruitment',              function () { return view('chicken-catcher-recruitment'); });
-Route::get('/mail-sorter-recruitment',                  function () { return view('mail-sorter-recruitment'); });
-Route::get('/receptionist-recruitment',                 function () { return view('receptionist-recruitment'); });
-Route::get('/customer-services-officer-recruitment',    function () { return view('customer-services-officer-recruitment'); });
-Route::get('/coordinator-recruitment',                  function () { return view('coordinator-recruitment'); });
-Route::get('/network-administrator-recruitment',        function () { return view('network-administrator-recruitment'); });
-Route::get('/database-developer-recruitment',           function () { return view('database-developer-recruitment'); });
-Route::get('/systems-engineer-recruitment',             function () { return view('systems-engineer-recruitment'); });
-Route::get('/land-surveyor-recruitment',                function () { return view('land-surveyor-recruitment'); });
-Route::get('/electrical-lineman-recruitment',           function () { return view('electrical-lineman-recruitment'); });
+//.............>>>Accounting<<<..................
 Route::get('/accounts-payable-officer-recruitment',     function () { return view('accounts-payable-officer-recruitment'); });
 Route::get('/assistant-accountant-recruitment',         function () { return view('assistant-accountant-recruitment'); });
 Route::get('/bookkeeping-recruitment',                  function () { return view('bookkeeping-recruitment'); });
-Route::get('/executive-assistant-recruitment',          function () { return view('executive-assistant-recruitment'); });
 Route::get('/financial-analyst-recruitment',            function () { return view('financial-analyst-recruitment'); });
-Route::get('/helpdesk-officer-recruitment',             function () { return view('helpdesk-officer-recruitment'); });
-Route::get('/it-business-analyst-recruitment',          function () { return view('it-business-analyst-recruitment'); });
-Route::get('/office-administrator-recruitment',         function () { return view('office-administrator-recruitment'); });
 Route::get('/payroll-officer-recruitment',              function () { return view('payroll-officer-recruitment'); });
+Route::get('/payroll-recruitment',              function () { return view('payroll-recruitment'); });
+//.............>>>Construction<<<..................
+Route::get('/construction-staff-recruitment',           function () { return view('construction-staff-recruitment'); });
+Route::get('/construction-recruitment',              function () { return view('construction-recruitment'); });
+//.............>>>Office staff<<<..................
+Route::get('/receptionist-recruitment',                 function () { return view('receptionist-recruitment'); });
+Route::get('/customer-services-officer-recruitment',    function () { return view('customer-services-officer-recruitment'); });
+Route::get('/office-staff-recruitment',                 function () { return view('office-staff-recruitment'); });
+Route::get('/office-support-recruitment',              function () { return view('office-support-recruitment'); });
+Route::get('/international-staff-recruitment',          function () { return view('international-staff-recruitment'); });
+Route::get('/international-recruitment',              function () { return view('international-recruitment'); });
+Route::get('/coordinator-recruitment',                  function () { return view('coordinator-recruitment'); });
+Route::get('/executive-assistant-recruitment',          function () { return view('executive-assistant-recruitment'); });
+Route::get('/helpdesk-officer-recruitment',             function () { return view('helpdesk-officer-recruitment'); });
+Route::get('/office-administrator-recruitment',         function () { return view('office-administrator-recruitment'); });
+Route::get('/mail-sorter-recruitment',                  function () { return view('mail-sorter-recruitment'); });
+//.............>>>IT<<<..................
+Route::get('/systems-engineer-recruitment',             function () { return view('systems-engineer-recruitment'); });
+Route::get('/network-administrator-recruitment',        function () { return view('network-administrator-recruitment'); });
+Route::get('/database-developer-recruitment',           function () { return view('database-developer-recruitment'); });
+Route::get('/it-business-analyst-recruitment',          function () { return view('it-business-analyst-recruitment'); });
+Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
+//.............>>>Industries<<<..................
+Route::get('/warehouse-staff-recruitment',              function () { return view('warehouse-staff-recruitment'); });
+Route::get('/warehouse-recruitment',              function () { return view('warehouse-recruitment'); });
+Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
+Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
+Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
+//.............>>>Transport<<<..................
+Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
+Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
+Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
+Route::get('/transport-recruitment',              function () { return view('transport-recruitment'); });
+//.............>>>Engineering<<<..................
+Route::get('/engineering-recruitment',              function () { return view('engineering-recruitment'); });
+//.............>>>Cons<<<..................
+//.............>>>Agriculture<<<..................
+//.............>>>Agriculture<<<..................
+//.............>>>Agriculture<<<..................
+//.............>>>Agriculture<<<..................
+
+Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });
+Route::get('/shipbuilding-recruitment',              function () { return view('shipbuilding-recruitment'); });
+Route::get('/security-guard-recruitment',               function () { return view('security-guard-recruitment'); });
+Route::get('/land-surveyor-recruitment',                function () { return view('land-surveyor-recruitment'); });
+Route::get('/electrical-lineman-recruitment',           function () { return view('electrical-lineman-recruitment'); });
+Route::get('/maintenance-recruitment',              function () { return view('maintenance-recruitment'); });
+Route::get('/labour-hire-company',              function () { return view('labour-hire-company'); });
 
 //.............>>>Commit the written contents by Talat routes are the following<<<..................
-Route::get('/agriculture-recruitment',              function () { return view('agriculture-recruitment'); });
-Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
-Route::get('/engineering-recruitment',              function () { return view('engineering-recruitment'); });
-Route::get('/international-recruitment',              function () { return view('international-recruitment'); });
-Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
-Route::get('/maintenance-recruitment',              function () { return view('maintenance-recruitment'); });
-Route::get('/payroll-recruitment',              function () { return view('payroll-recruitment'); });
-Route::get('/labour-hire-company',              function () { return view('labour-hire-company'); });
-Route::get('/shipbuilding-recruitment',              function () { return view('shipbuilding-recruitment'); });
-Route::get('/transport-recruitment',              function () { return view('transport-recruitment'); });
-Route::get('/warehouse-recruitment',              function () { return view('warehouse-recruitment'); });
-Route::get('/office-support-recruitment',              function () { return view('office-support-recruitment'); });
-Route::get('/construction-recruitment',              function () { return view('construction-recruitment'); });
 //.............>>>Commit the written contents by Talat routes are the the up codes<<<..................
 
 
