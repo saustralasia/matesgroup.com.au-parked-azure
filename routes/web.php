@@ -37,7 +37,6 @@ Route::get('/team',             function () { return view('team'); });
 Route::get('/terms',            function () { return view('terms'); });
 Route::get('/vision',           function () { return view('vision'); });
 Route::get('/why_choose',       function () { return view('why_choose'); });
-Route::get('/why_choose',       function () { return view('why_choose'); });
 Route::get('/workforce',        function () { return view('workforce'); });
 
 

@@ -17,15 +17,18 @@ $brand-primary: #000;
 $brand-secondary: #e4b95b;
 $brand-aux: #1B1464;
 $blog-text-color: #626060;
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Source+Sans+Pro:wght@300&display=swap');
+//font-family: 'Roboto', sans-serif;
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+//font-family: 'Source Sans Pro', sans-serif !important;
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+//font-family: 'Quicksand', sans-serif;
 //@include font-face(TrajanPro, ../fonts/TrajanProRegular, null, null, ttf);
 @font-face {
     font-family: 'TrajanPro';
     src: local('../fonts/TrajanProRegular.ttf'), url('../fonts/TrajanProRegular.ttf') format('truetype');
 }
-
+//font-family: TrajanPro;
 
 body
 {
@@ -59,7 +62,7 @@ body
     margin-bottom: .25rem;
     color: #383848;
     text-transform: uppercase;
-    @include font-size(3.5rem);
+    @include font-size(2.5rem);
     font-weight: 700;
     font-family: 'Quicksand', sans-serif;
 }
@@ -74,6 +77,8 @@ body
 .blog-aside-title{
     font-style: italic;
     color: #383848;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 
 
@@ -119,7 +124,7 @@ body
 }
 
 .footer-title {
-    color:#e4b95b;
+    color: $brand-secondary;
     + ul {
         li {
             border-bottom: 1px dotted #1B1464;
@@ -129,6 +134,8 @@ body
     }
 }
 .footer-copyright {
+    padding: 20px 0 40px 0;
+    border-bottom: 8px solid #e4b95b;
     ul {
         li {
             a{

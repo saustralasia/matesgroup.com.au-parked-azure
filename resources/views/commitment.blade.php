@@ -53,18 +53,18 @@
             </div>
         </div>
 
-{{--        @include('layouts.asides.agriculture')--}}
         <aside class="col-md-4 blog-aside">
-            <div class=" blog-aside-body">
-                <h4 class="blog-aside-title mb-2">Agriculture</h4>
-                <ol class="list-unstyled">
-                    <li><a href="/fruit-picking-recruitment">FRUIT-PICKING-RECRUITMENT</a></li>
-                    <li><a href="/agriculture-recruitment">agriculture-recruitment</a></li>
-                    <li><a href="/agriculture-staff-recruitment">agriculture-staff-recruitment</a></li>
-                    <li><a href="/farm-hand-recruitment">farm-hand-recruitment</a></li>
-                    <li><a href="/chicken-catcher-recruitment">chicken-catcher-recruitment</a></li>
-                </ol>
-            </div>
+            @include('layouts.asides.aboutus')
+            {{--            <div class=" blog-aside-body">--}}
+{{--                <h4 class="blog-aside-title mb-2">Agriculture</h4>--}}
+{{--                <ol class="list-unstyled">--}}
+{{--                    <li><a href="/fruit-picking-recruitment">FRUIT-PICKING-RECRUITMENT</a></li>--}}
+{{--                    <li><a href="/agriculture-recruitment">agriculture-recruitment</a></li>--}}
+{{--                    <li><a href="/agriculture-staff-recruitment">agriculture-staff-recruitment</a></li>--}}
+{{--                    <li><a href="/farm-hand-recruitment">farm-hand-recruitment</a></li>--}}
+{{--                    <li><a href="/chicken-catcher-recruitment">chicken-catcher-recruitment</a></li>--}}
+{{--                </ol>--}}
+{{--            </div>--}}
         </aside>
 
     </div>

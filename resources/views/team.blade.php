@@ -1,36 +1,39 @@
-@extends('layouts.master', ['title' => 'Our Team'])
+@extends('layouts.page')
 
 @section('title', 'Mates Group: Best Company for Labour Hire Solutions Australia')
 @section('meta_keywords', 'best labour hire services australia, labour hire solutions australia')
-@section('meta_des', 'Mates Group is the leading company that provides labor hire solutions in Australia and worldwide.')
+@section('meta_des', 'Mates Group is an innovative Australian recruitment company.')
 
 @section('content')
-<div class="page-head-area">
-    <img src="{{asset('images/ourteam.jpg')}}" alt="">
-    <div class="page-text">
-<!--        <h2 style="color:#fff">Our Team</h2>-->
-    </div>
-</div>
-
-<div class="single-content">
-       <h1 class="extra-h2" style="text-align: center;">Mates Group: Get Quality Labour Hire Service </h1>
-       <hr>
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/ourteam.jpg')}}');">
+        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Team">
+    </header>
 
     <div class="container">
-       <div class="col-md-6">
-           <div class="about-image">
-               <img src="{{asset('images/team.jpg')}}" alt="">
-           </div>
-       </div>
+        <div class="row">
+            <div class="col-md-8">
+                <h1 class="display-4 mb-4 blog-post-title border-bottom">Our Team</h1>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
 
-    <div class="col-md-6, text-justify">
-    <p>
-    Our team members are trained in their field. They have confidence in what they do and do so with no mistake.
-   Our team at Mates Group ensure that our clients receive a comprehensive labour-hire service.
-   </p>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-8 blog-main text-justify">
+                <div class="blog-post">
+                    <h2>Mates Group: Get Quality Labour Hire Service </h2>
+                    <img src="{{asset('images/team.jpg')}}" class="rounded img-fluid" alt="">
+                    <p>Our team members are trained in their field. They have confidence in what they do and do so with no mistake. Our team at Mates Group ensure that our clients receive a comprehensive labour-hire service.</p>
+                </div>
+            </div>
+
+            <aside class="col-md-4 blog-aside">
+                @include('layouts.asides.aboutus')
+            </aside>
 
         </div>
-
     </div>
-</div>
 @endsection
