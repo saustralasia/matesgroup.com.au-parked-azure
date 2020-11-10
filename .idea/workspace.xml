@@ -28,17 +28,62 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="Foo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESCRIPTION_MIX.md" beforeDir="false" afterPath="$PROJECT_DIR$/DESCRIPTION_MIX.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/commitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/commitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/aside-links/agriculture.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/asides/agriculture.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accounts-payable-officer-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/agriculture-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/agriculture-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/assistant-accountant-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/bookkeeping-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/casual-labour-hire.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/chicken-catcher-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/construction-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/construction-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/contactmsg.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/coordinator-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/customer-services-officer-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/database-developer-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/electrical-lineman-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/engineering-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/executive-assistant-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/farm-hand-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/financial-analyst-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/forklift-driver-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/fruit-picking-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/garden-maintenance-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/helpdesk-officer-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/international-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/international-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/it-business-analyst-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/it-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/labour-hire-company.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/land-surveyor-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/mail-sorter-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/mail.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/maintenance-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/network-administrator-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/office-administrator-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/office-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/office-support-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/payroll-officer-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/payroll-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/process-worker-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/receptionist-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/security-guard-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/shipbuilding-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/shipbuilding-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/systems-engineer-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/test.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/transport-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/transport-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/truck-driver-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/warehouse-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/warehouse-staff-recruitment.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,14 +330,15 @@
       <workItem from="1604982940082" duration="1958000" />
       <workItem from="1604985459110" duration="1780000" />
       <workItem from="1604987306383" duration="1778000" />
-      <workItem from="1604989110923" duration="685000" />
-    </task>
-    <task id="LOCAL-00040" summary="new meta_keywords adding in &#10;-assistant-accountant-recruitment">
-      <created>1598343654172</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1598343654172</updated>
+      <workItem from="1604989110923" duration="1692000" />
+      <workItem from="1604990930040" duration="1183000" />
+      <workItem from="1605003840451" duration="1775000" />
+      <workItem from="1605005650172" duration="1766000" />
+      <workItem from="1605007523467" duration="1138000" />
+      <workItem from="1605010390224" duration="1750000" />
+      <workItem from="1605012204501" duration="1697000" />
+      <workItem from="1605014021003" duration="1683000" />
+      <workItem from="1605015963443" duration="302000" />
     </task>
     <task id="LOCAL-00041" summary="new meta_keywords adding in &#10;-financial-analyst-recruitment">
       <created>1598347102488</created>
@@ -630,7 +676,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604976242233</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Commitment completed!">
+      <created>1604989945441</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1604989945442</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +714,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-executive-assistant-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-receptionist-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-customer-services-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-coordinator-recruitment" />
@@ -686,7 +738,8 @@
     <MESSAGE value="page layout working!" />
     <MESSAGE value="aside agriculture blade" />
     <MESSAGE value="Main banner fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main banner fixed" />
+    <MESSAGE value="Commitment completed!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commitment completed!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -695,11 +748,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604976240348">
+    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604989944371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602045588834" />
-    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604976240348" />
+    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604989944371" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604254740542" />
     <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -709,19 +762,19 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599370114293" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604225207469">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604991023830">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604225207469" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604991023830" />
     <state x="951" y="265" width="540" height="524" key="StructurePopup" timestamp="1604210082683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1604976254052">
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1604989953148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598676834942" />
-    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604976254052" />
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604989953148" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

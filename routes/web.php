@@ -17,38 +17,39 @@ use App\Mail\WelcomeMail;
 
 //mailing part
 Route::get('/email', function (){
-
-    Mail::to('email@email.com')->send(new WelcomeMail());
+    Mail::to('captcha2002@gmail.com')->send(new WelcomeMail());
     return new WelcomeMail();
 });
 
 //define routing
-Route::get('/',                 function () { return view('index'); });
 Route::get('/approach',         function () { return view('approach'); });
+Route::get('/career',           function () { return view('career'); });
 Route::get('/commitment',       function () { return view('commitment'); });
-Route::get('/vision',           function () { return view('vision'); });
-Route::get('/team',             function () { return view('team'); });
-Route::get('/why_choose',       function () { return view('why_choose'); });
+Route::get('/contact', 'ContactUsController@index')->name('contact');
+Route::post('/contact', 'ContactUsController@store')->name('contactus_store');
+Route::get('/',                 function () { return view('index'); });
 Route::get('/matesglobal',      function () { return view('matesglobal'); });
 Route::get('/mission',          function () { return view('mission'); });
+Route::get('/privacy',          function () { return view('privacy'); });
 Route::get('/safety',           function () { return view('safety'); });
+Route::get('/safety_policy',    function () { return view('safety_policy'); });
+Route::get('/team',             function () { return view('team'); });
+Route::get('/terms',            function () { return view('terms'); });
+Route::get('/vision',           function () { return view('vision'); });
+Route::get('/why_choose',       function () { return view('why_choose'); });
 Route::get('/why_choose',       function () { return view('why_choose'); });
 Route::get('/workforce',        function () { return view('workforce'); });
-Route::get('/career',           function () { return view('career'); });
-Route::get('/safety_policy',    function () { return view('safety_policy'); });
-Route::get('/privacy',          function () { return view('privacy'); });
-Route::get('/terms',            function () { return view('terms'); });
 
 
-//.............>>>MG AGRICULTURE STAFF<<<..................
+//.............>>>Category MG AGRICULTURE STAFF<<<..................
 Route::get('/fruit-picking-recruitment',                function () { return view('fruit-picking-recruitment'); });
 Route::get('/agriculture-recruitment',              function () { return view('agriculture-recruitment'); });
 Route::get('/agriculture-staff-recruitment',            function () { return view('agriculture-staff-recruitment'); });
 Route::get('/farm-hand-recruitment',                    function () { return view('farm-hand-recruitment'); });
 Route::get('/chicken-catcher-recruitment',              function () { return view('chicken-catcher-recruitment'); });
-//.............>>>MG CONSTRUCTION STAFF<<<..................
+//.............>>>Category MG CONSTRUCTION STAFF<<<..................
 
-//.............>>>MG OFFICE STAFF<<<..................
+//.............>>>Category MG OFFICE STAFF<<<..................
 //...............................Accounting
 Route::get('/accounts-payable-officer-recruitment',     function () { return view('accounts-payable-officer-recruitment'); });
 Route::get('/assistant-accountant-recruitment',         function () { return view('assistant-accountant-recruitment'); });
@@ -79,27 +80,27 @@ Route::get('/coordinator-recruitment',                  function () { return vie
 Route::get('/executive-assistant-recruitment',          function () { return view('executive-assistant-recruitment'); });
 Route::get('/helpdesk-officer-recruitment',             function () { return view('helpdesk-officer-recruitment'); });
 Route::get('/mail-sorter-recruitment',                  function () { return view('mail-sorter-recruitment'); });
-//.............>>>MG IT STAFF<<<.................
-//.............>>>Industries<<<..................
+//.............>>>Category MG IT STAFF<<<.................
+//.............>>>Category Industries<<<..................
 Route::get('/warehouse-staff-recruitment',              function () { return view('warehouse-staff-recruitment'); });
 Route::get('/warehouse-recruitment',              function () { return view('warehouse-recruitment'); });
 Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
 Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
 Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
-//.............>>>MG TRANSPORT STAFF<<<..................
+//.............>>>Category MG TRANSPORT STAFF<<<..................
 Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
 Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
 Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
 Route::get('/transport-recruitment',              function () { return view('transport-recruitment'); });
-//.............>>>MG ENGINEERING STAFF<<<..................
+//.............>>>Category MG ENGINEERING STAFF<<<..................
 Route::get('/engineering-recruitment',              function () { return view('engineering-recruitment'); });
-//.............>>>MG SHIPBUILDING<<<..................
+//.............>>>Category MG SHIPBUILDING<<<..................
 Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });
 Route::get('/shipbuilding-recruitment',              function () { return view('shipbuilding-recruitment'); });
-//.............>>>MG GLOBAL STAFF<<<..................
-//.............>>>MG WAREHOUSE STAFF<<<..................
-//.............>>>MG MAINTENANCE STAFF<<<..................
-//.............>>>MG LABOURER<<<..................
+//.............>>>Category MG GLOBAL STAFF<<<..................
+//.............>>>Category MG WAREHOUSE STAFF<<<..................
+//.............>>>Category MG MAINTENANCE STAFF<<<..................
+//.............>>>Category MG LABOURER<<<..................
 
 
 Route::get('/security-guard-recruitment',               function () { return view('security-guard-recruitment'); });
@@ -108,12 +109,6 @@ Route::get('/electrical-lineman-recruitment',           function () { return vie
 Route::get('/maintenance-recruitment',              function () { return view('maintenance-recruitment'); });
 Route::get('/labour-hire-company',              function () { return view('labour-hire-company'); });
 
-//.............>>>Commit the written contents by Talat routes are the following<<<..................
-//.............>>>Commit the written contents by Talat routes are the the up codes<<<..................
-
-
-Route::get('/contact', 'ContactUsController@index')->name('contact');
-Route::post('/contact', 'ContactUsController@store')->name('contactus_store');
 //changed code here
 
 //Route::get('test', function () {
