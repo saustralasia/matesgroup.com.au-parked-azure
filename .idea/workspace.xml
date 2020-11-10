@@ -30,10 +30,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/TrajanPro.otf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/commitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/commitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/aside-links/agriculture.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/aside-links/agriculture.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,14 +267,19 @@
       <workItem from="1604247431575" duration="2087000" />
       <workItem from="1604249552674" duration="1780000" />
       <workItem from="1604251428822" duration="1782000" />
-      <workItem from="1604253553326" duration="877000" />
-    </task>
-    <task id="LOCAL-00038" summary="new meta_keywords adding in &#10;-bookkeeping-recruitment">
-      <created>1598343057761</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1598343057761</updated>
+      <workItem from="1604253553326" duration="1150000" />
+      <workItem from="1604292753765" duration="1397000" />
+      <workItem from="1604295928136" duration="1779000" />
+      <workItem from="1604298176889" duration="649000" />
+      <workItem from="1604335023688" duration="1723000" />
+      <workItem from="1604337003056" duration="1741000" />
+      <workItem from="1604338817064" duration="1774000" />
+      <workItem from="1604340632275" duration="455000" />
+      <workItem from="1604416689840" duration="7000" />
+      <workItem from="1604969667293" duration="1786000" />
+      <workItem from="1604971489265" duration="1751000" />
+      <workItem from="1604973330045" duration="1782000" />
+      <workItem from="1604975400724" duration="728000" />
     </task>
     <task id="LOCAL-00039" summary="new meta_keywords adding in &#10;-account-payable-officer-recruitment">
       <created>1598343407360</created>
@@ -608,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604252236055</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="aside agriculture blade">
+      <created>1604254741420</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1604254741420</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +655,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-financial-analyst-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-office-administrator-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-executive-assistant-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-receptionist-recruitment" />
@@ -664,7 +679,8 @@
     <MESSAGE value="footer BS3 correction." />
     <MESSAGE value="footer rebuild." />
     <MESSAGE value="page layout working!" />
-    <option name="LAST_COMMIT_MESSAGE" value="page layout working!" />
+    <MESSAGE value="aside agriculture blade" />
+    <option name="LAST_COMMIT_MESSAGE" value="aside agriculture blade" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -673,11 +689,12 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604252234892">
+    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604254740542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602045588834" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604252234892" />
+    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604254740542" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599370114293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

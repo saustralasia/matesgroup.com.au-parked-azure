@@ -96,23 +96,22 @@ local staff recruitment company in Brisbane,
 <br>
 <div class="main-area">
     <div class="container-fluid">
-        <div class="">
-            <div class="second-banner">
-                <div class="banner-head">
-                      <div class="banner-heading-line" style="text-align: center;">
-                              <a href=""><h1>Mates Group</h1></a>
-                      </div>
+        <div class="second-banner">
+            <div class="banner-head">
+                  <div class="banner-heading-line" style="text-align: center;">
+                          <a href=""><h1>Mates Group</h1></a>
+                  </div>
 
-                        <h2 class="banner-head-h1" style="text-align: center;">Providing Recruitment and Labour Hire around The Globe</h2>
+                    <h2 class="banner-head-h1" style="text-align: center;">Providing Recruitment and Labour Hire around The Globe</h2>
 
-                </div>
-                <br>
-                <div class="banner-area">
-                    <img src="{{asset('images/logo/mates_group_logo.png')}}" alt="MATES GROUP logo">
-                </div>
+            </div>
+            <br>
+            <div class="banner-area">
+                <img src="{{asset('images/logo/mates_group_logo.png')}}" alt="MATES GROUP logo">
             </div>
         </div>
-        <div class="page-banner">
+
+        <div class="row">
             <div class="col-md-2">
                 <div class="side-text">
                    <a href="mission"><h4>Our Mission</h4></a>

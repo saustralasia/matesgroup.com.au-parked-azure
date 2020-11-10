@@ -11,7 +11,7 @@ const mix = require('laravel-mix');
  |
  */
 
-// mix.autoload({ 'jquery': ['window.$', 'window.jQuery'] }); 
+// mix.autoload({ 'jquery': ['window.$', 'window.jQuery'] });
 mix.autoload({ jquery: ['$', 'window.jQuery', 'jQuery'] });
 // mix.autoload({ jquery: ['$', 'window.jQuery'] });
 // mix.autoload({
@@ -29,6 +29,7 @@ mix.js('resources/js/app.js', 'public/js')
         .extract(['vue', 'jquery']); //always ON, except sourcemap
 
 mix.copyDirectory('resources/images', 'public/images');
+mix.copyDirectory('resources/fonts', 'public/fonts');
 //mix.copy('resources/sass/slicknav.min.css', 'public/css/slicknav.min.css');
 
 // Versioning
