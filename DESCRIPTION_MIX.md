@@ -5,7 +5,7 @@
 ### URL Processing
 
 ```javascript
-    .sass('resources/assets/sass/main-style.scss', 'public/css')
+    .sass('resources/assets/sass/main-master_style.scss', 'public/css')
           .options({
               processCssUrls: false
     });

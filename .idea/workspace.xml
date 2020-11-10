@@ -30,14 +30,15 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/TrajanPro.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DESCRIPTION_MIX.md" beforeDir="false" afterPath="$PROJECT_DIR$/DESCRIPTION_MIX.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/commitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/commitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/aside-links/agriculture.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/asides/agriculture.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/page.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,14 +280,12 @@
       <workItem from="1604969667293" duration="1786000" />
       <workItem from="1604971489265" duration="1751000" />
       <workItem from="1604973330045" duration="1782000" />
-      <workItem from="1604975400724" duration="728000" />
-    </task>
-    <task id="LOCAL-00039" summary="new meta_keywords adding in &#10;-account-payable-officer-recruitment">
-      <created>1598343407360</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1598343407360</updated>
+      <workItem from="1604975400724" duration="1735000" />
+      <workItem from="1604977282323" duration="1030000" />
+      <workItem from="1604982940082" duration="1958000" />
+      <workItem from="1604985459110" duration="1780000" />
+      <workItem from="1604987306383" duration="1778000" />
+      <workItem from="1604989110923" duration="685000" />
     </task>
     <task id="LOCAL-00040" summary="new meta_keywords adding in &#10;-assistant-accountant-recruitment">
       <created>1598343654172</created>
@@ -624,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604254741420</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Main banner fixed">
+      <created>1604976242232</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1604976242233</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +661,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-office-administrator-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-executive-assistant-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-receptionist-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-customer-services-officer-recruitment" />
@@ -680,7 +685,8 @@
     <MESSAGE value="footer rebuild." />
     <MESSAGE value="page layout working!" />
     <MESSAGE value="aside agriculture blade" />
-    <option name="LAST_COMMIT_MESSAGE" value="aside agriculture blade" />
+    <MESSAGE value="Main banner fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main banner fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -689,12 +695,16 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604254740542">
+    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1604976240348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602045588834" />
-    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604252234892" />
+    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604976240348" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604254740542" />
+    <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="81" y="138" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604983346425" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1599370114293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -707,10 +717,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598676834942">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1604976254052">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598676834942" />
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604976254052" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

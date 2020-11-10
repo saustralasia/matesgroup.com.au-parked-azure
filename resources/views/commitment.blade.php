@@ -29,13 +29,20 @@
 
 <div class="container">
     <div class="row">
+        <div class="col-md-8">
+            <h1 class="display-4 mb-4 blog-post-title border-bottom">Our Commitment</h1>
+        </div>
+        <div class="col-md-4">
+        </div>
+    </div>
+</div>
 
-        <div class="col-md-8 blog-main text-justify border">
-            <h1 class="display-4 pb-4 mb-4 res-blog-post-title border-bottom">Our Commitment</h1>
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-8 blog-main text-justify">
             <div class="blog-post">
-
                 <p>Our commitment is to provide candidates which meets out client requirements. “We deliver what we promise”, we dedicate ourselves to make sure our valued clients are successful and their requirements are met.</p>
-
                 <p><strong>We are committed to:</strong></p>
                 <ul>
                     <li><p>Having labour-market knowledge- we seek to learn as much as possible about the labour-markets we specialize in, so that we are always up to date on the current trends and the latest developments.</p></li>
@@ -43,16 +50,14 @@
                     <li><p>Upholding workplace health and safety obligations - we ensure that we work with our clients to make the workplace as safe and hygienic as possible.</p></li>
                     <li><p>Having on-site monitoring and assessment - by having a delegated Mates Group on-site supervisor, our Clients are assured that we constantly monitor and assess our on-hire staff so that only the most competent and suitable persons are provided.</p></li>
                 </ul>
-
             </div>
-
         </div>
 
-{{--        @include('layouts.aside-links.agriculture')--}}
-        <aside class="col-md-4 blog-sidebar border">
-            <div class="p-4">
-                <h4 class="font-italic">Agriculture</h4>
-                <ol class="list-unstyled mb-0">
+{{--        @include('layouts.asides.agriculture')--}}
+        <aside class="col-md-4 blog-aside">
+            <div class=" blog-aside-body">
+                <h4 class="blog-aside-title mb-2">Agriculture</h4>
+                <ol class="list-unstyled">
                     <li><a href="/fruit-picking-recruitment">FRUIT-PICKING-RECRUITMENT</a></li>
                     <li><a href="/agriculture-recruitment">agriculture-recruitment</a></li>
                     <li><a href="/agriculture-staff-recruitment">agriculture-staff-recruitment</a></li>
@@ -61,9 +66,6 @@
                 </ol>
             </div>
         </aside>
-
-
-
 
     </div>
 </div>
