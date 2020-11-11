@@ -43,6 +43,11 @@ Route::get('/workforce',        function () { return view('workforce'); });
 //.............>>>Category MG AGRICULTURE STAFF<<<..................
 Route::get('/agriculture-recruitment',              function () { return view('cat/agriculture/agriculture-recruitment'); });
 //.............>>>Category MG CONSTRUCTION STAFF<<<..................
+Route::get('/construction-recruitment',              function () { return view('cat/construction/construction-recruitment'); });
+//.............>>>Category MG ENGINEERING STAFF<<<..................
+Route::get('/engineering-recruitment',              function () { return view('cat/engineering/engineering-recruitment'); });
+
+
 
 //.............>>>Category MG OFFICE STAFF<<<..................
 //...............................Accounting
@@ -65,7 +70,7 @@ Route::get('/payroll-officer-recruitment',              function () { return vie
 Route::get('/payroll-recruitment',              function () { return view('payroll-recruitment'); });
 Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
 Route::get('/construction-staff-recruitment',           function () { return view('construction-staff-recruitment'); });
-Route::get('/construction-recruitment',              function () { return view('construction-recruitment'); });
+
 Route::get('/receptionist-recruitment',                 function () { return view('receptionist-recruitment'); });
 Route::get('/office-staff-recruitment',                 function () { return view('office-staff-recruitment'); });
 Route::get('/office-support-recruitment',              function () { return view('office-support-recruitment'); });
@@ -87,8 +92,7 @@ Route::get('/forklift-driver-recruitment',              function () { return vie
 Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
 Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
 Route::get('/transport-recruitment',              function () { return view('transport-recruitment'); });
-//.............>>>Category MG ENGINEERING STAFF<<<..................
-Route::get('/engineering-recruitment',              function () { return view('engineering-recruitment'); });
+
 //.............>>>Category MG SHIPBUILDING<<<..................
 Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });
 Route::get('/shipbuilding-recruitment',              function () { return view('shipbuilding-recruitment'); });

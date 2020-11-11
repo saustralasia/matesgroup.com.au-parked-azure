@@ -1,19 +1,30 @@
-@extends('layouts.master')
+@extends('layouts.page')
 
 @section('title', 'Mates Group Australia: Office Staff Recruitment/Hire Service')
-@section('meta_keywords', '### edit here please ###')
+@section('meta_keywords', 'construction recruitment agency Melbourne, construction labour hire Melbourne, civil engineering recruitment agency Melbourne')
 @section('meta_des', 'Mates Group provides office staff recruitment solutions in Australia and worldwide. We supply permanent and temporary peoples in different organizations.')
 
 @section('content')
-    <div class="header-banner">
-        <h1 class="white line-12 text-45" style="text-align: center;">Construction Recruitment</h1>
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/construction.jpg')}}');">
+        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h1 class="display-4 mb-4 blog-post-title border-bottom">Construction & Civil Engineering Recruitment Agency</h1>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
     </div>
 
-    <div class="single-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-9">
-                    <p style="font-size: 45px;"><strong>Searching for a construction recruitment agency?</strong></p>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-8 blog-main text-justify">
+                <div class="blog-post">
+                    <h2><strong>Searching for a construction recruitment agency?</strong></h2>
                     <p>
                         We are a construction & Civil engineering
                         recruitment company that provides our staff
@@ -32,7 +43,7 @@
                         always have to contact our construction employees.
                     </p>
 
-                    <p style="font-size: 20px;"><strong>Find Your Preferred Construction Job Agency</strong></p>
+                    <h2>Find Your Preferred Construction Job Agency</h2>
                     <p>
                         We realize that Australia’s construction industry
                         is one of the most profitable businesses and we are
@@ -57,16 +68,14 @@
                         staffs for different construction companies in roles including:
                     </p>
 
-                    <div style="margin-left: 50px;margin-bottom: 20px;">
-                        <ol type="I">
-                            <li>Civil & Road infrastructure</li>
-                            <li>Resource & Mining</li>
-                            <li>Restoration & fit-out works</li>
-                            <li>Commercial</li>
-                        </ol>
-                    </div>
+                    <ul>
+                        <li>Civil & Road infrastructure</li>
+                        <li>Resource & Mining</li>
+                        <li>Restoration & fit-out works</li>
+                        <li>Commercial</li>
+                    </ul>
 
-                    <p style="font-size: 20px;"><strong>Talk to Our Expert Today: </strong></p>
+                    <h2>Talk to Our Expert Today: </h2>
                     <p>
                         We are skilled and many years experienced.
                         We can find out the ideal matched job for you.
@@ -76,31 +85,13 @@
                         workers then feel free to contact our specialist team today!
                     </p>
                 </div>
-                <div class="col-3">
-                    <a href="#">Title One</a><br>
-                    <a href="#">Title One</a><br>
-                    <a href="#">Title One</a><br>
-                    <a href="#">Title One</a><br>
-                    <a href="#">Title One</a><br>
-
-
-                </div>
             </div>
+
+            <aside class="col-md-4 blog-aside">
+                @include('layouts.asides.construction')
+            </aside>
+
         </div>
     </div>
-
-{{--    <div class="single-content">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-9">--}}
-{{--                        text--}}
-{{--                </div>--}}
-{{--                <div class="col-3">--}}
-{{--                        title links--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-
-
 @endsection
+
