@@ -15,13 +15,13 @@ use App\Mail\WelcomeMail;
 |
 */
 
-//mailing part
-Route::get('/email', function (){
-    Mail::to('captcha2002@gmail.com')->send(new WelcomeMail());
-    return new WelcomeMail();
-});
+//mailing test: aAlways commented
+//Route::get('/email', function (){
+//    Mail::to('captcha2002@gmail.com')->send(new WelcomeMail());
+//    return new WelcomeMail();
+//});
 
-//define routing
+// Basic pages
 Route::get('/approach',         function () { return view('approach'); });
 Route::get('/career',           function () { return view('career'); });
 Route::get('/commitment',       function () { return view('commitment'); });
@@ -41,11 +41,7 @@ Route::get('/workforce',        function () { return view('workforce'); });
 
 
 //.............>>>Category MG AGRICULTURE STAFF<<<..................
-Route::get('/fruit-picking-recruitment',                function () { return view('fruit-picking-recruitment'); });
-Route::get('/agriculture-recruitment',              function () { return view('agriculture-recruitment'); });
-Route::get('/agriculture-staff-recruitment',            function () { return view('agriculture-staff-recruitment'); });
-Route::get('/farm-hand-recruitment',                    function () { return view('farm-hand-recruitment'); });
-Route::get('/chicken-catcher-recruitment',              function () { return view('chicken-catcher-recruitment'); });
+Route::get('/agriculture-recruitment',              function () { return view('cat/agriculture/agriculture-recruitment'); });
 //.............>>>Category MG CONSTRUCTION STAFF<<<..................
 
 //.............>>>Category MG OFFICE STAFF<<<..................
@@ -102,11 +98,16 @@ Route::get('/shipbuilding-recruitment',              function () { return view('
 //.............>>>Category MG LABOURER<<<..................
 
 
+//.............>>>Category: Parking / temporaty<<<..................
 Route::get('/security-guard-recruitment',               function () { return view('security-guard-recruitment'); });
 Route::get('/land-surveyor-recruitment',                function () { return view('land-surveyor-recruitment'); });
 Route::get('/electrical-lineman-recruitment',           function () { return view('electrical-lineman-recruitment'); });
 Route::get('/maintenance-recruitment',              function () { return view('maintenance-recruitment'); });
 Route::get('/labour-hire-company',              function () { return view('labour-hire-company'); });
+Route::get('/farm-hand-recruitment',                    function () { return view('farm-hand-recruitment'); });
+Route::get('/fruit-picking-recruitment',                function () { return view('fruit-picking-recruitment'); });
+Route::get('/chicken-catcher-recruitment',              function () { return view('chicken-catcher-recruitment'); });
+Route::get('/agriculture-staff-recruitment',            function () { return view('agriculture-staff-recruitment'); });
 
 //changed code here
 

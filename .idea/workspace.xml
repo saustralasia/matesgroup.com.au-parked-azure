@@ -30,23 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/approach.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/approach.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/career.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/career.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/commitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/commitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/matesglobal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/matesglobal.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/mission.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/mission.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/privacy.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/privacy.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/safety.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/safety.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/safety_policy.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/safety_policy.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/team.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/team.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/terms.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/terms.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vision.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vision.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/why_choose.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/why_choose.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/workforce.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/workforce.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/asides/agriculture.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/asides/agriculture.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,14 +293,10 @@
       <workItem from="1605025887195" duration="2009000" />
       <workItem from="1605027936646" duration="1777000" />
       <workItem from="1605029748611" duration="1778000" />
-      <workItem from="1605031588880" duration="650000" />
-    </task>
-    <task id="LOCAL-00042" summary="new meta_keywords adding in &#10;-office-administrator-recruitment">
-      <created>1598347780923</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1598347780923</updated>
+      <workItem from="1605031588880" duration="803000" />
+      <workItem from="1605069527940" duration="868000" />
+      <workItem from="1605078342213" duration="1776000" />
+      <workItem from="1605080149851" duration="312000" />
     </task>
     <task id="LOCAL-00043" summary="new meta_keywords adding in &#10;-executive-assistant-recruitment">
       <created>1598348163947</created>
@@ -654,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605016330694</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Aside link for the About us company.">
+      <created>1605032337274</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1605032337274</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -685,7 +672,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-customer-services-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-coordinator-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-it-business-analyst-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-network-administrator-recruitment" />
@@ -710,7 +696,8 @@
     <MESSAGE value="Main banner fixed" />
     <MESSAGE value="Commitment completed!" />
     <MESSAGE value="Footer page working for page blades." />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer page working for page blades." />
+    <MESSAGE value="Aside link for the About us company." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aside link for the About us company." />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -719,12 +706,12 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1605016329277">
+    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1605032336462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602045588834" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605016329277" />
-    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604254740542" />
+    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605032336462" />
     <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -741,11 +728,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1604989953148">
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1605032363684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598676834942" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604989953148" />
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605032363684" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
