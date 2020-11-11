@@ -46,13 +46,18 @@ Route::get('/agriculture-recruitment',              function () { return view('c
 Route::get('/construction-recruitment',              function () { return view('cat/construction/construction-recruitment'); });
 //.............>>>Category MG ENGINEERING STAFF<<<..................
 Route::get('/engineering-recruitment',              function () { return view('cat/engineering/engineering-recruitment'); });
-
-
-
+//.............>>>Category MG MAINTENANCE STAFF<<<..................
+Route::get('/maintenance-recruitment',              function () { return view('cat/maintenance/maintenance-recruitment'); });
 //.............>>>Category MG OFFICE STAFF<<<..................
+Route::get('/assistant-accountant-recruitment',         function () { return view('cat/office-staff/assistant-accountant-recruitment'); });
+
+
+
+
+
 //...............................Accounting
 Route::get('/accounts-payable-officer-recruitment',     function () { return view('accounts-payable-officer-recruitment'); });
-Route::get('/assistant-accountant-recruitment',         function () { return view('assistant-accountant-recruitment'); });
+
 Route::get('/bookkeeping-recruitment',                  function () { return view('bookkeeping-recruitment'); });
 Route::get('/financial-analyst-recruitment',            function () { return view('financial-analyst-recruitment'); });
 //...............................Administration
@@ -106,7 +111,7 @@ Route::get('/shipbuilding-recruitment',              function () { return view('
 Route::get('/security-guard-recruitment',               function () { return view('security-guard-recruitment'); });
 Route::get('/land-surveyor-recruitment',                function () { return view('land-surveyor-recruitment'); });
 Route::get('/electrical-lineman-recruitment',           function () { return view('electrical-lineman-recruitment'); });
-Route::get('/maintenance-recruitment',              function () { return view('maintenance-recruitment'); });
+
 Route::get('/labour-hire-company',              function () { return view('labour-hire-company'); });
 Route::get('/farm-hand-recruitment',                    function () { return view('farm-hand-recruitment'); });
 Route::get('/fruit-picking-recruitment',                function () { return view('fruit-picking-recruitment'); });
