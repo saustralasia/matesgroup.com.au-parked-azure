@@ -30,15 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/office-staff/executive-assistant-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/office-staff/executive-assistant-recruitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/cat/office-staff/financial-analyst-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/office-staff/financial-analyst-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/recruitment/casual-labour-hire.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/parking/casual-labour-hire.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/recruitment/international-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/parking/international-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/recruitment/international-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/parking/international-staff-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/ship-building/shipbuilding-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/shipbuilding/shipbuilding-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/ship-building/shipbuilding-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/shipbuilding/shipbuilding-staff-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +52,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="junayed" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -313,14 +305,7 @@
       <workItem from="1605091918573" duration="7550000" />
       <workItem from="1605101461744" duration="5251000" />
       <workItem from="1605156382303" duration="3643000" />
-      <workItem from="1605182574981" duration="2295000" />
-    </task>
-    <task id="LOCAL-00050" summary="new meta_keywords adding in &#10;-system-engineer-recruitment">
-      <created>1598350708642</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1598350708644</updated>
+      <workItem from="1605182574981" duration="3846000" />
     </task>
     <task id="LOCAL-00051" summary="new meta_keywords adding in &#10;-helpdesk-officer-recruitment">
       <created>1598351061697</created>
@@ -658,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605115820138</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="footer update">
+      <created>1605184982638</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1605184982639</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,7 +681,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-helpdesk-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-land-surveyor-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-farm-hand-recruitment" />
@@ -714,7 +705,8 @@
     <MESSAGE value="upto engineering page" />
     <MESSAGE value="upto Executive Assistant Recruitment" />
     <MESSAGE value="upto Assistant Accountant Recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="upto Assistant Accountant Recruitment" />
+    <MESSAGE value="footer update" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -723,10 +715,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1605115818957">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1605184979417">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605115818957" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605184979417" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605080590428" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089272326" />
     <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
@@ -765,10 +757,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1605115823829">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1605184987335">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605115823829" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605184987335" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605080610523" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089282671" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
@@ -779,10 +771,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601992564588" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605184795049">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605191324293">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605184795049" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605191324293" />
     <state x="486" y="83" width="945" height="956" key="search.everywhere.popup/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604213716125" />
   </component>
 </project>

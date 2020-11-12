@@ -51,6 +51,7 @@ Route::get('/maintenance-recruitment',              function () { return view('c
 //.............>>>Category MG OFFICE STAFF<<<..................
 Route::get('/assistant-accountant-recruitment',         function () { return view('cat/office-staff/assistant-accountant-recruitment'); });
 Route::get('/executive-assistant-recruitment',          function () { return view('cat/office-staff/executive-assistant-recruitment'); });
+Route::get('/financial-analyst-recruitment',            function () { return view('cat/office-staff/financial-analyst-recruitment'); });
 
 
 
@@ -59,7 +60,6 @@ Route::get('/executive-assistant-recruitment',          function () { return vie
 Route::get('/accounts-payable-officer-recruitment',     function () { return view('accounts-payable-officer-recruitment'); });
 
 Route::get('/bookkeeping-recruitment',                  function () { return view('bookkeeping-recruitment'); });
-Route::get('/financial-analyst-recruitment',            function () { return view('financial-analyst-recruitment'); });
 //...............................Administration
 Route::get('/office-administrator-recruitment',         function () { return view('office-administrator-recruitment'); });
 Route::get('/customer-services-officer-recruitment',    function () { return view('customer-services-officer-recruitment'); });

@@ -1,31 +1,3 @@
-@extends('layouts.master', ['title' => 'Our Vision'])
-
-
-
-@section('content')
-
-    <div class="header-banner" style="text-align: center">
-            <h1 class="white line-12 text-45">Mates Group: Trusted Financial Analyst Hire Company</h1>
-    </div>
-
-    <p style="font-size: 30px; text-align: center; margin-top: 20px;"><strong>Financial analyst recruitment service Australia</strong></p>
-
-    <div class="single-content">
-        <div class="container">
-            <p>MatesGroup Recruitment offers premium staffing administrations to assist you with choosing the ideal Financial Analyst for your business. MatesGroup comes to you with financial analyst hire service. We do financial analyst hire worldwide.</p>
-            <p>Finance Analysts are the main thrust behind the money related choices of any organization and are in this way critical recruits. Here at MatesGroup, we comprehend the significance of employing a Financial Analyst that has the expository and measurable capacities as well as ready to make an interpretation of those discoveries into canny suggestions that drive business choices.</p>
-            <p>As a Newcastle Recruitment organization, MatesGroup offers total enrolment benefits just as a painstakingly evolved across the nation system of selection representatives and ability. We offer premium staffing administrations to the nation's best development, framework, mining administrations, building, innovation, media, computerized, correspondences, advertising, deals, budgetary administrations and mining organisations. Our ability procurement supervisors work with every customer to comprehend their one of a kind necessities, assist them with figuring out applications, utilize, prepare and hold the best in the business.</p>
-            <p style="font-size: 25px;">Why MatesGroup?</p>
-            <p>Across the country organize: MatesGroup Recruitment is a national player with a database that is deliberately taken from the country over. We have built up a merited notoriety among the top organizations in Australia for our capacity to discover ability the nation over and help our customers to utilize and hold them. </p>
-            <p>Complete enlistment benefits: Our heavenly group of selection representatives work with customers for a total assistance bundle. We assist you with connecting with candidates, sort out forthcoming up-and-comers, run record verifications, plan interviews, arrange compensations and guarantee a smooth on boarding experience. </p>
-            <p>Bother free snappy assistance: MatesGroup Recruitment offers a problem free, speedy and proficient help. For those searching for brisk arrangements, we offer our broad database which is created through close to home enlistments and referrals. </p>
-        </div>
-    </div>
-
-@endsection
-
-
-
 @extends('layouts.page')
 
 @section('title', 'Financial Analyst Recruitment Agency in Melbourne & Sydney')
@@ -62,7 +34,28 @@ accounting analyst hire services in Melbourne, Sydney, Brisbane, Perth, and NSW'
                     <h2>Why Mates Group?</h2>
                     <p>We have a long-term relationship with our client companies and we are always ready to support them. We got an extensive network of staff and clients so that we can help you providing economists or financial staff in a short time. We retain our talented employees who can work with the unique requirements of our clients. Your success is our success. Our job is to make you happy providing our expert employees to your companies and make you hassle-free. So, why are you waiting to contact us?</p>
                     <p>If you are an applicant you should have the following qualifications:</p>
-                    
+
+                    <ul>
+                        <li>Different kinds of experience in business support and financial analysis.</li>
+                        <li>CPA or CA qualified.</li>
+                        <li>Strong communication skills.</li>
+                        <li>Maintain the company’s terms and policies.</li>
+                        <li>Maintain a strong relationship with the team.</li>
+                        <li>Handling and working ability in company software.</li>
+                    </ul>
+
+                    <h2>Job Description:</h2>
+                    <p>Mates Group can offer a financial analyst with the following skill which has been described below in the full job description. We can provide one to ten years of industry experience financial analyst. We can arrange staff for Melbourne, Sydney, Brisbane, Perth, and NSW.</p>
+
+                    <ul>
+                        <li>Take part in collaborating with the team.</li>
+                        <li>Take the challenge of any new task.</li>
+                        <li>Working with the business team and analyse the reconcile brand spend.</li>
+                        <li>Finance, economics, or banking support to the organization.</li>
+                        <li>Complete monthly BPR, GPR.</li>
+                        <li>Prepare the Opex planning tool.</li>
+                        <li>Assisting with rebuilding the business model.</li>
+                    </ul>
                 </div>
             </div>
 
