@@ -30,7 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/office-staff/payroll-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/office-staff/payroll-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/cat/office-staff/office-support-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/office-staff/office-support-recruitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -305,14 +305,7 @@
       <workItem from="1605091918573" duration="7550000" />
       <workItem from="1605101461744" duration="5251000" />
       <workItem from="1605156382303" duration="3643000" />
-      <workItem from="1605182574981" duration="4767000" />
-    </task>
-    <task id="LOCAL-00052" summary="new meta_keywords adding in &#10;-land-surveyor-recruitment">
-      <created>1598351452860</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1598351452860</updated>
+      <workItem from="1605182574981" duration="6340000" />
     </task>
     <task id="LOCAL-00053" summary="new meta_keywords adding in &#10;-electrical-lineman-recruitment">
       <created>1598351796314</created>
@@ -650,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605191551442</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Payroll Recruitment - on page SEO- matesgroup.com.au updated">
+      <created>1605192462059</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1605192462059</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,7 +681,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-farm-hand-recruitment" />
     <MESSAGE value="-bug fixing" />
     <MESSAGE value="-Table hiding" />
@@ -706,7 +705,8 @@
     <MESSAGE value="upto Assistant Accountant Recruitment" />
     <MESSAGE value="footer update" />
     <MESSAGE value="Financial Analyst Recruitment - on page SEO - matesgroup.com.au updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Financial Analyst Recruitment - on page SEO - matesgroup.com.au updated" />
+    <MESSAGE value="Payroll Recruitment - on page SEO- matesgroup.com.au updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Payroll Recruitment - on page SEO- matesgroup.com.au updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -715,10 +715,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1605191550362">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1605192461040">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605191550362" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605192461040" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605080590428" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089272326" />
     <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
@@ -757,10 +757,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1605191555756">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1605192468695">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605191555756" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605192468695" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605080610523" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089282671" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
@@ -771,10 +771,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601992564588" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605191976905">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605193947408">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605191976905" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605193947408" />
     <state x="486" y="83" width="945" height="956" key="search.everywhere.popup/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604213716125" />
   </component>
 </project>
