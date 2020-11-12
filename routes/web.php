@@ -52,6 +52,7 @@ Route::get('/maintenance-recruitment',              function () { return view('c
 Route::get('/assistant-accountant-recruitment',         function () { return view('cat/office-staff/assistant-accountant-recruitment'); });
 Route::get('/executive-assistant-recruitment',          function () { return view('cat/office-staff/executive-assistant-recruitment'); });
 Route::get('/financial-analyst-recruitment',            function () { return view('cat/office-staff/financial-analyst-recruitment'); });
+Route::get('/payroll-recruitment',              function () { return view('cat/office-staff/payroll-recruitment'); });
 
 
 
@@ -72,7 +73,6 @@ Route::get('/database-developer-recruitment',           function () { return vie
 
 
 Route::get('/payroll-officer-recruitment',              function () { return view('payroll-officer-recruitment'); });
-Route::get('/payroll-recruitment',              function () { return view('payroll-recruitment'); });
 Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
 Route::get('/construction-staff-recruitment',           function () { return view('construction-staff-recruitment'); });
 
