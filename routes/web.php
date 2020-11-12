@@ -50,7 +50,7 @@ Route::get('/engineering-recruitment',              function () { return view('c
 Route::get('/maintenance-recruitment',              function () { return view('cat/maintenance/maintenance-recruitment'); });
 //.............>>>Category MG OFFICE STAFF<<<..................
 Route::get('/assistant-accountant-recruitment',         function () { return view('cat/office-staff/assistant-accountant-recruitment'); });
-
+Route::get('/executive-assistant-recruitment',          function () { return view('cat/office-staff/executive-assistant-recruitment'); });
 
 
 
@@ -82,13 +82,13 @@ Route::get('/office-support-recruitment',              function () { return view
 Route::get('/international-staff-recruitment',          function () { return view('international-staff-recruitment'); });
 Route::get('/international-recruitment',              function () { return view('international-recruitment'); });
 Route::get('/coordinator-recruitment',                  function () { return view('coordinator-recruitment'); });
-Route::get('/executive-assistant-recruitment',          function () { return view('executive-assistant-recruitment'); });
+
 Route::get('/helpdesk-officer-recruitment',             function () { return view('helpdesk-officer-recruitment'); });
 Route::get('/mail-sorter-recruitment',                  function () { return view('mail-sorter-recruitment'); });
 //.............>>>Category MG IT STAFF<<<.................
 //.............>>>Category Industries<<<..................
 Route::get('/warehouse-staff-recruitment',              function () { return view('warehouse-staff-recruitment'); });
-Route::get('/warehouse-recruitment',              function () { return view('warehouse-recruitment'); });
+Route::get('/warehouse-recruitment',              function () { return view('cat/warehouse/warehouse-recruitment'); });
 Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
 Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
 Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
@@ -96,11 +96,11 @@ Route::get('/process-worker-recruitment',               function () { return vie
 Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
 Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
 Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
-Route::get('/transport-recruitment',              function () { return view('transport-recruitment'); });
+Route::get('/transport-recruitment',              function () { return view('cat/transport/transport-recruitment'); });
 
 //.............>>>Category MG SHIPBUILDING<<<..................
 Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });
-Route::get('/shipbuilding-recruitment',              function () { return view('shipbuilding-recruitment'); });
+Route::get('/shipbuilding-recruitment',              function () { return view('cat/shipbuilding/shipbuilding-recruitment'); });
 //.............>>>Category MG GLOBAL STAFF<<<..................
 //.............>>>Category MG WAREHOUSE STAFF<<<..................
 //.............>>>Category MG MAINTENANCE STAFF<<<..................

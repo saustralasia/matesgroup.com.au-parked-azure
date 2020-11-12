@@ -31,14 +31,15 @@
             <div class="col-md-3">
                 <h4 class="black">OUR SERVICES</h4>
                 <ul class="f-list">
-                    <li><a href="/workforce">MG Office Staff</a></li>
-                    <li><a href="/workforce">MG Construction Staff </a></li>
-                    <li><a href="/matesglobal">MG Shipbuilding Staff</a></li>
-                    <li><a href="/workforce">MG Agriculture Staff</a></li>
-                    <li><a href="/matesglobal">MG International Staff</a></li>
-                    <li><a href="/workforce">MG Warehouse Staff</a></li>
-                    <li><a href="/workforce">MG Maintenance Staff</a></li>
-                    <li><a href="/workforce">MG Transport Staff</a></li>
+                    <li><a href="/agriculture-recruitment">MG Agriculture Staff</a></li>
+                    <li><a href="/construction-recruitment">MG Construction Staff </a></li>
+                    <li><a href="/engineering-recruitment">MG Engineering Staff </a></li>
+                    <li><a href="/maintenance-recruitment">MG Maintenance Staff</a></li>
+                    <li><a href="/assistant-accountant-recruitment">MG Office Staff</a></li>
+                    <li><a href="/shipbuilding-recruitment">MG Shipbuilding Staff</a></li>
+                    <li><a href="/transport-recruitment">MG Transport Staff</a></li>
+                    <li><a href="/warehouse-recruitment">MG Warehouse Staff</a></li>
+                    <li><a href="#">MG International Staff</a></li>
                 </ul>
             </div>
 
