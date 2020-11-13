@@ -28,12 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/includes/analytics_google.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/includes/analytics_google.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/page.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,13 +304,7 @@
       <workItem from="1605182574981" duration="2295000" />
       <workItem from="1605265056296" duration="1770000" />
       <workItem from="1605267972331" duration="1678000" />
-    </task>
-    <task id="LOCAL-00051" summary="new meta_keywords adding in &#10;-helpdesk-officer-recruitment">
-      <created>1598351061697</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1598351061698</updated>
+      <workItem from="1605270298966" duration="389000" />
     </task>
     <task id="LOCAL-00052" summary="new meta_keywords adding in &#10;-land-surveyor-recruitment">
       <created>1598351452860</created>
@@ -653,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605268907030</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Merge remote-tracking branch 'origin/master' into dev&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1605270641564</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1605270641564</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +666,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="junayed" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -684,7 +680,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new meta_keywords adding in &#10;-helpdesk-officer-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-land-surveyor-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-electrical-lineman-recruitment" />
     <MESSAGE value="new meta_keywords adding in &#10;-farm-hand-recruitment" />
@@ -709,7 +704,8 @@
     <MESSAGE value="upto engineering page" />
     <MESSAGE value="upto Executive Assistant Recruitment" />
     <MESSAGE value="upto Assistant Accountant Recruitment" />
-    <option name="LAST_COMMIT_MESSAGE" value="upto Assistant Accountant Recruitment" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master' into dev&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master' into dev&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -718,11 +714,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1605268904993">
+    <state x="448" y="0" key="CommitChangelistDialog2" timestamp="1605270781308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605115818957" />
-    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605268904993" />
+    <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605270781308" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089272326" />
     <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -748,6 +744,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605101314433" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1605270578062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605270578062" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1605270578085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605270578085" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604991023830">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -760,11 +764,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1605269765418">
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1605270678407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605115823829" />
-    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605269765418" />
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605270678407" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089282671" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
       <screen x="0" y="0" width="1920" height="1040" />
