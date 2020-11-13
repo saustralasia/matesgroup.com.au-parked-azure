@@ -60,7 +60,11 @@ Route::get('/it-recruitment',                           function () { return vie
 //.............>>>Category MG SHIPBUILDING<<<..................
 Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });  //is this okay???check it
 Route::get('/shipbuilding-recruitment',                 function () { return view('cat/shipbuilding/shipbuilding-recruitment'); });
-
+//.............>>>Category MG TRANSPORT STAFF<<<..................
+Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
+Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
+Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
+Route::get('/transport-recruitment',                    function () { return view('cat/transport/transport-recruitment'); });
 
 
 
@@ -102,11 +106,7 @@ Route::get('/warehouse-recruitment',              function () { return view('cat
 Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
 Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
 Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
-//.............>>>Category MG TRANSPORT STAFF<<<..................
-Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
-Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
-Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
-Route::get('/transport-recruitment',              function () { return view('cat/transport/transport-recruitment'); });
+
 
 
 //.............>>>Category MG GLOBAL STAFF<<<..................
