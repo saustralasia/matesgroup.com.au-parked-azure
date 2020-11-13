@@ -56,6 +56,15 @@ Route::get('/payroll-recruitment',                      function () { return vie
 Route::get('/office-support-recruitment',               function () { return view('cat/office-staff/office-support-recruitment'); });
 Route::get('/executive-recruitment',                    function () { return view('cat/office-staff/executive-recruitment'); });
 Route::get('/receptionist-recruitment',                 function () { return view('cat/office-staff/receptionist-recruitment'); });
+Route::get('/it-recruitment',                           function () { return view('cat/office-staff/it-recruitment'); });
+//.............>>>Category MG SHIPBUILDING<<<..................
+Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });  //is this okay???check it
+Route::get('/shipbuilding-recruitment',                 function () { return view('cat/shipbuilding/shipbuilding-recruitment'); });
+
+
+
+
+
 
 
 
@@ -75,7 +84,7 @@ Route::get('/database-developer-recruitment',           function () { return vie
 
 
 Route::get('/payroll-officer-recruitment',              function () { return view('payroll-officer-recruitment'); });
-Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
+
 Route::get('/construction-staff-recruitment',           function () { return view('construction-staff-recruitment'); });
 
 
@@ -99,9 +108,7 @@ Route::get('/truck-driver-recruitment',                 function () { return vie
 Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
 Route::get('/transport-recruitment',              function () { return view('cat/transport/transport-recruitment'); });
 
-//.............>>>Category MG SHIPBUILDING<<<..................
-Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });
-Route::get('/shipbuilding-recruitment',              function () { return view('cat/shipbuilding/shipbuilding-recruitment'); });
+
 //.............>>>Category MG GLOBAL STAFF<<<..................
 //.............>>>Category MG WAREHOUSE STAFF<<<..................
 //.............>>>Category MG MAINTENANCE STAFF<<<..................
