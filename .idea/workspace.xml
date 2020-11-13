@@ -30,16 +30,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6613db3f-b391-4948-b4c2-f38f31e93370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/office-staff/executive-assistant-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/office-staff/executive-assistant-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/office-staff/financial-analyst-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/office-staff/financial-analyst-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/recruitment/casual-labour-hire.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/parking/casual-labour-hire.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/recruitment/international-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/parking/international-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/recruitment/international-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/parking/international-staff-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/ship-building/shipbuilding-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/shipbuilding/shipbuilding-recruitment.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cat/ship-building/shipbuilding-staff-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/shipbuilding/shipbuilding-staff-recruitment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/_bootstrap_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/_bootstrap_custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/cat/agriculture/agriculture-recruitment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cat/agriculture/agriculture-recruitment.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer-page.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,6 +310,8 @@
       <workItem from="1605101461744" duration="5251000" />
       <workItem from="1605156382303" duration="3643000" />
       <workItem from="1605182574981" duration="2295000" />
+      <workItem from="1605265056296" duration="1770000" />
+      <workItem from="1605267972331" duration="626000" />
     </task>
     <task id="LOCAL-00050" summary="new meta_keywords adding in &#10;-system-engineer-recruitment">
       <created>1598350708642</created>
