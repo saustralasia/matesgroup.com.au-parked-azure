@@ -54,7 +54,8 @@ Route::get('/executive-assistant-recruitment',          function () { return vie
 Route::get('/financial-analyst-recruitment',            function () { return view('cat/office-staff/financial-analyst-recruitment'); });
 Route::get('/payroll-recruitment',                      function () { return view('cat/office-staff/payroll-recruitment'); });
 Route::get('/office-support-recruitment',               function () { return view('cat/office-staff/office-support-recruitment'); });
-
+Route::get('/executive-recruitment',                    function () { return view('cat/office-staff/executive-recruitment'); });
+Route::get('/receptionist-recruitment',                 function () { return view('cat/office-staff/receptionist-recruitment'); });
 
 
 
@@ -77,7 +78,7 @@ Route::get('/payroll-officer-recruitment',              function () { return vie
 Route::get('/it-recruitment',              function () { return view('it-recruitment'); });
 Route::get('/construction-staff-recruitment',           function () { return view('construction-staff-recruitment'); });
 
-Route::get('/receptionist-recruitment',                 function () { return view('receptionist-recruitment'); });
+
 Route::get('/office-staff-recruitment',                 function () { return view('office-staff-recruitment'); });
 Route::get('/international-staff-recruitment',          function () { return view('international-staff-recruitment'); });
 Route::get('/international-recruitment',              function () { return view('international-recruitment'); });
