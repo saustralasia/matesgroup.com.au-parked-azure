@@ -65,7 +65,8 @@ Route::get('/forklift-driver-recruitment',              function () { return vie
 Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
 Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
 Route::get('/transport-recruitment',                    function () { return view('cat/transport/transport-recruitment'); });
-
+//.............>>>Category MG WAREHOUSE STAFF<<<..................
+Route::get('/warehouse-recruitment',              function () { return view('cat/warehouse/warehouse-recruitment'); });
 
 
 
@@ -102,7 +103,7 @@ Route::get('/mail-sorter-recruitment',                  function () { return vie
 //.............>>>Category MG IT STAFF<<<.................
 //.............>>>Category Industries<<<..................
 Route::get('/warehouse-staff-recruitment',              function () { return view('warehouse-staff-recruitment'); });
-Route::get('/warehouse-recruitment',              function () { return view('cat/warehouse/warehouse-recruitment'); });
+
 Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
 Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
 Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
@@ -110,7 +111,6 @@ Route::get('/process-worker-recruitment',               function () { return vie
 
 
 //.............>>>Category MG GLOBAL STAFF<<<..................
-//.............>>>Category MG WAREHOUSE STAFF<<<..................
 //.............>>>Category MG MAINTENANCE STAFF<<<..................
 //.............>>>Category MG LABOURER<<<..................
 
