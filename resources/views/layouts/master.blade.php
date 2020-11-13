@@ -11,6 +11,7 @@
     <meta name="keywords" content="@yield('meta_keywords')">
     <title>@yield('title')</title>
 
+    @include('layouts.includes.analytics_google')
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 
 {{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">--}}

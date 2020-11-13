@@ -6,6 +6,7 @@
 
     <link rel="icon" href="{{asset('images/mgr.ico')}}">
 
+    @include('layouts.includes.analytics_google')
     <!-- adding this three lines for search engine meta link -->
     <meta name="description" content="@yield('meta_des')">
     <meta name="keywords" content="@yield('meta_keywords')">
