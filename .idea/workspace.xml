@@ -307,14 +307,7 @@
       <workItem from="1605156382303" duration="3643000" />
       <workItem from="1605182574981" duration="7023000" />
       <workItem from="1605252031629" duration="8959000" />
-      <workItem from="1605318835906" duration="2670000" />
-    </task>
-    <task id="LOCAL-00061" summary="-bug fixing">
-      <created>1598690565941</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1598690565941</updated>
+      <workItem from="1605318835906" duration="3425000" />
     </task>
     <task id="LOCAL-00062" summary="-bug fixing">
       <created>1598692925240</created>
@@ -652,7 +645,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605320536030</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Recruitment Gold Coast - On Page Recommendation-matesgroup.com.au updated">
+      <created>1605321539186</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1605321539186</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -683,7 +683,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-agriculture-recruitment&#10;-casual-labour-hire" />
     <MESSAGE value="footer BS3 correction." />
     <MESSAGE value="footer rebuild." />
     <MESSAGE value="page layout working!" />
@@ -708,7 +707,8 @@
     <MESSAGE value="Casual labour hire - on page SEO- matesgroup.com.au updated" />
     <MESSAGE value="International Recruitment- on page SEO- matesgroup.com.au updated" />
     <MESSAGE value="Recruitment Darwin - On Page Recommendation-matesgroup.com.au updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recruitment Darwin - On Page Recommendation-matesgroup.com.au updated" />
+    <MESSAGE value="Recruitment Gold Coast - On Page Recommendation-matesgroup.com.au updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recruitment Gold Coast - On Page Recommendation-matesgroup.com.au updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="399" key="#Composer" timestamp="1598504617529" />
@@ -717,10 +717,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1598676145230" />
-    <state x="110" y="0" key="CommitChangelistDialog2" timestamp="1605320534918">
+    <state x="110" y="0" key="CommitChangelistDialog2" timestamp="1605321537927">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="110" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605320534918" />
+    <state x="110" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605321537927" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605080590428" />
     <state x="448" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089272326" />
     <state x="81" y="138" width="1736" height="856" key="DiffContextDialog" timestamp="1604983346425">
@@ -759,10 +759,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604210082683" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1605320549115">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1605321547779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605320549115" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605321547779" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1605080610523" />
     <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605089282671" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604215443864">
@@ -773,10 +773,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1605252580703" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605321452766">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605322190284">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605321452766" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605322190284" />
     <state x="486" y="83" width="945" height="956" key="search.everywhere.popup/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604213716125" />
   </component>
 </project>
