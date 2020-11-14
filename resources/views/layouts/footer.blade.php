@@ -40,6 +40,7 @@
                     <li><a href="/transport-recruitment">MG Transport Staff</a></li>
                     <li><a href="/warehouse-recruitment">MG Warehouse Staff</a></li>
                     <li><a href="#">MG International Staff</a></li>
+                    <li><a href="/casual-labour-hire">MG Recruitment*</a></li>
                 </ul>
             </div>
 
