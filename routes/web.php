@@ -69,6 +69,7 @@ Route::get('/transport-recruitment',                    function () { return vie
 Route::get('/warehouse-recruitment',                    function () { return view('cat/warehouse/warehouse-recruitment'); });
 //.............>>>Category RECRUITMENT<<<..................
 Route::get('/casual-labour-hire',                       function () { return view('cat/recruitment/casual-labour-hire'); });
+Route::get('/international-recruitment',                function () { return view('cat/recruitment/international-recruitment'); });
 
 
 
@@ -96,7 +97,6 @@ Route::get('/construction-staff-recruitment',           function () { return vie
 
 Route::get('/office-staff-recruitment',                 function () { return view('office-staff-recruitment'); });
 Route::get('/international-staff-recruitment',          function () { return view('international-staff-recruitment'); });
-Route::get('/international-recruitment',              function () { return view('international-recruitment'); });
 Route::get('/coordinator-recruitment',                  function () { return view('coordinator-recruitment'); });
 
 Route::get('/helpdesk-officer-recruitment',             function () { return view('helpdesk-officer-recruitment'); });
