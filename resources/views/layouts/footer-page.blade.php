@@ -84,7 +84,7 @@
                     <li class="list-inline-item"><a href="/terms">Terms & Condition</a></li>
                     <li class="list-inline-item"><a href="#">Sitemap</a></li>
                 </ul>
-                <p>&copy; Mates Group {{date('Y')}}</p>
+                <p>&copy; <a href="/">Mates Group</a> {{date('Y')}}</p>
             </div>
         </div>
     </div>

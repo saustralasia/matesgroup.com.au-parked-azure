@@ -16,9 +16,12 @@
                 <h1 class="display-4 mb-4 blog-post-title border-bottom">Agribusiness Recruitment Specialist</h1>
             </div>
             <div class="col-md-4">
+
             </div>
         </div>
     </div>
+
+
 
     <div class="container">
         <div class="row">
