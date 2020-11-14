@@ -42,12 +42,16 @@ Route::get('/workforce',        function () { return view('workforce'); });
 
 //.............>>>Category MG AGRICULTURE STAFF<<<..................
 Route::get('/agriculture-recruitment',              function () { return view('cat/agriculture/agriculture-recruitment'); });
+
 //.............>>>Category MG CONSTRUCTION STAFF<<<..................
 Route::get('/construction-recruitment',              function () { return view('cat/construction/construction-recruitment'); });
+
 //.............>>>Category MG ENGINEERING STAFF<<<..................
 Route::get('/engineering-recruitment',              function () { return view('cat/engineering/engineering-recruitment'); });
+
 //.............>>>Category MG MAINTENANCE STAFF<<<..................
 Route::get('/maintenance-recruitment',              function () { return view('cat/maintenance/maintenance-recruitment'); });
+
 //.............>>>Category MG OFFICE STAFF<<<..................
 Route::get('/assistant-accountant-recruitment',         function () { return view('cat/office-staff/assistant-accountant-recruitment'); });
 Route::get('/executive-assistant-recruitment',          function () { return view('cat/office-staff/executive-assistant-recruitment'); });
@@ -57,23 +61,36 @@ Route::get('/office-support-recruitment',               function () { return vie
 Route::get('/executive-recruitment',                    function () { return view('cat/office-staff/executive-recruitment'); });
 Route::get('/receptionist-recruitment',                 function () { return view('cat/office-staff/receptionist-recruitment'); });
 Route::get('/it-recruitment',                           function () { return view('cat/office-staff/it-recruitment'); });
+
 //.............>>>Category MG SHIPBUILDING<<<..................
-Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });  //is this okay???check it
 Route::get('/shipbuilding-recruitment',                 function () { return view('cat/shipbuilding/shipbuilding-recruitment'); });
+
 //.............>>>Category MG TRANSPORT STAFF<<<..................
-Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
-Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
-Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
 Route::get('/transport-recruitment',                    function () { return view('cat/transport/transport-recruitment'); });
+
 //.............>>>Category MG WAREHOUSE STAFF<<<..................
 Route::get('/warehouse-recruitment',                    function () { return view('cat/warehouse/warehouse-recruitment'); });
 //.............>>>Category RECRUITMENT<<<..................
 Route::get('/casual-labour-hire',                       function () { return view('cat/recruitment/casual-labour-hire'); });
 Route::get('/international-recruitment',                function () { return view('cat/recruitment/international-recruitment'); });
+Route::get('/recruitment-darwin',                function () { return view('cat/recruitment/recruitment-darwin'); });
 Route::get('/recruitment-gold-coast',                   function () { return view('cat/recruitment/recruitment-gold-coast'); });
 Route::get('/recruitment-paramatta',                    function () { return view('cat/recruitment/recruitment-paramatta'); });
 Route::get('/recruitment-sunshine',                     function () { return view('cat/recruitment/recruitment-sunshine'); });
 Route::get('/temporary-recruitment',                    function () { return view('cat/recruitment/temporary-recruitment'); });
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //...............................Accounting
@@ -117,6 +134,12 @@ Route::get('/process-worker-recruitment',               function () { return vie
 
 
 //.............>>>Category: Parking / temporaty<<<..................
+Route::get('/shipbuilding-staff-recruitment',           function () { return view('shipbuilding-staff-recruitment'); });  //is this okay???check it
+
+Route::get('/forklift-driver-recruitment',              function () { return view('forklift-driver-recruitment'); });
+Route::get('/truck-driver-recruitment',                 function () { return view('truck-driver-recruitment'); });
+Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
+
 Route::get('/security-guard-recruitment',               function () { return view('security-guard-recruitment'); });
 Route::get('/land-surveyor-recruitment',                function () { return view('land-surveyor-recruitment'); });
 Route::get('/electrical-lineman-recruitment',           function () { return view('electrical-lineman-recruitment'); });
