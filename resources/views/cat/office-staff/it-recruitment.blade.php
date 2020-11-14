@@ -57,7 +57,7 @@
             </div>
 
             <aside class="col-md-4 blog-aside">
-                @include('layouts.asides.aboutus')
+                @include('layouts.asides.office-staff')
             </aside>
 
         </div>
