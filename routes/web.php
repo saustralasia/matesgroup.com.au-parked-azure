@@ -66,8 +66,9 @@ Route::get('/truck-driver-recruitment',                 function () { return vie
 Route::get('/transport-staff-recruitment',              function () { return view('transport-staff-recruitment'); });
 Route::get('/transport-recruitment',                    function () { return view('cat/transport/transport-recruitment'); });
 //.............>>>Category MG WAREHOUSE STAFF<<<..................
-Route::get('/warehouse-recruitment',              function () { return view('cat/warehouse/warehouse-recruitment'); });
-
+Route::get('/warehouse-recruitment',                    function () { return view('cat/warehouse/warehouse-recruitment'); });
+//.............>>>Category RECRUITMENT<<<..................
+Route::get('/casual-labour-hire',                       function () { return view('cat/recruitment/casual-labour-hire'); });
 
 
 
@@ -105,7 +106,6 @@ Route::get('/mail-sorter-recruitment',                  function () { return vie
 Route::get('/warehouse-staff-recruitment',              function () { return view('warehouse-staff-recruitment'); });
 
 Route::get('/garden-maintenance-staff-recruitment ',    function () { return view('garden-maintenance-staff-recruitment'); });
-Route::get('/casual-labour-hire',              function () { return view('casual-labour-hire'); });
 Route::get('/process-worker-recruitment',               function () { return view('process-worker-recruitment'); });
 
 
