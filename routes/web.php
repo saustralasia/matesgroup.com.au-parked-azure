@@ -70,7 +70,7 @@ Route::get('/warehouse-recruitment',                    function () { return vie
 //.............>>>Category RECRUITMENT<<<..................
 Route::get('/casual-labour-hire',                       function () { return view('cat/recruitment/casual-labour-hire'); });
 Route::get('/international-recruitment',                function () { return view('cat/recruitment/international-recruitment'); });
-
+Route::get('/recruitment-gold-coast',                   function () { return view('cat/recruitment/recruitment-gold-coast'); });
 
 
 
