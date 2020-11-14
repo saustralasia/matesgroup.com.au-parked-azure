@@ -72,7 +72,8 @@ Route::get('/casual-labour-hire',                       function () { return vie
 Route::get('/international-recruitment',                function () { return view('cat/recruitment/international-recruitment'); });
 Route::get('/recruitment-gold-coast',                   function () { return view('cat/recruitment/recruitment-gold-coast'); });
 Route::get('/recruitment-paramatta',                    function () { return view('cat/recruitment/recruitment-paramatta'); });
-Route::get('/recruitment-sunshine',                    function () { return view('cat/recruitment/recruitment-sunshine'); });
+Route::get('/recruitment-sunshine',                     function () { return view('cat/recruitment/recruitment-sunshine'); });
+Route::get('/temporary-recruitment',                    function () { return view('cat/recruitment/temporary-recruitment'); });
 
 
 //...............................Accounting
