@@ -7,9 +7,17 @@
     <link rel="icon" href="{{asset('images/mgr.ico')}}">
 
     @include('layouts.includes.analytics_google')
+
     <!-- adding this three lines for search engine meta link -->
     <meta name="description" content="@yield('meta_des')">
     <meta name="keywords" content="@yield('meta_keywords')">
+    <link rel="canonical" href="https://matesgroup.com.au/sample-page/" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+
     <title>@yield('title')</title>
 
     <!-- Styles -->

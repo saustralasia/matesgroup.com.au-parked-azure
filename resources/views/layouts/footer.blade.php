@@ -78,7 +78,7 @@
             <div class="col py-3 px-lg-5">
                 <div class="copyright">
                     <center>
-                        <a href="/safety_policy">Safety Policy</a> &nbsp; <a href="/privacy">Privacy Policy</a> &nbsp; <a href="/terms">Terms & Condition</a> &nbsp; <a href="">Sitemap</a>
+                        <a href="/safety_policy">Safety Policy</a> &nbsp; <a href="/privacy">Privacy Policy</a> &nbsp; <a href="/terms">Terms & Condition</a> &nbsp; <a href="/sitemap.xml">Sitemap</a>
                         <p> &copy; Mates Group {{date('Y')}}</p>
                     </center>
                 </div>

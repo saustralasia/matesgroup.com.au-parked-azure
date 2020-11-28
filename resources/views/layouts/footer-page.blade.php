@@ -82,7 +82,7 @@
                     <li class="list-inline-item"><a href="/safety_policy">Safety Policy</a></li>
                     <li class="list-inline-item"><a href="/privacy">Privacy Policy</a></li>
                     <li class="list-inline-item"><a href="/terms">Terms & Condition</a></li>
-                    <li class="list-inline-item"><a href="#">Sitemap</a></li>
+                    <li class="list-inline-item"><a href="/sitemap.xml">Sitemap</a></li>
                 </ul>
                 <p>&copy; <a href="/">Mates Group</a> {{date('Y')}}</p>
             </div>
