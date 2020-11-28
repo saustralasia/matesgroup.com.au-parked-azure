@@ -1,13 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Staff Recruitment Service & Labour Hire Australia')
-
-@section('meta_keywords', 'submarine building workers Australia, shipbuilding staff australia
-shipbuilding staff recruitment Australia, shipbuilding staff hire australia
-shipbuilding staff recruitment service Australia, shipbuilding staff recruitment worldwide
-')
-
-@section('meta_des', 'Mates Group is an innovative Australian recruitment company supplying highly skilled shipbuilding, submarine workers to different organizations worldwide.')
+@section('meta_description', 'Mates Group is an innovative Australian recruitment company supplying highly skilled shipbuilding, submarine workers to different organizations worldwide.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/approach.png')}}');">

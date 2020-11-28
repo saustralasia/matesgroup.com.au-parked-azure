@@ -1,54 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Forklift Driver Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Forklift driver recruitment australia, forklift driver hire service australia
-forklift operator recruitment australia, forklift operator hire australia
-forklift driver recruitment worldwide,
-Forklift staff recruitment in Sydney,
-Forklift staff recruitment in Melbourne,
-Forklift staff recruitment in Queensland,
-Forklift staff recruitment in Victoria,
-Forklift staff recruitment in NSW,
-Forklift staff recruitment in Brisbane,
-
-
-Forklift Labour hire services in Sydney,
-Forklift Labour hire services in Melbourne,
-Forklift Labour hire services in Queensland,
-Forklift Labour hire services in Victoria,
-Forklift Labour hire services in NSW,
-Forklift Labour hire services in Brisbane,
-
-
-Forklift staff recruitment services in Sydney,
-Forklift staff recruitment services in Queensland,
-Forklift staff recruitment services in Melbourne,
-Forklift staff recruitment services in NSW,
-Forklift staff recruitment services in Victoria,
-Forklift staff recruitment services in Brisbane,
-
-
-Forklift regional job Queensland,
-Forklift regional job Sydney,
-Forklift regional job Melbourne,
-Forklift regional job NSW,
-Forklift regional job Victoria,
-Forklift regional job Brisbane,
-
-
-Forklift local staff recruitment company,
-Forklift local labour hire company,
-
-
-Forklift local staff recruitment company in Sydney,
-Forklift local staff recruitment company in Melbourne,
-Forklift local staff recruitment company in Queensland,
-Forklift local staff recruitment company in Victoria,
-Forklift local staff recruitment company in NSW,
-Forklift local staff recruitment company in Brisbane,
-
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide Forklift driver, Forklift operator recruitment services in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide Forklift driver, Forklift operator recruitment services in Australia & worldwide.')
 
 @section('content')
 

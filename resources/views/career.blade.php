@@ -1,7 +1,8 @@
 @extends('layouts.page')
+
 @section('title', 'Mates Group: Career')
-@section('meta_keywords', 'best labour hire services australia, labour hire solutions australia')
-@section('meta_des', 'Mates Group is an innovative Australian recruitment company.')
+@section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
+
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/career.jpg')}}');">
         {{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}

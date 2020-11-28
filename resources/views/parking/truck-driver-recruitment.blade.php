@@ -1,53 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Truck Driver Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Truck driver recruitment australia, truck driver hire service australia,
-truck driver recruitment services, truck driver recruitment worldwide,
-Truck driver recruitment in Sydney,
-Truck driver recruitment in Melbourne,
-Truck driver recruitment in Queensland,
-Truck driver recruitment in Victoria,
-Truck driver recruitment in NSW,
-Truck driver recruitment in Brisbane,
-
-
-Truck driver hire services in Sydney,
-Truck driver hire services in Melbourne,
-Truck driver hire services in Queensland,
-Truck driver hire services in Victoria,
-Truck driver hire services in NSW,
-Truck driver hire services in Brisbane,
-
-
-Truck driver recruitment services in Sydney,
-Truck driver recruitment services in Queensland,
-Truck driver recruitment services in Melbourne,
-Truck driver recruitment services in NSW,
-Truck driver recruitment services in Victoria,
-Truck driver recruitment services in Brisbane,
-
-
-Truck driver regional job Queensland,
-Truck driver regional job Sydney,
-Truck driver regional job Melbourne,
-Truck driver regional job NSW,
-Truck driver regional job Victoria,
-Truck driver regional job Brisbane,
-
-
-Truck driver recruitment company,
-Truck driver hire company,
-
-
-Truck driver recruitment company in Sydney,
-Truck driver recruitment company in Melbourne,
-Truck driver recruitment company in Queensland,
-Truck driver recruitment company in Victoria,
-Truck driver recruitment company in NSW,
-Truck driver recruitment company in Brisbane,
-
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide truck drivers, truck operators recruitment solutions in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide truck drivers, truck operators recruitment solutions in Australia & worldwide.')
 
 @section('content')
 

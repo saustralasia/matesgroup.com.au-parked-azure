@@ -1,53 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Accounts Payable Officer Recruitment/Hire Service Australia')
-@section('meta_keywords', 'accounts payable officer recruitment australia,
-accounts payable officer recruitment service, accounts payable officer hire service worldwide,
-Accounts payable officer recruitment in Sydney,
-Accounts payable officer recruitment in Melbourne,
-Accounts payable officer recruitment in Queensland,
-Accounts payable officer recruitment in Victoria,
-Accounts payable officer recruitment in NSW,
-Accounts payable officer recruitment in Brisbane,
-
-
-Accounts payable officer hire services in Sydney,
-Accounts payable officer hire services in Melbourne,
-Accounts payable officer hire services in Queensland,
-Accounts payable officer hire services in Victoria,
-Accounts payable officer hire services in NSW,
-Accounts payable officer hire services in Brisbane,
-
-
-Accounts payable officer recruitment services in Sydney,
-Accounts payable officer recruitment services in Queensland,
-Accounts payable officer recruitment services in Melbourne,
-Accounts payable officer recruitment services in NSW,
-Accounts payable officer recruitment services in Victoria,
-Accounts payable officer recruitment services in Brisbane,
-
-
-Accounts payable officer regional job Queensland,
-Accounts payable officer regional job Sydney,
-Accounts payable officer regional job Melbourne,
-Accounts payable officer regional job NSW,
-Accounts payable officer regional job Victoria,
-Accounts payable officer regional job Brisbane,
-
-
-local Accounts payable officer recruitment company,
-local Accounts payable officer hire company,
-
-
-local Accounts payable officer recruitment company in Sydney,
-local Accounts payable officer recruitment company in Melbourne,
-local Accounts payable officer recruitment company in Queensland,
-local Accounts payable officer recruitment company in Victoria,
-local Accounts payable officer recruitment company in NSW,
-local Accounts payable officer recruitment company in Brisbane,
-
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide accounts payable officer recruitment or hire solutions in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide accounts payable officer recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
     <style>

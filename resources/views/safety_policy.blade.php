@@ -1,10 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Safety Policy')
-
-@section('meta_keywords', '')
-
-@section('meta_des', 'Mates Group is an innovative Australian recruitment company.')
+@section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/safety.jpg')}}');">

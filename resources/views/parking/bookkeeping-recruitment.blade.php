@@ -1,52 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Bookkeeper Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'book keeper recruitment service australia, bookkeeper hire service australia,
-bookkeeper hire service worldwide,
-Bookkeeping staff recruitment in Sydney,
-Bookkeeping staff recruitment in Melbourne,
-Bookkeeping staff recruitment in Queensland,
-Bookkeeping staff recruitment in Victoria,
-Bookkeeping staff recruitment in NSW,
-Bookkeeping staff recruitment in Brisbane,
-
-
-Bookkeeper hire services in Sydney,
-Bookkeeper hire services in Melbourne,
-Bookkeeper hire services in Queensland,
-Bookkeeper hire services in Victoria,
-Bookkeeper hire services in NSW,
-Bookkeeper hire services in Brisbane,
-
-
-Bookkeeper recruitment services in Sydney,
-Bookkeeper recruitment services in Queensland,
-Bookkeeper recruitment services in Melbourne,
-Bookkeeper recruitment services in NSW,
-Bookkeeper recruitment services in Victoria,
-Bookkeeper recruitment services in Brisbane,
-
-
-Bookkeeper regional job Queensland,
-Bookkeeper regional job Sydney,
-Bookkeeper regional job Melbourne,
-Bookkeeper regional job NSW,
-Bookkeeper regional job Victoria,
-Bookkeeper regional job Brisbane,
-
-
-local Bookkeeper recruitment company,
-local Bookkeeper hire company,
-
-
-local Bookkeeper recruitment company in Sydney,
-local Bookkeeper recruitment company in Melbourne,
-local Bookkeeper recruitment company in Queensland,
-local Bookkeeper recruitment company in Victoria,
-local Bookkeeper recruitment company in NSW,
-local Bookkeeper recruitment company in Brisbane,
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide bookkeeper staff recruitment or hire solutions in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide bookkeeper staff recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
     <div class="header-banner" style="text-align: center">

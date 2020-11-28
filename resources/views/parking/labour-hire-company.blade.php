@@ -1,8 +1,7 @@
 @extends('layouts.master')
 
 @section('title', 'Recruitment & Labour Hire Agency Adelaide, Brisbane, Perth')
-@section('meta_keywords', 'recruitment agency adelaide, , labour hire company adelaide, labour hire company brisbane, labour hire company perth, recruitment agency tasmania')
-@section('meta_des', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide, Brisbane, Perth and Tasmania.')
+@section('meta_description', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide, Brisbane, Perth and Tasmania.')
 
 @section('content')
     <div class="header-banner">

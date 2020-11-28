@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Mates Workforce: Best Company for Labour Hire Solutions Australia')
-@section('meta_keywords', 'best labour hire services australia, labour hire solutions australia')
-@section('meta_des', 'Mates Workforce is an innovative Australian recruitment company.')
+@section('meta_description', 'Mates Workforce is an innovative Australian recruitment company.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/ourteam.jpg')}}');">

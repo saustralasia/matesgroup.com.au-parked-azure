@@ -1,53 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Security Guard Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Security guard recruitment service australia,
-security guard hiring service australia, security guard hire worldwide,
-Security guard recruitment in Sydney,
-Security guard recruitment in Melbourne,
-Security guard recruitment in Queensland,
-Security guard recruitment in Victoria,
-Security guard recruitment in NSW,
-Security guard recruitment in Brisbane,
-
-
-Security guard hire services in Sydney,
-Security guard hire services in Melbourne,
-Security guard hire services in Queensland,
-Security guard hire services in Victoria,
-Security guard hire services in NSW,
-Security guard hire services in Brisbane,
-
-
-Security guard recruitment services in Sydney,
-Security guard recruitment services in Queensland,
-Security guard recruitment services in Melbourne,
-Security guard recruitment services in NSW,
-Security guard recruitment services in Victoria,
-Security guard recruitment services in Brisbane,
-
-
-Security guard regional job Queensland,
-Security guard regional job Sydney,
-Security guard regional job Melbourne,
-Security guard regional job NSW,
-Security guard regional job Victoria,
-Security guard regional job Brisbane,
-
-
-Security guard recruitment company,
-local Security guard hire company,
-
-
-local security guard recruitment company in Sydney,
-local security guard recruitment company in Melbourne,
-local security guard recruitment company in Queensland,
-local security guard recruitment company in Victoria,
-local security guard recruitment company in NSW,
-local security guard recruitment company in Brisbane,
-
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide security guards recruitment or hire solutions in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide security guards recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
     <div class="header-banner">

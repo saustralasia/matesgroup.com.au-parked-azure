@@ -1,13 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Best Accounts Payable Officer Recruitment/Hire Service Australia')
-
-@section('meta_keywords', 'accounts payable officer recruitment australia,
-    accounts payable officer recruitment service, accounts payable officer hire service worldwide,
-    Accounts payable officer recruitment in Sydney,
-    ')
-
-@section('meta_des', 'worldwide.')
+@section('meta_description', 'worldwide.')
 
 @section('content')
     <!-- Header - set the background image for the header in the line below -->

@@ -1,53 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best IT Business Analyst Recruitment/Hire Service Australia')
-@section('meta_keywords', 'it business analyst recruitment australia,
-it business analyst recruitment company, it business analyst recruitment service,
-it business analyst hire specialist worldwide,
-it business analyst recruitment in Sydney,
-it business analyst recruitment in Melbourne,
-it business analyst recruitment in Queensland,
-it business analyst recruitment in Victoria,
-it business analyst recruitment in NSW,
-it business analyst recruitment in Brisbane,
-
-
-it business analyst hire services in Sydney,
-it business analyst hire services in Melbourne,
-it business analyst hire services in Queensland,
-it business analyst hire services in Victoria,
-it business analyst hire services in NSW,
-it business analyst hire services in Brisbane,
-
-
-it business analyst recruitment services in Sydney,
-it business analyst recruitment services in Queensland,
-it business analyst recruitment services in Melbourne,
-it business analyst recruitment services in NSW,
-it business analyst recruitment services in Victoria,
-it business analyst recruitment services in Brisbane,
-
-
-it business analyst regional job Queensland,
-it business analyst regional job Sydney,
-it business analyst regional job Melbourne,
-it business analyst regional job NSW,
-it business analyst regional job Victoria,
-it business analyst regional job Brisbane,
-
-
-local it business analyst recruitment company,
-local it business analyst hire company,
-
-
-local it business analyst recruitment company in Sydney,
-local it business analyst recruitment company in Melbourne,
-local it business analyst recruitment company in Queensland,
-local it business analyst recruitment company in Victoria,
-local it business analyst recruitment company in NSW,
-local it business analyst recruitment company in Brisbane,
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide IT business analyst recruitment or hire solutions in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide IT business analyst recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
     <div class="header-banner" style="text-align: center;">

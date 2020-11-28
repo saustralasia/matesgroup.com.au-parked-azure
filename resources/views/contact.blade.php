@@ -1,8 +1,7 @@
 @extends('layouts.master', ['title' => 'Contact us'])
 
 @section('title', 'Mates Group: Contact Us ')
-@section('meta_keywords', 'australia recruitment company ')
-@section('meta_des', 'We are providing recruitment & labour hire solutions to meet any hiring needs you have. Mates Group provides services across Australia and worldwide.')
+@section('meta_description', 'We are providing recruitment & labour hire solutions to meet any hiring needs you have. Mates Group provides services across Australia and worldwide.')
 
 @section('content')
 <div class="page-head-area">

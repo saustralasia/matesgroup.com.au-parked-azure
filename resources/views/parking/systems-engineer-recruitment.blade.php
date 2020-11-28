@@ -1,53 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Systems Engineer Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Systems engineer recruitment service Australia,
-systems engineer hire worldwide, systems engineer hire company,
-system engineer recruitment in Sydney,
-system engineer recruitment in Melbourne,
-system engineer recruitment in Queensland,
-system engineer recruitment in Victoria,
-system engineer recruitment in NSW,
-system engineer recruitment in Brisbane,
-
-
-system engineer hire services in Sydney,
-system engineer hire services in Melbourne,
-system engineer hire services in Queensland,
-system engineer hire services in Victoria,
-system engineer hire services in NSW,
-system engineer hire services in Brisbane,
-
-
-system engineer recruitment services in Sydney,
-system engineer recruitment services in Queensland,
-system engineer recruitment services in Melbourne,
-system engineer recruitment services in NSW,
-system engineer recruitment services in Victoria,
-system engineer recruitment services in Brisbane,
-
-
-system engineer regional job Queensland,
-system engineer regional job Sydney,
-system engineer regional job Melbourne,
-system engineer regional job NSW,
-system engineer regional job Victoria,
-system engineer regional job Brisbane,
-
-
-local system engineer recruitment company,
-local system engineer hire company,
-
-
-local system engineer recruitment company in Sydney,
-local system engineer recruitment company in Melbourne,
-local system engineer recruitment company in Queensland,
-local system engineer recruitment company in Victoria,
-local system engineer recruitment company in NSW,
-local system engineer recruitment company in Brisbane,
-
-')
-@section('meta_des', 'Mates Group is a reputed company with clients around the world. We provide systems engineer recruitment or hire solutions in Australia & worldwide.')
+@section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide systems engineer recruitment or hire solutions in Australia & worldwide.')
 
 @section('content')
     <div class="header-banner">

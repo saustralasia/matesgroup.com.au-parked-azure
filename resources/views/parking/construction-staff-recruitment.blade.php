@@ -1,51 +1,7 @@
 @extends('layouts.master')
 
 @section('title', 'Construction Recruitment Staff & Labour Hire Service Australia')
-@section('meta_keywords', 'construction staff hiring Australia, construction staff recruitment Australia,
-construction staff recruitment service Australia construction labourer recruitment service australia,
-Construction staff recruitment in Sydney,
-Construction staff recruitment in Melbourne,
-Construction staff recruitment in Queensland,
-Construction staff recruitment in Victoria,
-Construction staff recruitment in NSW,
-Construction staff recruitment in Brisbane,
-
-
-Construction Labour hire services in Sydney,
-Construction Labour hire services in Melbourne,
-Construction Labour hire services in Queensland,
-Construction Labour hire services in Victoria,
-Construction Labour hire services in NSW,
-Construction Labour hire services in Brisbane,
-
-
-Construction staff recruitment services in Sydney,
-Construction staff recruitment services in Queensland,
-Construction staff recruitment services in Melbourne,
-Construction staff recruitment services in NSW,
-Construction staff recruitment services in Victoria,
-Construction staff recruitment services in Brisbane,
-
-
-Construction regional job Queensland,
-Construction regional job Sydney,
-Construction regional job Melbourne,
-Construction regional job NSW,
-Construction regional job Victoria,
-Construction regional job Brisbane,
-
-
-Construction local staff recruitment company,
-Construction local labour hire company,
-
-
-Construction local staff recruitment company in Sydney,
-Construction local staff recruitment company in Melbourne,
-Construction local staff recruitment company in Queensland,
-Construction local staff recruitment company in Victoria,
-Construction local staff recruitment company in NSW,
-Construction local staff recruitment company in Brisbane, ')
-@section('meta_des', 'Mates Group is the leading Australian recruitment company that provides highly skilled construction workers worldwide.')
+@section('meta_description', 'Mates Group is the leading Australian recruitment company that provides highly skilled construction workers worldwide.')
 
 @section('content')
     <div class="header-banner" style="text-align: center">

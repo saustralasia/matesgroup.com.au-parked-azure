@@ -1,54 +1,7 @@
 @extends('layouts.master', ['title' => 'Our Vision'])
 
 @section('title', 'Best Farm Hand Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'farm hand staff recruitment, farm hands for hire,
-farm hand staff recruitment service, farm hand staff recruitment australia,
-farm hand staff recruitment worldwide,
-Farm hand staff recruitment in Sydney,
-Farm hand staff recruitment in Melbourne,
-Farm hand staff recruitment in Queensland,
-Farm hand staff recruitment in Victoria,
-Farm hand staff recruitment in NSW,
-Farm hand staff recruitment in Brisbane,
-
-
-Farm hand Labour hire services in Sydney,
-Farm hand Labour hire services in Melbourne,
-Farm hand Labour hire services in Queensland,
-Farm hand Labour hire services in Victoria,
-Farm hand Labour hire services in NSW,
-Farm hand Labour hire services in Brisbane,
-
-
-Farm hand staff recruitment services in Sydney,
-Farm hand staff recruitment services in Queensland,
-Farm hand staff recruitment services in Melbourne,
-Farm hand staff recruitment services in NSW,
-Farm hand staff recruitment services in Victoria,
-Farm hand staff recruitment services in Brisbane,
-
-
-Farm hand regional job Queensland,
-Farm hand regional job Sydney,
-Farm hand regional job Melbourne,
-Farm hand regional job NSW,
-Farm hand regional job Victoria,
-Farm hand regional job Brisbane,
-
-
-Farm hand local staff recruitment company,
-Farm hand local labour hire company,
-
-
-Farm hand local staff recruitment company in Sydney,
-Farm hand local staff recruitment company in Melbourne,
-Farm hand local staff recruitment company in Queensland,
-Farm hand local staff recruitment company in Victoria,
-Farm hand local staff recruitment company in NSW,
-Farm hand local staff recruitment company in Brisbane,
-
-')
-@section('meta_des', 'Are you looking for farm hand staff hiring solutions? Mates Group is a leading company that offers recruitment services in Australia & worldwide.')
+@section('meta_description', 'Are you looking for farm hand staff hiring solutions? Mates Group is a leading company that offers recruitment services in Australia & worldwide.')
 
 @section('content')
 

@@ -1,34 +1,7 @@
 @extends('layouts.master', ['title' => 'Mates Global'])
 
-{{--adding three lines for search engine meta link--}}
 @section('title', 'International Staff Recruitment/Hire Service Australia')
-@section('meta_keywords', 'Hire international workers australia, international staff recruitment service australia,
-international staff recruitment worldwide, global international staff recruitment,
-International staff recruitment in Sydney,
-International staff recruitment in Melbourne,
-International staff recruitment in Queensland,
-International staff recruitment in Victoria,
-International staff recruitment in NSW,
-International staff recruitment in Brisbane,
-
-
-International Labour hire services in Sydney,
-International Labour hire services in Melbourne,
-International Labour hire services in Queensland,
-International Labour hire services in Victoria,
-International Labour hire services in NSW,
-International Labour hire services in Brisbane,
-
-
-International staff recruitment services in Sydney,
-International staff recruitment services in Queensland,
-International staff recruitment services in Melbourne,
-International staff recruitment services in NSW,
-International staff recruitment services in Victoria,
-International staff recruitment services in Brisbane,
-')
-@section('meta_des', 'Mates Group is a reputed Australian company with clients around the world. We provide International workers recruitment or hire services worldwide.')
-
+@section('meta_description', 'Mates Group is a reputed Australian company with clients around the world. We provide International workers recruitment or hire services worldwide.')
 
 @section('content')
     <div class="header-banner" style="text-align: center;">

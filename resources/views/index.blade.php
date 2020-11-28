@@ -1,58 +1,9 @@
 @extends('layouts.master')
 
-{{--@extends('layouts.master', ['title' => 'Staff Recruitment Service & Labour Hire Australia'])--}}
-{{--adding three lines for search engine meta link--}}
 @section('title', 'Staff Recruitment Service & Labour Hire Australia')
-@section('meta_keywords', 'staff recruitment Australia, staff recruitment services Australia,
-staff recruitment worldwide, labour hire Australia, labour hire worldwide, global labour hire,
-staff solution Australia, staff recruitment company Australia, global staff recruiting services,
-staff recruitment in Sydney,
-staff recruitment in Melbourne,
-staff recruitment in Queensland,
-staff recruitment in Victoria,
-staff recruitment in NSW,
-staff recruitment in Brisbane,
-
-
-Labour hire services in Sydney,
-Labour hire services in Melbourne,
-Labour hire services in Queensland,
-Labour hire services in Victoria,
-Labour hire services in NSW,
-Labour hire services in Brisbane,
-
-
-staff recruitment services in Sydney,
-staff recruitment services in Queensland,
-staff recruitment services in Melbourne,
-staff recruitment services in NSW,
-staff recruitment services in Victoria,
-staff recruitment services in Brisbane,
-
-
-regional job Queensland,
-regional job Sydney,
-regional job Melbourne,
-regional job NSW,
-regional job Victoria,
-regional job Brisbane,
-
-local staff recruitment company,
-local labour hire company,
-
-
-local staff recruitment company in Sydney,
-local staff recruitment company in Melbourne,
-local staff recruitment company in Queensland,
-local staff recruitment company in Victoria,
-local staff recruitment company in NSW,
-local staff recruitment company in Brisbane,
-')
-@section('meta_des', 'Mates Group is a reputed Australian company with clients around the world. We offer people recruitment, labor hire solutions in Australia and worldwide.')
-
+@section('meta_description', 'Mates Group is a reputed Australian company with clients around the world. We offer people recruitment, labor hire solutions in Australia and worldwide.')
 
 @section('content')
-
     <style>
         /*1,2,3,4 for table 1*/
         #more {display: none;}

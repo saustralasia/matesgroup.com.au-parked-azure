@@ -1,54 +1,7 @@
 @extends('layouts.master', ['title' => 'Mates Workforce'])
 
-{{--adding three lines for search engine meta link--}}
 @section('title', 'Agricultural Staff Recruitment/Hire Service in Australia')
-@section('meta_keywords', 'Agriculture staff recruitment australia, agriculture staff hire australia,
-agriculture staff recruitment service australia, agricultural recruitment company australia,
-farm workers hire australia, agriculture staff recruitment worldwide,
-Agriculture staff recruitment in Sydney,
-Agriculture staff recruitment in Melbourne,
-Agriculture staff recruitment in Queensland,
-Agriculture staff recruitment in Victoria,
-Agriculture staff recruitment in NSW,
-Agriculture staff recruitment in Brisbane,
-
-
-Agriculture Labour hire services in Sydney,
-Agriculture Labour hire services in Melbourne,
-Agriculture Labour hire services in Queensland,
-Agriculture Labour hire services in Victoria,
-Agriculture Labour hire services in NSW,
-Agriculture Labour hire services in Brisbane,
-
-
-Agriculture staff recruitment services in Sydney,
-Agriculture staff recruitment services in Queensland,
-Agriculture staff recruitment services in Melbourne,
-Agriculture staff recruitment services in NSW,
-Agriculture staff recruitment services in Victoria,
-Agriculture staff recruitment services in Brisbane,
-
-
-Agriculture regional job Queensland,
-Agriculture regional job Sydney,
-Agriculture regional job Melbourne,
-Agriculture regional job NSW,
-Agriculture regional job Victoria,
-Agriculture regional job Brisbane,
-
-
-Agriculture local staff recruitment company,
-Agriculture local labour hire company,
-
-
-Agriculture local staff recruitment company in Sydney,
-Agriculture local staff recruitment company in Melbourne,
-Agriculture local staff recruitment company in Queensland,
-Agriculture local staff recruitment company in Victoria,
-Agriculture local staff recruitment company in NSW,
-Agriculture local staff recruitment company in Brisbane,
-')
-@section('meta_des', 'Mates Group specializes in recruiting for agricultural jobs including farm work, station work, and agribusiness across Australia and worldwide.')
+@section('meta_description', 'Mates Group specializes in recruiting for agricultural jobs including farm work, station work, and agribusiness across Australia and worldwide.')
 
 
 @section('content')
