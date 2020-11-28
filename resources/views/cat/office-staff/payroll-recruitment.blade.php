@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Payroll Officer Recruitment Agency in Sydney & Melbourne')
-@section('meta_keywords', 'payroll recruitment agency sydney, payroll recruitment agency melbourne, payroll hire agency sydney, payroll hire agency melbourne, payroll officer recruitment sydney, payroll officer recruitment melbourne')
-@section('meta_des', 'Australian company Mates Group provides Payroll Officer, Payroll Administrator, Payroll specialist hire services in Sydney, Melbourne, Brisbane, Perth & Canberra.')
+@section('meta_description', 'Australian company Mates Group provides Payroll Officer, Payroll Administrator, Payroll specialist hire services in Sydney, Melbourne, Brisbane, Perth & Canberra.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">

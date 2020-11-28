@@ -1,9 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'IT/Digital Recruitment Agency in Melbourne & Sydney')
-@section('meta_keywords', 'it recruitment agency melbourne, it recruitment agency sydney, it recruitment agency brisbane, digital recruitment agency melbourne, digital recruitment agency sydney, it recruitment agency perth, it recruitment agency Canberra, it recruitment agency adelaide')
-@section('meta_des', 'Australian company Mates Group provides IT, computer, software experts hire services in Melbourne, Sydney, Brisbane, Perth & Adelaide.')
-
+@section('meta_description', 'Australian company Mates Group provides IT, computer, software experts hire services in Melbourne, Sydney, Brisbane, Perth & Adelaide.')
 
 
 @section('content')

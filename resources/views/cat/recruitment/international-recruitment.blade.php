@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Overseas Recruitment Agency Australia, International Labour Hire')
-@section('meta_keywords', 'overseas recruitment agency Australia, international recruitment Australia, international recruitment perth, international recruitment Sydney, global recruitment Australia, global recruitment Brisbane, global recruitment perth, global recruitment Sydney, international recruitment agency Australia, international recruitment agency melbourne')
-@section('meta_des', 'Australian company Mates Group provides overseas, global worker hire services in Perth, Sydney, Brisbane & Melbourne.')
+@section('meta_description', 'Australian company Mates Group provides overseas, global worker hire services in Perth, Sydney, Brisbane & Melbourne.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

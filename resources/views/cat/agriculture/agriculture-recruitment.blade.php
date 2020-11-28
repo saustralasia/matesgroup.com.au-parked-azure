@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Agriculture/Agribusiness Recruitment Agency, Rural Hire Australia')
-@section('meta_keywords', 'agriculture recruitment agency Australia, agribusiness recruitment agency Australia, agriculture labour hire Australia, farm worker recruitment agency Australia, rural employment agency')
-@section('meta_des', 'Australian company Mates Group provides agriculture, agribusiness, farm staff hire services in Adelaide, Brisbane, Sydney & Melbourne.')
+@section('meta_description', 'Australian company Mates Group provides agriculture, agribusiness, farm staff hire services in Adelaide, Brisbane, Sydney & Melbourne.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/agriculture-header.jpg')}}');">

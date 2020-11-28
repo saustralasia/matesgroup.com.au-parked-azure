@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Transport & Logistics Recruitment Agency in Perth, Brisbane')
-@section('meta_keywords', 'transport recruitment Brisbane, transport recruitment perth, transport recruitment Sydney, transport recruitment Melbourne, logistics recruitment Australia, logistics recruitment Brisbane, logistics recruitment perth, logistics recruitment Sydney logistics recruitment Melbourne, transport recruitment agency Australia, logistics recruitment agency Australia, transport labour hire sydney')
-@section('meta_des', 'Australian company Mates Group provides transport, freight, cargo, logistics hire services in Brisbane, Perth, Sydney, and Melbourne.')
+@section('meta_description', 'Australian company Mates Group provides transport, freight, cargo, logistics hire services in Brisbane, Perth, Sydney, and Melbourne.')
 
 
 @section('content')

@@ -1,33 +1,7 @@
-{{--@extends('layouts.master', ['title' => 'Our Vision'])--}}
-
-
-{{--@section('content')--}}
-{{--    <div class="header-banner" style="text-align: center">--}}
-{{--            <h1 class="white line-12 text-45">Mates Group: Trusted Executive Assistant Hire Company</h1>--}}
-{{--    </div>--}}
-
-{{--    <div class="single-content">--}}
-{{--        <div class="container">--}}
-
-
-{{--        </div>--}}
-{{--    </div>--}}
-{{--@endsection--}}
-
-
-
-
-
 @extends('layouts.page')
 
 @section('title', 'Executive/Personal Assistant Recruitment Agency Sydney, Melbourne')
-@section('meta_keywords', 'executive assistant recruitment sydney,
-executive assistant recruitment melbourne,
-executive assistant recruitment agency melbourne,
-executive assistant recruitment agency sydney,
-personal assistant recruitment agency melbourne,
-personal assistant recruitment agency sydney')
-@section('meta_des', 'Australian company Mates Group provides executive,
+@section('meta_description', 'Australian company Mates Group provides executive,
 secretary, personal assistant professionals hire services in Sydney,
 Melbourne, Brisbane, Perth & NSW')
 

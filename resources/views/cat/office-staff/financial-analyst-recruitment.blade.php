@@ -1,11 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Financial Analyst Recruitment Agency in Melbourne & Sydney')
-@section('meta_keywords', 'financial analyst recruitment agency melbourne,
-financial analyst recruitment agency sydney,
-financial analyst recruitment services melbourne,
-financial analyst recruitment services sydney')
-@section('meta_des', 'Australian company Mates Group provides finance,
+@section('meta_description', 'Australian company Mates Group provides finance,
 accounting analyst hire services in Melbourne, Sydney, Brisbane, Perth, and NSW')
 
 @section('content')

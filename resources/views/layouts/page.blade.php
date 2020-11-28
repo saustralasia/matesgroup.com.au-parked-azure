@@ -8,15 +8,50 @@
 
     @include('layouts.includes.analytics_google')
 
+    1. Meta tag delete
+    2. twitter
+    3. fb tag
+    4. excel
+    5. little space
+
+    a. fb:
+
+    b. twitter:
+
+    c. linkedin:
+
     <!-- adding this three lines for search engine meta link -->
-    <meta name="description" content="@yield('meta_des')">
-    <meta name="keywords" content="@yield('meta_keywords')">
+    <meta name="description" content="@yield('meta_description')">
+
     <link rel="canonical" href="https://matesgroup.com.au/sample-page/" />
+
+    {{--Facebook Tag--}}
     <meta property="og:url" content="" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="" />
     <meta property="og:description" content="" />
     <meta property="og:image" content="" />
+
+    <meta property="og:url" content="http://www.matesgroup.com.au/agriculture-recruitment" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Agriculture/Agribusiness Recruitment Agency, Rural Hire Australia" />
+    <meta property="og:description" content="Australian company Mates Group provides agriculture, agribusiness, farm staff hire services in Adelaide, Brisbane, Sydney Melbourne" />
+    <meta property="og:image" content="http://www.matesgroup.com.au/images/logo/mates_group_logo-200.png" />
+
+    {{--Twitter Card Tags--}}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Gigya">
+    <meta name="twitter:creator" content="@Gigya">
+    <meta name="twitter:title" content="Gigya Documentation page title">
+    <meta name="twitter:description" content="Page  description: Gigya’s Customer Identity Management is a complete solution for managing a new generation of user data that encompasses social identity data, social graph connections, behavior data, and traditional profile data.">
+    <meta name="twitter:image" content="http://developers.gigya.com/download/attachments/10322062/BigDataWordBubble_sm.jpg">
+
+
+
+
+
+
+
 
     <title>@yield('title')</title>
 

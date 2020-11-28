@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Temp/Temporary Recruitment Agency Sydney, Labour Hire Melbourne')
-@section('meta_keywords', 'temp recruitment agency sydney,temp recruitment agency melbourne,temp recruitment agency brisbane,temporary recruitment agency sydney,temporary recruitment agency melbourne, temporary recruitment gold coast,temporary labour hire sydney,temporary labour hire melbourne,admin temp agency melbourne,admin temp agency brisbane')
-@section('meta_des', 'Australian company Mates Group provides temporary, contract, part time, admin staff hire solutions in Sydney, Melbourne, Brisbane & Gold Coast.')
+@section('meta_description', 'Australian company Mates Group provides temporary, contract, part time, admin staff hire solutions in Sydney, Melbourne, Brisbane & Gold Coast.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

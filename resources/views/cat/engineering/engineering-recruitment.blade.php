@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Engineering Recruitment Agency in Sydney and Melbourne')
-@section('meta_keywords', 'engineering recruitment sydney, engineering recruitment melbourne, engineering recruitment agency sydney, engineering recruitment agency melbourne, engineering recruitment agency brisbane, engineering recruitment agency perth, engineering recruitment services australia, engineering hire agency australia, engineering labour hire australia')
-@section('meta_des', 'Australian company Mates Group provides Engineering and Technical staff hire services in Sydney, Melbourne, Brisbane, Perth, and Adelaide.')
+@section('meta_description', 'Australian company Mates Group provides Engineering and Technical staff hire services in Sydney, Melbourne, Brisbane, Perth, and Adelaide.')
 
 
 @section('content')

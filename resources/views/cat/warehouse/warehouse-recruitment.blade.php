@@ -1,33 +1,7 @@
-{{--@extends('layouts.master')--}}
-
-
-
-{{--@section('content')--}}
-{{--    <div class="header-banner">--}}
-{{--        <h1 class="white line-12 text-45" style="text-align: center;">Warehouse Recruitment</h1>--}}
-{{--    </div>--}}
-{{--    <div class="single-content">--}}
-
-{{--        <div class="single-content">--}}
-{{--            <div class="container">--}}
-
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-{{--@endsection--}}
-
-
-
-
-
-
-
-
 @extends('layouts.page')
 
 @section('title', 'Warehouse Recruitment Agency Melbourne, Labour Hire Sydney')
-@section('meta_keywords', 'warehouse recruitment agency sydney, warehouse recruitment agency melbourne, warehouse labour hire sydney, warehouse labour hire melbourne, warehouse labour hire adelaide')
-@section('meta_des', 'Australian company Mates Group provides warehouse, storefront workers hire services in Melbourne, Sydney, Adelaide, Brisbane, Perth & Parramatta NSW.')
+@section('meta_description', 'Australian company Mates Group provides warehouse, storefront workers hire services in Melbourne, Sydney, Adelaide, Brisbane, Perth & Parramatta NSW.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-maintenace.jpg')}}');">

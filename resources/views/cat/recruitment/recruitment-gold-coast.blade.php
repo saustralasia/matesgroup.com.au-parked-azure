@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Recruitment Agency Gold Coast | Temp & Labour Hire Queensland (QLD)')
-@section('meta_keywords', 'recruitment gold coast,recruitment agency gold coast,recruitment agency queensland,labour hire gold coast,labour solutions gold coast,temp agency gold coast')
-@section('meta_des', 'Australian company Mates Group provides part-time, executive, construction labour-hire solutions in Gold Coast and Queensland (QLD) area.')
+@section('meta_description', 'Australian company Mates Group provides part-time, executive, construction labour-hire solutions in Gold Coast and Queensland (QLD) area.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

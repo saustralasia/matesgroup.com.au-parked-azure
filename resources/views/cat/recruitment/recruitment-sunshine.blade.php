@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Recruitment Agency Sunshine Coast, Labour Hire Southern Queensland')
-@section('meta_keywords', 'recruitment agency sunshine coast, recruitment agency queensland, recruitment services sunshine coast, labour hire sunshine coast,labour hire queensland')
-@section('meta_des', 'Australian company Mates Group provides commercial, executive, permanent, and temporary staff hire solutions in Sunshine Coast & Southern Queensland.')
+@section('meta_description', 'Australian company Mates Group provides commercial, executive, permanent, and temporary staff hire solutions in Sunshine Coast & Southern Queensland.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

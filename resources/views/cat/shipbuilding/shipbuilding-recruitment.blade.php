@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Shipbuilding/Submarine Recruitment Agency Brisbane Australia')
-@section('meta_keywords', 'shipbuilding recruitment agency, shipbuilding hire agency, shipbuilding recruitment services, submarine worker recruitment,submarine building recruitment, marine recruitment agency')
-@section('meta_des', 'Australian company Mates Group provides shipbuilding, submarine hire services in Adelaide, Brisbane, Perth and Tasmania.')
+@section('meta_description', 'Australian company Mates Group provides shipbuilding, submarine hire services in Adelaide, Brisbane, Perth and Tasmania.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mates-group-shipbuilding.jpg')}}');">

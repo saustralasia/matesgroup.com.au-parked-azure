@@ -1,7 +1,6 @@
 @extends('layouts.page')
 
 @section('title', 'Mates Group Australia: Office Staff Recruitment/Hire Service')
-@section('meta_keywords', 'construction recruitment agency Melbourne, construction labour hire Melbourne, civil engineering recruitment agency Melbourne')
 @section('meta_des', 'Mates Group provides office staff recruitment solutions in Australia and worldwide. We supply permanent and temporary peoples in different organizations.')
 
 @section('content')

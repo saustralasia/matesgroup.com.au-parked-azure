@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Recruitment Agency Parramatta, Labour Hire Western Sydney & NSW')
-@section('meta_keywords', 'recruitment agency parramatta, recruitment agency western sydney, labour hire parramatta, labour hire western sydney,recruitment agency parramatta westfield, recruitment agency parramatta nsw')
-@section('meta_des', 'Australian company Mates Group provides temporary, permanent staff hires solution in Parramatta, Western Sydney, Westfield and NSW.')
+@section('meta_description', 'Australian company Mates Group provides temporary, permanent staff hires solution in Parramatta, Western Sydney, Westfield and NSW.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

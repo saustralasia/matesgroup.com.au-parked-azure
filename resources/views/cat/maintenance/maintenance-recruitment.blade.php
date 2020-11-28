@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Maintenance Engineering & Manager Recruitment Agency Australia')
-@section('meta_keywords', 'maintenance recruitment agency australia, maintenance engineering recruitment agency australia, maintenance manager recruitment agency australia, maintenance engineering hire agency australia, maintenance engineering recruitment services australia')
-@section('meta_des', 'Australian company Mates Group provides maintenance engineer, maintenance manager hire services in Melbourne, Sydney, Adelaide and Brisbane.')
+@section('meta_description', 'Australian company Mates Group provides maintenance engineer, maintenance manager hire services in Melbourne, Sydney, Adelaide and Brisbane.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-maintenace.jpg')}}');">

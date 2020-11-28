@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Mates Group: Our Vision')
-@section('meta_keywords', 'recruitment darwin,recruitment expert darwin,recruitment agency darwin,labour hire darwin,recruitment agency northern territory,labour solutions darwin')
-@section('meta_des', 'Australian company Mates Group provides temporary, permanent staff hires solution in Darwin and the Northern Territory.')
+@section('meta_description', 'Australian company Mates Group provides temporary, permanent staff hires solution in Darwin and the Northern Territory.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

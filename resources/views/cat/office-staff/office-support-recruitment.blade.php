@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Administration & Office Support Recruitment Agency Sydney')
-@section('meta_keywords', 'office support recruitment agencies sydney, administration recruitment agencies melbourne, office support recruitment agencies Sydney ')
-@section('meta_des', 'Australian company Mates Group provides office staff support and administration hire services in Sydney, Melbourne, New South Wales (NSW) and Victoria.')
+@section('meta_description', 'Australian company Mates Group provides office staff support and administration hire services in Sydney, Melbourne, New South Wales (NSW) and Victoria.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">

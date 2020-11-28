@@ -1,8 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Casual/Temporary Labour Hire Sydney, Recruitment Agency Melbourne')
-@section('meta_keywords', 'casual labour hire melbourne, casual labour hire sydney, temporary labour hire melbourne, casual recruitment agency melbourne, casual recruitment agency sydney, casual labour hire brisbane, casual labour hire perth, casual labour hire adelaide, casual labour hire gold coast, temporary labour hire sydney, temporary labour hire perth')
-@section('meta_des', 'Australian company Mates Group provides casual, part-time workers hire services in Melbourne, Sydney, Brisbane, Perth, Adelaide, and Gold Coast.')
+@section('meta_description', 'Australian company Mates Group provides casual, part-time workers hire services in Melbourne, Sydney, Brisbane, Perth, Adelaide, and Gold Coast.')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/labour.jpg')}}');">
