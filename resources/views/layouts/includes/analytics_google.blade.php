@@ -1,4 +1,3 @@
-@if (getenv('GOOGLE_ANALYTICS'))
 	<!-- Google Analytics -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87624762-5"></script>
@@ -10,4 +9,3 @@
         gtag('config', 'UA-87624762-5');
     </script>
 	<!-- End Google Analytics -->
-@endif

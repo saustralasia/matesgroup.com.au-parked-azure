@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" href="{{asset('images/mgr.ico')}}">
+    @include('layouts.includes.analytics_google')
 
     <!-- adding this three lines for search engine meta link -->
     <meta name="description" content="@yield('meta_des')">
