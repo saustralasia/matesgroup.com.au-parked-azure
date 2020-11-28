@@ -92,13 +92,16 @@ body
     color: $blog-text-color;
 }
 
-.blog-aside{}
+.blog-aside{
+    padding-left: 3rem !important;
+}
+
 .blog-aside-title{
-    font-style: italic;
     color: $brand-primary;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
+
 .blog-aside-body{
     ol {
         li {
@@ -157,7 +160,15 @@ body
 
 .footer-title {
     color: $brand-primary;
+    font-weight: 700;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif;
+    @include font-size(1.25rem);
+    margin: 0;
+    letter-spacing: 3px;
+
     + ul {
+        margin: 20px 0 0;
         li {
             border-bottom: 1px dotted $brand-secondary;
             a{ text-decoration: none; }

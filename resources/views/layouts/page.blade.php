@@ -8,8 +8,7 @@
 
     @include('layouts.includes.analytics_google')
 
-    4. excel
-    5. little space
+{{--    4. excel file requirement--}}
 
     <!-- adding this three lines for search engine meta link -->
     <meta name="description" content="@yield('meta_description')">
