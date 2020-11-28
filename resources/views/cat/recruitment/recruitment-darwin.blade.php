@@ -2,6 +2,7 @@
 
 @section('title', 'Mates Group: Our Vision')
 @section('meta_description', 'Australian company Mates Group provides temporary, permanent staff hires solution in Darwin and the Northern Territory.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

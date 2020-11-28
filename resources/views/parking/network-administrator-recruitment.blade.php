@@ -2,6 +2,7 @@
 
 @section('title', 'Best Network Administrator Recruitment/Hire Service Australia')
 @section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide network administrator recruitment or hire solutions in Australia & worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <center>

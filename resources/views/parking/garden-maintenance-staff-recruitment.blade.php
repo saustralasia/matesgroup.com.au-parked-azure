@@ -2,6 +2,7 @@
 
 @section('title', 'Garden Maintenance Staff Recruitment/Hire Service Australia')
 @section('meta_description', 'Mates Group provides garden maintenance staff recruitment or hire solutions in Australia and worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner" style="text-align: center">

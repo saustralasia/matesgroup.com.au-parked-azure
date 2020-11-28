@@ -2,6 +2,7 @@
 
 @section('title', 'Mates Group Australia: Office Staff Recruitment/Hire Service')
 @section('meta_description', 'Mates Group provides office staff recruitment solutions in Australia and worldwide. We supply permanent and temporary peoples in different organizations.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner">

@@ -2,6 +2,7 @@
 
 @section('title', 'Recruitment & Labour Hire Agency Adelaide, Brisbane, Perth')
 @section('meta_description', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide, Brisbane, Perth and Tasmania.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner">

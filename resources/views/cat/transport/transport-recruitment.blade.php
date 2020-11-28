@@ -2,7 +2,7 @@
 
 @section('title', 'Transport & Logistics Recruitment Agency in Perth, Brisbane')
 @section('meta_description', 'Australian company Mates Group provides transport, freight, cargo, logistics hire services in Brisbane, Perth, Sydney, and Melbourne.')
-
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

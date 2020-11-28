@@ -2,6 +2,7 @@
 
 @section('title', 'International Staff Recruitment/Hire Service Australia')
 @section('meta_description', 'Mates Group is a reputed Australian company with clients around the world. We provide International workers recruitment or hire services worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner" style="text-align: center;">

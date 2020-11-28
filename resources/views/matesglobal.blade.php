@@ -2,6 +2,7 @@
 
 @section('title', 'Staff Recruitment Service & Labour Hire Australia')
 @section('meta_description', 'Mates Group is an innovative Australian recruitment company supplying highly skilled shipbuilding, submarine workers to different organizations worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/approach.png')}}');">

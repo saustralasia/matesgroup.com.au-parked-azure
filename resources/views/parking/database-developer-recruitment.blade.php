@@ -2,6 +2,7 @@
 
 @section('title', 'Best Database Developer Recruitment/Hire Service Australia')
 @section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide database system developer recruitment or hire solutions in Australia & worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
 

@@ -2,6 +2,7 @@
 
 @section('title', 'Best Warehouse Staff Recruitment/Hire Service Australia')
 @section('meta_description', 'With many years of experience, the Mates Group provides warehouse people recruitment or labor hire solutions in Australia and worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner" style="text-align: center;">

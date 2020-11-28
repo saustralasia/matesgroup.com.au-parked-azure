@@ -1,51 +1,8 @@
-{{--@extends('layouts.master', ['title' => 'Our Vision'])--}}
-
-
-{{--@section('content')--}}
-{{--    <style>--}}
-{{--        * {--}}
-{{--            box-sizing: border-box;--}}
-{{--        }--}}
-
-{{--        /* Create three equal columns that floats next to each other */--}}
-{{--        .column {--}}
-{{--            float: left;--}}
-{{--            width: 33.33%;--}}
-{{--            padding: 10px;--}}
-{{--            height: 300px; /* Should be removed. Only for demonstration */--}}
-{{--        }--}}
-
-{{--        /* Clear floats after the columns */--}}
-{{--        .row:after {--}}
-{{--            content: "";--}}
-{{--            display: table;--}}
-{{--            clear: both;--}}
-{{--        }--}}
-{{--    </style>--}}
-
-{{--    <div class="header-banner" style="text-align: center">--}}
-{{--            <h1 class="white line-12 text-45">Mates Group: Trusted Assistant Accountant Hire Company</h1>--}}
-{{--    </div>--}}
-
-{{--    <div class="single-content">--}}
-{{--        <div class="container">--}}
-
-
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-{{--@endsection--}}
-
-
-
-
-
-
 @extends('layouts.page')
 
 @section('title', 'Assistant Accountant Recruitment Agency in Sydney & Melbourne')
 @section('meta_description', 'Australian company Mates Group provides assistant accounting professionals hire services in Sydney, Melbourne, Brisbane, and Perth.')
-
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
         <style>

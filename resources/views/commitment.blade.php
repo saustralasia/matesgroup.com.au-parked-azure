@@ -2,6 +2,7 @@
 
 @section('title', 'Best Accounts Payable Officer Recruitment/Hire Service Australia')
 @section('meta_description', 'worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <!-- Header - set the background image for the header in the line below -->

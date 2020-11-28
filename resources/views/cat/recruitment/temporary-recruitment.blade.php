@@ -2,6 +2,7 @@
 
 @section('title', 'Temp/Temporary Recruitment Agency Sydney, Labour Hire Melbourne')
 @section('meta_description', 'Australian company Mates Group provides temporary, contract, part time, admin staff hire solutions in Sydney, Melbourne, Brisbane & Gold Coast.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">

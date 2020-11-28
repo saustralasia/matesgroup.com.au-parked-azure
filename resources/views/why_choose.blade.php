@@ -2,6 +2,7 @@
 
 @section('title', 'Mates Group: Why Choose Us')
 @section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/choose.jpg')}}');">

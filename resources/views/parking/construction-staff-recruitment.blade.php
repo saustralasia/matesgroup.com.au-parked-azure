@@ -2,6 +2,7 @@
 
 @section('title', 'Construction Recruitment Staff & Labour Hire Service Australia')
 @section('meta_description', 'Mates Group is the leading Australian recruitment company that provides highly skilled construction workers worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner" style="text-align: center">

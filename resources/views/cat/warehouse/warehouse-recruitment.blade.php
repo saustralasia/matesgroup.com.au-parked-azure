@@ -2,6 +2,7 @@
 
 @section('title', 'Warehouse Recruitment Agency Melbourne, Labour Hire Sydney')
 @section('meta_description', 'Australian company Mates Group provides warehouse, storefront workers hire services in Melbourne, Sydney, Adelaide, Brisbane, Perth & Parramatta NSW.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-maintenace.jpg')}}');">

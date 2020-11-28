@@ -2,6 +2,7 @@
 
 @section('title', 'Mates Group: Contact Us ')
 @section('meta_description', 'We are providing recruitment & labour hire solutions to meet any hiring needs you have. Mates Group provides services across Australia and worldwide.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
 <div class="page-head-area">

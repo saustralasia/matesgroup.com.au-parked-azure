@@ -2,6 +2,7 @@
 
 @section('title', 'Shipbuilding/Submarine Recruitment Agency Brisbane Australia')
 @section('meta_description', 'Australian company Mates Group provides shipbuilding, submarine hire services in Adelaide, Brisbane, Perth and Tasmania.')
+@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mates-group-shipbuilding.jpg')}}');">
