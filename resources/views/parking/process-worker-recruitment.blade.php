@@ -2,7 +2,7 @@
 
 @section('title', 'Best Process Staff Recruitment/Hire Service Australia')
 @section('meta_description', 'Are you looking for top process workers recruitment or hiring solutions? Mates Group provides services across Australia and worldwide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
 

@@ -2,7 +2,7 @@
 
 @section('title', 'Transport Staff Recruitment/Hire Service Australia')
 @section('meta_description', 'Mates Group is a reputed Australian company with clients around the world. We provide transport worker recruitment or hire solutions in Australia & worldwide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner">

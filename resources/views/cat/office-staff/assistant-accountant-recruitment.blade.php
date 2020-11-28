@@ -2,7 +2,7 @@
 
 @section('title', 'Assistant Accountant Recruitment Agency in Sydney & Melbourne')
 @section('meta_description', 'Australian company Mates Group provides assistant accounting professionals hire services in Sydney, Melbourne, Brisbane, and Perth.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
         <style>

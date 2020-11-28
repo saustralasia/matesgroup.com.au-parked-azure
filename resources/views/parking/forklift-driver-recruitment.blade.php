@@ -2,7 +2,7 @@
 
 @section('title', 'Best Forklift Driver Recruitment/Hire Service Australia')
 @section('meta_description', 'Mates Group is a reputed company with clients around the world. We provide Forklift driver, Forklift operator recruitment services in Australia & worldwide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
 

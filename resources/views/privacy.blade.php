@@ -2,7 +2,7 @@
 
 @section('title', 'Privacy')
 @section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/privacy.jpg')}}');">

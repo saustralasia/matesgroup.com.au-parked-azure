@@ -2,7 +2,7 @@
 
 @section('title', 'Agricultural Staff Recruitment/Hire Service in Australia')
 @section('meta_description', 'Mates Group specializes in recruiting for agricultural jobs including farm work, station work, and agribusiness across Australia and worldwide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <div class="header-banner" style="text-align: center">

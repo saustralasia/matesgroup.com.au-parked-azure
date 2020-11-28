@@ -2,7 +2,7 @@
 
 @section('title', 'Executive Recruitment Agency Sydney & Brisbane, Executive Search Hire')
 @section('meta_description', 'Australian company Mates Group provides executive, executive search professionals hire services in Sydney, Brisbane, Melbourne, Perth, and Adelaide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">

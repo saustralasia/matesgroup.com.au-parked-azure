@@ -2,7 +2,7 @@
 
 @section('title', 'Best Fruit Picking Staff Recruitment/Hire Service Australia')
 @section('meta_description', 'Are you looking for vegetable, fruit pickers hiring solutions? Mates Group is a leading company that offers recruitment services in Australia & worldwide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
 {{--two column css    --}}

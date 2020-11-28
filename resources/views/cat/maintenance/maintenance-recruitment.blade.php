@@ -2,7 +2,7 @@
 
 @section('title', 'Maintenance Engineering & Manager Recruitment Agency Australia')
 @section('meta_description', 'Australian company Mates Group provides maintenance engineer, maintenance manager hire services in Melbourne, Sydney, Adelaide and Brisbane.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-maintenace.jpg')}}');">

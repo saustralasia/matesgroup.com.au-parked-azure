@@ -2,7 +2,7 @@
 
 @section('title', 'IT/Digital Recruitment Agency in Melbourne & Sydney')
 @section('meta_description', 'Australian company Mates Group provides IT, computer, software experts hire services in Melbourne, Sydney, Brisbane, Perth & Adelaide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">

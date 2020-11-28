@@ -2,7 +2,7 @@
 
 @section('title', 'Shipbuilding/Submarine Recruitment Service in Australia')
 @section('meta_description', 'Mates Group is an innovative Australian recruitment company supplying highly skilled shipbuilding, submarine workers to different organizations worldwide.')
-@section('image', 'http://www.matesgroup.com.au/images/logo/mates_group_logo.png')
+@section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 
 @section('content')
