@@ -33,7 +33,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/safety</loc>
+  <loc>http://www.matesgroup.com.au/safety-policy</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -43,7 +43,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/why_choose</loc>
+  <loc>http://www.matesgroup.com.au/why-choose</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -108,22 +108,22 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/privacy</loc>
+  <loc>http://www.matesgroup.com.au/privacy-policy</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/terms</loc>
+  <loc>http://www.matesgroup.com.au/terms-and-conditions</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/matesglobal</loc>
+  <loc>http://www.matesgroup.com.au/mates-global</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/workforce</loc>
+  <loc>http://www.matesgroup.com.au/mates-workforce</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -178,12 +178,12 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/recruitment-paramatta</loc>
+  <loc>http://www.matesgroup.com.au/recruitment-parramatta</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.matesgroup.com.au/recruitment-sunshine</loc>
+  <loc>http://www.matesgroup.com.au/recruitment-sunshine-coast</loc>
   <lastmod>2020-11-14T15:45:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>

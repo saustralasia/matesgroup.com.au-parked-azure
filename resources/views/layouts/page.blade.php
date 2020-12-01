@@ -38,12 +38,6 @@
     <meta name="twitter:image" content="@yield('image')">
 
 
-
-
-
-
-
-
     <title>@yield('title')</title>
 
     <!-- Styles -->

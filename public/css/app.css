@@ -11036,8 +11036,11 @@ body {
   color: #626060;
 }
 
+.blog-aside {
+  padding-left: 3rem !important;
+}
+
 .blog-aside-title {
-  font-style: italic;
   color: #e4b95b;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
@@ -11089,6 +11092,15 @@ body {
 
 .footer-title {
   color: #e4b95b;
+  font-weight: 700;
+  line-height: 1.2;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.25rem;
+  margin: 0;
+  letter-spacing: 3px;
+}
+.footer-title + ul {
+  margin: 20px 0 0;
 }
 .footer-title + ul li {
   border-bottom: 1px dotted #1B1464;

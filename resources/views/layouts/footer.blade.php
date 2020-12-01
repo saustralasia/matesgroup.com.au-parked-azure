@@ -12,7 +12,7 @@
                     <li><a href="/commitment">Our Commitment</a></li>
                     <li><a href="/vision">Our Vision</a></li>
                     <li><a href="/team">Our Team</a></li>
-                    <li><a href="/why_choose">Why Choose us</a></li>
+                    <li><a href="/why-choose">Why Choose us</a></li>
                 </ul>
             </div>
 
@@ -47,7 +47,7 @@
             <div class="col-md-3">
                 <h4 class="black">RESOURCES</h4>
                 <ul class="f-list">
-                    <li><a href="{{route('contact')}}">Contact us</a></li>
+                    <li><a href="{{route('contactus_index')}}">Contact us</a></li>
                     <li><a href="/career">Career</a></li>
                 </ul>
                 <div class="break"></div>
@@ -78,7 +78,7 @@
             <div class="col py-3 px-lg-5">
                 <div class="copyright">
                     <center>
-                        <a href="/safety_policy">Safety Policy</a> &nbsp; <a href="/privacy">Privacy Policy</a> &nbsp; <a href="/terms">Terms & Condition</a> &nbsp; <a href="/sitemap.xml">Sitemap</a>
+                        <a href="/safety-policy">Safety Policy</a> &nbsp; <a href="/privacy-policy">Privacy Policy</a> &nbsp; <a href="/terms-and-conditions">Terms & Conditions</a> &nbsp; <a href="/sitemap.xml">Sitemap</a>
                         <p> &copy; Mates Group {{date('Y')}}</p>
                     </center>
                 </div>

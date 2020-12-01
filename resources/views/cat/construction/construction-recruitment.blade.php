@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
-@section('title', 'Mates Group Australia: Office Staff Recruitment/Hire Service')
-@section('meta_des', 'Mates Group provides office staff recruitment solutions in Australia and worldwide. We supply permanent and temporary peoples in different organizations.')
+@section('title', 'Construction Labour Recruitment/Hire Agency Melbourne & Sydney')
+@section('meta_description', 'Australian company Mates Group provides construction labour and Civil engineer recruitment services in Melbourne, Sydney, New South Wales (NSW), and Victoria.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')

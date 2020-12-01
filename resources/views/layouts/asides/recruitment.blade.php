@@ -5,8 +5,8 @@
         <li><a href="/international-recruitment">International Recruitment</a></li>
         <li><a href="/recruitment-darwin">Recruitment Darwin</a></li>
         <li><a href="/recruitment-gold-coast">Recruitment Gold Coast</a></li>
-        <li><a href="/recruitment-paramatta">Recruitment Paramatta</a></li>
-        <li><a href="/recruitment-sunshine">Recruitment Sunshine</a></li>
+        <li><a href="/recruitment-parramatta">Recruitment Parramatta</a></li>
+        <li><a href="/recruitment-sunshine-coast">Recruitment Sunshine Coast</a></li>
         <li><a href="/temporary-recruitment">Temporary Recruitment</a></li>
 
 

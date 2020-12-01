@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
-@section('title', 'Safety Policy')
-@section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
+@section('title', 'Mates Group: Safety Policy')
+@section('meta_description', 'Mates Group takes the safety of our employees and provides a strong workplace health and safety program.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')

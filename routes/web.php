@@ -25,19 +25,19 @@ use App\Mail\WelcomeMail;
 Route::get('/approach',         function () { return view('approach'); });
 Route::get('/career',           function () { return view('career'); });
 Route::get('/commitment',       function () { return view('commitment'); });
-Route::get('/contact', 'ContactUsController@index')->name('contact');
-Route::post('/contact', 'ContactUsController@store')->name('contactus_store');
+Route::get('/contact-us', 'ContactUsController@index')->name('contactus_index');
+Route::post('/contact-us', 'ContactUsController@store')->name('contactus_store');
 Route::get('/',                 function () { return view('index'); });
-Route::get('/matesglobal',      function () { return view('matesglobal'); });
+Route::get('/mates-global',      function () { return view('mates-global'); });
 Route::get('/mission',          function () { return view('mission'); });
-Route::get('/privacy',          function () { return view('privacy'); });
+Route::get('/privacy-policy',          function () { return view('privacy-policy'); });
 Route::get('/safety',           function () { return view('safety'); });
-Route::get('/safety_policy',    function () { return view('safety_policy'); });
+Route::get('/safety-policy',    function () { return view('safety-policy'); });
 Route::get('/team',             function () { return view('team'); });
-Route::get('/terms',            function () { return view('terms'); });
+Route::get('/terms-and-conditions',            function () { return view('terms-and-conditions'); });
 Route::get('/vision',           function () { return view('vision'); });
-Route::get('/why_choose',       function () { return view('why_choose'); });
-Route::get('/workforce',        function () { return view('workforce'); });
+Route::get('/why-choose',       function () { return view('why-choose'); });
+Route::get('/mates-workforce',        function () { return view('mates-workforce'); });
 
 
 //.............>>>Category MG AGRICULTURE STAFF<<<..................
@@ -75,10 +75,9 @@ Route::get('/casual-labour-hire',                       function () { return vie
 Route::get('/international-recruitment',                function () { return view('cat/recruitment/international-recruitment'); });
 Route::get('/recruitment-darwin',                function () { return view('cat/recruitment/recruitment-darwin'); });
 Route::get('/recruitment-gold-coast',                   function () { return view('cat/recruitment/recruitment-gold-coast'); });
-Route::get('/recruitment-paramatta',                    function () { return view('cat/recruitment/recruitment-paramatta'); });
-Route::get('/recruitment-sunshine',                     function () { return view('cat/recruitment/recruitment-sunshine'); });
+Route::get('/recruitment-parramatta',                    function () { return view('cat/recruitment/recruitment-parramatta'); });
+Route::get('/recruitment-sunshine-coast',                     function () { return view('cat/recruitment/recruitment-sunshine-coast'); });
 Route::get('/temporary-recruitment',                    function () { return view('cat/recruitment/temporary-recruitment'); });
-
 
 
 

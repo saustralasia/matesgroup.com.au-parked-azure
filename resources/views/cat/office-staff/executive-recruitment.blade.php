@@ -63,7 +63,7 @@
                     </ul>
 
                     <h2>Job Description</h2>
-                    <p>Mates Group can arrange executive recruitment with the following skill which has been described below in the full job description. We can provide One to Ten years of company experience executive professionals. We can arrange executive staff for Sydney, Brisbane, Melbourne, Perth and Adelaide.</p>
+                    <p>Mates Group can arrange executive staff with the following skill which has been described below in the full job description. We can provide One to Ten years of company experience executive professionals. We can arrange executive staff for Sydney, Brisbane, Melbourne, Perth and Adelaide.</p>
 
                     <strong>The candidates should have the following personal abilities and skills:</strong>
                     <ul>

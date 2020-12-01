@@ -15,7 +15,7 @@ class ContactUsController extends Controller
 {
     public function index ()
     {
-        return view('contact');
+        return view('contact-us');
     }
 
     public function store(Request $data)
@@ -37,13 +37,13 @@ class ContactUsController extends Controller
         $contact->save();
 
        // Mail::to('email@email.com')->send(new WelcomeMail());
-       Mail::send('emails.welcome', $contact, function ($mail) use ($contact){
-           $mail->from($contact['email'], $contact['name'])
-               ->to('md.talatcse@gmail.com', 'Talat');
-               //->subject
-       });
-       
-        return redirect()->route('contact')->with('status', 'Thank you for your message!');
+//       Mail::send('emails.welcome', $contact, function ($mail) use ($contact){
+//           $mail->from($contact['email'], $contact['name'])
+//               ->to('md.talatcse@gmail.com', 'Talat');
+//               //->subject
+//       });
+
+        return redirect()->route('contactus_index')->with('status', 'Thank you for your message!');
         //Mailing code
 //        $inputs=[
 //            'name' => $data->input('name'),

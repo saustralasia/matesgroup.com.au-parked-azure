@@ -17,7 +17,7 @@
                 {{--        <li><a href="/privacy">Privacy</a></li>--}}
                 <li><a href="/workforce">Workforce</a></li>
                 {{--        <li><a href="/career">Career</a></li>--}}
-                <li><a href="/why_choose">Why Choose us</a></li>
+                <li><a href="/why-choose">Why Choose us</a></li>
                 {{--        <li><a href="/contact">Contact Us</a></li>--}}
             </ul>
         </div>
@@ -50,7 +50,7 @@
         <div class="col-md-3">
             <h5 class="footer-title">RESOURCES</h5>
             <ul class="list-unstyled mb-0">
-                <li><a href="{{route('contact')}}">Contact us</a></li>
+                <li><a href="{{route('contactus_index')}}">Contact us</a></li>
                 <li><a href="/career">Career</a></li>
             </ul>
         </div>
@@ -79,9 +79,9 @@
         <div class="col pb-3 px-lg-5">
             <div class="footer-copyright text-center">
                 <ul class="list-inline">
-                    <li class="list-inline-item"><a href="/safety_policy">Safety Policy</a></li>
-                    <li class="list-inline-item"><a href="/privacy">Privacy Policy</a></li>
-                    <li class="list-inline-item"><a href="/terms">Terms & Condition</a></li>
+                    <li class="list-inline-item"><a href="/safety-policy">Safety Policy</a></li>
+                    <li class="list-inline-item"><a href="/privacy-policy">Privacy Policy</a></li>
+                    <li class="list-inline-item"><a href="/terms-and-conditions">Terms & Condition</a></li>
                     <li class="list-inline-item"><a href="/sitemap.xml">Sitemap</a></li>
                 </ul>
                 <p>&copy; <a href="/">Mates Group</a> {{date('Y')}}</p>

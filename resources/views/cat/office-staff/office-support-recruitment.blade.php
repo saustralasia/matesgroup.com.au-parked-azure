@@ -26,7 +26,7 @@
                 <div class="blog-post">
                     <p>
                         We do office staff recruitment for Sydney,
-                        Melbourne, New South Wales, NSW and Victoria.
+                        Melbourne, New South Wales, and Victoria.
                     </p>
 
                     <p>

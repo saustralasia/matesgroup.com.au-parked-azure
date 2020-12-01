@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Mates Group: Terms and Conditions')
-@section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
+@section('meta_description', 'Read the Mates Group\'s terms and conditions.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')

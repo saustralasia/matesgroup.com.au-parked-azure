@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
-@section('title', 'Privacy')
-@section('meta_description', 'Mates Group is an innovative Australian recruitment company.')
+@section('title', 'Mates Group | Privacy Policy')
+@section('meta_description', 'Protection of your personal information is vital to Mates Group. Uur online service is committed to protecting the privacy of our users.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
@@ -13,7 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h1 class="display-4 mb-4 blog-post-title border-bottom">Privacy</h1>
+                <h1 class="display-4 mb-4 blog-post-title border-bottom">Privacy Policy</h1>
             </div>
             <div class="col-md-4">
             </div>
@@ -26,19 +26,14 @@
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
 
-                    <h3 class="black">"Privacy is essential to us!" </h3>
-                    <p>
-                        Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.
-                    </p>
-                    <p>
-                        Competitors can be guaranteed that when they connect with our assistance to assemble their profession, security is the best need. At times, individual or delicate data can enable us to help with verifying a chance; anyway, we won't unveil any close to home data to an outsider without earlier ascent.
-                    </p>
+                    <h2>"Privacy is essential to us!" </h2>
+                    <p>Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.</p>
+                    <p>Competitors can be guaranteed that when they connect with our assistance to assemble their profession, security is the best need. At times, individual or delicate data can enable us to help with verifying a chance; anyway, we won't unveil any close to home data to an outsider without earlier ascent.</p>
+
                     <h4>Privacy Policy for Australia</h4>
-                    <p>
-                        Mates Group in Australia asks for you read the accompanying data in regards to how we gather your own and touchy data and how we look after, use, store and exposure of your own and delicate data regarding your conceivable or genuine work arrangements and sign where shown to recognize your acknowledgment and comprehension of this data.
-                    </p>
+                    <p>Mates Group in Australia asks for you read the accompanying data in regards to how we gather your own and touchy data and how we look after, use, store and exposure of your own and delicate data regarding your conceivable or genuine work arrangements and sign where shown to recognize your acknowledgment and comprehension of this data.</p>
                     <h4>Data Collection </h4>
-                    <b>Individual and touchy data can be gathered in various distinctive ways including: </b>
+                    <p>Individual and touchy data can be gathered in various distinctive ways including: </p>
                     <ul class="privacy">
                         <li>Consultation, meetings or resume entries </li>
                         <li>Psychological or restorative appraisal </li>
@@ -48,14 +43,14 @@
                     </ul>
 
                     <h4>Data Use </h4>
-                    <b>We will utilize this data to: </b>
+                    <p>We will utilize this data to: </p>
                     <ul class="privacy">
                         <li>Assess competitor's capacity and reasonableness for the position/s </li>
                         <li>Manage any grievance, examination or request </li>
                         <li>Disclose hopeful's close to home or touchy data for any protection guarantee or pertinent proposition </li>
                     </ul>
                     <h4>Revelation </h4>
-                    <b>Competitor data might be revealed to: </b>
+                    <p>Competitor data might be revealed to: </p>
                     <ul class="privacy">
                         <li>Potential and genuine managers and customers of Mates Group </li>
                         <li>Referees </li>

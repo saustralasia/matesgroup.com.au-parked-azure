@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
-@section('title', 'Best Accounts Payable Officer Recruitment/Hire Service Australia')
-@section('meta_description', 'worldwide.')
+@section('title', 'Mates Group: Our Commitment')
+@section('meta_description', 'Mates Group provides candidates that meet client requirements.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
