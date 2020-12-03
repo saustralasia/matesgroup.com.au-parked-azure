@@ -52,15 +52,21 @@ Route::get('/engineering-recruitment',              function () { return view('c
 //.............>>>Category MG MAINTENANCE STAFF<<<..................
 Route::get('/maintenance-recruitment',              function () { return view('cat/maintenance/maintenance-recruitment'); });
 
+
 //.............>>>Category MG OFFICE STAFF<<<..................
-Route::get('/assistant-accountant-recruitment',         function () { return view('cat/office-staff/assistant-accountant-recruitment'); });
-Route::get('/executive-assistant-recruitment',          function () { return view('cat/office-staff/executive-assistant-recruitment'); });
-Route::get('/financial-analyst-recruitment',            function () { return view('cat/office-staff/financial-analyst-recruitment'); });
-Route::get('/payroll-recruitment',                      function () { return view('cat/office-staff/payroll-recruitment'); });
 Route::get('/office-support-recruitment',               function () { return view('cat/office-staff/office-support-recruitment'); });
 Route::get('/executive-recruitment',                    function () { return view('cat/office-staff/executive-recruitment'); });
 Route::get('/receptionist-recruitment',                 function () { return view('cat/office-staff/receptionist-recruitment'); });
-Route::get('/it-recruitment',                           function () { return view('cat/office-staff/it-recruitment'); });
+//............................................Accounting
+Route::get('/accounting-recruitment',                   function () { return view('cat/office-staff/accounting/accounting-recruitment'); });
+Route::get('/assistant-accounting-recruitment',         function () { return view('cat/office-staff/accounting/assistant-accounting-recruitment'); });
+Route::get('/financial-analyst-recruitment',            function () { return view('cat/office-staff/accounting/financial-analyst-recruitment'); });
+Route::get('/payroll-recruitment',                      function () { return view('cat/office-staff/accounting/payroll-recruitment'); });
+//............................................Administration
+Route::get('/executive-assistant-recruitment',          function () { return view('cat/office-staff/administration/executive-assistant-recruitment'); });
+//............................................IT and Technology
+Route::get('/it-recruitment',                           function () { return view('cat/office-staff/it-and-technology/it-recruitment'); });
+
 
 //.............>>>Category MG SHIPBUILDING<<<..................
 Route::get('/shipbuilding-recruitment',                 function () { return view('cat/shipbuilding/shipbuilding-recruitment'); });
@@ -91,8 +97,6 @@ Route::get('/temporary-recruitment',                    function () { return vie
 
 
 
-
-//...............................Accounting
 Route::get('/accounts-payable-officer-recruitment',     function () { return view('accounts-payable-officer-recruitment'); });
 
 Route::get('/bookkeeping-recruitment',                  function () { return view('bookkeeping-recruitment'); });

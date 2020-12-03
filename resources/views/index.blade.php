@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
-@section('title', 'Staff Recruitment Service & Labour Hire Australia')
-@section('meta_description', 'Mates Group is a reputed Australian company with clients around the world. We offer people recruitment, labor hire solutions in Australia and worldwide.')
+@section('title', 'Mates Group | Recruitment & Labour Hire Agency Adelaide, Brisbane and Perth')
+@section('meta_description', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide, Brisbane, Perth and Tasmania.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
@@ -53,7 +53,7 @@
                           <a href=""><h1>Mates Group</h1></a>
                   </div>
 
-                    <h2 class="banner-head-h1" style="text-align: center;">Providing Recruitment and Labour Hire around The Globe</h2>
+                    <h2 class="banner-head-h1" style="text-align: center;">Recruitment & Labour Hire Specialist Across the Globe</h2>
 
             </div>
             <br>

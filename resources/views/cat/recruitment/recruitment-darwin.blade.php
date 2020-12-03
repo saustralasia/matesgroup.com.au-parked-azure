@@ -1,6 +1,6 @@
 @extends('layouts.page')
 
-@section('title', 'Mates Group: Our Vision')
+@section('title', 'Recruitment Experts Darwin, Labour Hire Agency Northern Territory (NT)')
 @section('meta_description', 'Australian company Mates Group provides temporary, permanent staff hires solution in Darwin and the Northern Territory.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
@@ -33,7 +33,7 @@
                     <p>Through this process, we try to get strong candidates who are looking for their next job. These people are ready to engage to offer their best service and express their value to your organizations. This is a talent pool where our staffs are always ready to hear from us about new challenges and opportunities. </p>
                     <p>Hence, if you are looking for workers for your administration then please feel free to contact us. We are ready to help you here.</p>
 
-                    <h2>Mates Group provides you with staffing solutions within the following sectors:</h2>
+                    <b>Mates Group provides you with staffing solutions within the following sectors:</b>
                     <ul>
                         <li>Manufacturing</li>
                         <li>Travail labour</li>
@@ -50,6 +50,17 @@
                         <li>Engineering</li>
                         <li>Electricians</li>
                     </ul>
+
+                    <h2>Job Description:</h2>
+                    <p>Mates Group can offer employment with the following skill which has been describing below in the full job description. We can provide One to Ten years of industry experience employees. We can arrange staff for Darwin and the Northern Territory.</p>
+                    <b>We select our candidates depending on the following qualities:</b>
+
+
+                    <p>Your success is our success and your failure is also ours’. So, if you are a business owner we will produce all kinds of supports you require during working with our selected applicants. Side by side, if you are a candidate, we are also responsible to offer you the absolute job field. So, if you are a new job seeker, you can start your professional challenge with us. So, why late!</p>
+
+
+
+
                 </div>
             </div>
 

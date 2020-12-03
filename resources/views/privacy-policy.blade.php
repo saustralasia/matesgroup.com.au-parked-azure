@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
 @section('title', 'Mates Group | Privacy Policy')
-@section('meta_description', 'Protection of your personal information is vital to Mates Group. Uur online service is committed to protecting the privacy of our users.')
+@section('meta_description', 'Protection of your personal information is vital to Mates Group. Our online service is committed to protecting the privacy of our users. ')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
@@ -27,7 +27,7 @@
                 <div class="blog-post">
 
                     <h2>"Privacy is essential to us!" </h2>
-                    <p>Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.</p>
+{{--                    <p>Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.</p>--}}
                     <p>Competitors can be guaranteed that when they connect with our assistance to assemble their profession, security is the best need. At times, individual or delicate data can enable us to help with verifying a chance; anyway, we won't unveil any close to home data to an outsider without earlier ascent.</p>
 
                     <h4>Privacy Policy for Australia</h4>

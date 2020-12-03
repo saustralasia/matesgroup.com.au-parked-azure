@@ -35,7 +35,7 @@
                     <li><a href="/construction-recruitment">MG Construction Staff </a></li>
                     <li><a href="/engineering-recruitment">MG Engineering Staff </a></li>
                     <li><a href="/maintenance-recruitment">MG Maintenance Staff</a></li>
-                    <li><a href="/assistant-accountant-recruitment">MG Office Staff</a></li>
+                    <li><a href="/assistant-accounting-recruitment">MG Office Staff</a></li>
                     <li><a href="/shipbuilding-recruitment">MG Shipbuilding Staff</a></li>
                     <li><a href="/transport-recruitment">MG Transport Staff</a></li>
                     <li><a href="/warehouse-recruitment">MG Warehouse Staff</a></li>
