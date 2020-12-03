@@ -1,3 +1,3 @@
-require('./bootstrap');
-import 'owl.carousel';
-window.Vue = require('vue');
+// require('./bootstrap');
+// import 'owl.carousel';
+// window.Vue = require('vue');

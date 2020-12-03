@@ -111,7 +111,7 @@
     </div>
     <h4 class="text-center partner-text">Our Partners and Associates</h4>
 <div style="overflow:hidden !important;margin:0 auto">
-    <div class="owl-carousel owl-theme service-image">
+    <div class="owl-carousel service-image">
         <div class="item">
            <div class="serive-image">
                 <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank"><img src="{{asset('images/logo/freshexport.png')}}" alt="Specialises in exporting fresh fruits and fresh vegetables"></a>
@@ -165,7 +165,7 @@
         </div>
     </div>
 </div>
-
+    <!--    =================  First Slider    =================-->
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area">
@@ -184,6 +184,7 @@
         </div>
     </div>
 </div>
+
 
  <div class="board-area">
 	 	<div class="board-pera">

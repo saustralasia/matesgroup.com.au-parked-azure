@@ -6,27 +6,9 @@
     border-color: transparent;
     /*    box-shadow: 3px 5px 9px #000;*/
 }
-.main-area
-{
-    width: 100%;
-    height: auto;
-    margin-bottom: 30px;
-}
 
-.main-bg
-{
-    width: 100%;
-    height: auto;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 
-}
-.banner-area
-{
-    width: 70%;
-    height: auto;
-    margin:  0 auto;
-}
+
 
 .navbar-default .navbar-nav > li:hover ul{
 
@@ -80,10 +62,7 @@
     }
 }
 
-.single-main-area
-{
 
-}
 .maingpage-logo
 {
     width: 100%;
@@ -98,242 +77,13 @@
 .navbar-default .navbar-nav > li > a:hover{
     color: #000;
 }
-.service-image
-{
-    /*
-        overflow: hidden;
-        width: 100%;
-    */
-}
-.service-image .item
-{
-    margin: 5px 12px;
-}
-.owl-carousel .owl-item img:hover{
-    transform: scale(1.1);
-    transition: 0.3s;
-    cursor: pointer;
-}
 
-.service-image .item .serive-image
-{
-    /*
-        width: 200px;
-        height: 150px;
-        margin: 0 auto;
-    */
-}
-.service-image .item .serive-image img {
-    width: 150px !important;
-    height: 74px;
-    margin: 20px auto;
-}
-.heading {
-    margin: 0 auto;
-    width: 60%;
-    min-height: 350px;
-    max-height: auto;
-    background: #3373798f;
-    left: 50%;
-    box-shadow: 9px 20px 20px 0px #000;
-    top: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-}
-@media screen and (max-width:320px)
-{
-    .heading p
-    {
-        padding: 0px 14px !important;
 
-    }
-    .heading p.text-20
-    {
-        font-size: 17px !important;
-    }
-}
-@media screen and (max-width:1400px)
+.board-area-2
 {
-    .heading
-    {
-        width: 90% !important;
-    }
-
-}
-@media screen and (max-width:1033px)
-{
-    .heading h3
-    {
-        font-size: 36px !important;
-    }
-    .heading p
-    {
-        font-size: 20px !important;
-    }
-}
-@media screen and (max-width:482px)
-{
-    .heading h3
-    {
-        font-size: 26px !important;
-    }
-
-}
-@media screen and (max-width:778px)
-{
-    .heading p
-    {
-        font-size: 15px !important;
-    }
-    .text-18
-    {
-        font-size: 15px !important;
-    }
-    .heading
-    {
-        width: 100% !important;
-    }
-}
-.single-site-area, .single-site-area-2, .single-site-area-3, .single-site-area-4, .single-site-area-5, .single-site-area-6, .single-site-area-7, .single-site-area-8, .single-site-area-9, .single-site-area-10, .single-site-area-11 {
-    min-height: 60vh;
-}
-.single-site-area
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/mo-3.jpg);
-    background-position: center;
-    background-attachment: fixed;
+    /*    background: url(../images/mates-2.jpg);*/
+    height: auto !important;;
     background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-}
-.single-site-area-2
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/matesgroup-engineers.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-}
-.single-site-area-3
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/mates-group-it.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-}
-.single-site-area-4
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/mates-group-labour.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-}
-.single-site-area-5
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/mates-group-construction.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-
-}
-
-.single-site-area-6
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/mates-group-shipbuilding.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-
-}
-
-.single-site-area-7
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/matesgroup-agriculture.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-
-}
-
-.single-site-area-8
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/mates-group-global.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-    /*    margin-top: 90px;*/
-
-}
-
-.single-site-area-9
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/matesgroup-warehouse-staff.png);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-
-}
-.single-site-area-10
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/matesgroup-transport.png);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-
-}
-.single-site-area-11
-{
-    width: 100%;
-    max-height: auto;
-    background: url(../images/matesgroup-maintenace.jpg);
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
-
-}
-@media screen and (max-width:778px)
-{
-    .single-site-area, .single-site-area-2, .single-site-area-3, .single-site-area-4, .single-site-area-5, .single-site-area-6, .single-site-area-7, .single-site-area-8, .single-site-area-9, .single-site-area-10, .single-site-area-11 {
-        min-height: 80vh;
-    }
-    .board-pera {
-        width: 100% !important;
-    }
 }
 .site-logo p
 {
@@ -345,19 +95,7 @@
     font-size: 16px;
     text-align: justify;
 }
-.board-area {
-    background: #006a729c;
-    height: auto !important;
-    background-size: cover;
-    margin: 0;
-    padding: 80px 0;
-}
-.board-area-2
-{
-    /*    background: url(../images/mates-2.jpg);*/
-    height: auto !important;;
-    background-size: cover;
-}
+
 .site-descript
 {
     width: 100%;
@@ -456,82 +194,9 @@
     width: 100%;
     height: auto;
 }
-.banner-head-h1
-{
-    color: #7b62be;
-    font-family: verdana;
-    text-transform: uppercase;
-    text-shadow: 5px 2px 4px #00000059;
-    font-size:18px;margin-top:-23px
-}
-.second-banner
-{
-    display: none;
-}
-@media screen and (max-width:991px)
-{
-    .banner-head
-    {
-        display: none !important;
-    }
-    .banner-area
-    {
-        display: none !important;
-    }
-    .second-banner .banner-area
-    {
-        display: block !important;
-    }
-    .second-banner
-    {
-        display: block;
-    }
-    .second-banner .banner-head
-    {
-        display: block !important;
-    }
 
-}
-@media screen and (max-width:760px)
-{
-    .second-banner .banner-head h1
-    {
-        font-size: 75px;
-    }
-}
-@media screen and (max-width:622px)
-{
-    .second-banner .banner-head h1
-    {
-        font-size: 55px;
-    }
-}
-@media screen and (max-width:447px)
-{
-    .second-banner .banner-head h1
-    {
-        font-size: 45px;
-    }
-}
-@media screen and (max-width:735px)
-{
-    .banner-area img
-    {
-        margin-top: -20px;
-    }
-}
-@media screen and (max-width:735px)
-{
-    .banner-area img
-    {
-        margin-top: -24px;
-    }
-    .banner-area img
-    {
-        transform: scale(1.1);
-        margin-bottom: 10px
-    }
-}
+
+
 .location ul li
 {
     list-style: none;
@@ -748,7 +413,7 @@
     padding: 20px;
 }
 
-fgh
+
 .fift-slider .item
 {
     width: 100%;
@@ -1111,26 +776,7 @@ span.round-tabs.five{
     transition: 0.3s;
     transform: scale(1.2);
 }
-.board .page-header::before {
-    position: absolute;
-    content: "";
-    width: 86px;
-    height: 3px;
-    transform: rotate(-37deg);
-    top: 17px;
-    left: -24px;
-    background: #EC6F1B;
-}
-.board .page-header::after {
-    position: absolute;
-    content: "";
-    width: 86px;
-    height: 3px;
-    transform: rotate(-37deg);
-    bottom: 17px;
-    right: -24px;
-    background: #EC6F1B;
-}
+
 .board .list-part li
 {
     list-style: circle;
@@ -1307,61 +953,14 @@ span.round-tabs.five{
 .social-round i:hover {
     color: #26A7DF;
 }
-.side-text p
-{
-    color: #888888;
-    margin-top:  -14px;
-    /*    line-height: 22px;*/
-}
-.side-text h4
-{
-    font-size: 18px;
-    color: #7B62BE;
-    font-weight: bolder;
-    text-shadow: 5px 2px 4px #00000059;
-}
 
-.side-text
-{
-    padding-top: 40%;
-}
-.banner-heading-line
-{
-    width: 100%;
-}
-.side-text a
-{
-    color: #b3a0e6;
-
-}
-.side-text .read-more
-{
-    text-decoration: none;
-}
-.side-text .read-more:hover{
-    text-decoration: underline;
-}
-.banner-heading-line h1
-{
-    font-family: TrajanPro;
-    font-size: 98px;
-    color: #7B62BE;
-    font-weight: 400;
-    text-shadow: 5px 6px 12px #000000d4;
-}
 .mg-btn
 {
     background: #DD0000;
     border: 0px;
 
 }
-.item .slogan
-{
-    font-size: 16px;
-    color: #888888;
-    text-align: center;
-    line-height: 20px;
-}
+
 .mg-btn:hover{
     background: #7B62BE;
 }
@@ -1374,13 +973,7 @@ span.round-tabs.five{
     margin-top: 50px !important;
     margin-bottom: 20px !important;
 }
-@media screen and (max-width:1197px)
-{
-    .side-text
-    {
-        padding-top: 0% !important;
-    }
-}
+
 #loader_div
 {
     width: 100%;
@@ -1502,30 +1095,9 @@ span.round-tabs.five{
         height: 180px;
     }
 }
-@media screen and (max-width:945px)
-{
-    .banner-heading-line h1
-    {
-        text-shadow: 1px 4px 5px #000000d4;
-    }
-}
 
-.partner-text
-{
-    font-family:TrajanPro;
-    font-size:47px;
-    color:#7B62BE;
-    font-weight:400;
-    text-shadow:6px 3px 12px #000000d4;
-}
-@media screen and (max-width:790px)
-{
-    .partner-text
-    {
-        font-size: 36px !important;
-        text-shadow: 3px 1px 5px #000000d4;
-    }
-}
+
+
 @media screen and (max-width:320px)
 {
     #noti
@@ -1613,12 +1185,7 @@ span.round-tabs.five{
     text-align:justify;
     padding:0px 10px;
 }
-.tab-l li
-{
-    color:#fff;
-    list-style:circle;
-    margin-bottom:5px;
-}
+
 .text-18
 {
     font-size:18px;
@@ -1660,10 +1227,7 @@ span.round-tabs.five{
     padding-left:33px;
     font-size:18px;
 }
-ul.tab-l
-{
-    margin-left:9%;
-}
+
 .test-des
 {
     width: 60%;
@@ -1672,51 +1236,15 @@ ul.tab-l
     margin: 30px auto 0px auto;
     padding-top: 20px;
 }
-.key-th th
-{
-    color: #fff;
-}
-@media screen and (max-width:640px)
-{
-    .table-class
-    {
-        width: 100%;
-        overflow-x: scroll;
-    }
-}
 
-.board-pera
-{
-    width: 60%;
-    margin: 0 auto;
-    padding: 10px;
-    height: auto;
-    background: #006a729c;
-    overflow: hidden !important;
-}
+
 @media screen and (max-width:1400px)
 {
 }
 
-.main-section-area
-{
-    width: 100%;
-    height: auto;
-    padding: 0px 25px 0px 25px;;
-}
-.white
-{
-    color: #fff;
-}
-.black
-{
-    color: #000;
-    font-size: 17px;
-}
-.text-18
-{
-    font-size: 18px;
-}
+
+
+
 .p5
 {
     padding-top: 5px;
@@ -1792,21 +1320,8 @@ ul.tab-l
 {
     color: #000;
 }
-.section-head
-{
-    font-size: 46px;
-    color: #2165A9;
-    background: #fff;
-    text-shadow: 6px 3px 12px #000000d4;
-}
-.font-cursive
-{
-    font-family: 'Satisfy', cursive;
-}
-.text-30
-{
-    font-size: 30px;
-}
+
+
 .text-22
 {
     font-size: 22px;

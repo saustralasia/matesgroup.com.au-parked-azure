@@ -40,8 +40,7 @@
 
     <title>@yield('title')</title>
 
-    <!-- Styles -->
-    <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
+
 
 {{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}}">--}}
 {{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">--}}
@@ -54,7 +53,8 @@
 {{--    <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">--}}
 
     <!-- Fonts -->
-
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 
 </head>
 <body class="antialiased">
