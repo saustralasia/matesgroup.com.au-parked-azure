@@ -49,12 +49,10 @@
     <div class="container-fluid">
         <div class="second-banner">
             <div class="banner-head">
-                  <div class="banner-heading-line" style="text-align: center;">
-                          <a href=""><h1>Mates Group</h1></a>
-                  </div>
-
-                    <h2 class="banner-head-h1" style="text-align: center;">Recruitment & Labour Hire Specialist Across the Globe</h2>
-
+                <div class="banner-heading-line" style="text-align: center;">
+                    <a href=""><h1>Mates Group</h1></a>
+                </div>
+                <h2 class="banner-head-h1" style="text-align: center;">Recruitment & Labour Hire Specialist Across the Globe</h2>
             </div>
             <br>
             <div class="banner-area">
@@ -97,8 +95,7 @@
             <div class="col-md-2">
                 <div class="side-text">
                     <a href="team"><h4>Our Team</h4></a>
-                    <p>
-                        Our team members are trained in their field. They have confidence in what they do an do so   <!-- Together, we ensure you're contributing where the best returns are, while building confidence over each touchpoint. -->
+                    <p>Our team members are trained in their field. They have confidence in what they do an do so   <!-- Together, we ensure you're contributing where the best returns are, while building confidence over each touchpoint. -->
                         <a href="team" class="read-more">(read more…)</a>
                     </p>
                     <a href="safety"><h4>Our Safety</h4></a>
@@ -109,62 +106,80 @@
             </div>
         </div>
     </div>
+    <!--    =================  Carousel    =================-->
     <h4 class="text-center partner-text">Our Partners and Associates</h4>
-<div style="overflow:hidden !important;margin:0 auto">
-    <div class="owl-carousel service-image">
-        <div class="item">
-           <div class="serive-image">
-                <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank"><img src="{{asset('images/logo/freshexport.png')}}" alt="Specialises in exporting fresh fruits and fresh vegetables"></a>
-           </div>
-
-            <p class="slogan" style="text-align: center;">Specialises in exporting fresh fruits and fresh vegetables.</p>
-
-        </div>
-        <div class="item">
-           <div class="serive-image">
-              <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank"><img src="{{asset('images/logo/logo2.jpg')}}" alt="Specialises in job recruitment, interviews and candidate selection"></a>
-            </div>
-
-             <p class="slogan" style="text-align: center;">
-               Specialises in job recruitment, interviews and candidate selection.
-             </p>
-
-          </div>
-          <div class="item">
-               <div class="serive-image">
-                   <a rel="nofollow" href="http://matesglobal.com" target="_blank"> <img src="{{asset('images/logo/Mates-Global.png')}}" alt="Specialises in providing staff recruitment and labour hire to clients around the world"></a>
+    <div style="overflow:hidden !important;margin:0 auto">
+        <div class="owl-carousel service-image">
+            <div class="item">
+                <div class="serive-image">
+                    <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank"><img
+                            src="{{asset('images/logo/freshexport.png')}}"
+                            alt="Specialises in exporting fresh fruits and fresh vegetables"></a>
                 </div>
 
-               <p class="slogan" style="text-align: center;">Specialises in providing staff recruitment and labour hire to clients around the world.</p>
+                <p class="slogan" style="text-align: center;">Specialises in exporting fresh fruits and fresh
+                    vegetables.</p>
 
-        </div>
-        <div class="item">
-           <div class="serive-image">
-                <a rel="nofollow" href="http://asc.net.au/" target="_blank"><img src="{{asset('images/logo/asc.png')}}" alt="Specialises in worldwide import, export and shipping services."></a>
-          </div>
+            </div>
+            <div class="item">
+                <div class="serive-image">
+                    <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank"><img
+                            src="{{asset('images/logo/logo2.jpg')}}"
+                            alt="Specialises in job recruitment, interviews and candidate selection"></a>
+                </div>
 
-            <p class="slogan" style="text-align: center;">Specialises in worldwide import, export and shipping services.</p>
+                <p class="slogan" style="text-align: center;">
+                    Specialises in job recruitment, interviews and candidate selection.
+                </p>
 
-        </div>
+            </div>
+            <div class="item">
+                <div class="serive-image">
+                    <a rel="nofollow" href="http://matesglobal.com" target="_blank"> <img
+                            src="{{asset('images/logo/Mates-Global.png')}}"
+                            alt="Specialises in providing staff recruitment and labour hire to clients around the world"></a>
+                </div>
 
-        <div class="item">
-           <div class="serive-image">
-                <a rel="nofollow" href="http://winfred.com.au" target="_blank"><img src="{{asset('images/logo/winfred.png')}}" alt="Speciallises in experienced cleaning labour and providing Security personal"></a>
-           </div>
+                <p class="slogan" style="text-align: center;">Specialises in providing staff recruitment and labour hire
+                    to clients around the world.</p>
 
-            <p class="slogan" style="text-align: center;">Speciallises in experienced cleaning labour and providing Security personal.</p>
+            </div>
+            <div class="item">
+                <div class="serive-image">
+                    <a rel="nofollow" href="http://asc.net.au/" target="_blank"><img
+                            src="{{asset('images/logo/asc.png')}}"
+                            alt="Specialises in worldwide import, export and shipping services."></a>
+                </div>
 
-        </div>
-        <div class="item">
-           <div class="serive-image">
-                <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank"><img src="{{asset('images/logo/matesworkforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
-           </div>
+                <p class="slogan" style="text-align: center;">Specialises in worldwide import, export and shipping
+                    services.</p>
 
-            <p class="slogan" style="text-align: center;">Specialising providing skilled and unskilled labour to Australian companies.</p>
+            </div>
 
+            <div class="item">
+                <div class="serive-image">
+                    <a rel="nofollow" href="http://winfred.com.au" target="_blank"><img
+                            src="{{asset('images/logo/winfred.png')}}"
+                            alt="Speciallises in experienced cleaning labour and providing Security personal"></a>
+                </div>
+
+                <p class="slogan" style="text-align: center;">Speciallises in experienced cleaning labour and providing
+                    Security personal.</p>
+
+            </div>
+            <div class="item">
+                <div class="serive-image">
+                    <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank"><img
+                            src="{{asset('images/logo/matesworkforce.png')}}"
+                            alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
+                </div>
+
+                <p class="slogan" style="text-align: center;">Specialising providing skilled and unskilled labour to
+                    Australian companies.</p>
+
+            </div>
         </div>
     </div>
-</div>
     <!--    =================  First Slider    =================-->
 <div class="main-bg">
     <div class="single-main-area">

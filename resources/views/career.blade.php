@@ -33,7 +33,7 @@
                     <p>We understand that searching for a job can be challenging. In order to find the right position for you, you need to be able to prove that you are the best candidate for the advertised role.</p>
                     <p>By following the tips below, you will ensure that you improve your chances of succeeding at the interview stage.</p>
                     <p>Tips and guidelines:</p>
-                    <ul class="com-list1">
+                    <ul class="list-unstyled">
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Research the industry and company</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Arrive on time</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Practice!</li>
@@ -50,7 +50,7 @@
                     </ul>
                     <h2>Our industry specialisations</h2>
                     <p>We specialise in labour hire services for the following industries:</p>
-                    <ul class="com-list1">
+                    <ul class="list-unstyled">
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Construction</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Transport &amp; Logistics</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Manufacturing &amp; Engineering</li>
@@ -60,7 +60,7 @@
                     <h2>Job application</h2>
                     <p>If you are interested to work with mates group. Please fill up the below form. One of our placement office will contact with you for further details and interview you for the future job vacancy.</p>
                     <p>Warehouse Industry</p>
-                    <ul class="com-list1">
+                    <ul class="list-unstyled">
                         <li><i class="fa fa-check" aria-hidden="true"> </i> forklift drivers</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> truck drivers</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> van drivers</li>
@@ -71,7 +71,7 @@
                         <li><i class="fa fa-check" aria-hidden="true"> </i> container unloading</li>
                     </ul>
                     <p>Construction Industry</p>
-                    <ul class="com-list1">
+                    <ul class="list-unstyled">
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Builder labourers</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> Truck drivers for the transportation of construction materials</li>
                         <li><i class="fa fa-check" aria-hidden="true"> </i> On-site forklift drivers</li>

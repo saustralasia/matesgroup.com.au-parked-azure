@@ -78,6 +78,15 @@ body
     -o-background-size: cover;
 }
 
+
+
+
+
+
+
+
+
+
 /*
  * Index page
  *
@@ -169,7 +178,10 @@ body
     font-family: verdana;
     text-transform: uppercase;
     text-shadow: 5px 2px 4px #00000059;
-    font-size:18px;margin-top:-23px
+    font-size:18px;
+    line-height: normal;
+    margin: 0 0 16px 0;
+    font-weight: 700;
 }
 
 
@@ -178,6 +190,10 @@ body
     width: 70%;
     height: auto;
     margin:  0 auto;
+}
+.banner-area img
+{
+    max-width: 100%;
 }
 
 @media screen and (max-width:735px)
@@ -216,6 +232,9 @@ body
     color: #7B62BE;
     font-weight: bolder;
     text-shadow: 5px 2px 4px #00000059;
+    line-height: normal;
+    margin: 0 0 16px 0;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .side-text
@@ -226,6 +245,7 @@ body
 .side-text a
 {
     color: #b3a0e6;
+
 
 }
 .side-text .read-more
@@ -309,15 +329,6 @@ body
     text-align: center;
     line-height: 20px;
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -541,6 +552,10 @@ body
     color: #2165A9;
     background: #fff;
     text-shadow: 6px 3px 12px #000000d4;
+    line-height: normal;
+    margin: 0 0 16px 0;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .main-section-area
@@ -633,7 +648,17 @@ table {
 ul.tab-l
 {
     margin-left:9%;
+    padding: 0px;
 }
+
+
+
+
+
+
+
+
+
 
 
 
@@ -760,7 +785,7 @@ ul.tab-l
     ul {
         li {
             a{
-                text-decoration: none;
+                color: #e4b95b;
             }
             a:hover {
                 color: #000; border-bottom: 1px dotted $brand-primary;
