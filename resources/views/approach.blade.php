@@ -34,7 +34,11 @@
         </div>
 
         <aside class="col-md-4 blog-aside">
-            @include('layouts.asides.aboutus')
+            <div class="mb-4 blog-aside-card">
+                <div class="blog-aside-card-body">
+                    @include('layouts.asides.aboutus')
+                </div>
+            </div>
         </aside>
 
     </div>

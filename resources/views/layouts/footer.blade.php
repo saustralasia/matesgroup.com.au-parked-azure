@@ -1,5 +1,5 @@
 
-<div class="container mt-2">
+<div class="container mt-5">
     <div class="row">
         <div class="col-md-3">
             <h5 class="footer-title">ABOUT US</h5>

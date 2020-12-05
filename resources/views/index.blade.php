@@ -49,10 +49,10 @@
     <div class="container-fluid">
         <div class="second-banner">
             <div class="banner-head">
-                <div class="banner-heading-line" style="text-align: center;">
+                <div class="banner-heading-line">
                     <a href=""><h1>Mates Group</h1></a>
                 </div>
-                <h2 class="banner-head-h1" style="text-align: center;">Recruitment & Labour Hire Specialist Across the Globe</h2>
+                <h2 class="banner-head-h1">Recruitment & Labour Hire Specialist Across the Globe</h2>
             </div>
             <br>
             <div class="banner-area">
@@ -80,11 +80,11 @@
             </div>
             <div class="col-md-8">
                 <div class="banner-head">
-                      <div class="banner-heading-line" style="text-align: center;">
+                      <div class="banner-heading-line">
                               <a href=""><h1>Mates Group</h1></a>
                       </div>
 
-                        <h2 class="banner-head-h1" style="text-align: center;">Providing Recruitment and Labour Hire around The Globe</h2>
+                        <h2 class="banner-head-h1">Providing Recruitment and Labour Hire around The Globe</h2>
 
                 </div>
                 <br>
@@ -106,91 +106,59 @@
             </div>
         </div>
     </div>
+
     <!--    =================  Carousel    =================-->
-    <h4 class="text-center partner-text">Our Partners and Associates</h4>
-    <div style="overflow:hidden !important;margin:0 auto">
-        <div class="owl-carousel service-image">
-            <div class="item">
-                <div class="serive-image">
-                    <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank"><img
-                            src="{{asset('images/logo/freshexport.png')}}"
-                            alt="Specialises in exporting fresh fruits and fresh vegetables"></a>
-                </div>
-
-                <p class="slogan" style="text-align: center;">Specialises in exporting fresh fruits and fresh
-                    vegetables.</p>
-
-            </div>
-            <div class="item">
-                <div class="serive-image">
-                    <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank"><img
-                            src="{{asset('images/logo/logo2.jpg')}}"
-                            alt="Specialises in job recruitment, interviews and candidate selection"></a>
-                </div>
-
-                <p class="slogan" style="text-align: center;">
-                    Specialises in job recruitment, interviews and candidate selection.
-                </p>
-
-            </div>
-            <div class="item">
-                <div class="serive-image">
-                    <a rel="nofollow" href="http://matesglobal.com" target="_blank"> <img
-                            src="{{asset('images/logo/Mates-Global.png')}}"
-                            alt="Specialises in providing staff recruitment and labour hire to clients around the world"></a>
-                </div>
-
-                <p class="slogan" style="text-align: center;">Specialises in providing staff recruitment and labour hire
-                    to clients around the world.</p>
-
-            </div>
-            <div class="item">
-                <div class="serive-image">
-                    <a rel="nofollow" href="http://asc.net.au/" target="_blank"><img
-                            src="{{asset('images/logo/asc.png')}}"
-                            alt="Specialises in worldwide import, export and shipping services."></a>
-                </div>
-
-                <p class="slogan" style="text-align: center;">Specialises in worldwide import, export and shipping
-                    services.</p>
-
-            </div>
-
-            <div class="item">
-                <div class="serive-image">
-                    <a rel="nofollow" href="http://winfred.com.au" target="_blank"><img
-                            src="{{asset('images/logo/winfred.png')}}"
-                            alt="Speciallises in experienced cleaning labour and providing Security personal"></a>
-                </div>
-
-                <p class="slogan" style="text-align: center;">Speciallises in experienced cleaning labour and providing
-                    Security personal.</p>
-
-            </div>
-            <div class="item">
-                <div class="serive-image">
-                    <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank"><img
-                            src="{{asset('images/logo/matesworkforce.png')}}"
-                            alt="Specializing providing skilled and unskilled labour to Australian companies"></a>
-                </div>
-
-                <p class="slogan" style="text-align: center;">Specialising providing skilled and unskilled labour to
-                    Australian companies.</p>
-
-            </div>
+    <h4 class="text-center partners-text">Our Partners and Associates</h4>
+{{--    <div style="overflow:hidden !important;margin:0 auto">--}}
+    <div class="partners-carousel owl-carousel owl-theme">
+        <div class="item">
+            <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank">
+                <img src="{{asset('images/logo/freshexport.png')}}" alt="Specialises in exporting fresh fruits and fresh vegetables">
+            </a>
+            <p class="slogan">Specialises in exporting fresh fruits and fresh vegetables.</p>
+        </div>
+        <div class="item">
+            <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank">
+                <img src="{{asset('images/logo/logo2.jpg')}}" alt="Specialises in job recruitment, interviews and candidate selection">
+            </a>
+            <p class="slogan">Specialises in job recruitment, interviews and candidate selection.</p>
+        </div>
+        <div class="item">
+            <a rel="nofollow" href="http://matesglobal.com" target="_blank">
+                <img src="{{asset('images/logo/Mates-Global.png')}}" alt="Specialises in providing staff recruitment and labour hire to clients around the world">
+            </a>
+            <p class="slogan">Specialises in providing staff recruitment and labour hire to clients around the world.</p>
+        </div>
+        <div class="item">
+            <a rel="nofollow" href="http://asc.net.au/" target="_blank">
+                <img src="{{asset('images/logo/asc.png')}}" alt="Specialises in worldwide import, export and shipping services.">
+            </a>
+            <p class="slogan">Specialises in worldwide import, export and shipping services.</p>
+        </div>
+        <div class="item">
+            <a rel="nofollow" href="http://winfred.com.au" target="_blank">
+                <img src="{{asset('images/logo/winfred.png')}}" alt="Speciallises in experienced cleaning labour and providing Security personal">
+            </a>
+            <p class="slogan">Speciallises in experienced cleaning labour and providing Security personal.</p>
+        </div>
+        <div class="item">
+            <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank">
+                <img src="{{asset('images/logo/matesworkforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies">
+            </a>
+            <p class="slogan">Specialising providing skilled and unskilled labour to Australian companies.</p>
         </div>
     </div>
+{{--    </div>--}}
     <!--    =================  First Slider    =================-->
 <div class="main-bg">
     <div class="single-main-area">
     <div class="single-site-area">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG OFFICE STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG OFFICE STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Mates Group office provides specialised office support staff Australia wide. The main   contribution of our company is to have the right kind of staff who help to achieve goals in a business and reach the required targets.
+            <p class="white text-18">Mates Group office provides specialised office support staff Australia wide. The main   contribution of our company is to have the right kind of staff who help to achieve goals in a business and reach the required targets.
             </p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white text-18">
@@ -281,12 +249,11 @@
     <div class="single-main-area">
     <div class="single-site-area-5">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG CONSTRUCTION STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG CONSTRUCTION STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Mates group supply civil and construction workers to various sites around the Australia, from small to large level of projects and development. Mates Group provides construction services, managing and developing production.</p>
+            <p class="white text-18">Mates group supply civil and construction workers to various sites around the Australia, from small to large level of projects and development. Mates Group provides construction services, managing and developing production.</p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white text-18">We provide superior carpentry labour and building components to the commercial construction industry with a team of qualified and experienced members.</p>
         </div>
@@ -393,12 +360,11 @@
     <div class="single-main-area">
     <div class="single-site-area-6">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG SHIPBUILDING</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG SHIPBUILDING</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Mates provides ship and submarine building facilities with the assistance of highly qualified employees who specialise in the field.</p>
+            <p class="white text-18">Mates provides ship and submarine building facilities with the assistance of highly qualified employees who specialise in the field.</p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white text-18">Our aim is to provide customers with outstanding value through quality ship construction and repair services that are delivered on schedule, while setting the industry standard for operational reliability and maintainability. We have qualified staff who finish the job to perfection.</p>
         </div>
@@ -467,12 +433,11 @@
     <div class="single-main-area">
     <div class="single-site-area-7">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG AGRICULTURE STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG AGRICULTURE STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Mates is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable experienced workers according to requirements</p>
+            <p class="white text-18">Mates is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable experienced workers according to requirements</p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white">Our team's combined experience in recruitment, working rurally and being in the vegetable industry for many years allows us to provide the best and most suitable candidates for the job</p>
         </div>
@@ -555,13 +520,12 @@
     <div class="single-main-area">
     <div class="single-site-area-2">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG ENGINEERING STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG ENGINEERING STAFF</h3>
           </div>
 
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">With a database of highly skilled office support staff, MG Engineers specialises in recruiting employees for a wide range of engineering jobs. Our specialist recruitment services include the recruitment of permanent, part time or casual staff who hold extensive experience in the desired engineering field.</p>
+            <p class="white text-18">With a database of highly skilled office support staff, MG Engineers specialises in recruiting employees for a wide range of engineering jobs. Our specialist recruitment services include the recruitment of permanent, part time or casual staff who hold extensive experience in the desired engineering field.</p>
         </div>
     </div>
 </div>
@@ -664,9 +628,8 @@
     <div class="single-main-area">
     <div class="single-site-area-3">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG IT STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG IT STAFF</h3>
           </div>
         <div class="main-section-area">
             <p class="white">We source and place high quality technology, digital and business transformation professionals to clients who require.</p>
@@ -733,12 +696,11 @@
     <div class="single-main-area">
     <div class="single-site-area-8">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG GLOBAL STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG GLOBAL STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Specialising in recruitment for both Australian and international requirements.</p>
+            <p class="white text-18">Specialising in recruitment for both Australian and international requirements.</p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white">We hire International high skill workers, allocating them to local jobs. We not only recruit them but also provide them with settlement services and support with visa processing insuring reliability and long-term work.</p>
         </div>
@@ -818,12 +780,11 @@
     <div class="single-main-area">
     <div class="single-site-area-9">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG WAREHOUSE STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG WAREHOUSE STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">We source staff for Permanent /Temporary /Part time /Casual /Long term and Short-term jobs. Fulfilling logistics, manufacturing, cleaning and gardening requirements.</p>
+            <p class="white text-18">We source staff for Permanent /Temporary /Part time /Casual /Long term and Short-term jobs. Fulfilling logistics, manufacturing, cleaning and gardening requirements.</p>
             <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
             <p class="white">We have worked with the major industry groups and we have a strong knowledge of their employment needs. We have experienced personnel who understand the labour market and can find the best candidates for any business.
 			</p>
@@ -835,12 +796,11 @@
     <div class="single-main-area">
     <div class="single-site-area-10">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG TRANSPORT STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG TRANSPORT STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">Mates Group supply staff for transport and logistics this includes, Delivery Drivers, Forklift Operators, Truck Drivers.
+            <p class="white text-18">Mates Group supply staff for transport and logistics this includes, Delivery Drivers, Forklift Operators, Truck Drivers.
 
 			</p>
 	            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
@@ -855,12 +815,11 @@
     <div class="single-main-area">
     <div class="single-site-area-11">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG MAINTENANCE STAFF</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG MAINTENANCE STAFF</h3>
           </div>
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">We source staff who maintain domestic households and industrial places, gathering workers with a good amount of experience and willingness to work work the desired time of our clients.
+            <p class="white text-18">We source staff who maintain domestic households and industrial places, gathering workers with a good amount of experience and willingness to work work the desired time of our clients.
 
 
 			</p>
@@ -879,13 +838,12 @@
     <div class="single-main-area">
     <div class="single-site-area-4">
     <div class="heading">
-           <div class="page-header" data-aos="fade-up"
-             data-aos-duration="500" data-aos-delay="300">
-            <h3 class="section-head" style="text-align: center;">MG LABOURER</h3>
+           <div class="page-header">
+            <h3 class="section-head">MG LABOURER</h3>
           </div>
 
         <div class="main-section-area">
-            <p data-aos="fade-right"  class="white text-18">We have worked with the major industry groups and we have a strong knowledge of their employment needs. We have experienced personnel who understand the labour market and can find the best candidates for any business.</p>
+            <p class="white text-18">We have worked with the major industry groups and we have a strong knowledge of their employment needs. We have experienced personnel who understand the labour market and can find the best candidates for any business.</p>
         </div>
 
     </div>

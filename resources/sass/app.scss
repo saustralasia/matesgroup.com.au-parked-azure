@@ -3,19 +3,25 @@
 
 
 
+// Colors
+$brand-primary:     #0655a3;
+$brand-secondary:   #f5e697;
+$brand-aux:         #1b1464;
+
+$blog-title:        #6c6c6c;
+$blog-heading:      #6c6c6c;
+$blog-text:         #5d5d5d;
+
+//$footer-title:      #5d5d5d;
+$footer-link:       #6c757d;
+$footer-link-hover: $blog-text;
+
 // Bootstrap settings
-// Color
-$brand-primary: #e4b95b;
-$brand-secondary: #1B1464;
-$brand-aux: #1b1464;
-$blog-text-color: #626060;
-
-
 // Your variable overrides
 //$body-bg: #000;
 //$body-color: #111;
-$primary:       $brand-primary;
-$secondary:     $brand-secondary;
+$primary:           $brand-primary;
+$secondary:         $brand-secondary;
 
 
 //$theme-colors: (
@@ -48,7 +54,9 @@ $h2-font-size: 2rem;
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
 //font-family: 'Source Sans Pro', sans-serif !important;
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
-//font-family: 'Quicksand', sans-serif;
+//font-family: 'Quicksand', sans-serif; // faltu
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;500&display=swap');
+//font-family: 'Hind Siliguri', sans-serif;
 //@include font-face(TrajanPro, ../fonts/TrajanProRegular, null, null, ttf);
 @font-face {
     font-family: 'TrajanPro';
@@ -59,7 +67,7 @@ $h2-font-size: 2rem;
 
 body
 {
-    font-family: 'Source Sans Pro', sans-serif !important;
+    //font-family: 'Source Sans Pro', sans-serif !important;
     position: relative;
 }
 
@@ -96,7 +104,8 @@ body
 {
     width: 100%;
     height: auto;
-    margin-bottom: 30px;
+    //margin-bottom: 30px;
+    border-bottom: 8px solid $secondary;
 }
 
 
@@ -153,16 +162,19 @@ body
 .banner-heading-line
 {
     width: 100%;
+    text-align: center;
+    a {
+        text-decoration: none;
+        h1 {
+            font-family: TrajanPro;
+            font-size: 98px;
+            color: #7B62BE;
+            font-weight: 400;
+            text-shadow: 5px 6px 12px #000000d4;
+        }
+    }
 }
 
-.banner-heading-line h1
-{
-    font-family: TrajanPro;
-    font-size: 98px;
-    color: #7B62BE;
-    font-weight: 400;
-    text-shadow: 5px 6px 12px #000000d4;
-}
 
 @media screen and (max-width:945px)
 {
@@ -182,6 +194,7 @@ body
     line-height: normal;
     margin: 0 0 16px 0;
     font-weight: 700;
+    text-align: center;
 }
 
 
@@ -269,13 +282,15 @@ body
 // Banner title-Logo
 //
 
+
 //
-// Carasol
+// Partners Carousel
 //
-.partner-text
+.partners-text
 {
-    font-family:TrajanPro;
-    font-size:47px;
+    font-family:'TrajanPro';
+    //font-size:47px;
+    @include font-size(3rem);
     color:#7B62BE;
     font-weight:400;
     text-shadow:6px 3px 12px #000000d4;
@@ -295,39 +310,40 @@ body
     cursor: pointer;
 }
 
-.service-image
-{
+.partners-carousel {
     /*
         overflow: hidden;
         width: 100%;
     */
+    .item {
+        margin: 5px 12px;
+        img {
+            width: auto;
+            height: 69px;
+            margin: 20px auto;
+        }
+        .slogan {
+            font-size: 16px;
+            color: #888888;
+            text-align: center;
+            line-height: 20px;
+            max-width: 200px;
+        }
+    }
 }
-.service-image .item
+.partner-carousel .item
 {
-    margin: 5px 12px;
+
 }
 
-.service-image .item .serive-image
-{
-    /*
-        width: 200px;
-        height: 150px;
-        margin: 0 auto;
-    */
-}
-.service-image .item .serive-image img {
-    width: 150px !important;
-    height: 74px;
-    margin: 20px auto;
+.service-image .item img {
+
 }
 
 
-.item .slogan
+.service-image .item .slogan
 {
-    font-size: 16px;
-    color: #888888;
-    text-align: center;
-    line-height: 20px;
+
 }
 
 
@@ -551,6 +567,7 @@ body
     font-size: 46px;
     color: #2165A9;
     background: #fff;
+    text-align: center;
     text-shadow: 6px 3px 12px #000000d4;
     line-height: normal;
     margin: 0 0 16px 0;
@@ -678,11 +695,10 @@ ul.tab-l
 /*
  * Blog with aside
  */
-.blog-main {}
 
 .blog-post-title {
     padding-top: 50px;
-    margin-bottom: .25rem;
+    //margin-bottom: .25rem;
     color: #383848;
     text-transform: uppercase;
     @include font-size(2.5rem);
@@ -690,45 +706,79 @@ ul.tab-l
     font-family: 'Quicksand', sans-serif;
 }
 
+.blog-main {}
+
 .blog-post {
     margin-bottom: 4rem;
-    color: $blog-text-color;
+    color: $blog-text;
 }
 
 .blog-aside{
-    padding-left: 3rem !important;
 }
 
-.blog-aside-title{
-    color: $brand-primary;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+
+.blog-aside-card{
+    //padding: 1.5rem;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    padding: 10px;
+    .blog-aside-card-body {
+        -webkit-box-flex: 1;
+        flex: 1 1 auto;
+        padding: 1.5rem;
+        ol {
+            li {
+                margin-bottom: 5px;
+                a {
+                    color: $brand-aux;
+                    &:hover {
+                        color: $brand-primary;
+                    }
+                }
+
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+
 }
 
-.blog-aside-body{
-    ol {
+.blog-aside-title {
+    @include font-size(1.25rem);
+    font-family: 'Hind Siliguri', sans-serif;
+    margin-bottom: .75rem;
+}
+
+
+
+
+
+/*
+ * Footer  + need to merge with the master_style
+ */
+/*
+ * Footer  + need to merge with the master_style
+ */
+
+.footer-title {
+    @include font-size(1.25rem);
+    margin: 0;
+    letter-spacing: 3px;
+    font-family: 'Hind Siliguri', sans-serif;
+
+    + ul {
+        margin: 20px 0 0;
         li {
-            a {
-                color: $brand-aux;
-            }
-            a:hover {
-                color: $brand-primary;
-            }
+            margin-bottom: 5px;
+            color: $footer-link;
+            border-bottom: 1px dotted #e2e8f0;
+            a{ text-decoration: none; }
+            &:hover { border-bottom: 1px dotted $primary; }
         }
     }
 }
 
-
-
-
-
-
-/*
- * Footer  + need to merge with the master_style
- */
-/*
- * Footer  + need to merge with the master_style
- */
 .footer-social {
     display: inline-block;
     width: auto;
@@ -747,81 +797,46 @@ ul.tab-l
                 width: 50px;
                 height: 50px;
                 border-radius: 100%;
-                border: 1px solid #383848;
+                border: 1px solid $footer-link;
                 line-height: 50px;
                 font-size: 16px;
-                color: #5c5c6e;
-            }
-            a:hover {
-                border: 1px solid $brand-primary;
-                color: teal;
-                //background-color: yellowgreen;
-            }
-        }
-    }
-}
-
-.footer-title {
-    color: $brand-primary;
-    font-weight: 700;
-    line-height: 1.2;
-    font-family: 'Roboto', sans-serif;
-    @include font-size(1.25rem);
-    margin: 0;
-    letter-spacing: 3px;
-
-    + ul {
-        margin: 20px 0 0;
-        li {
-            border-bottom: 1px dotted $brand-secondary;
-            a{ text-decoration: none; }
-            a:hover { color: #000; border-bottom: 1px dotted $brand-primary; }
-        }
-    }
-}
-.footer-copyright {
-    padding: 20px 0 40px 0;
-    border-bottom: 8px solid $brand-primary;
-    ul {
-        li {
-            a{
-                color: #e4b95b;
-            }
-            a:hover {
-                color: #000; border-bottom: 1px dotted $brand-primary;
-            }
-        }
-    }
-    a{ text-decoration: none; }
-    a:hover { color: #000; border-bottom: 1px dotted $brand-primary; }
-}
-
-@media(max-width: 960px) {
-    .footer-social {
-        ul {
-            li {
-                a {
+                color: $footer-link;
+                @media(max-width: 960px) {
                     width: 35px;
                     height: 35px;
                     line-height: 33px;
                     font-size: 14px;
                 }
+                &:hover {
+                    border: 1px solid $primary;
+                    color: $primary;
+                }
             }
+
         }
     }
 }
 
-//.f-list li
-//{
-//    border-bottom: 1px dotted #1B1464;
-//}
-//.f-list li a:hover{
-//    color: #1B1464 !important;
-//}
-//.f-list li a
-//{
-//    color: #000;
-//}
-//.f-list li a:hover{
-//    color: #fff;
-//}
+.footer-copyright {
+    padding: 20px 0 40px 0;
+    color: $footer-link;
+
+    ul {
+        li {
+            a {
+                &:hover {
+                    border-bottom: 1px dotted $secondary;
+                }
+            }
+        }
+    }
+
+    p {
+
+        a {
+            &:hover {
+                border-bottom: 1px dotted $secondary;
+            }
+        }
+    }
+}
