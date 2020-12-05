@@ -14,7 +14,7 @@
     <div class="container">
         <div class="about-box">
 
-                <div class="row">
+                <div class="row mt-6">
                     <div class="col-md-4">
                         <div class="address" style="padding:15px">
                             <h3 class="black">HEAD OFFICE</h3>

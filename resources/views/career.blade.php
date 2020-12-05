@@ -11,9 +11,9 @@
     </header>
 
     <div class="container">
-        <div class="row">
-            <div class="col-md-8">
-                <h1 class="display-4 mb-4 blog-post-title border-bottom">Career</h1>
+        <div class="row mt-6">
+        <div class="col-md-8">
+            <h1 class="display-4 mb-2 blog-post-title border-bottom">Career</h1>
             </div>
             <div class="col-md-4">
             </div>

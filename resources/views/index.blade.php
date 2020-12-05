@@ -107,6 +107,12 @@
         </div>
     </div>
 
+    <div class="container">
+        <div class="row mt-6">
+            <div class="col"></div>
+        </div>
+    </div>
+
     <!--    =================  Carousel    =================-->
     <h4 class="text-center partners-text">Our Partners and Associates</h4>
 {{--    <div style="overflow:hidden !important;margin:0 auto">--}}
