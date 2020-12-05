@@ -19,12 +19,12 @@
  @import "~bootstrap/scss/forms";
  @import "~bootstrap/scss/buttons";
  @import "~bootstrap/scss/transitions";
- @import "~bootstrap/scss/dropdown";
+ //@import "~bootstrap/scss/dropdown";
  @import "~bootstrap/scss/button-group";
  @import "~bootstrap/scss/input-group";
  @import "~bootstrap/scss/custom-forms";
- @import "~bootstrap/scss/nav";
- @import "~bootstrap/scss/navbar";
+ //@import "~bootstrap/scss/nav";
+ //@import "~bootstrap/scss/navbar";
  //@import "~bootstrap/scss/card";
  //@import "~bootstrap/scss/breadcrumb";
  //@import "~bootstrap/scss/pagination";
@@ -40,8 +40,12 @@
  //@import "~bootstrap/scss/tooltip";
  //@import "~bootstrap/scss/popover";
  //@import "~bootstrap/scss/carousel";
- @import "~bootstrap/scss/spinners";
+ //@import "~bootstrap/scss/spinners";
  @import "~bootstrap/scss/utilities";
  @import "~bootstrap/scss/print";
 
 
+$enable-responsive-font-sizes: true;
+
+//$font-size-base: 1rem;
+//$h2-font-size: 1.5rem;

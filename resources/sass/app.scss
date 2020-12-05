@@ -1,16 +1,11 @@
-//@import "reboot";
-
-
-
-
 // Colors
 $brand-primary:     #0655a3;
-$brand-secondary:   #f5e697;
+$brand-secondary:   #e6c40d;
 $brand-aux:         #1b1464;
 
 $blog-title:        #0d1b48;
 $blog-heading:      #6c6c6c;
-$blog-text:         #5d5d5d;
+$blog-text:         #525252;
 
 //$footer-title:      #5d5d5d;
 $footer-link:       #6c757d;
@@ -19,29 +14,19 @@ $footer-link-hover: $blog-text;
 $aside-link:       $footer-link;
 $aside-link-hover: $blog-text;
 
-
 $bg-soft:           #f5f9fe;
 
+
 // Bootstrap settings
+
 // Your variable overrides
 //$body-bg: #000;
 //$body-color: #111;
 $primary:           $brand-primary;
 $secondary:         $brand-secondary;
 
-
-//$theme-colors: (
-//  "primary": #0074d9,
-//  "danger": #ff4136
-//);
-
-                                                           //@import "bootstrap_custom";
-
-@import "~bootstrap/scss/mixins";
-$enable-responsive-font-sizes: true;
-
-$font-size-base: 1rem;
-$h2-font-size: 2rem;
+@import "~owl.carousel";
+@import "bootstrap_custom";
 //@import "~bootstrap/scss/bootstrap";
 
 
@@ -145,7 +130,7 @@ body
 {
     display: none;
 }
-@media screen and (max-width:991px)
+@media screen and (max-width:768px)
 {
     .banner-head
     {
@@ -171,23 +156,23 @@ body
 }
 @media screen and (max-width:760px)
 {
-    .second-banner .banner-head h1
+    .second-banner .banner-head-h1
     {
-        font-size: 75px;
+        //font-size: 75px;
     }
 }
 @media screen and (max-width:622px)
 {
-    .second-banner .banner-head h1
+    .second-banner .banner-head-h1
     {
-        font-size: 55px;
+        //font-size: 55px;
     }
 }
 @media screen and (max-width:447px)
 {
-    .second-banner .banner-head h1
+    .second-banner .banner-head-h1
     {
-        font-size: 45px;
+        //font-size: 45px;
     }
 }
 
@@ -198,11 +183,12 @@ body
     a {
         text-decoration: none;
         h1 {
-            font-family: TrajanPro;
-            font-size: 98px;
+            font-family: 'TrajanPro';
+            //font-size: 98px;
+            @include font-size(5.5rem);
             color: #7B62BE;
             font-weight: 400;
-            text-shadow: 5px 6px 12px #000000d4;
+            text-shadow: 4px 6px 12px rgba(0, 0, 0, 0.83);
         }
     }
 }
@@ -219,13 +205,13 @@ body
 .banner-head-h1
 {
     color: #7b62be;
-    font-family: verdana;
+    font-family: "Poppins", sans-serif;
     text-transform: uppercase;
-    text-shadow: 5px 2px 4px #00000059;
-    font-size:18px;
+    text-shadow: 2px 2px 4px #00000059;
+    @include font-size(1.3rem);
     line-height: normal;
     margin: 0 0 16px 0;
-    font-weight: 700;
+    //font-weight: 700;
     text-align: center;
 }
 
@@ -276,7 +262,7 @@ body
     font-size: 18px;
     color: #7B62BE;
     font-weight: bolder;
-    text-shadow: 5px 2px 4px #00000059;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.35);
     line-height: normal;
     margin: 0 0 16px 0;
     font-family: 'Quicksand', sans-serif;
@@ -320,21 +306,21 @@ body
 //
 .partners-text
 {
-    font-family:'TrajanPro';
+    font-family: 'TrajanPro', sans-serif;
     //font-size:47px;
-    @include font-size(3rem);
+    @include font-size(2rem);
     color:#7B62BE;
     font-weight:400;
-    text-shadow:6px 3px 12px #000000d4;
+    text-shadow:4px 2px 12px rgba(0, 0, 0, 0.83);
 }
-@media screen and (max-width:790px)
-{
-    .partner-text
-    {
-        font-size: 36px !important;
-        text-shadow: 3px 1px 5px #000000d4;
-    }
-}
+//@media screen and (max-width:790px)
+//{
+//    .partner-text
+//    {
+//        font-size: 36px !important;
+//        text-shadow: 3px 1px 5px #000000d4;
+//    }
+//}
 
 .owl-carousel .owl-item img:hover{
     transform: scale(1.1);
@@ -605,6 +591,7 @@ body
     margin: 0 0 16px 0;
     font-weight: 700;
     font-family: 'Quicksand', sans-serif;
+    //font-family: 'TrajanPro', sans-serif;
 }
 
 .main-section-area
@@ -617,11 +604,11 @@ body
 {
     color: #fff;
 }
-.black
-{
-    color: #000;
-    font-size: 17px;
-}
+//.black
+//{
+//    color: #000;
+//    font-size: 17px;
+//}
 
 
 .text-18
@@ -632,6 +619,7 @@ body
 .text-30
 {
     font-size: 30px;
+    font-family: 'TrajanPro', serif;
 }
 
 
@@ -729,25 +717,26 @@ ul.tab-l
  */
 
 .blog-post-title {
-    //padding-top: 50px;
-    //margin-bottom: .25rem;
-    //color: #383848;
-    //text-transform: uppercase;
+    font-family: Poppins,sans-serif;
+    font-weight: 500;
     @include font-size(2.5rem);
     line-height: 1.3;
     color: $blog-title;
-    font-family: Poppins,sans-serif;
-    font-weight: 500;
-    //font-weight: 700;
-    //font-family: 'Quicksand', sans-serif;
 }
 
-.blog-main {}
-
-.blog-post {
-    margin-bottom: 4rem;
-    color: $blog-text;
+.blog-main {
+    .blog-post {
+        font-family: Poppins,sans-serif;
+        font-weight: 300;
+        color: $blog-text;
+        h2{
+            font-weight: 500;
+            @include font-size(1.5rem);
+        }
+    }
 }
+
+
 
 .blog-aside{
 }
@@ -861,12 +850,14 @@ ul.tab-l
 .footer-copyright {
     padding: 20px 0 40px 0;
     color: $footer-link;
-
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
     ul {
         li {
             a {
+                text-decoration: none;
                 &:hover {
-                    border-bottom: 1px dotted $secondary;
+                    border-bottom: 1px dotted $primary;
                 }
             }
         }
@@ -875,8 +866,9 @@ ul.tab-l
     p {
 
         a {
+            text-decoration: none;
             &:hover {
-                border-bottom: 1px dotted $secondary;
+                border-bottom: 1px dotted $primary;
             }
         }
     }

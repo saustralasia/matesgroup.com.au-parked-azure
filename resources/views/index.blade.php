@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.page')
 
 @section('title', 'Mates Group | Recruitment & Labour Hire Agency Adelaide, Brisbane and Perth')
 @section('meta_description', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide, Brisbane, Perth and Tasmania.')
@@ -52,7 +52,7 @@
                 <div class="banner-heading-line">
                     <a href=""><h1>Mates Group</h1></a>
                 </div>
-                <h2 class="banner-head-h1">Recruitment & Labour Hire Specialist Across the Globe</h2>
+                <h2 class="banner-head-h1">Providing Recruitment and Labour Hire around The Globe</h2>
             </div>
             <br>
             <div class="banner-area">
@@ -149,7 +149,7 @@
         </div>
         <div class="item">
             <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank">
-                <img src="{{asset('images/logo/matesworkforce.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies">
+                <img src="{{asset('images/logo/logomw.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies">
             </a>
             <p class="slogan">Specialising providing skilled and unskilled labour to Australian companies.</p>
         </div>
@@ -242,7 +242,7 @@
 
 				    </table>
 
-                    <button onclick="read_more_less()" class="btn btn-success" id="mybtn">Read more</button>
+                    <button onclick="read_more_less()" class="btn btn-primary btn-sm" id="mybtn">Load more...</button>
                 </div>
 	 	    </div>
         </div>
@@ -352,7 +352,7 @@
 				    	        </td>
 				    	    </tr>
 				    	</table>
-                        <button onclick="read_more_less2()" class="btn btn-success" id="mybtn2">Read more</button>
+                        <button onclick="read_more_less2()" class="btn btn-primary btn-sm" id="mybtn2">Load more...</button>
 				    </div>
 	 	        </div>
             </div>
@@ -425,7 +425,7 @@
                         </ul>
                     </td>
                 </table>
-                    <button onclick="read_more_less3()" class="btn btn-success" id="mybtn3">Read more</button>
+                    <button onclick="read_more_less3()" class="btn btn-primary btn-sm" id="mybtn3">Load more...</button>
               </div>
 	 	   </div>
         </div>
@@ -513,7 +513,7 @@
                         </td>
                     </tr>
 				</table>
-               <button onclick="read_more_less4()" class="btn btn-success" id="mybtn4">Read more</button>
+               <button onclick="read_more_less4()" class="btn btn-primary btn-sm" id="mybtn4">Load more...</button>
             </div>
 	 	   </div>
         </div>
@@ -622,7 +622,7 @@
 				    	        </td>
 				    	    </tr>
 				    	</table>
-                        <button onclick="read_more_less5()" class="btn btn-success" id="mybtn5">Read more</button>
+                        <button onclick="read_more_less5()" class="btn btn-primary btn-sm" id="mybtn5">Load more...</button>
                   </div>
 	 	        </div>
             </div>
@@ -687,7 +687,7 @@
 				    	        </td>
 				    	    </tr>
 				    	</table>
-                        <button onclick="read_more_less6()" class="btn btn-success" id="mybtn6">Read more</button>
+                        <button onclick="read_more_less6()" class="btn btn-primary btn-sm" id="mybtn6">Load more...</button>
                     </div>
 	 	        </div>
             </div>
@@ -772,7 +772,7 @@
                         </td>
                     </tr>
                 </table>
-               <button onclick="read_more_less7()" class="btn btn-success" id="mybtn7">Read more</button>
+               <button onclick="read_more_less7()" class="btn btn-primary btn-sm" id="mybtn7">Load more...</button>
             </div>
 	 	</div>
     </div>
@@ -921,7 +921,7 @@
 				    	        </td>
 				    	    </tr>
 				    	</table>
-                        <button onclick="read_more_less8()" class="btn btn-success" id="mybtn8">Read more</button>
+                        <button onclick="read_more_less8()" class="btn btn-primary btn-sm" id="mybtn8">Load more...</button>
                     </div>
 	 	        </div>
             </div>
@@ -947,7 +947,7 @@
                 {
                     dots.style.display="none";
                     moretext.style.display="inline";
-                    mybtn.innerHTML="Read less";
+                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
                 }
 
                 var dots2 = document.getElementById('dots2');
@@ -958,12 +958,14 @@
                     dots2.style.display='inline';
                     moretext2.style.display='none';
                     mybtn.innerHTML="Read more";
+
                 }
                 else
                 {
                     dots2.style.display="none";
                     moretext2.style.display="inline";
-                    mybtn.innerHTML="Read less";
+                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
+
                 }
 
                 var dots3 = document.getElementById('dots3');
@@ -979,7 +981,8 @@
                 {
                     dots3.style.display="none";
                     moretext3.style.display="inline";
-                    mybtn.innerHTML="Read less";
+                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
+
                 }
 
                 var dots4 = document.getElementById('dots4');
@@ -995,7 +998,8 @@
                 {
                     dots4.style.display="none";
                     moretext4.style.display="inline";
-                    mybtn.innerHTML="Read less";
+                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
+
                 }
             }
         </script>
@@ -1016,7 +1020,8 @@
                 {
                     dots5.style.display="none";
                     moretext5.style.display="inline";
-                    mybtn2.innerHTML="Read less";
+                    mybtn2.innerHTML="Read less";                    mybtn2.style.display="none";
+
                 }
 
                 var dots6 = document.getElementById('dots6');
@@ -1033,7 +1038,8 @@
                 {
                     dots6.style.display="none";
                     moretext6.style.display="inline";
-                    mybtn2.innerHTML="Read less";
+                    mybtn2.innerHTML="Read less";                    mybtn2.style.display="none";
+
                 }
 
                 var dots7 = document.getElementById('dots7');
@@ -1049,7 +1055,8 @@
                 {
                     dots7.style.display="none";
                     moretext7.style.display="inline";
-                    mybtn2.innerHTML="Read less";
+                    mybtn2.innerHTML="Read less";                    mybtn2.style.display="none";
+
                 }
 
             }
@@ -1071,7 +1078,8 @@
                 {
                     dots8.style.display="none";
                     moretext8.style.display="inline";
-                    mybtn3.innerHTML="Read less";
+                    mybtn3.innerHTML="Read less";                    mybtn3.style.display="none";
+
                 }
 
                 var dots9 = document.getElementById('dots9');
@@ -1088,7 +1096,8 @@
                 {
                     dots9.style.display="none";
                     moretext9.style.display="inline";
-                    mybtn3.innerHTML="Read less";
+                    mybtn3.innerHTML="Read less";                    mybtn3.style.display="none";
+
                 }
 
                 var dots10 = document.getElementById('dots10');
@@ -1104,7 +1113,8 @@
                 {
                     dots10.style.display="none";
                     moretext10.style.display="inline";
-                    mybtn3.innerHTML="Read less";
+                    mybtn3.innerHTML="Read less";                    mybtn3.style.display="none";
+
                 }
 
             }
@@ -1126,7 +1136,8 @@
                 {
                     dots11.style.display="none";
                     moretext11.style.display="inline";
-                    mybtn4.innerHTML="Read less";
+                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
+
                 }
 
                 var dots12 = document.getElementById('dots12');
@@ -1143,7 +1154,8 @@
                 {
                     dots12.style.display="none";
                     moretext12.style.display="inline";
-                    mybtn4.innerHTML="Read less";
+                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
+
                 }
 
                 var dots13 = document.getElementById('dots13');
@@ -1159,7 +1171,8 @@
                 {
                     dots13.style.display="none";
                     moretext13.style.display="inline";
-                    mybtn4.innerHTML="Read less";
+                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
+
                 }
 
                 var dots14 = document.getElementById('dots14');
@@ -1175,7 +1188,8 @@
                 {
                     dots14.style.display="none";
                     moretext14.style.display="inline";
-                    mybtn4.innerHTML="Read less";
+                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
+
                 }
 
             }
@@ -1197,7 +1211,8 @@
                 {
                     dots15.style.display="none";
                     moretext15.style.display="inline";
-                    mybtn5.innerHTML="Read less";
+                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
+
                 }
 
                 var dots16 = document.getElementById('dots16');
@@ -1214,7 +1229,8 @@
                 {
                     dots16.style.display="none";
                     moretext16.style.display="inline";
-                    mybtn5.innerHTML="Read less";
+                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
+
                 }
 
                 var dots17 = document.getElementById('dots17');
@@ -1230,7 +1246,8 @@
                 {
                     dots17.style.display="none";
                     moretext17.style.display="inline";
-                    mybtn5.innerHTML="Read less";
+                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
+
                 }
 
                 var dots18 = document.getElementById('dots18');
@@ -1246,7 +1263,8 @@
                 {
                     dots18.style.display="none";
                     moretext18.style.display="inline";
-                    mybtn5.innerHTML="Read less";
+                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
+
                 }
 
             }
@@ -1268,7 +1286,8 @@
                 {
                     dots19.style.display="none";
                     moretext19.style.display="inline";
-                    mybtn6.innerHTML="Read less";
+                    mybtn6.innerHTML="Read less";                    mybtn6.style.display="none";
+
                 }
 
                 var dots20 = document.getElementById('dots20');
@@ -1285,7 +1304,8 @@
                 {
                     dots20.style.display="none";
                     moretext20.style.display="inline";
-                    mybtn6.innerHTML="Read less";
+                    mybtn6.innerHTML="Read less";                    mybtn6.style.display="none";
+
                 }
             }
         </script>
@@ -1306,7 +1326,8 @@
                 {
                     dots21.style.display="none";
                     moretext21.style.display="inline";
-                    mybtn7.innerHTML="Read less";
+                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
+
                 }
 
                 var dots22 = document.getElementById('dots22');
@@ -1323,7 +1344,8 @@
                 {
                     dots22.style.display="none";
                     moretext22.style.display="inline";
-                    mybtn7.innerHTML="Read less";
+                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
+
                 }
 
                 var dots23 = document.getElementById('dots23');
@@ -1340,7 +1362,8 @@
                 {
                     dots23.style.display="none";
                     moretext23.style.display="inline";
-                    mybtn7.innerHTML="Read less";
+                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
+
                 }
 
                 var dots24 = document.getElementById('dots24');
@@ -1357,7 +1380,8 @@
                 {
                     dots24.style.display="none";
                     moretext24.style.display="inline";
-                    mybtn7.innerHTML="Read less";
+                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
+
                 }
             }
         </script>
@@ -1378,7 +1402,8 @@
                 {
                     dots25.style.display="none";
                     moretext25.style.display="inline";
-                    mybtn8.innerHTML="Read less";
+                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
+
                 }
 
                 var dots26 = document.getElementById('dots26');
@@ -1395,7 +1420,8 @@
                 {
                     dots26.style.display="none";
                     moretext26.style.display="inline";
-                    mybtn8.innerHTML="Read less";
+                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
+
                 }
 
                 var dots27 = document.getElementById('dots27');
@@ -1412,7 +1438,8 @@
                 {
                     dots27.style.display="none";
                     moretext27.style.display="inline";
-                    mybtn8.innerHTML="Read less";
+                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
+
                 }
 
                 var dots28 = document.getElementById('dots28');
@@ -1429,7 +1456,8 @@
                 {
                     dots28.style.display="none";
                     moretext28.style.display="inline";
-                    mybtn8.innerHTML="Read less";
+                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
+
                 }
             }
         </script>

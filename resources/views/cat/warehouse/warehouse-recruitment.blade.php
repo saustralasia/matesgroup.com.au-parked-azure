@@ -6,13 +6,13 @@
 
 @section('content')
     <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-maintenace.jpg')}}');">
-        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
+        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Hire for Your Warehousing Operation in Australia">
     </header>
 
     <div class="container">
         <div class="row mt-6">
-        <div class="col-md-8">
-            <h1 class="display-4 mb-2 blog-post-title border-bottom">Hire for Your Warehousing Operation in Australia</h1>
+            <div class="col-md-8">
+                <h1 class="display-4 mb-2 blog-post-title border-bottom">Hire for Your Warehousing Operation in Australia</h1>
             </div>
             <div class="col-md-4">
             </div>

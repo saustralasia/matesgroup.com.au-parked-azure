@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <h2><strong>Searching for a construction recruitment agency?</strong></h2>
+                    <h2>Searching for a construction recruitment agency?</h2>
                     <p>
                         We are a construction & Civil engineering
                         recruitment company that provides our staff

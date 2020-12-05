@@ -64,49 +64,6 @@
 {{--<script src="{{asset('js/wow.min.js') }}"></script>--}}
 {{--<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>--}}
 
-
-<script>
-
-    // Owl Carousel Settings:
-    let partnersCarousel = $('.partners-carousel');
-    partnersCarousel.owlCarousel({
-        loop:true,
-        //default settings:
-        autoplay:true,
-        autoplayTimeout:2000,
-        autoplayHoverPause:true,
-
-        // autoWidth:true,
-        center: true,
-        items:2,
-        margin:10,
-        autoWidth:true,
-        nav:false,
-        // dots:false,
-        responsive:{
-            0:{
-                items:1
-            },
-            600:{
-                items:3
-            },
-            1000:{
-                items:5
-            }
-        }
-    });
-    partnersCarousel.on('mousewheel', '.owl-stage', function (e) {
-        if (e.deltaY>0) {
-            partnersCarousel.trigger('next.owl');
-        } else {
-            partnersCarousel.trigger('prev.owl');
-        }
-        e.preventDefault();
-    });
-
-</script>
-
-
 {{--    <script type="text/javascript">--}}
 
 
