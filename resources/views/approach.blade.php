@@ -11,9 +11,9 @@
 </header>
 
 <div class="container">
-    <div class="row">
+    <div class="row mt-6">
         <div class="col-md-8">
-            <h1 class="display-4 mb-4 blog-post-title border-bottom">Our Approach</h1>
+            <h1 class="display-4 mb-2 blog-post-title border-bottom">Our Approach</h1>
         </div>
         <div class="col-md-4">
         </div>
@@ -34,11 +34,7 @@
         </div>
 
         <aside class="col-md-4 blog-aside">
-            <div class="mb-4 blog-aside-card">
-                <div class="blog-aside-card-body">
-                    @include('layouts.asides.aboutus')
-                </div>
-            </div>
+            @include('layouts.asides.aboutus')
         </aside>
 
     </div>
