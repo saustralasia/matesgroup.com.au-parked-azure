@@ -18,7 +18,7 @@
                 <li><a href="/mates-workforce">Workforce</a></li>
                 {{--        <li><a href="/career">Career</a></li>--}}
                 <li><a href="/why-choose">Why Choose us</a></li>
-                {{--        <li><a href="/contact">Contact Us</a></li>--}}
+                        <li><a href="/blog/benefits-of-contract-work">Blogs</a></li>
             </ul>
         </div>
         <div class="col-md-3">

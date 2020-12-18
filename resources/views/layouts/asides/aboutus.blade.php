@@ -1,8 +1,8 @@
 
 <div class="mb-4 blog-aside-card">
     <div class="blog-aside-card-body">
-        <h4 class="blog-aside-title mb-2">About us</h4>
-        <ol class="list-unstyled">
+        <h4 class="blog-aside-title mb-2">About Us</h4>
+        <ul class="list-unstyled">
             {{--        <li><a href="/">Home</a></li>--}}
             <li><a href="/approach">Our Approach</a></li>
             <li><a href="/vision">Our Vision</a></li>
@@ -18,6 +18,6 @@
             {{--        <li><a href="/career">Career</a></li>--}}
             <li><a href="/why-choose">Why Choose us</a></li>
             {{--        <li><a href="/contact">Contact Us</a></li>--}}
-        </ol>
+        </ul>
     </div>
 </div>

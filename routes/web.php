@@ -40,6 +40,7 @@ Route::get('/why-choose',       function () { return view('why-choose'); });
 Route::get('/mates-workforce',        function () { return view('mates-workforce'); });
 
 
+
 //.............>>>Category MG AGRICULTURE STAFF<<<..................
 Route::get('/agriculture-recruitment',              function () { return view('cat/agriculture/agriculture-recruitment'); });
 
@@ -86,6 +87,16 @@ Route::get('/recruitment-sunshine-coast',                     function () { retu
 Route::get('/temporary-recruitment',                    function () { return view('cat/recruitment/temporary-recruitment'); });
 
 
+//.............>>>Category BLOG <<<..................
+Route::get('/blog/benefits-of-contract-work',               function () { return view('cat/blog/benefits-of-contract-work'); });
+Route::get('/blog/how-covid-19-will-reshape-the-future-of-recruitment',              function () { return view('cat/blog/how-covid-19-will-reshape-the-future-of-recruitment'); });
+Route::get('/blog/how-to-get-a-new-job-quickly',            function () { return view('cat/blog/how-to-get-a-new-job-quickly'); });
+Route::get('/blog/how-to-negotiate-the-salary-you-want',    function () { return view('cat/blog/how-to-negotiate-the-salary-you-want'); });
+Route::get('/blog/how-to-prepare-for-a-job-interview',      function () { return view('cat/blog/how-to-prepare-for-a-job-interview'); });
+Route::get('/blog/qualities-of-an-effective-leader',        function () { return view('cat/blog/qualities-of-an-effective-leader'); });
+Route::get('/blog/resume-writing-tips',                     function () { return view('cat/blog/resume-writing-tips'); });
+Route::get('/blog/why-upskilling-is-important',             function () { return view('cat/blog/why-upskilling-is-important'); });
+Route::get('/blog/workplace-mental-health-strategy',        function () { return view('cat/blog/workplace-mental-health-strategy'); });
 
 
 
