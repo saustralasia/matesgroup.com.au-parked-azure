@@ -1,6 +1,6 @@
 <div class="mb-4 blog-aside-card">
     <div class="blog-aside-card-body">
-        <h4 class="blog-aside-title mb-2">Office Staff</h4>
+        <h4 class="blog-aside-title mb-2 font-italic">Office Staff</h4>
         <ul class="list-unstyled">
             <li><a href="/office-support-recruitment">Office Support Recruitment</a></li>
             <li><a href="/executive-recruitment">Executive Recruitment</a></li>

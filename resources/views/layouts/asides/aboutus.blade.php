@@ -1,7 +1,7 @@
 
 <div class="mb-4 blog-aside-card">
     <div class="blog-aside-card-body">
-        <h4 class="blog-aside-title mb-2">About Us</h4>
+        <h4 class="blog-aside-title mb-2 font-italic">About Us</h4>
         <ul class="list-unstyled">
             {{--        <li><a href="/">Home</a></li>--}}
             <li><a href="/approach">Our Approach</a></li>

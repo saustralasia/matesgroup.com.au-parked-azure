@@ -42,16 +42,16 @@ Route::get('/mates-workforce',        function () { return view('mates-workforce
 
 
 //.............>>>Category MG AGRICULTURE STAFF<<<..................
-Route::get('/agriculture-recruitment',              function () { return view('cat/agriculture/agriculture-recruitment'); });
+Route::get('/agriculture-recruitment',                  function () { return view('cat/agriculture/agriculture-recruitment'); });
 
 //.............>>>Category MG CONSTRUCTION STAFF<<<..................
-Route::get('/construction-recruitment',              function () { return view('cat/construction/construction-recruitment'); });
+Route::get('/construction-recruitment',                 function () { return view('cat/construction/construction-recruitment'); });
 
 //.............>>>Category MG ENGINEERING STAFF<<<..................
-Route::get('/engineering-recruitment',              function () { return view('cat/engineering/engineering-recruitment'); });
+Route::get('/engineering-recruitment',                  function () { return view('cat/engineering/engineering-recruitment'); });
 
 //.............>>>Category MG MAINTENANCE STAFF<<<..................
-Route::get('/maintenance-recruitment',              function () { return view('cat/maintenance/maintenance-recruitment'); });
+Route::get('/maintenance-recruitment',                  function () { return view('cat/maintenance/maintenance-recruitment'); });
 
 
 //.............>>>Category MG OFFICE STAFF<<<..................
@@ -80,15 +80,16 @@ Route::get('/warehouse-recruitment',                    function () { return vie
 //.............>>>Category RECRUITMENT<<<..................
 Route::get('/casual-labour-hire',                       function () { return view('cat/recruitment/casual-labour-hire'); });
 Route::get('/international-recruitment',                function () { return view('cat/recruitment/international-recruitment'); });
-Route::get('/recruitment-darwin',                function () { return view('cat/recruitment/recruitment-darwin'); });
+Route::get('/recruitment-darwin',                       function () { return view('cat/recruitment/recruitment-darwin'); });
 Route::get('/recruitment-gold-coast',                   function () { return view('cat/recruitment/recruitment-gold-coast'); });
-Route::get('/recruitment-parramatta',                    function () { return view('cat/recruitment/recruitment-parramatta'); });
-Route::get('/recruitment-sunshine-coast',                     function () { return view('cat/recruitment/recruitment-sunshine-coast'); });
+Route::get('/recruitment-parramatta',                   function () { return view('cat/recruitment/recruitment-parramatta'); });
+Route::get('/recruitment-sunshine-coast',               function () { return view('cat/recruitment/recruitment-sunshine-coast'); });
 Route::get('/temporary-recruitment',                    function () { return view('cat/recruitment/temporary-recruitment'); });
 
 
 //.............>>>Category BLOG <<<..................
 Route::get('/blog/benefits-of-contract-work',               function () { return view('cat/blog/benefits-of-contract-work'); });
+Route::get('/blog/career-development-tips',                 function () { return view('cat/blog/career-development-tips'); });
 Route::get('/blog/how-covid-19-will-reshape-the-future-of-recruitment',              function () { return view('cat/blog/how-covid-19-will-reshape-the-future-of-recruitment'); });
 Route::get('/blog/how-to-get-a-new-job-quickly',            function () { return view('cat/blog/how-to-get-a-new-job-quickly'); });
 Route::get('/blog/how-to-negotiate-the-salary-you-want',    function () { return view('cat/blog/how-to-negotiate-the-salary-you-want'); });
