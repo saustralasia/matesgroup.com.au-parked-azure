@@ -1,7 +1,7 @@
 @extends('layouts.page')
 
-@section('title', '6 Disruptive Technologies Affects Business Today | Mates Group')
-@section('meta_description', 'Innovations have always affected corporations. In this blog post, you will learn how disruptive technologies impact our business today.')
+@section('title', 'How to Write a Job Advert that Works | Mates Group')
+@section('meta_description', 'In this article, you will learn how to write a great job ad quickly.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row mt-6">
             <div class="col-md-8">
-                <h1 class="display-4 mb-2 blog-post-title">Impact of Disruptive Technology on Businesses</h1>
+                <h1 class="display-4 mb-2 blog-post-title">How to Write a Job Description That Attracts Applicants</h1>
                 <p>January 13, 2021 by <a href="/contact-us">Mark</a></p>
                 <hr>
             </div>
