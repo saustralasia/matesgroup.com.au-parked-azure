@@ -1,6 +1,6 @@
 @extends('layouts.page')
 
-@section('title', 'A Step by Step Guide to Starting Your Own Business | Mates Group')
+@section('title', 'How to Write a Job Advert that Works | Mates Group')
 @section('meta_description', 'Setting up your own business is inspiring but also challenging if you do not know how to do it. In this article, you will know how to start your own business effectively.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
