@@ -1,6 +1,6 @@
 @extends('layouts.page')
 
-@section('title', 'How to Write a Job Advert that Works | Mates Group')
+@section('title', '6 Disruptive Technologies Affects Business Today | Mates Group')
 @section('meta_description', 'In this article, you will learn how to write a great job ad quickly.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
