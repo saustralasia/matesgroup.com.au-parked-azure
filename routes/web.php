@@ -98,6 +98,8 @@ Route::get('/blog/qualities-of-an-effective-leader',        function () { return
 Route::get('/blog/resume-writing-tips',                     function () { return view('cat/blog/resume-writing-tips'); });
 Route::get('/blog/why-upskilling-is-important',             function () { return view('cat/blog/why-upskilling-is-important'); });
 Route::get('/blog/workplace-mental-health-strategy',        function () { return view('cat/blog/workplace-mental-health-strategy'); });
+Route::get('/blog/how-disruptive-technology-affects-business',                       function () { return view('cat/blog/how-disruptive-technology-affects-business'); });
+Route::get('/blog/how-to-effectively-review-resumes',       function () { return view('cat/blog/how-to-effectively-review-resumes'); });
 
 
 
