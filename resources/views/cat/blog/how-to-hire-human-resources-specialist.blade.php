@@ -24,6 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/human-resources.png" height="150px", width="250px">
                     <p>If you see that your start-up business is growing well, your feelings will be priceless. But to continue this growth, you have to ensure that your workers are expert enough to engage in the workplace. This duty could be something that can be shared at the initial stages of a firm or an organization by founders, executives, office managers, or HR generalists. But soon, it becomes apparent that you need one individual, someone high ranking who can put the right controls in place and help to keep up the momentum of your business. You need to have in short, an HR manager.</p>
 
                     <h3>How do you know when it's time for an HR manager to be rented? </h3>

@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/money.jpg" height="150px", width="250px">
+
                     <p>People frequently ask us for a list of steps to start their own business that they can use. There are so many factors of business that varies from company to company.</p>
                     <p>There are things, however, that any organization needs to do to get off the ground. So to start a new business, here are some main steps you need to take. Mind that, just be versatile.</p>
                     <p>Every organization is unique and, as you go, you will need to modify this list as yours. Here are some tips on how to start your own business:</p>

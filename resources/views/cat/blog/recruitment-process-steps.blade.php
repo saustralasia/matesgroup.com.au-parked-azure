@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/word-cloud.png" height="150px", width="250px">
+
                     <h3>Are You Searching for Steps in The Recruitment Process? </h3>
                     <p>A smart recruitment process is a very important thing for an organization. Without an appropriate amount of planning done it is not possible to find out a good applicant.</p>
                     <p>There might occur some unexpected causes influencing this outcome if you find it difficult to recruit top employees. For example, it can take you too long, and during a slow recruiting process, job seekers who are searching for employment do not wait around. Or you might not have asked the proper job interview questions, or about their finished courses, degree, certification to discover the suitability of an applicant for the workplace. Actually, enrolment is not an easy process. This processing is one of the tough jobs. </p>

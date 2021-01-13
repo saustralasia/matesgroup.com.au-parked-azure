@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/word-cloud.png" height="150px", width="250px">
+
                     <p>If you are an HR manager you must have experience in sorting out hundreds and thousands of resumes in a short time. So, the question is how can you boost up the process and sort out the resume efficiently. Here is some guidance to sort out resumes. Firstly, you have to determine what skills are mandatory and what skills are non-mandatory.</p>
 
                     <h3>Mandatory Skills </h3>

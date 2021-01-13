@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/interview-image.png" height="150px", width="250px">
+
                     <h3>Interview Questions for Employers</h3>
                     <p>Whenever the candidates are preparing for their job examination, the HR manager should prepare interview questions to judge the strong applicants. A crucial part of the recruiting process is creating a good set of interview questions for employers, helping to find out key information about the strengths, limitations, and personality of an applicant.</p>
                     <p>Our collection of suggested employer interview questions will help you optimize the value of the conference and narrow down the most appropriate applicant for the position on offer. </p>

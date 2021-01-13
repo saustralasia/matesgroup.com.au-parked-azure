@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row mt-6">
             <div class="col-md-8">
-                <h1 class="display-4 mb-2 blog-post-title">How to Write a Job Description That Attracts Applicants</h1>
+                <h1 class="display-4 mb-2 blog-post-title">Impact of Disruptive Technology on Businesses</h1>
                 <p>January 13, 2021 by <a href="/contact-us">Mark</a></p>
                 <hr>
             </div>
@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/network.png" height="150px", width="250px">
+
                     <p>Innovations have always affected corporations. It had a huge influence when the internet first arrived on the market. Businesses were immediately able to connect around the world with staff and consumers. Then came the mobile Internet and the rise of the cloud, introducing their own improvements. Effective business owners have adapted to the alterations created by new technology. </p>
                     <h3>Some disruptive technologies are impacting your business. For example:</h3>
                     <dl class="row">

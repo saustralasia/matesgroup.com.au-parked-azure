@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/looking-for-a-job.jpg" height="150px", width="250px">
+
                     <h3>How to Write a Job Ad?</h3>
                     <p>Are you currently hiring a new member of staff or still in the early stages of preparing for a new employee and thinking where to start? You definitely have to make the job description as efficient and effective in order to accelerate and make the recruiting process more efficient. </p>
                     <p>For any hiring manager, accurate and well-written work criteria are an absolute must in today's dynamic job market. It can be the difference between only recruiting adequate candidates and seeking the next star performer (which eventually slows down the hiring process). </p>
