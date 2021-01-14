@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/temp-recruitment1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/temp-recruitment2.jpg" height="150px", width="250px">
                     <h2>Temporary Recruitment Agency Australia</h2>
                     <p>Are you looking for a pain-free and quick solution for part-time staff enrolment for your company?</p>
                     <p>Hiring workers for a short time is a time-consuming process. For a temporary enrolment, it’s not a great way to enlist employees interviewing one-by-one. This is a lengthy time and money consuming process. Mates Group offers you all kinds of support you need to make this process easy.</p>

@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-maintenace.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/transport-recruitment2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Hire for Your Warehousing Operation in Australia">
     </header>
 
@@ -24,6 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/transport-recruitment1.jpg" height="150px", width="250px">
                     <p>Warehouse staff plays a big role in Australia’s economy. Many companies in Sydney and Melbourne want staff for their warehouses. We, the Mates Group company, recruit warehouse labour and provide the selected candidates to our respected client companies.</p>
 
                     <p>We are a provider of strong and excellent storehouse labours in Brisbane, Perth, Parramatta, NSW, and Adelaide. Many ware house companies want to work with efficient labours for their store. We know the challenges and risks faced by the companies when it comes to the question of the labour recruitment process. In this respect, you can depend on us without any doubt.</p>

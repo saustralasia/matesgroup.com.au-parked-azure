@@ -24,6 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/vision2.jpg" height="150px", width="250px">
                     <p>Our vision is to put Mates Group on the map as one of the leading organisations. We will engage in sustainable practices and anticipate the needs of our clients, while still maintaining quality services. <br>
                         We have an experienced and diverse team who follow current market trends and employment requirements for all industries, so we can recruit the best candidates. <br>
                         The management team has accumulated a wealth of industry experience and expertise. The depth of experience of our management team covers all facets of recruitment and short-term hire. <br>

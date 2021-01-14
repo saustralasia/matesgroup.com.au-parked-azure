@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-<header class="py-5 bg-image-full" style="background-image: url('{{asset('images/approach.png')}}');">
+<header class="py-5 bg-image-full" style="background-image: url('{{asset('images/approach3.jpg')}}');">
     {{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}
     <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
 </header>
@@ -25,6 +25,7 @@
 
         <div class="col-md-8 blog-main text-justify">
             <div class="blog-post">
+                <img src="/images/approach2.jpg" height="150px", width="250px">
                 <p>Our approach is to conduct our business in an honest and ethical manner and respecting all.</p>
                 <p><strong>Producing enduring connections</strong><br>
                     We are focused on creating connections that last. Our approach is to be an association that individuals are pleased to work for, has the trust of their customers and the networks they serve.</p>
