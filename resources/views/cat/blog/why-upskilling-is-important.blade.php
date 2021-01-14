@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/why-upskilling-is-important1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/why-upskilling-is-important2.jpg" height="150px", width="250px">
+
                     <p>The way of our business has been changed for modern technology. Hence, it’s being needed to develop new skills for the employees. Training programs provided to the employees are no longer simple. They must be moderated. An employee needs to show himself/herself as an up-to-date skilled with modern technologies. Therefore, an employee always needs to be updated with modern trends and technologies. Such as the clerk’s jobs nowadays fully computer-based. Once, it wasn’t. The jobs are upgrading day-by-day. That’s why the wage and salary range also have been changed.</p>
                     <p>We are here to discuss upskilling and its needs in the recent era.</p>
                     <h2>What is Upskilling?</h2>

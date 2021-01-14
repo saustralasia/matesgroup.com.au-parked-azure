@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/resume-writing-tips1.png')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,8 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+                    <img src="/images/resume-writing-tips2.jpg" height="250px", width="170px">
+
                     <h2>Resume Writing Tips Australia:</h2>
                     <p>If you are a job applicant, your curriculum vitae or resume is a very important thing to make impressed your employer. Get your resume up-to-date focusing on your skills and experiences. A good resume summarises your ability to start a new job.</p>
                     <p>Many candidates search for how to write an Australian style resume. There are some tricks and tips for writing a resume for a job in Australia. Here’s what you need to know to write a CV before applying for a job.</p>
