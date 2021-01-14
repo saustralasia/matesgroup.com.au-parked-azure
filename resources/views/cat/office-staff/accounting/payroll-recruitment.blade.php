@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/payroll-recruitment1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/payroll-recruitment2.jpg" height="150px", width="250px">
                     <h2>Need Payroll Recruitment Agency in Sydney or Melbourne???</h2>
                     <p>Mates Group is a famous payroll recruitment agency because we understand the payroll sector very deeply. We always try to follow unique systems to recruit our employees.</p>
 

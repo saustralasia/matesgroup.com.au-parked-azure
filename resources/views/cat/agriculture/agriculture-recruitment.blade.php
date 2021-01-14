@@ -27,6 +27,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/agriculture-recruitment1.jpg" height="150px", width="250px">
                     <p>Agriculture is a part and parcel of Australia’s economy.
                         Once upon a time, agriculture was the main key to the development of
                         human civilisation. Agribusiness is a very profitable business in

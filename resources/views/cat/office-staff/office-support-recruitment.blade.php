@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/office-support-recruitment1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/office-support-recruitment2.jpg" height="150px", width="250px">
                     <p>
                         We do office staff recruitment for Sydney,
                         Melbourne, New South Wales, and Victoria.
