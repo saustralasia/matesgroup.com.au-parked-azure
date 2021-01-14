@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/ourteam.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/workforce1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Mates Workforce">
     </header>
 
@@ -24,6 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+                    <img src="/images/workforce2.jpg" height="150px", width="250px">
                     <p><strong>Mates Group</strong> is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers.</p>
                     <h2><strong>Office Support</strong></h2>
                     <p><strong>Mates Group</strong> office support provides specialised office support staff Australia wide. The main contribution of our company is to have the right kind of staff who help to achieve goals in business and reach the required targets.</p>

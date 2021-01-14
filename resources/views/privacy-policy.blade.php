@@ -25,7 +25,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-
+                    <img src="/images/security.jpg" height="150px", width="250px">
                     <h2>"Privacy is essential to us!" </h2>
 {{--                    <p>Competitors are the center of our enrollment business and we guarantee they are treated with the most abnormal amount of privacy.</p>--}}
                     <p>Competitors can be guaranteed that when they connect with our assistance to assemble their profession, security is the best need. At times, individual or delicate data can enable us to help with verifying a chance; anyway, we won't unveil any close to home data to an outsider without earlier ascent.</p>
