@@ -25,7 +25,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/career2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/career2.jpg" height="150px", width="250px">
                     <p>We wanted our candidates to get a sense of who we are, no matter how they were interacting with us.
 
                         Mates Group is a great platform that enables you to really communicate our brand clearly and directly to potential candidates.</p>

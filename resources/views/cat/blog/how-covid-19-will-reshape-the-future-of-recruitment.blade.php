@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/covid-reshape2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/covid-reshape2.jpg" height="150px", width="250px">
                     <p>Only a few months ago, the effect of the coronavirus changed the future of enrolment in ways almost unimagined. Social distancing has forced organizations to cancel in-person interview sessions and replace them with video calling, and as more individuals work from home, flexibility has become the norm today.</p>
                     <p>For the cause of severe acute respiratory syndrome coronavirus 2, the normal life of the people has been affected. As a result, people are suffering from multiple organ dysfunction syndromes, infectious disease, stroke, fever, and acute respiratory distress syndrome, etc.</p>
                     <p>And while the virus may be temporary, it will have anything beyond effects on hiring. So what are the key ways in which employment has been affected by these transformations? How should business leaders organize for this new area of employment? </p>

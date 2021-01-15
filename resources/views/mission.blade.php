@@ -25,7 +25,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/hand-shake.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/hand-shake.jpg" height="150px", width="250px">
                     <p>Our mission is to assist our clients to grow their business by providing the right labour solutions. No challenge is too great and we believe we provide the right solutions due to our experienced team and access to the global market. Our service should leave clients stress-free about the recruitment process giving them more time to focus on other important commitments.</p>
                 </div>
             </div>

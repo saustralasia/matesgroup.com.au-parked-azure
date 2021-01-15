@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/career-development-tips1.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/career-development-tips1.jpg" height="150px", width="250px">
                     <p>Vocation arranging isn't something that you do once and afterward you fail to remember. All in all, how would you guarantee your abilities to stay aware of the most recent advancements, patterns, and guidelines? This is a common question. </p>
                     <h2>Following are eight key professional improvement tips to assist you to show you the right track:</h2>
                     <dl class="row">

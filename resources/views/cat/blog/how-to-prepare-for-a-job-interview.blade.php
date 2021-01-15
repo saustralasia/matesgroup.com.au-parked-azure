@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/how-to-prepare-for-a-job-interview2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/how-to-prepare-for-a-job-interview2.jpg" height="150px", width="250px">
 
                     <h2>Job Interview Preparation and Tips:</h2>
                     <p>A job interview is the first and foremost step for a candidate’s job search journey. This is the opportunity to show your ability to your dream job company.</p>

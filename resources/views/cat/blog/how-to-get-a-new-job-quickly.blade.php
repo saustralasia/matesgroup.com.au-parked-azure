@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/how-to-get-a-new-job-quickly2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/how-to-get-a-new-job-quickly2.jpg" height="150px", width="250px">
                     <p>This is true that good things take time to come but whenever it comes to the job sector you need to be hurry to get a job instantly. Whenever you need to change your job you obviously have a hurry. While job searching is taking too long you need to have the support of job agencies. They will advise you on how to get a new job quickly. Mates Group is a job offering agency in Australia which offers advice for job seekers.</p>
                     <h2>Why Choose Mates Group? </h2>
                     <p>We are providing services to many leading organizations in Australia. We advise our staff and offer them training. We have a specialist team who consults with our employees and try to know what kinds of abilities they have. Then we provide them with suitable companies. We realize the importance of getting the perfect person to solve challenges.</p>

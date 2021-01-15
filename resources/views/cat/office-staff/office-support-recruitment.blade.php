@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/office-support-recruitment2.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/office-support-recruitment2.jpg" height="150px", width="250px">
                     <p>
                         We do office staff recruitment for Sydney,
                         Melbourne, New South Wales, and Victoria.

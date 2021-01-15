@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/temp-recruitment2.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/temp-recruitment2.jpg" height="150px", width="250px">
                     <h2>Temporary Recruitment Agency Australia</h2>
                     <p>Are you looking for a pain-free and quick solution for part-time staff enrolment for your company?</p>
                     <p>Hiring workers for a short time is a time-consuming process. For a temporary enrolment, it’s not a great way to enlist employees interviewing one-by-one. This is a lengthy time and money consuming process. Mates Group offers you all kinds of support you need to make this process easy.</p>

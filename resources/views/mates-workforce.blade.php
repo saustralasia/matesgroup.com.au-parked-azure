@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/workforce2.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/workforce2.jpg" height="150px", width="250px">
                     <p><strong>Mates Group</strong> is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable and experienced workers.</p>
                     <h2><strong>Office Support</strong></h2>
                     <p><strong>Mates Group</strong> office support provides specialised office support staff Australia wide. The main contribution of our company is to have the right kind of staff who help to achieve goals in business and reach the required targets.</p>

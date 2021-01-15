@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/construction-recruitment.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/construction-recruitment.jpg" height="150px", width="250px">
                     <h2>Searching for a construction recruitment agency?</h2>
                     <p>
                         We are a construction & Civil engineering

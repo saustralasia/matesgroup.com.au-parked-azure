@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/benefits-of-contract-work2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/benefits-of-contract-work2.jpg" height="150px", width="250px">
                     <p>Nowadays contract jobs are becoming popular. For the cause of pandemic, it’s becoming more popular and impacts are many.</p>
                     <p>Many companies offer a contractual job in the busy season, or to cover maternity leave, or for some other issues. This is more flexible both for the contractor company and the employees.</p>
                     <h2>The benefits of contract work are like the following:</h2>

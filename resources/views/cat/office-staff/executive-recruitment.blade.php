@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/executive-recruitment1.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/executive-recruitment1.jpg" height="150px", width="250px">
                     <h2>Are You Seeking for Executive Recruitment in Sydney or Brisbane?</h2>
                     <p>Mates Group is a leading executive recruitment agency in Australia. Finding an executive for your company is an important decision because, with a good executive person, your organization can go far away. We, Mates Group, will help you to find the right executive search person for your business administration in Sydney, Brisbane, Melbourne, Perth, and Adelaide.</p>
 

@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/qualities-of-an-effective-leader2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/qualities-of-an-effective-leader2.jpg" height="150px", width="250px">
 
                     <p>Great leaders demonstrate courage, enthusiasm, trust, dedication, and ambition in addition to providing direction, motivation, and guidance. They cultivate their people's strengths and abilities and development teams dedicated to achieving shared objectives. The most influential leaders have the following attributes in common. </p>
                     <h3>1. Honesty and Integrity</h3>

@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/terms-and-conditions2.jpg" height="150px", width="250px">
+                    <img class="img-fluid, rounded" src="/images/terms-and-conditions2.jpg" height="150px", width="250px">
                     <ol class="terms">
                         <li>All missions acknowledged by Mates Group (hereinafter, "The Company") will be administered by the present General Terms and Conditions. Except if The Company explicitly acknowledges the Client's conditions recorded as a hard copy, the present terms and conditions supplant every single other term and conditions in case of a contention. </li>
 

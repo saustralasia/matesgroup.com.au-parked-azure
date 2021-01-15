@@ -24,7 +24,7 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img src="/images/maintenance-recruitment2.jpg" height="150px", width="250px"><br>
+                    <img class="img-fluid, rounded" src="/images/maintenance-recruitment2.jpg" height="150px", width="250px"><br>
                     <p>
                         Maintenance managers and engineers are like the
                         DNA of a project. Without DNA a cell is considered dead.

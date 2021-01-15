@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img src="/images/workplace-mental-health-startegy2.jpg" height="150px", width="250px">
+                    <img class="img-fluid" src="/images/workplace-mental-health-startegy2.jpg" height="150px", width="250px">
 
                     <h2>Workplace Mental Health Strategy</h2>
                     <p>According to the world health organization “Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.”</p>
