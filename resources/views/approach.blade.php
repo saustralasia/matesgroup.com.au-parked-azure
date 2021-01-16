@@ -25,7 +25,10 @@
 
         <div class="col-md-8 blog-main text-justify">
             <div class="blog-post">
-                <img class="img-fluid, rounded" src="/images/approach2.jpg" height="150px", width="250px">
+
+                <figure class="figure">
+                    <img src="/images/approach2.jpg" class="figure-img img-fluid rounded" alt="Our Approach">
+                </figure>
                 <p>Our approach is to conduct our business in an honest and ethical manner and respecting all.</p>
                 <p><strong>Producing enduring connections</strong><br>
                     We are focused on creating connections that last. Our approach is to be an association that individuals are pleased to work for, has the trust of their customers and the networks they serve.</p>

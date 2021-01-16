@@ -25,7 +25,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/mates-global2.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/mates-global2.jpg" class="figure-img img-fluid rounded" alt="Staff Recruitment Service and Labour Hire Australia">
+                    </figure>
                     <h2><strong>Ship and Submarine Building workers</strong></h2>
                     <p>Mates provides ship and submarine building facilities with the assistance of highly qualified employees who specialise in the field.</p>
                     <p><strong>Why choose us?<br/></strong>Our aim is to provide customers with outstanding value through quality ship construction and repair services that are delivered on schedule while setting the industry standard for operational reliability and maintainability. We have qualified staff who finish the job to perfection.</p>

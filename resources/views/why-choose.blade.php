@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/why-choose.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/why-choose.jpg" class="figure-img img-fluid rounded" alt="Why Choose Us">
+                    </figure>
                     <p>We’re confident that we are the only international business support & services company that provides following benefits to your company.</p>
 
                     <ul class="choose">

@@ -37,7 +37,10 @@
 
         <div class="col-md-8 blog-main text-justify">
             <div class="blog-post">
-                <img class="img-fluid, rounded" src="/images/commitment2.jpg" height="150px", width="250px">
+
+                <figure class="figure">
+                    <img src="/images/commitment2.jpg" class="figure-img img-fluid rounded" alt="Our Commitment">
+                </figure>
                 <p>Our commitment is to provide candidates which meets out client requirements. “We deliver what we promise”, we dedicate ourselves to make sure our valued clients are successful and their requirements are met.</p>
                 <p><strong>We are committed to:</strong></p>
                 <ul>

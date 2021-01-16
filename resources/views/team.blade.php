@@ -25,7 +25,10 @@
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
                     <h2>Mates Group: Get Quality Labour Hire Service </h2>
-                    <img class="img-fluid, rounded" src="{{asset('images/team.jpg')}}" class="rounded img-fluid" alt="">
+
+                    <figure class="figure">
+                        <img src="/images/team.jpg" class="figure-img img-fluid rounded" alt="Best Company for Labour Hire Solutions Australia">
+                    </figure>
                     <p>Our team members are trained in their field. They have confidence in what they do and do so with no mistake. Our team at Mates Group ensure that our clients receive a comprehensive labour-hire service.</p>
                 </div>
             </div>

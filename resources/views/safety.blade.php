@@ -25,7 +25,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/safety-2.png" height="250px", width="150px">
+
+                    <figure class="figure">
+                        <img src="/images/safety-2.png" class="figure-img img-fluid rounded" alt="Our Safety">
+                    </figure>
                     <p>Mates group focuses on preventing workplace injuries through providing workers with proper WHS inductions, ensuring workers wear correct PPE and creating a safe environment for employees to work in.</p>
                 </div>
             </div>
