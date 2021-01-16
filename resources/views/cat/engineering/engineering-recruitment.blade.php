@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/engineering-recruitment2.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/engineering-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Engineering Recruitment Agency in Sydney and Melbourne">
+                    </figure>
                     <h2>Are You Looking for an Engineering Recruitment Agency in Sydney & Melbourne?</h2>
                     <p>
                         From our very beginning, engineering recruitment has

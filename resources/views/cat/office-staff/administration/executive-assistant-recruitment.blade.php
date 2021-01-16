@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/executive-assistant2.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/executive-assistant2.jpg" class="figure-img img-fluid rounded" alt="Executive or Personal Assistant Recruitment Agency Sydney, Melbourne">
+                    </figure>
                     <blockquote class="blockquote">
                         <p class="mb-0">Are You Seeking an Executive/Personal Assistant Recruitment Agency in Sydney or Melbourne?</p>
                     </blockquote>

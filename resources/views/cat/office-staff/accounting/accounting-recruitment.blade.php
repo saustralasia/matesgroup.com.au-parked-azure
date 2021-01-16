@@ -27,8 +27,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/accouting-recruitment2.jpg" height="150px", width="250px"><br>
 
+                    <figure class="figure">
+                        <img src="/images/recruitment/accouting-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Accounting or Finance Recruitment Agency Sydney, Bookkeeper Melbourne">
+                    </figure>
                     <b>We Have a Specialist Team for Accounting Recruitment</b>
                     <p>As an accounting recruitment agency, we have a long term relationship with many organizations. Whether it’s time to the recruitment of finance, our experienced and expert team find out the top candidates with their strategic decisions. Our widespread community of finance professionals, our strong dedication to understanding our client’s needs ensures our success.</p>
 

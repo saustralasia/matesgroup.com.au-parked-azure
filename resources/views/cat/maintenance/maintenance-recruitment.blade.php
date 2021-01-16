@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/maintenance-recruitment2.jpg" height="150px", width="250px"><br>
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/maintenance-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Maintenance Engineering & Manager Recruitment Agency Australia">
+                    </figure>
                     <p>
                         Maintenance managers and engineers are like the
                         DNA of a project. Without DNA a cell is considered dead.

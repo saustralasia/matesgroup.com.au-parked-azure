@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/office-support-recruitment2.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/office-support-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Administration & Office Support Recruitment Agency Sydney">
+                    </figure>
                     <p>
                         We do office staff recruitment for Sydney,
                         Melbourne, New South Wales, and Victoria.

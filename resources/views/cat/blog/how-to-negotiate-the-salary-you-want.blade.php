@@ -24,7 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img class="img-fluid" src="/images/how-to-negotiate-the-salary-you-want2.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/how-to-negotiate-the-salary-you-want2.jpg" class="figure-img img-fluid rounded" alt="How to Negotiate Salary After a New Job Offer">
+                    </figure>
                     <h2>How to Negotiate Salary at Your New Job</h2>
                     <p>Negotiation of salary is an important topic. To have a successful negotiation, you must be realistic and clear of what your expected salary and what your skill is. Use the following tips to get help negotiating your new job salary:</p>
                     <h2>Identify Your Value in The Job Market </h2>

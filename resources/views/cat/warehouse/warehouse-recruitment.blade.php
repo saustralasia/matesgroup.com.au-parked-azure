@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/transport-recruitment1.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/transport-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Warehouse Recruitment Agency Melbourne">
+                    </figure>
                     <p>Warehouse staff plays a big role in Australia’s economy. Many companies in Sydney and Melbourne want staff for their warehouses. We, the Mates Group company, recruit warehouse labour and provide the selected candidates to our respected client companies.</p>
 
                     <p>We are a provider of strong and excellent storehouse labours in Brisbane, Perth, Parramatta, NSW, and Adelaide. Many ware house companies want to work with efficient labours for their store. We know the challenges and risks faced by the companies when it comes to the question of the labour recruitment process. In this respect, you can depend on us without any doubt.</p>

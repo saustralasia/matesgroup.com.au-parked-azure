@@ -24,7 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/construction-recruitment.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/construction-recruitment.jpg" class="figure-img img-fluid rounded" alt="Construction Labour Recruitment or Hire Agency Melbourne & Sydney">
+                    </figure>
                     <h2>Searching for a construction recruitment agency?</h2>
                     <p>
                         We are a construction & Civil engineering

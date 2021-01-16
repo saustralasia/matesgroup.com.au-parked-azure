@@ -27,7 +27,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
-                    <img class="img-fluid, rounded" src="/images/agriculture-recruitment1.jpg" height="150px", width="250px">
+
+                    <figure class="figure">
+                        <img src="/images/recruitment/agriculture-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Agriculture or Agribusiness Recruitment Agency, Rural Hire Australia">
+                    </figure>
                     <p>Agriculture is a part and parcel of Australia’s economy.
                         Once upon a time, agriculture was the main key to the development of
                         human civilisation. Agribusiness is a very profitable business in

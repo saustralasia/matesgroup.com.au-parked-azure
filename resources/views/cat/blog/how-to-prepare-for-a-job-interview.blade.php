@@ -24,8 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img class="img-fluid" src="/images/how-to-prepare-for-a-job-interview2.jpg" height="150px", width="250px">
 
+                    <figure class="figure">
+                        <img src="/images/blogs/how-to-prepare-for-a-job-interview2.jpg" class="figure-img img-fluid rounded" alt="The 8 Best Tips to Prepare for an Interview">
+                    </figure>
                     <h2>Job Interview Preparation and Tips:</h2>
                     <p>A job interview is the first and foremost step for a candidate’s job search journey. This is the opportunity to show your ability to your dream job company.</p>
                     <p>To be prepared for a job interview it is necessary to maintain the following steps:</p>

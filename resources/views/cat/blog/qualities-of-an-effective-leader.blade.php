@@ -24,8 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    <img class="img-fluid" src="/images/qualities-of-an-effective-leader2.jpg" height="150px", width="250px">
 
+                    <figure class="figure">
+                        <img src="/images/blogs/qualities-of-an-effective-leader2.jpg" class="figure-img img-fluid rounded" alt="Leadership Qualities That Makes You A Good Leader">
+                    </figure>
                     <p>Great leaders demonstrate courage, enthusiasm, trust, dedication, and ambition in addition to providing direction, motivation, and guidance. They cultivate their people's strengths and abilities and development teams dedicated to achieving shared objectives. The most influential leaders have the following attributes in common. </p>
                     <h3>1. Honesty and Integrity</h3>
                     <p>Two essential things are Honesty and integrity to become a good head or, leader. If you have a lack of these qualities, your followers will not be honest. A president of a country cannot show the right path to the nation if he/she does not have honesty. He/she must be a good lawmaker. Otherwise, the nation will not find their goal. Politicians must keep in their mind that they are the head of a nation.</p>

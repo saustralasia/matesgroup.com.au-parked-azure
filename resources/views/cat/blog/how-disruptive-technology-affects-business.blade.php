@@ -24,9 +24,9 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
-                    
+
                     <figure class="figure">
-                        <img src="/images/blogs/network.png" class="figure-img img-fluid rounded" alt="Impact of Disruptive Technology on Businesses.">
+                        <img src="/images/blogs/network.png" class="figure-img img-fluid rounded" alt="6 Disruptive Technologies Affects Business Today">
                     </figure>
 
                     <p>Innovations have always affected corporations. It had a huge influence when the internet first arrived on the market. Businesses were immediately able to connect around the world with staff and consumers. Then came the mobile Internet and the rise of the cloud, introducing their own improvements. Effective business owners have adapted to the alterations created by new technology. </p>
