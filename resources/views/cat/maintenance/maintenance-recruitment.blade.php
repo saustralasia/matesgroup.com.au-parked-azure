@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/maintenance-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Maintenance Engineering & Manager Recruitment Agency Australia">
+                        <img src="/images/maintenance/maintenance-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Maintenance Engineering & Manager Recruitment Agency Australia">
                     </figure>
                     <p>
                         Maintenance managers and engineers are like the

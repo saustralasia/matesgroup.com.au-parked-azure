@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/financial-analyst-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Financial Analyst Recruitment Agency in Melbourne & Sydney">
+                        <img src="/images/office-staff/accounting/financial-analyst-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Financial Analyst Recruitment Agency in Melbourne & Sydney">
                     </figure>
                     <p>Financial Analysts are the running force of any company’s backend so that they are an extremely important person in an office. Here at Mates Group, we realize the significance of hiring a financial analyst that will help you to make business decisions.</p>
                     <p>As a leading hiring agency, Mates Group offers you the complete, scientific, and non-traditional financial analyst recruitment service in Melbourne and Sydney areas. As a result, you will find the perfect talented person for your company. We provide to our honourable clients the country’s topmost successful construction, engineering, marketing, sales, and financial staff support. Our skilled and talented recruiting team will consult with you and find out the need of your administration. After that, they will find the staff who will fit your organization.</p>

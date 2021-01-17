@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/office-support-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Administration & Office Support Recruitment Agency Sydney">
+                        <img src="/images/office-staff/office-support-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Administration & Office Support Recruitment Agency Sydney">
                     </figure>
                     <p>
                         We do office staff recruitment for Sydney,

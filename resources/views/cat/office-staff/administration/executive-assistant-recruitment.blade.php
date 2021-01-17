@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/executive-assistant2.jpg" class="figure-img img-fluid rounded" alt="Executive or Personal Assistant Recruitment Agency Sydney, Melbourne">
+                        <img src="/images/office-staff/administration/executive-assistant2.jpg" class="figure-img img-fluid rounded" alt="Executive or Personal Assistant Recruitment Agency Sydney, Melbourne">
                     </figure>
                     <blockquote class="blockquote">
                         <p class="mb-0">Are You Seeking an Executive/Personal Assistant Recruitment Agency in Sydney or Melbourne?</p>

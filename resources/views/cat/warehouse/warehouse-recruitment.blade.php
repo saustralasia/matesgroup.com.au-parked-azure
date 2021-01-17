@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/transport-recruitment2.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/warehouse/transport-recruitment2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Hire for Your Warehousing Operation in Australia">
     </header>
 
@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/transport-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Warehouse Recruitment Agency Melbourne">
+                        <img src="/images/warehouse/transport-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Warehouse Recruitment Agency Melbourne">
                     </figure>
                     <p>Warehouse staff plays a big role in Australia’s economy. Many companies in Sydney and Melbourne want staff for their warehouses. We, the Mates Group company, recruit warehouse labour and provide the selected candidates to our respected client companies.</p>
 
