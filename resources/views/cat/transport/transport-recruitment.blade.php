@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/transport/transport-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Transport and Logistics Recruitment Agency in Perth">
+                        <img src="/images/blogs/transport-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Transport and Logistics Recruitment Agency in Perth">
                     </figure>
                     <h2>Transport & Logistics Recruitment</h2>
                     <p>The transport and logistics industries are the important source of power when considering Australia's growth. So, whenever you want to recruit brilliant employees for your company, you’ll want to get a trusted agency. We, the Mates Group company here to help you.</p>

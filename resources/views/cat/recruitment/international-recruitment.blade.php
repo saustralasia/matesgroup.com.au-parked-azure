@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/international-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Overseas Recruitment Agency Australia">
+                        <img src="/images/blogs/international-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Overseas Recruitment Agency Australia">
                     </figure>
                     <p>To increase the rate of Australia’s economic development it is very important to recruit international candidates. Understanding this issue we Mates Group, the international recruitment agency, recruit a large number of overseas candidates every year.</p>
                     <p>We have a strong and skilled selection team to grab the enthusiastic and qualified foreign worker candidates. Our process is scientific and very much effective. We do hire global staff for many top-ranked companies in Brisbane, Perth, Sydney, and Melbourne.</p>

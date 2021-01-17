@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/engineering/engineering-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Engineering Recruitment Agency in Sydney and Melbourne">
+                        <img src="/images/blogs/engineering-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Engineering Recruitment Agency in Sydney and Melbourne">
                     </figure>
                     <h2>Are You Looking for an Engineering Recruitment Agency in Sydney & Melbourne?</h2>
                     <p>

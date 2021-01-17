@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/recruitment-parramatta2.jpg" class="figure-img img-fluid rounded" alt="Recruitment Agency Parramatta">
+                        <img src="/images/blogs/recruitment-parramatta2.jpg" class="figure-img img-fluid rounded" alt="Recruitment Agency Parramatta">
                     </figure>
                     <h2>Are you keenly looking for a Recruitment agency in Parramatta or Western Sydney? Then you are in the right place!</h2>
                     <p>Our recruiting team will be your solution for permanent and temporary staffing. We, Mates Group have many years of the experienced enlisting team to supply workers in your organization. We keep a long-time relationship with our honourable clients and our employees. Therefore, we are able to find the best-fit employees for your organization in Parramatta, Western Sydney, Westfield, and NSW. It makes us happy when we see our clients are happy finding their potential employees for their administration. We can be your office employment solution. We are always ready to support our clients and employees.</p>

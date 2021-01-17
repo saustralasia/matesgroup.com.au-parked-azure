@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/shipbuilding/shipbuilding2.jpg" class="figure-img img-fluid rounded" alt="Shipbuilding or Submarine Recruitment Agency Brisbane Australia">
+                        <img src="/images/blogs/shipbuilding2.jpg" class="figure-img img-fluid rounded" alt="Shipbuilding or Submarine Recruitment Agency Brisbane Australia">
                     </figure>
                     <p>The shipbuilding industry is an important sector for Australia’s economic development. We are a shipbuilding staff hire agency and provide our staff in many reputed ship construction and repair companies. So, if you are looking for experienced and smart staff for your company please go through our contact section and feel free to contact us. We provide our excellent and strong labours in Adelaide, Brisbane, Perth, and, Tasmania. We are a proud maritime recruitment agency in Australia. </p>
                     <p>We know, how hard the process the shipbuilding staff recruitment is. It will make you insane and waste your valuable time to find out the best-fit candidates for your company. That’s why we Mates Group, the shipbuilding hire company, with our specialist team, are ready to help you.</p>

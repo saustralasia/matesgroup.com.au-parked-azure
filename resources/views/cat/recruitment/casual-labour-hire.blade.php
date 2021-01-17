@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/casual-labor-hire.jpg" class="figure-img img-fluid rounded" alt="Temporary Labour Hire Sydney">
+                        <img src="/images/blogs/casual-labor-hire.jpg" class="figure-img img-fluid rounded" alt="Temporary Labour Hire Sydney">
                     </figure>
                     <h2>Casual Labour Hire Melbourne and Sydney</h2>
                     <p>Mates Group is an Australia’s casual labour-hire agency that is unlike from others’. We have reputation for the quick recruitment of labours in many famous companies. Our efficiency in recruitment is different from many other hire companies.</p>

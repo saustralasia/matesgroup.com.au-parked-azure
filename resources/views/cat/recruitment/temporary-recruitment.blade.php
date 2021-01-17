@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/temp-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Temporary Recruitment Agency Sydney">
+                        <img src="/images/blogs/temp-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Temporary Recruitment Agency Sydney">
                     </figure>
                     <h2>Temporary Recruitment Agency Australia</h2>
                     <p>Are you looking for a pain-free and quick solution for part-time staff enrolment for your company?</p>

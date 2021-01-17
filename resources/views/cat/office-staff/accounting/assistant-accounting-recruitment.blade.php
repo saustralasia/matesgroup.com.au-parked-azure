@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/office-staff/accounting/assistant-accoutant1.jpg" class="figure-img img-fluid rounded" alt="Assistant Accountant Recruitment Agency in Sydney & Melbourne">
+                        <img src="/images/blogs/assistant-accoutant1.jpg" class="figure-img img-fluid rounded" alt="Assistant Accountant Recruitment Agency in Sydney & Melbourne">
                     </figure>
                     <p>Mates Group offers Assistant Accountant hiring services to assist you in finding the best-fit chartered accountant for your organization. We are an assistant accountant hire agency in Australia. We provide assistant accountant hiring services in Sydney, Melbourne, Brisbane, and Perth.</p>
 

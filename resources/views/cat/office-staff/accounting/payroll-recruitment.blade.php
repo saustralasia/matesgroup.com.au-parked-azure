@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/office-staff/accounting/payroll-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Payroll Officer Recruitment Agency in Sydney & Melbourne">
+                        <img src="/images/blogs/payroll-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Payroll Officer Recruitment Agency in Sydney & Melbourne">
                     </figure>
                     <h2>Need Payroll Recruitment Agency in Sydney or Melbourne???</h2>
                     <p>Mates Group is a famous payroll recruitment agency because we understand the payroll sector very deeply. We always try to follow unique systems to recruit our employees.</p>

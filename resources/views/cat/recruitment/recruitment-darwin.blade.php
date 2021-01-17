@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/recruitment/recruitment-darwin2.jpg" class="figure-img img-fluid rounded" alt="Recruitment Experts Darwin">
+                        <img src="/images/blogs/recruitment-darwin2.jpg" class="figure-img img-fluid rounded" alt="Recruitment Experts Darwin">
                     </figure>
                     <h2>Are you searching for a Recruitment expert in Darwin? Then congratulations! You are in the right place.</h2>
                     <p>Mates Group is one of the top-most recruitment agencies in Darwin and Northern Territory (NT). We offer enlistment needs of both Industrial and office work on a temporary and permanent premise. Our accomplished group work in staffing answers for customers across most industry areas including, accounting and finance, call centre and customer service, sales and marketing, executive, industrial, manufacturing and operations, office, government, transportation and logistics, civil and construction, engineering and technical, events and all your business trades necessities.</p>

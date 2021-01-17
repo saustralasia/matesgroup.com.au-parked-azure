@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/office-staff/receptionist-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Receptionist Recruitment Agency in Melbourne & Sydney">
+                        <img src="/images/blogs/receptionist-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Receptionist Recruitment Agency in Melbourne & Sydney">
                     </figure>
                     <h2>Are you searching for Receptionist recruitment in Melbourne or Sydney?</h2>
                     <p>Receptionists are the most important persons in your company because customers contact them from first to last of a business. They deal with your valuable customers and manage their inquiries. Mates Group recruitment agency will help you to find a receptionist for your office. We have a strong network and relationship with our client companies and our employees. We always keep in touch with our qualified and outstanding candidates so that within a short period we are able to provide them to your administration. We are also able to find intern candidates for your company because they are the upcoming talent.</p>

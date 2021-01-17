@@ -29,7 +29,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/agriculture/agriculture-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Agriculture or Agribusiness Recruitment Agency, Rural Hire Australia">
+                        <img src="/images/blogs/agriculture-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Agriculture or Agribusiness Recruitment Agency, Rural Hire Australia">
                     </figure>
                     <p>Agriculture is a part and parcel of Australia’s economy.
                         Once upon a time, agriculture was the main key to the development of
