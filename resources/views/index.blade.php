@@ -70,11 +70,11 @@
                     </p>
                     <a href="vision"><h4>Our Vision</h4></a>
                     <p>
-                        We have an experienced and diverse team who follow current market trends and employment  <!-- and 3. Associated with clients, networks, controllers and one another; these qualities mirror the best parts of our legacy, and stay key to our long haul achievement. -->
+                        Our vision is to put Mates Group on the map as one of the leading organisations.  <!-- and 3. Associated with clients, networks, controllers and one another; these qualities mirror the best parts of our legacy, and stay key to our long haul achievement. -->
                         <a href="vision" class="read-more">(read more…)</a>
                     </p>
                     <a href="approach"> <h4>Our Approach</h4></a>
-                    <p>We are focused on creating connections that last. Our approach is to be an association  <!--  creating connections that last. Our faith in making the best decision stays key to our prosperity. -->
+                    <p>Our approach is to conduct our business in an honest and ethical manner.  <!--  creating connections that last. Our faith in making the best decision stays key to our prosperity. -->
                     <a href="approach" class="read-more">(read more…)</a> </p>
                 </div>
             </div>
@@ -95,13 +95,13 @@
             <div class="col-md-2">
                 <div class="side-text">
                     <a href="team"><h4>Our Team</h4></a>
-                    <p>Our team members are trained in their field. They have confidence in what they do an do so   <!-- Together, we ensure you're contributing where the best returns are, while building confidence over each touchpoint. -->
+                    <p>Our team members at Mates Group are well trained in their respective fields.   <!-- Together, we ensure you're contributing where the best returns are, while building confidence over each touchpoint. -->
                         <a href="team" class="read-more">(read more…)</a>
                     </p>
                     <a href="safety"><h4>Our Safety</h4></a>
-                    <p>Mates group focuses on preventing workplace injuries through providing workers with  <!-- unsafe   practices and occurrences of environmental injury from our activities. Our goal is to ensure a workplace that is completely free of injuries and accidents.--> <a href="safety" class="read-more">(read more…)</a></p>
+                    <p>Safety and hygiene are our number one priority when it comes to our workers.  <!-- unsafe   practices and occurrences of environmental injury from our activities. Our goal is to ensure a workplace that is completely free of injuries and accidents.--> <a href="safety" class="read-more">(read more…)</a></p>
                     <a href="commitment"><h4>Our Commitment</h4></a>
-                    <p>We deliver what we promise”, we dedicate ourselves to make sure our valued clients are successful  <!--  and it’s 	the only  cause you can choose us. We dedicate ourselves to make sure our valued clients are successful. If they’re not prosperous then neither are we.--> 	 <a href="commitment" class="read-more">(read more…)</a></p>
+                    <p>Our commitment is to gather and select the best candidates which meet our clients criteria.  <!--  and it’s 	the only  cause you can choose us. We dedicate ourselves to make sure our valued clients are successful. If they’re not prosperous then neither are we.--> 	 <a href="commitment" class="read-more">(read more…)</a></p>
                 </div>
             </div>
         </div>

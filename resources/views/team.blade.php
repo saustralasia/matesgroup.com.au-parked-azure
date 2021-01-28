@@ -29,7 +29,9 @@
                     <figure class="figure">
                         <img src="/images/team.jpg" class="figure-img img-fluid rounded" alt="Best Company for Labour Hire Solutions Australia">
                     </figure>
-                    <p>Our team members are trained in their field. They have confidence in what they do and do so with no mistake. Our team at Mates Group ensure that our clients receive a comprehensive labour-hire service.</p>
+                    <p>Our team members at Mates Group are well trained in their respective fields.</p>
+                    <p>We have an experienced and diverse team who follow current market trends and employment requirements for all industries, therefore we can recruit the best candidates.</p>
+                    <p>The management team has accumulated a wealth of industry experience and expertise. The depth of experience of our team covers all facets of recruitment and short-term hire.</p>
                 </div>
             </div>
 

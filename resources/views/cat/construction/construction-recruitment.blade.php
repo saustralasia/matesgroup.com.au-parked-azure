@@ -49,7 +49,7 @@
 
                     <h2>Find Your Preferred Construction Job Agency</h2>
                     <p>
-                        We realize that Australia’s construction industry
+                        We realise that Australia’s construction industry
                         is one of the most profitable businesses and we are
                         always researching the construction business market.
                         We find the perfect matched employees for your company
@@ -58,14 +58,7 @@
                         candidates for your company.
                     </p>
 
-                    <p>
-                        We follow a unique and long term relationship
-                        with our respectable employer companies as well
-                        as our employees. So it’s being easy for us to
-                        provide employees instantly. We got a large number
-                        of construction labours and civil engineers
-                        to provide in all over Australia.
-                    </p>
+                    <p>We follow a unique and long-term relationship with our respective client companies as well as our employees. Therefore, it is easy for us to provide employees instantly. We have a large number of construction labourers and civil engineers looking for employment all over Australia.</p>
 
                     <p>
                         Every year we recruit a large number of

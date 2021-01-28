@@ -29,7 +29,7 @@
                     <figure class="figure">
                         <img src="/images/safety-2.png" class="figure-img img-fluid rounded" alt="Our Safety">
                     </figure>
-                    <p>Mates group focuses on preventing workplace injuries through providing workers with proper WHS inductions, ensuring workers wear correct PPE and creating a safe environment for employees to work in.</p>
+                    <p>Safety and hygiene are our number one priority when it comes to our workers. Regardless of which field they are working in, we expect a safe and healthy work environment. Mates Group focuses on preventing workplace injuries, by preparing workers with proper Work health and safety (WHS) inductions so they are familiar with the basic responsibilities and methods and are aware of correct PPE before entering the actual workplace.</p>
                 </div>
             </div>
 

@@ -28,11 +28,9 @@
                     <figure class="figure">
                         <img src="/images/vision2.jpg" class="figure-img img-fluid rounded" alt="Our Vision">
                     </figure>
-                    <p>Our vision is to put Mates Group on the map as one of the leading organisations. We will engage in sustainable practices and anticipate the needs of our clients, while still maintaining quality services. <br>
-                        We have an experienced and diverse team who follow current market trends and employment requirements for all industries, so we can recruit the best candidates. <br>
-                        The management team has accumulated a wealth of industry experience and expertise. The depth of experience of our management team covers all facets of recruitment and short-term hire. <br>
-                        Our commitment to the Total Quality Management philosophy ensures continuity and client satisfaction. Our highly experiences and skilled team enables Mates Group to seamlessly plan and provide solutions for you labour requirements. <br>
-                        The Team is committed to a high standard of excellence.</p>
+                    <p>Our vision is to put Mates Group on the map as one of the leading recruitment organisations. We wish to engage in sustainable practices and anticipate the needs of our clients, while still maintaining quality services.</p>
+                    <p>Diversity and inclusion are important to us, we ensure a discrimination free environment and look out for specific skills in candidates.</p>
+                    <p>Our commitment to the Total Quality Management philosophy ensures continuity and client satisfaction. Our highly experienced and skilled team enables Mates Group to seamlessly plan and provide solutions for labour requirements.</p>
                 </div>
             </div>
 

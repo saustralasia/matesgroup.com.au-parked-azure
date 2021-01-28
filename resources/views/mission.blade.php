@@ -29,7 +29,8 @@
                     <figure class="figure">
                         <img src="/images/hand-shake.jpg" class="figure-img img-fluid rounded" alt="Our Mission">
                     </figure>
-                    <p>Our mission is to assist our clients to grow their business by providing the right labour solutions. No challenge is too great and we believe we provide the right solutions due to our experienced team and access to the global market. Our service should leave clients stress-free about the recruitment process giving them more time to focus on other important commitments.</p>
+                    <p>Our companies’ mission is to assist our clients to achieve organisation success by providing the right labour solutions. We aim to recruit employees in the required fields as well as look after their wellbeing.
+                        Our services should leave clients stress free about the recruitment process giving them more time to focus on other important commitments.</p>
                 </div>
             </div>
 

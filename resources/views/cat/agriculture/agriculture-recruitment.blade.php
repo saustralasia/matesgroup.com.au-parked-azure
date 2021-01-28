@@ -31,38 +31,10 @@
                     <figure class="figure">
                         <img src="/images/blogs/agriculture-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Agriculture or Agribusiness Recruitment Agency, Rural Hire Australia">
                     </figure>
-                    <p>Agriculture is a part and parcel of Australia’s economy.
-                        Once upon a time, agriculture was the main key to the development of
-                        human civilisation. Agribusiness is a very profitable business in
-                        Australia because of its fertile land and a large number of domestic
-                        animal resources.
-                    </p>
-                    <p>As a leading agriculture and farmworker recruitment agency in Australia,
-                        we provide a large number of skilled workers to the top agribusiness companies.
-                        We hire agriculture labours from Adelaide, Brisbane, Sydney, Melbourne, and
-                        everywhere in Australia and provide them to the rural farm work companies.
-                        So, you can also consider us as a rural employment company.
-                        We have a skilled hire team who search and grab the strong
-                        and hard worker candidates for you so that you will not get any hassle for
-                        recruiting staffs for your company. We know the value of your time.
-                        So, if you are looking labours for farming, agro-food, irrigation, cultivation,
-                        husbandry or horticulture then please feel free to contact us.
-                        We are here ready to help you.
-                    </p>
-                    <p><strong>Job Description:</strong><br>Reporting to our agribusiness manager the successful
-                        applicants will be a hands-on, energetic team player who wants
-                        the learning curve, the experience, and opportunities
-                        that this position will offer.
-                    </p>
-                    <p><strong>Applicants should be:</strong><br></p>
-                    <ul>
-                        <li>Always ready and available to work</li>
-                        <li>Physically fit</li>
-                        <li>Have a strong motivation to work</li>
-                        <li>Be hygiene</li>
-                        <li>Previous experience will be a plus</li>
-                        <li>Must be able to follow the instructions and have to do the work accordingly</li>
-                    </ul>
+                    <p>Agriculture is a big part of Australia’s economy. Once upon a time, agriculture was the main key to the development of human civilisation. Agribusiness is a very profitable business in Australia because of its fertile land and many domestic animal resources.</p>
+                    <p>As a leading agriculture recruitment agency in Australia, we provide many skilled workers to the top agribusiness companies. We hire agriculture labours from all around Australia and recruit them to rural farm work companies. So, you can also consider us as a rural employment company. We have a skilled team who search and grab the strong and hardworking candidates for you so that you will not have to worry about a thing. We know the value of your time. If you are looking for labourers for the farming, agro-food, irrigation, cultivation, husbandry, or horticulture field then please feel free to contact us. We are here, ready to help.</p>
+
+
                 </div>
             </div>
 
