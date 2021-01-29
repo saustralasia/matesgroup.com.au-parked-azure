@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/temp-recruitment1.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/TemporaryRecruitment1.png')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/blogs/temp-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Temporary Recruitment Agency Sydney">
+                        <img src="/images/TemporaryRecruitment1.png" class="figure-img img-fluid rounded" alt="Temporary Recruitment Agency Sydney">
                     </figure>
                     <h2>Temporary Recruitment Agency Australia</h2>
                     <p>Are you looking for a pain-free and quick solution for part-time staff enrolment for your company?</p>

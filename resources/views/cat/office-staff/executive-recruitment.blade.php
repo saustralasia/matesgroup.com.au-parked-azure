@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/executive-recruitment2.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/ExecutiveRecruitment2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/blogs/executive-recruitment1.jpg" class="figure-img img-fluid rounded" alt="Executive Recruitment Agency Sydney & Brisbane, Executive Search Hire">
+                        <img src="/images/ExecutiveRecruitment1.jpg" class="figure-img img-fluid rounded" alt="Executive Recruitment Agency Sydney & Brisbane, Executive Search Hire">
                     </figure>
                     <h2>Are You Seeking for Executive Recruitment in Sydney or Brisbane?</h2>
                     <p>Mates Group is a leading executive recruitment agency in Australia. Finding an executive for your company is an important decision because, with a good executive person, your organization can go far away. We, Mates Group, will help you to find the right executive search person for your business administration in Sydney, Brisbane, Melbourne, Perth, and Adelaide.</p>

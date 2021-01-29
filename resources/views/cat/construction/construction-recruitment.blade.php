@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/blogs/construction-recruitment.jpg" class="figure-img img-fluid rounded" alt="Construction Labour Recruitment or Hire Agency Melbourne & Sydney">
+                        <img src="/images/construction.jpg" class="figure-img img-fluid rounded" alt="Construction Labour Recruitment or Hire Agency Melbourne & Sydney">
                     </figure>
                     <h2>Searching for a construction recruitment agency?</h2>
                     <p>

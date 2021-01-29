@@ -6,7 +6,7 @@
 
 @section('content')
     <!-- Header - set the background image for the header in the line below -->
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/commitment.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/commitment2.jpg')}}');">
 {{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="">
     </header>

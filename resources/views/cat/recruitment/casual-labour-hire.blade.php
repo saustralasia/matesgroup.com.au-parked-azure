@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/labour.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/CasualLaborHire2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/blogs/casual-labor-hire.jpg" class="figure-img img-fluid rounded" alt="Temporary Labour Hire Sydney">
+                        <img src="/images/CasualLaborHire1.png" class="figure-img img-fluid rounded" alt="Temporary Labour Hire Sydney">
                     </figure>
                     <h2>Casual Labour Hire Melbourne and Sydney</h2>
                     <p>Mates Group is an Australia’s casual labour-hire agency that is unlike from others’. We have reputation for the quick recruitment of labours in many famous companies. Our efficiency in recruitment is different from many other hire companies.</p>

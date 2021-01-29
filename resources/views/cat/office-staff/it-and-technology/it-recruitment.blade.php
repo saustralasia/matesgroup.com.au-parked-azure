@@ -26,7 +26,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/office-staff/it-and-technology/it-recruitment2.jpg" class="figure-img img-fluid rounded" alt="IT or Digital Recruitment Agency in Melbourne & Sydney">
+                        <img src="/images/ITRecruitment2.jpg" class="figure-img img-fluid rounded" alt="IT or Digital Recruitment Agency in Melbourne & Sydney">
                     </figure>
                     <h2>Looking for an IT Recruitment Agency in Melbourne & Sydney?</h2>
                     <p>IT division in an organization offers direct IT support or IT management and network security to that institute. The IT department of a company offers a wide range of development services before, during, and after a project’s lifecycle. We, the Mates Group, realise the need of IT recruitment for every company. To digitalize your company, IT support is obvious.</p>

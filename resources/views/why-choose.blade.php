@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/choose.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/WhyChoose1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Why Choose Us">
     </header>
 
