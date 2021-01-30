@@ -44,6 +44,7 @@
                     <h2>Include your hobbies:</h2>
                     <p>You can simply include your hobbies, for example, crafting, poetry, typing, composing, writing, making screenwriting, editing pictures, picture sketching, etc.</p>
                     <h2>What you should not add to your resume:</h2>
+                    <p>Irrelevant information should be prohibited from writing in the CV. Like as, do not indicate your race, political preferences, etc.</p>
                     <p>Your CV must be awesome like in the beginning and at the ending. Use synonym words to make your CV rich. Continue updating your resume. Focus on your own clue words. Make your employer reopen your resume. Remember, a CV is the first option to express yourself.</p>
                 </div>
             </div>

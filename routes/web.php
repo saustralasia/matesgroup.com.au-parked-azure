@@ -105,6 +105,7 @@ Route::get('/blog/how-to-start-your-own-business',          function () { return
 Route::get('/blog/how-to-write-a-job-ad',                   function () { return view('cat/blog/how-to-write-a-job-ad'); });
 Route::get('/blog/interview-questions-for-employers',       function () { return view('cat/blog/interview-questions-for-employers'); });
 Route::get('/blog/recruitment-process-steps',               function () { return view('cat/blog/recruitment-process-steps'); });
+Route::get('/blog/how-to-hire-an-employee',                 function () { return view('cat/blog/how-to-hire-an-employee'); });
 
 
 
