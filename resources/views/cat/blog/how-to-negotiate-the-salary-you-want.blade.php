@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/how-to-negotiate-the-salary-you-want1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/how-to-negotiate-the-salary-you-want2.jpg" class="figure-img img-fluid rounded" alt="How to Negotiate Salary After a New Job Offer">
+                    </figure>
                     <h2>How to Negotiate Salary at Your New Job</h2>
                     <p>Negotiation of salary is an important topic. To have a successful negotiation, you must be realistic and clear of what your expected salary and what your skill is. Use the following tips to get help negotiating your new job salary:</p>
                     <h2>Identify Your Value in The Job Market </h2>

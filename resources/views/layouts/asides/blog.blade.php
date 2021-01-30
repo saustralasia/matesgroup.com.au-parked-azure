@@ -14,6 +14,13 @@
             <li><a href="/blog/resume-writing-tips">Resume Writing Tips</a></li>
             <li><a href="/blog/why-upskilling-is-important">Why Upskilling Is Important</a></li>
             <li><a href="/blog/workplace-mental-health-strategy">Workplace Mental Health Strategy</a></li>
+            <li><a href="/blog/how-disruptive-technology-affects-business">How Disruptive Technology Affects Business</a></li>
+            <li><a href="/blog/how-to-effectively-review-resumes">How To Effectively Review Resumes</a></li>
+            <li><a href="/blog/how-to-hire-human-resources-specialist">How To Hire Human Resources Specialist</a></li>
+            <li><a href="/blog/how-to-start-your-own-business">How To Start Your Own Business</a></li>
+            <li><a href="/blog/how-to-write-a-job-ad">How To Write A Job Ad</a></li>
+            <li><a href="/blog/interview-questions-for-employers">Interview Questions For Employers</a></li>
+            <li><a href="/blog/recruitment-process-steps">Recruitment Process Steps</a></li>
         </ul>
     </div>
 </div>

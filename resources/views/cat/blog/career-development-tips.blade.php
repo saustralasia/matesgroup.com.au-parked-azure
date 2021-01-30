@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/career-development-tips2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/career-development-tips1.jpg" class="figure-img img-fluid rounded" alt="Necessary Career Development Tips">
+                    </figure>
                     <p>Vocation arranging isn't something that you do once and afterward you fail to remember. All in all, how would you guarantee your abilities to stay aware of the most recent advancements, patterns, and guidelines? This is a common question. </p>
                     <h2>Following are eight key professional improvement tips to assist you to show you the right track:</h2>
                     <dl class="row">

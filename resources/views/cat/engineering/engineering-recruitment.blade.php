@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/matesgroup-engineers.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/engineering-recruitment1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/engineering-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Engineering Recruitment Agency in Sydney and Melbourne">
+                    </figure>
                     <h2>Are You Looking for an Engineering Recruitment Agency in Sydney & Melbourne?</h2>
                     <p>
                         From our very beginning, engineering recruitment has

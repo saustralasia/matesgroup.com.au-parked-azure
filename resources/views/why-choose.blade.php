@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/choose.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/WhyChoose1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Why Choose Us">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/why-choose.jpg" class="figure-img img-fluid rounded" alt="Why Choose Us">
+                    </figure>
                     <p>We’re confident that we are the only international business support & services company that provides following benefits to your company.</p>
 
                     <ul class="choose">

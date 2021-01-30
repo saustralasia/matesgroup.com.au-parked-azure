@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blogs/accouting-recruitment2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Mates Group Recruitment - Specialist in Accounting & Finance">
     </header>
 
@@ -28,6 +28,9 @@
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
 
+                    <figure class="figure">
+                        <img src="/images/blogs/accouting-recruitment2.jpg" class="figure-img img-fluid rounded" alt="Accounting or Finance Recruitment Agency Sydney, Bookkeeper Melbourne">
+                    </figure>
                     <b>We Have a Specialist Team for Accounting Recruitment</b>
                     <p>As an accounting recruitment agency, we have a long term relationship with many organizations. Whether it’s time to the recruitment of finance, our experienced and expert team find out the top candidates with their strategic decisions. Our widespread community of finance professionals, our strong dedication to understanding our client’s needs ensures our success.</p>
 

@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/RecruitmentSunshineCoast2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/RecruitmentSunshineCoast1.jpg" class="figure-img img-fluid rounded" alt="Recruitment Agency Sunshine Coast">
+                    </figure>
                     <p>Mates Group is one of the labour-hire recruitment agencies in Sunshine Coast and Southern Queensland. We are specialists in labour hiring solutions in Australia.</p>
                     <p>Whether you need to have a temporary or permanent solution for recruiting staff in your organization in Sunshine Coast or Queensland, you can have trust in us. It’s been many years since we are managing labour-hire in topmost profitable companies. We always keep in contact with our potential candidates to provide your business with the best-fit staff.</p>
                     <p>Our philosophy is to increase the company’s productivity by reducing risk and finally profitability is the last outcome. We have a skilled recruitment team who search and grab strong and hard worker candidates for you so that you will not get any trouble for recruiting labours for your company. We know the value of your time. We do not want you clumsy recruiting the candidates.</p>

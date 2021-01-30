@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/it-recruitment1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/ITRecruitment2.jpg" class="figure-img img-fluid rounded" alt="IT or Digital Recruitment Agency in Melbourne & Sydney">
+                    </figure>
                     <h2>Looking for an IT Recruitment Agency in Melbourne & Sydney?</h2>
                     <p>IT division in an organization offers direct IT support or IT management and network security to that institute. The IT department of a company offers a wide range of development services before, during, and after a project’s lifecycle. We, the Mates Group, realise the need of IT recruitment for every company. To digitalize your company, IT support is obvious.</p>
                     <p>Mates Group offers you IT expertise and specialist for your business farm. We have a strong network and relations with many reputed Australian companies. They have long time trustworthiness on us and that is the reason we are proud of. We also always keep in touch with our qualified candidates so that within a short period we are able to provide them to Australia’s famous companies.</p>

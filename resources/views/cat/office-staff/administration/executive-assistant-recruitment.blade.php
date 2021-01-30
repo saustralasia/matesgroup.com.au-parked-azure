@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/mo-3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/ExecutiveAssistantRecruitment1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/ExecutiveAssistantRecruitment2.jpg" class="figure-img img-fluid rounded" alt="Executive or Personal Assistant Recruitment Agency Sydney, Melbourne">
+                    </figure>
                     <blockquote class="blockquote">
                         <p class="mb-0">Are You Seeking an Executive/Personal Assistant Recruitment Agency in Sydney or Melbourne?</p>
                     </blockquote>

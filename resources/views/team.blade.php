@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/ourteam.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/team2.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Team">
     </header>
 
@@ -25,8 +25,13 @@
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
                     <h2>Mates Group: Get Quality Labour Hire Service </h2>
-                    <img src="{{asset('images/team.jpg')}}" class="rounded img-fluid" alt="">
-                    <p>Our team members are trained in their field. They have confidence in what they do and do so with no mistake. Our team at Mates Group ensure that our clients receive a comprehensive labour-hire service.</p>
+
+                    <figure class="figure">
+                        <img src="/images/team.jpg" class="figure-img img-fluid rounded" alt="Best Company for Labour Hire Solutions Australia">
+                    </figure>
+                    <p>Our team members at Mates Group are well trained in their respective fields.</p>
+                    <p>We have an experienced and diverse team who follow current market trends and employment requirements for all industries, therefore we can recruit the best candidates.</p>
+                    <p>The management team has accumulated a wealth of industry experience and expertise. The depth of experience of our team covers all facets of recruitment and short-term hire.</p>
                 </div>
             </div>
 

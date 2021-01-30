@@ -98,6 +98,16 @@ Route::get('/blog/qualities-of-an-effective-leader',        function () { return
 Route::get('/blog/resume-writing-tips',                     function () { return view('cat/blog/resume-writing-tips'); });
 Route::get('/blog/why-upskilling-is-important',             function () { return view('cat/blog/why-upskilling-is-important'); });
 Route::get('/blog/workplace-mental-health-strategy',        function () { return view('cat/blog/workplace-mental-health-strategy'); });
+Route::get('/blog/how-disruptive-technology-affects-business',                       function () { return view('cat/blog/how-disruptive-technology-affects-business'); });
+Route::get('/blog/how-to-effectively-review-resumes',       function () { return view('cat/blog/how-to-effectively-review-resumes'); });
+Route::get('/blog/how-to-hire-human-resources-specialist',  function () { return view('cat/blog/how-to-hire-human-resources-specialist'); });
+Route::get('/blog/how-to-start-your-own-business',          function () { return view('cat/blog/how-to-start-your-own-business'); });
+Route::get('/blog/how-to-write-a-job-ad',                   function () { return view('cat/blog/how-to-write-a-job-ad'); });
+Route::get('/blog/interview-questions-for-employers',       function () { return view('cat/blog/interview-questions-for-employers'); });
+Route::get('/blog/recruitment-process-steps',               function () { return view('cat/blog/recruitment-process-steps'); });
+Route::get('/blog/how-to-hire-an-employee',                 function () { return view('cat/blog/how-to-hire-an-employee'); });
+
+
 
 
 

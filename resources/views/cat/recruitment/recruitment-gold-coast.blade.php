@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/RecruitmentDarwin1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/RecruitmentGoldcoast1.jpg" class="figure-img img-fluid rounded" alt="Recruitment Agency Gold Coast">
+                    </figure>
                     <p>If you are looking for Labour hire and Recruitment solutions in Gold Coast and Queensland (QLD) then you are in the right place. Mates Group is one of the leading labour hire solution provider in Gold Coast. Recruitment of an organization is a tough process. Many companies face problems enlisting workers. Therefore, we are suggesting you leave that job in our hands. We will find employees as you need. We will consult with you and find your need.</p>
                     <h2>Why Mates Group is different from others?</h2>
                     <p>We have a long term relationship with our client companies and we are always ready to support them. We got an extensive network of staff and clients so that we can help you providing economists or financial staff in a short time. We retain our talented employees who can work with the unique requirements of our clients. Your success is our success. Our job is to make you happy by providing our expert employees and make you hassle-free.</p>

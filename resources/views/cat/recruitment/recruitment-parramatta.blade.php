@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/vision.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/RecruitmentParramatta1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Our Vision">
     </header>
 
@@ -24,6 +24,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/RecruitmentParramatta2.jpg" class="figure-img img-fluid rounded" alt="Recruitment Agency Parramatta">
+                    </figure>
                     <h2>Are you keenly looking for a Recruitment agency in Parramatta or Western Sydney? Then you are in the right place!</h2>
                     <p>Our recruiting team will be your solution for permanent and temporary staffing. We, Mates Group have many years of the experienced enlisting team to supply workers in your organization. We keep a long-time relationship with our honourable clients and our employees. Therefore, we are able to find the best-fit employees for your organization in Parramatta, Western Sydney, Westfield, and NSW. It makes us happy when we see our clients are happy finding their potential employees for their administration. We can be your office employment solution. We are always ready to support our clients and employees.</p>
                     <p>There are so many labour-hire agencies in Western Sydney or in Parramatta but we always try to be different from them with our scientific modern process and our skilled masterminded recruitment team. To recruit the best-fit candidates is a tough process. We do not want you struggling with this. We are here ready to help you. Let our experienced recruiting team handle this awkward job for you. We grab skilled and dedicated workers for your company.</p>

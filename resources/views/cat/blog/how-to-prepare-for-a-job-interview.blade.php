@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/how-to-prepare-for-a-job-interview1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/how-to-prepare-for-a-job-interview2.jpg" class="figure-img img-fluid rounded" alt="The 8 Best Tips to Prepare for an Interview">
+                    </figure>
                     <h2>Job Interview Preparation and Tips:</h2>
                     <p>A job interview is the first and foremost step for a candidate’s job search journey. This is the opportunity to show your ability to your dream job company.</p>
                     <p>To be prepared for a job interview it is necessary to maintain the following steps:</p>

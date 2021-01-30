@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/qualities-of-an-effective-leader1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,10 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/qualities-of-an-effective-leader2.jpg" class="figure-img img-fluid rounded" alt="Leadership Qualities That Makes You A Good Leader">
+                    </figure>
                     <p>Great leaders demonstrate courage, enthusiasm, trust, dedication, and ambition in addition to providing direction, motivation, and guidance. They cultivate their people's strengths and abilities and development teams dedicated to achieving shared objectives. The most influential leaders have the following attributes in common. </p>
                     <h3>1. Honesty and Integrity</h3>
                     <p>Two essential things are Honesty and integrity to become a good head or, leader. If you have a lack of these qualities, your followers will not be honest. A president of a country cannot show the right path to the nation if he/she does not have honesty. He/she must be a good lawmaker. Otherwise, the nation will not find their goal. Politicians must keep in their mind that they are the head of a nation.</p>
@@ -41,9 +45,9 @@
                     <p>For followers, leaders should cultivate empathy. Sadly, most leaders adopt a dictatorial approach and totally lack empathy. Because of this, they struggle to make a stronger bond with their believers. The first step to being a successful leader is to consider your followers' struggles and feel their pain. Even that is not really sufficient you work hard and have the right solution to your issues for your followers.</p>
                     <h3>8. Humility</h3>
                     <p>A good leader is always humble, caring for his or her followers at all times. That is why, instead of concentrating on self-promotion, most great leaders follow to place a lot of attention to solving problems and team strategies.</p>
-                    <h3>???</h3>
+{{--                    <h3>???</h3>--}}
                     <p></p>
-                    <h3>???</h3>
+{{--                    <h3>???</h3>--}}
                     <p></p>
                     <dl class="row">
                         <dt class="col-xl-3"></dt>

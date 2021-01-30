@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/safety.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/SafetyPolicy3.jpg')}}');">
         {{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
@@ -25,6 +25,10 @@
 
             <div class="col-md-8 blog-main text-justify">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/safety.png" class="figure-img img-fluid rounded" alt="Safety Policy">
+                    </figure>
                     <p>Security is our first need. It is basic for our industry and we trust that each worker ought to hope to return home securely toward the finish of every day. We ceaselessly endeavor to enhance our execution while moving in the direction of damage free workplace for our representatives and competitors.</p>
                     <h4>Safety Methods</h4>
                     <p>We comprehend that our administration frameworks assume a basic job in our business and our tasks. Our Safety, Quality and Environmental administration frameworks are on the whole expertly licensed and ensured to the accompanying principles;</p>

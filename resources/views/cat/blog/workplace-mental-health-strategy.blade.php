@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blog.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/workplace-mental-health-startegy1.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
 
@@ -24,6 +24,11 @@
         <div class="row">
             <div class="col-md-8 blog-main">
                 <div class="blog-post">
+
+                    <figure class="figure">
+                        <img src="/images/blogs/workplace-mental-health-startegy2.jpg" class="figure-img img-fluid rounded" alt="Managing Your Mental Health in The Workplace">
+                    </figure>
+
                     <h2>Workplace Mental Health Strategy</h2>
                     <p>According to the world health organization “Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.”</p>
                     <p>Our emotional, psychological, and social well-being requires mental well-being. It determines how we think, feel, and behave. It also helps decide how we handle stress, interacts with others, and make decisions. At every stage of life, from infancy and adolescence through adulthood, mental health is important.</p>
