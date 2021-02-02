@@ -1,8 +1,9 @@
 <?php
 
+use App\Http\Controllers\FeedbackController;
 use Illuminate\Support\Facades\Route;
-use Illuminate\Support\Facades\Mail;
-use App\Mail\WelcomeMail;
+// use Illuminate\Support\Facades\Mail;
+// use App\Mail\WelcomeMail;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,12 +22,12 @@ use App\Mail\WelcomeMail;
 //    return new WelcomeMail();
 //});
 
-// Basic pages
+// Core pages
 Route::get('/approach',         function () { return view('approach'); });
 Route::get('/career',           function () { return view('career'); });
 Route::get('/commitment',       function () { return view('commitment'); });
-Route::get('/contact-us', 'ContactUsController@index')->name('contactus_index');
-Route::post('/contact-us', 'ContactUsController@store')->name('contactus_store');
+Route::get('/contact-us',       [FeedbackController::class, 'index'])->name('feedback_index');
+Route::post('/contact-us',      [FeedbackController::class, 'store'])->name('feedback_store');
 Route::get('/',                 function () { return view('index'); });
 Route::get('/mates-global',      function () { return view('mates-global'); });
 Route::get('/mission',          function () { return view('mission'); });

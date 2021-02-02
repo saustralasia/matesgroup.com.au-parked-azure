@@ -11,14 +11,12 @@ const mix = require('laravel-mix');
  |
  */
 
-// mix.autoload({ 'jquery': ['window.$', 'window.jQuery'] });
-mix.autoload({ jquery: ['$', 'window.jQuery', 'jQuery'] });
-// mix.autoload({ jquery: ['$', 'window.jQuery'] });
-// mix.autoload({
-//     jQuery: 'jquery',
-//     $: 'jquery',
-//     jquery: 'jquery'
-// });
+mix.autoload({
+    'jquery': ['$', 'window.jQuery', 'jQuery'],
+    // 'popper': ['Popper', 'window.Popper']
+});
+
+mix.setResourceRoot("../");
 
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css')
@@ -28,9 +26,11 @@ mix.js('resources/js/app.js', 'public/js')
         //.sourceMaps(true, 'source-map')
         .extract(['vue', 'jquery']); //always ON, except sourcemap
 
+
 mix.copyDirectory('resources/images', 'public/images');
 mix.copyDirectory('resources/fonts', 'public/fonts');
 //mix.copy('resources/sass/slicknav.min.css', 'public/css/slicknav.min.css');
+mix.copy('@node_modules/font-awesome/fonts/*', 'public/fonts');
 
 // Versioning
 if (mix.inProduction()) {
