@@ -50,7 +50,7 @@
         <div class="col-md-3">
             <h5 class="footer-title">RESOURCES</h5>
             <ul class="list-unstyled mb-0">
-                <li><a href="{{route('feedback_index')}}">Contact us</a></li>
+                <li><a href="{{route('ContactUs_index')}}">Contact us</a></li>
                 <li><a href="/career">Career</a></li>
             </ul>
         </div>

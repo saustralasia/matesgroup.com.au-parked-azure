@@ -67,30 +67,30 @@
                         {{ session('status') }}
                     </div>
                 @endif
-                <form method="post" action="{{ route('feedback_store') }}">
+                <form method="post" action="{{ route('ContactUs_store') }}">
                     @csrf
                     <div class="mb-3">
                         <label for="name" class="form-label">Your Name:</label>
                         <input type="text" class="form-control @error('name') border-danger @enderror" value="{{ old('name') }}" id="name" name="name" aria-describedby="nameHelp" placeholder="Your name" required>
-                        @error('name') <div id="nameHelp" class="text-danger">{{ $message }}</div> @enderror
+                        @error('name') <div id="nameHelp" class="text-danger small">{{ $message }}</div> @enderror
                     </div>
                     <div class="mb-3">
                         <label for="email" class="form-label">Email:</label>
                         <input type="email" class="form-control @error('email') border-danger @enderror" value="{{ old('email') }}" id="email" name="email" aria-describedby="emailHelp" placeholder="Your email" required>
-                        @error('email') <div id="emailHelp" class="text-danger">{{ $message }}</div> @enderror
+                        @error('email') <div id="emailHelp" class="text-danger small">{{ $message }}</div> @enderror
                     </div>
                     <div class="mb-3">
                         <label for="phone" class="form-label">Phone:</label>
                         <input type="number" class="form-control @error('phone') border-danger @enderror" value="{{ old('phone') }}" id="phone" name="phone" aria-describedby="phoneHelp">
-                        @error('phone') <div id="phoneHelp" class="text-danger">{{ $message }}</div> @enderror
+                        @error('phone') <div id="phoneHelp" class="text-danger small">{{ $message }}</div> @enderror
                     </div>
                     <div class="mb-3">
                         <label for="message" class="form-label">Message:</label>
-                        <textarea class="form-control @error('message') border-danger @enderror" value="{{ old('message') }}" id="message" name="message" aria-describedby="messageHelp" rows="3" required></textarea>
-                        @error('message') <div id="messageHelp" class="text-danger">{{ $message }}</div> @enderror
+                        <textarea class="form-control @error('message') border-danger @enderror" id="message" name="message" aria-describedby="messageHelp" rows="3" required>{{ old('message') }}</textarea>
+                        @error('message') <div id="messageHelp" class="text-danger small">{{ $message }}</div> @enderror
                     </div>
                     <div class="mb-3 form-check">
-                        <input type="checkbox" class="form-check-input" value="1" {{ old('newsletter') ? 'checked="checked"' : '' }} id="newsletter" name="newsletter" checked="checked">
+                        <input type="checkbox" class="form-check-input" value="0" {{ old('newsletter') ? 'checked="checked"' : '' }} id="newsletter" name="newsletter">
                         <label class="form-check-label" for="newsletter">Sign me up to the newsletter.</label>
                     </div>
                     <button type="submit" class="btn btn-primary">Submit</button>
