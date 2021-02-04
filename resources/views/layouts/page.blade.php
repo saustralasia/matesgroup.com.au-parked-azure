@@ -44,7 +44,7 @@
 {{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">--}}
 {{--    <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">--}}
 {{--    <link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}">--}}
-                        <link rel="stylesheet" href="{{ asset('css/fontawesome.css') }}">
+                        <link rel="stylesheet" href="{{ asset('css/fontawesome.min.css') }}">
 {{--    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">--}}
 {{--    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">--}}
 {{--    <link rel="stylesheet" href="{{ asset('css/aos.css') }}">--}}
