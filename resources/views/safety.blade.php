@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/Safety3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blogs/safety.jpg')}}');">
         {{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
@@ -27,7 +27,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/safety-2.png" class="figure-img img-fluid rounded" alt="Our Safety">
+                        <img src="{{asset('images/blogs/safety2.jpg')}}" class="figure-img img-fluid rounded" alt="Our Safety">
                     </figure>
                     <p>Safety and hygiene are our number one priority when it comes to our workers. Regardless of which field they are working in, we expect a safe and healthy work environment. Mates Group focuses on preventing workplace injuries, by preparing workers with proper Work health and safety (WHS) inductions so they are familiar with the basic responsibilities and methods and are aware of correct PPE before entering the actual workplace.</p>
                 </div>
