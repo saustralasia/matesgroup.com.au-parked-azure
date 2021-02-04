@@ -16,7 +16,7 @@ mix.autoload({
     // 'popper': ['Popper', 'window.Popper']
 });
 
-mix.setResourceRoot("../");
+
 
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css')
@@ -30,7 +30,6 @@ mix.js('resources/js/app.js', 'public/js')
 mix.copyDirectory('resources/images', 'public/images');
 mix.copyDirectory('resources/fonts', 'public/fonts');
 //mix.copy('resources/sass/slicknav.min.css', 'public/css/slicknav.min.css');
-mix.copy('@node_modules/font-awesome/fonts/*', 'public/fonts');
 
 // Versioning
 if (mix.inProduction()) {
