@@ -18,8 +18,9 @@ class CreateContactUsTable extends Migration
             $table->string('name', 40);
             $table->string('email', 60);
             $table->string('phone', 20)->nullable();
-            $table->string('message');
+            $table->string('message', 1024);
             $table->boolean('newsletter')->default(false);
+            $table->string('case_number', 10);
             $table->string('ip_address', 20);
             $table->timestamps();
         });

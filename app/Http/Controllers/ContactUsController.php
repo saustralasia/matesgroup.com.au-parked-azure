@@ -2,8 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Events\ContactFormSubmittedByTheVisitorEvent;
 use App\Models\ContactUs;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class ContactUsController extends Controller
 {
@@ -39,41 +41,40 @@ class ContactUsController extends Controller
             'name' => 'required|max:40|min:2',
             'email' => 'required',
             'phone' => 'nullable|numeric',
-            'message' => 'required|max:2000|min:10',
-//            'newsletter' => 'nullable'
+            'message' => 'required|max:1024|min:2',
+            'newsletter' => 'nullable|boolean'
         ]);
 
-        ContactUs::create([
+        $case_number = rand ( 10000000 , 19999999 );
+        $contactUs = ContactUs::create([
             'name' => $request->name,
             'email' => $request->email,
             'phone' => $request->phone,
             'message' => $request->message,
             'newsletter' => $request->has('newsletter'),
+            'case_number' => $case_number,
             'ip_address' => $request->ip()
         ]);
+//dd($contactUs);
 
-        // Mail::to('email@email.com')->send(new WelcomeMail());
-//       Mail::send('emails.welcome', $contact, function ($mail) use ($contact){
-//           $mail->from($contact['email'], $contact['name'])
-//               ->to('md.talatcse@gmail.com', 'Talat');
-//               //->subject
+        event(new ContactFormSubmittedByTheVisitorEvent($contactUs));
+
+
+
+
+
+//       Mail::send('emails.thank-you-for-your-enquiry', $contactUs, function ($mail) use ($contactUs){
+//           $mail->from($contactUs['email'], $contactUs['name'])
+//               ->to('md.talatcse@gmail.com', 'Talat')
+//               'reply_to' => ['address' => 'example@example.com', 'name' => 'App Name'],
+//               ->subject('Thank you for your enquiry')
+//           ;
 //       });
 
-        return redirect()->route('ContactUs_index')->with('status', 'Thank you for your message!');
-        //Mailing code
-//        $inputs=[
-//            'name' => $data->input('name'),
-//            'email' => $data->input('email'),
-//            'phone' => $data->input('phone'),
-//            'nationality' => $data->input('nationality'),
-//            'bodyMessage' => $data->input('message'),
-//        ];
+        return redirect()->route('ContactUs_index')->with('status', 'Thank you for your enquiry. One of our friendly account managers will be in touch with you shortly.');
 
-//        Mail::send('emails.contactmsg', $contact, function ($mail) use ($contact){
-//            $mail->from($contact['email'], $contact['name'])
-//                ->to('md.talatcse@gmail.com', 'Talat');
-//                //->subject
-//        });
+
+
     }
 
     /**

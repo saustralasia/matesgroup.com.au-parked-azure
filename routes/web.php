@@ -17,10 +17,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//mailing test: aAlways commented
-//Route::get('/email', function (){
-//    Mail::to('captcha2002@gmail.com')->send(new WelcomeMail());
-//    return new WelcomeMail();
+//Mail test: Always commented
+//Route::get('/mail', function (){
+//    $mail = new \App\Mail\MailThankYouForYourEnquiry("ddd");
+//    return $mail->render();
 //});
 
 // Core pages
