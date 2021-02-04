@@ -6,21 +6,9 @@
 
 @section('content')
     <!-- Header - set the background image for the header in the line below -->
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/commitment2.jpg')}}');">
-{{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blogs/commitment.jpg')}}');">
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="">
     </header>
-
-    <!-- Header - set the background image for the header in the line below -->
-{{--    <header class="py-5 bg-image-full" style="background-image: url('https://unsplash.it/1900/1080?image=1076');">--}}
-{{--        <img class="img-fluid d-block mx-auto" src="http://placehold.it/200x200&text=Logo" alt="">--}}
-{{--    </header>--}}
-
-
-{{--<div class="page-head-area mb-2">--}}
-{{--    <img class="img-fluid" src="{{asset('images/commitment.jpg')}}" alt="">--}}
-{{--    <div class="page-text">    </div>--}}
-{{--</div>--}}
 
 <div class="container">
     <div class="row mt-6">
@@ -39,7 +27,7 @@
             <div class="blog-post">
 
                 <figure class="figure">
-                    <img src="/images/commitment2.jpg" class="figure-img img-fluid rounded" alt="Our Commitment">
+                    <img src="/images/blogs/commitment2.jpg" class="figure-img img-fluid rounded" alt="Our Commitment">
                 </figure>
                 <p>Our commitment is to gather and select the best candidates which meet our clients criteria.
                     “We deliver what we promise”, we dedicate ourselves to make sure our valued clients are successful, and their requirements are met.

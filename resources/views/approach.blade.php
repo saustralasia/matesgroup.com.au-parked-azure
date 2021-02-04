@@ -30,10 +30,8 @@
                     <img src="/images/approach2.jpg" class="figure-img img-fluid rounded" alt="Our Approach">
                 </figure>
                 <p>Our approach is to conduct our business in an honest and ethical manner by respecting all and considering our clients’ needs and employee abilities.</p>
-                <p><strong>Producing enduring connections</strong><br>
-                    We are focused on creating connections that last. Our approach is to be an association that individuals are pleased to work for, has the trust of their customers and the networks they serve.</p>
-                <p><strong>Serving our clients</strong><br>
-                    We do all the groundwork, so our clients don’t have to worry about a thing, from advertising the position to coordinating the interviews and reference checking. Mates group have a network of employees who cover every aspect of the recruitment process.</p>
+                <p><strong>Producing Enduring Connections</strong><br>We are focused on creating connections that last. Our approach is to be an association that individuals are pleased to work for, has the trust of their customers and the networks they serve.</p>
+                <p><strong>Serving Our Clients</strong><br>We do all the groundwork, so our clients don’t have to worry about a thing, from advertising the position to coordinating the interviews and reference checking. Mates group have a network of employees who cover every aspect of the recruitment process.</p>
             </div>
         </div>
 

@@ -62,11 +62,11 @@
         <div class="col-auto py-3 px-lg-5">
             <div class="footer-social">
                 <ul>
-                    <li><a href="https://www.facebook.com/matesgroupaus" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.facebook.com/matesgroup" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
                     <li><a href="https://twitter.com/matesgroupau" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
                     <li><a href="https://www.instagram.com/matesgroup.au/" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
                     <li><a href="https://www.pinterest.com/matesgroup/" target="_blank"><i class="fab fa-pinterest" aria-hidden="true"></i></a></li>
-                    <li><a href="https://www.linkedin.com/company/28771085" target="_blank" rel=""><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/matesgroup" target="_blank" rel=""><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
         </div>

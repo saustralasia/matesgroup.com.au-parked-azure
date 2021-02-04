@@ -33,8 +33,6 @@
                     </figure>
                     <p>Agriculture is a big part of Australia’s economy. Once upon a time, agriculture was the main key to the development of human civilisation. Agribusiness is a very profitable business in Australia because of its fertile land and many domestic animal resources.</p>
                     <p>As a leading agriculture recruitment agency in Australia, we provide many skilled workers to the top agribusiness companies. We hire agriculture labours from all around Australia and recruit them to rural farm work companies. So, you can also consider us as a rural employment company. We have a skilled team who search and grab the strong and hardworking candidates for you so that you will not have to worry about a thing. We know the value of your time. If you are looking for labourers for the farming, agro-food, irrigation, cultivation, husbandry, or horticulture field then please feel free to contact us. We are here, ready to help.</p>
-
-
                 </div>
             </div>
 
