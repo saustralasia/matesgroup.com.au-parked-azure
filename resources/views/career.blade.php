@@ -5,7 +5,7 @@
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/career3.jpg')}}');">
+    <header class="py-5 bg-image-full" style="background-image: url('{{asset('images/blogs/career2.jpg')}}');">
         {{--        <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/finallogo-200.png')}}" alt="">--}}
         <img class="img-fluid d-block mx-auto" src="{{asset('images/logo/mates_group_logo-200.png')}}" alt="Approach">
     </header>
@@ -27,7 +27,7 @@
                 <div class="blog-post">
 
                     <figure class="figure">
-                        <img src="/images/career2.jpg" class="figure-img img-fluid rounded" alt="Career">
+                        <img src="/images/blogs/career.jpg" class="figure-img img-fluid rounded" alt="Career">
                     </figure>
                     <p>We wanted our candidates to get a sense of who we are, no matter how they were interacting with us.
 

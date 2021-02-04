@@ -1,4 +1,4 @@
-@extends('layouts.master', ['title' => 'Contact Us'])
+@extends('layouts.page')
 
 @section('title', 'Mates Group: Contact Us')
 @section('meta_description', 'We are providing recruitment & labour hire solutions to meet any hiring needs you have. Mates Group provides services across Australia and worldwide.')
@@ -21,7 +21,7 @@
     </div>
 
     <div class="container">
-        <div class="row">
+        <div class="row mt-5">
             <div class="col-md-6">
                 <div class="address">
                     <h5>HEAD OFFICE</h5>
@@ -97,7 +97,7 @@
                 </form>
             </div>
             <div class="col-lg-6">
-{{--                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.495641443278!2d151.03051191520967!3d-33.851115280661105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12bdb04dce39ef%3A0xb5f33454a7428244!2sMates+Group!5e0!3m2!1sen!2sbd!4v1551854555296" width="600" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>--}}
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6626.991304659972!2d151.032701!3d-33.851115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb5f33454a7428244!2sMates%20Group!5e0!3m2!1sen!2sbd!4v1612439566414!5m2!1sen!2sbd" width="450" height="700" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
         </div>
     </div>
