@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="icon" href="{{asset('images/mgr.ico')}}">
+    {{-- <link rel="icon" href="{{asset('images/mgr.ico')}}"> --}}
 
     @include('layouts.includes.analytics_google')
-
+    @include('layouts.includes.fav_ico')
     <!-- adding this three lines for search engine meta link -->
     <title>@yield('title')</title>
     <meta name="description" content="@yield('meta_description')">
@@ -36,9 +36,9 @@
 
 <body class="antialiased">
 
-    @include('layouts.header')
+    @include('layouts.includes.header')
     @yield('content')
-    @include('layouts.footer')
+    @include('layouts.includes.footer')
 
     <script src="{{mix('js/manifest.js')}}"></script>
     <script src="{{mix('js/vendor.js')}}"></script>

@@ -26,8 +26,8 @@
                 <div class="address">
                     <h5>HEAD OFFICE</h5>
                     <p>Level 1, 35 39 Auburn Road</p>
-                    <p>Auburn Nsw 2144, Australia</p>
-                    <p>Landline: <a href="tel:+612"></a>(02) 8733 3549</p>
+                    <p>Auburn NSW 2144, Australia</p>
+                    <p>Landline: <a href="tel:+61287333549">(02) 8733 3549</a></p>
                     <p>Email: <a href="mailto:enquiries@matesgroup.com.au">enquiries@matesgroup.com.au</a></p>
                 </div>
 
@@ -37,7 +37,7 @@
                     <h5>NEW ZEALAND OFFICE</h5>
                     <p>Level 8, West Plaza Business Center</p>
                     <p>3 Albert St, Auckland 1010, New Zealand</p>
-                    <p>Landline: (64) 9930 1278</p>
+                    <p>Landline: <a href="tel:+6499301278">(64) 9930 1278</a></p>
                     <p>Email: <a href="mailto:enquiries@matesgroup.com.au">enquiries@matesgroup.com.au</a></p>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     <h5>SINGAPORE OFFICE</h5>
                     <p>30 Roberts Lane, #02 01</p>
                     <p>Singapore 218309</p>
-                    <p>Landline: (65) 6396 6293 / 6341 5238</p>
+                    <p>Landline: <a href="tel:+6563966293">(65) 6396 6293</a> / <a href="tel:+6563415238">(65) 6341 5238</a></p>
                     <p>Email: <a href="mailto:enquiries@matesgroup.com.au">enquiries@matesgroup.com.au</a></p>
                 </div>
             </div>
@@ -81,12 +81,12 @@
                     </div>
                     <div class="mb-3">
                         <label for="phone" class="form-label">Phone:</label>
-                        <input type="number" class="form-control @error('phone') border-danger @enderror" value="{{ old('phone') }}" id="phone" name="phone" aria-describedby="phoneHelp">
+                        <input type="number" class="form-control @error('phone') border-danger @enderror" value="{{ old('phone') }}" id="phone" name="phone" aria-describedby="phoneHelp" placeholder="Phone number">
                         @error('phone') <div id="phoneHelp" class="text-danger small">{{ $message }}</div> @enderror
                     </div>
                     <div class="mb-3">
                         <label for="message" class="form-label">Message:</label>
-                        <textarea class="form-control @error('message') border-danger @enderror" id="message" name="message" aria-describedby="messageHelp" rows="3" required>{{ old('message') }}</textarea>
+                        <textarea class="form-control @error('message') border-danger @enderror" id="message" name="message" aria-describedby="messageHelp" rows="3" placeholder="Your message" required>{{ old('message') }}</textarea>
                         @error('message') <div id="messageHelp" class="text-danger small">{{ $message }}</div> @enderror
                     </div>
                     <div class="mb-3 form-check">
