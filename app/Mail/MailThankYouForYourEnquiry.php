@@ -34,6 +34,7 @@ class MailThankYouForYourEnquiry extends Mailable
         return $this->markdown('emails.markdown-thank-you-for-your-enquiry')
             ->cc('enquiries@matesgroup.com.au', 'Mates Group')
             ->replyTo('enquiries@matesgroup.com.au', 'Mates Group')
+            ->subject('Thank You For Your Enquiry')
             ;
     }
 }
