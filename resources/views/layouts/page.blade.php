@@ -7,7 +7,7 @@
     {{-- <link rel="icon" href="{{asset('images/mgr.ico')}}"> --}}
 
     @include('layouts.includes.analytics_google')
-    @include('layouts.includes.fav_ico')
+    @include('layouts.includes.fav_icon')
     <!-- adding this three lines for search engine meta link -->
     <title>@yield('title')</title>
     <meta name="description" content="@yield('meta_description')">
