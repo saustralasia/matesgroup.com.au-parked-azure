@@ -91,7 +91,7 @@
                     </div>
                     <div class="mb-3 form-check">
                         <input type="checkbox" class="form-check-input" value="0" {{ old('newsletter') ? 'checked="checked"' : '' }} id="newsletter" name="newsletter">
-                        <label class="form-check-label" for="newsletter">Sign me up to the newsletter.</label>
+                        <label class="form-check-label" for="newsletter">Sign me up for the newsletter.</label>
                     </div>
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
