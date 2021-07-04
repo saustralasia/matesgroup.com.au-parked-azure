@@ -35,16 +35,16 @@
         <div class="col-md-3">
             <h5 class="footer-title">OUR SERVICES</h5>
             <ul class="list-unstyled mb-0">
-                <li><a href="/agriculture-recruitment">MG Agriculture Staff</a></li>
-                <li><a href="/construction-recruitment">MG Construction Staff </a></li>
-                <li><a href="/engineering-recruitment">MG Engineering Staff </a></li>
-                <li><a href="/maintenance-recruitment">MG Maintenance Staff</a></li>
-                <li><a href="/assistant-accounting-recruitment">MG Office Staff</a></li>
-                <li><a href="/shipbuilding-recruitment">MG Shipbuilding Staff</a></li>
-                <li><a href="/transport-recruitment">MG Transport Staff</a></li>
-                <li><a href="/warehouse-recruitment">MG Warehouse Staff</a></li>
-                <li><a href="#">MG International Staff</a></li>
-                <li><a href="/casual-labour-hire">MG Recruitment</a></li>
+                <li><a href="/agriculture-recruitment">Agriculture Staff</a></li>
+                <li><a href="/construction-recruitment">Construction Staff </a></li>
+                <li><a href="/engineering-recruitment">Engineering Staff </a></li>
+                <li><a href="/maintenance-recruitment">Maintenance Staff</a></li>
+                <li><a href="/assistant-accounting-recruitment">Office Staff</a></li>
+                <li><a href="/shipbuilding-recruitment">Shipbuilding Staff</a></li>
+                <li><a href="/transport-recruitment">Transport Staff</a></li>
+                <li><a href="/warehouse-recruitment">Warehouse Staff</a></li>
+                <li><a href="#">International Staff</a></li>
+                <li><a href="/casual-labour-hire">Recruitment</a></li>
             </ul>
         </div>
         <div class="col-md-3">

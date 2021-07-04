@@ -10,7 +10,6 @@
 
 
     <br>
-    <div class="main-area">
         <div class="container-fluid">
             <div class="second-banner">
                 <div class="banner-head">
@@ -102,8 +101,7 @@
         </div>
 
         <div class="container">
-            <div class="row mt-6">
-                <div class="col"></div>
+            <div class="row mt-5">
             </div>
         </div>
 
@@ -169,12 +167,8 @@
                                 wide. The main contribution of our company is to have the right kind of staff who help to
                                 achieve goals in a business and reach the required targets.
                             </p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white text-18">
-                                With a database of highly skilled office support staff, Mates has the administration
-                                recruitment resources, extensive experience and recruiting knowledge to provide qualified
-                                candidates to specific employers.
-                            </p>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
+
                         </div>
                     </div>
                 </div>
@@ -253,9 +247,7 @@
                             <p class="white text-18">Mates group supply civil and construction workers to various sites
                                 around the Australia, from small to large level of projects and development. Mates Group
                                 provides construction services, managing and developing production.</p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white text-18">We provide superior carpentry labour and building components to the
-                                commercial construction industry with a team of qualified and experienced members.</p>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
                         </div>
                     </div>
                 </div>
@@ -356,11 +348,8 @@
                         <div class="main-section-area">
                             <p class="white text-18">Mates provides ship and submarine building facilities with the
                                 assistance of highly qualified employees who specialise in the field.</p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white text-18">Our aim is to provide customers with outstanding value through quality
-                                ship construction and repair services that are delivered on schedule, while setting the
-                                industry standard for operational reliability and maintainability. We have qualified staff
-                                who finish the job to perfection.</p>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
+
                         </div>
                     </div>
                 </div>
@@ -425,10 +414,8 @@
                                 representing major agribusiness, large primary producers and rural operators. We provide
                                 pickers, packer, turf cleaners and more suitable experienced workers according to
                                 requirements</p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white">Our team's combined experience in recruitment, working rurally and being in the
-                                vegetable industry for many years allows us to provide the best and most suitable candidates
-                                for the job</p>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
+
                         </div>
                     </div>
                 </div>
@@ -600,11 +587,8 @@
                         <div class="main-section-area">
                             <p class="white">We source and place high quality technology, digital and business
                                 transformation professionals to clients who require.</p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white text-18">We find the most suitable people who can transform your business
-                                through technology and innovation.<br>We have experienced staff who do background checks and
-                                reference checks to make sure the candidates selected are up to the mark. </p>
-                        </div>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
+                            </div>
                     </div>
                 </div>
 
@@ -664,10 +648,8 @@
                         <div class="main-section-area">
                             <p class="white text-18">Specialising in recruitment for both Australian and international
                                 requirements.</p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white">We hire International high skill workers, allocating them to local jobs. We not
-                                only recruit them but also provide them with settlement services and support with visa
-                                processing insuring reliability and long-term work.</p>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
+
                         </div>
                     </div>
                 </div>
@@ -739,11 +721,8 @@
                             <p class="white text-18">We source staff for Permanent /Temporary /Part time /Casual /Long term
                                 and Short-term jobs. Fulfilling logistics, manufacturing, cleaning and gardening
                                 requirements.</p>
-                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                            <p class="white">We have worked with the major industry groups and we have a strong knowledge of
-                                their employment needs. We have experienced personnel who understand the labour market and
-                                can find the best candidates for any business.
-                            </p>
+                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
+
                         </div>
                     </div>
                 </div>
@@ -760,11 +739,7 @@
                                         includes, Delivery Drivers, Forklift Operators, Truck Drivers.
 
                                     </p>
-                                    <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                                    <p class="white">We do proper background checks on our employees, making sure they have
-                                        proper experience, the right licences to perform.
-
-                                    </p>
+                                    <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
                                 </div>
                             </div>
                         </div>
@@ -783,12 +758,8 @@
 
 
                                             </p>
-                                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-                                            <p class="white">We only recruit workers who have proper experience in the
-                                                field. We hold a big database of suitable candidate so requirements can be
-                                                find with urgency and ease.
+                                            <p><a class="white text-18" href = "/why-choose">Why choose us?</a></p>
 
-                                            </p>
                                         </div>
                                     </div>
                                 </div>

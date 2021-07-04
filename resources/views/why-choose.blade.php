@@ -45,6 +45,40 @@
                         <p>We ensure 100% Satisfaction Guarantee – We want you to be fully satisfied with our services. We will manage whatever it takes to make you pleased. </p>
 
                     </ul>
+                    <p>With a database of highly skilled office support staff, Mates has the administration
+                                recruitment resources, extensive experience and recruiting knowledge to provide qualified
+                                candidates to specific employers.</p>
+                    <p>We provide superior carpentry labour and building components to the
+                                commercial construction industry with a team of qualified and experienced members.</p>
+                        </p>
+                    <p>Our aim is to provide customers with outstanding value through quality
+                                ship construction and repair services that are delivered on schedule, while setting the
+                                industry standard for operational reliability and maintainability. We have qualified staff
+                                who finish the job to perfection.</p>
+                    <p>Our team's combined experience in recruitment, working rurally and being in the
+                                vegetable industry for many years allows us to provide the best and most suitable candidates
+                                for the job</p>
+                    <p>We find the most suitable people who can transform your business
+                                through technology and innovation.<br>We have experienced staff who do background checks and
+                                reference checks to make sure the candidates selected are up to the mark. </p>
+
+
+                    <p>We hire International high skill workers, allocating them to local jobs. We not
+                                only recruit them but also provide them with settlement services and support with visa
+                                processing insuring reliability and long-term work.</p>
+                    <p>We have worked with the major industry groups and we have a strong knowledge of
+                                their employment needs. We have experienced personnel who understand the labour market and
+                                can find the best candidates for any business.
+                            </p>
+                    <p>We do proper background checks on our employees, making sure they have
+                                        proper experience, the right licences to perform.
+
+                                    </p>
+                    <p>We only recruit workers who have proper experience in the
+                                                field. We hold a big database of suitable candidate so requirements can be
+                                                find with urgency and ease.
+                                            </p>
+                    <p></p>
                     <p>
                         The safety method is Associate in nursing integral a part of our business operation and basic to our current business success. The success of the health and safety program ultimately depends on the disposition of management, supervisors and workers to collaborate and work conjointly as a team to attain our goal of getting work environments that square measure wholly freed from injuries and incidents.
                     </p>
