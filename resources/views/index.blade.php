@@ -1,1470 +1,877 @@
 @extends('layouts.page')
 
 @section('title', 'Mates Group | Recruitment & Labour Hire Agency Adelaide, Brisbane and Perth')
-@section('meta_description', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide, Brisbane, Perth and Tasmania.')
+@section('meta_description', 'Australian company Mates Group provides skilled labour recruitment services in Adelaide,
+    Brisbane, Perth and Tasmania.')
 @section('image', 'http://matesgroup.com.au/images/logo/mates_group_logo.png')
 
 @section('content')
-    <style>
-        /*1,2,3,4 for table 1*/
-        #more {display: none;}
-        #more2{display: none;}
-        #more3{display: none;}
-        #more4{display: none;}
-        /*5,6,7 for table 2*/
-        #more5{display: none;}
-        #more6{display: none;}
-        #more7{display: none;}
-        /*8,9,10 for table 3*/
-        #more8{display: none;}
-        #more9{display: none;}
-        #more10{display: none;}
-        /*11,12,13,14 for table 4*/
-        #more11{display: none;}
-        #more12{display: none;}
-        #more13{display: none;}
-        #more14{display: none;}
-        /*15, 16, 17, 18 for table 5*/
-        #more15{display: none;}
-        #more16{display: none;}
-        #more17{display: none;}
-        #more18{display: none;}
-        /*19,20 for table 6*/
-        #more19{display: none;}
-        #more20{display: none;}
-        /*21 22 23 24 for table 7*/
-        #more21{display: none;}
-        #more22{display: none;}
-        #more23{display: none;}
-        #more24{display: none;}
-        /*25, 26, 27, 28 for table 8*/
-        #more25{display: none;}
-        #more26{display: none;}
-        #more27{display: none;}
-        #more28{display: none;}
-    </style>
 
-<br>
-<div class="main-area">
-    <div class="container-fluid">
-        <div class="second-banner">
-            <div class="banner-head">
-                <div class="banner-heading-line">
-                    <a href=""><h1>Mates Group</h1></a>
-                </div>
-                <h2 class="banner-head-h1">Providing Recruitment and Labour Hire around The Globe</h2>
-            </div>
-            <br>
-            <div class="banner-area">
-                <img src="{{asset('images/logo/mates_group_logo.png')}}" alt="MATES GROUP logo">
-            </div>
-        </div>
 
-        <div class="row">
-            <div class="col-md-2">
-                <div class="side-text">
-                   <a href="mission"><h4>Our Mission</h4></a>
-                    <p>
-                        Our mission is to assist our clients to grow their business by providing the right labor solutions. <!-- lasting, and substantial enhancements in their business and to make a good firm that draws, develops, excites, and retains exceptional professionals. -->
-                        <a href="mission" class="read-more">(read more…)</a>
-                    </p>
-                    <a href="vision"><h4>Our Vision</h4></a>
-                    <p>
-                        Our vision is to put Mates Group on the map as one of the leading organisations.  <!-- and 3. Associated with clients, networks, controllers and one another; these qualities mirror the best parts of our legacy, and stay key to our long haul achievement. -->
-                        <a href="vision" class="read-more">(read more…)</a>
-                    </p>
-                    <a href="approach"> <h4>Our Approach</h4></a>
-                    <p>Our approach is to conduct our business in an honest and ethical manner.  <!--  creating connections that last. Our faith in making the best decision stays key to our prosperity. -->
-                    <a href="approach" class="read-more">(read more…)</a> </p>
-                </div>
-            </div>
-            <div class="col-md-8">
+    <br>
+    <div class="main-area">
+        <div class="container-fluid">
+            <div class="second-banner">
                 <div class="banner-head">
-                      <div class="banner-heading-line">
-                              <a href=""><h1>Mates Group</h1></a>
-                      </div>
-
-                        <h2 class="banner-head-h1">Providing Recruitment and Labour Hire around The Globe</h2>
-
+                    <div class="banner-heading-line">
+                        <a href="">
+                            <h1>Mates Group</h1>
+                        </a>
+                    </div>
+                    <h2 class="banner-head-h1">Providing Recruitment and Labour Hire around The Globe</h2>
                 </div>
                 <br>
                 <div class="banner-area">
-                    <img src="{{asset('images/logo/mates_group_logo.png')}}" alt="MATES GROUP PROVIDES RECRUITMENT AND LABOUR HIRE AROUND THE GLOBE">
+                    <img src="{{ asset('images/logo/mates_group_logo.png') }}" alt="MATES GROUP logo">
                 </div>
             </div>
-            <div class="col-md-2">
-                <div class="side-text">
-                    <a href="team"><h4>Our Team</h4></a>
-                    <p>Our team members at Mates Group are well trained in their respective fields.   <!-- Together, we ensure you're contributing where the best returns are, while building confidence over each touchpoint. -->
-                        <a href="team" class="read-more">(read more…)</a>
-                    </p>
-                    <a href="safety"><h4>Our Safety</h4></a>
-                    <p>Safety and hygiene are our number one priority when it comes to our workers.  <!-- unsafe   practices and occurrences of environmental injury from our activities. Our goal is to ensure a workplace that is completely free of injuries and accidents.--> <a href="safety" class="read-more">(read more…)</a></p>
-                    <a href="commitment"><h4>Our Commitment</h4></a>
-                    <p>Our commitment is to gather and select the best candidates which meet our clients criteria.  <!--  and it’s 	the only  cause you can choose us. We dedicate ourselves to make sure our valued clients are successful. If they’re not prosperous then neither are we.--> 	 <a href="commitment" class="read-more">(read more…)</a></p>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="side-text">
+                        <a href="mission">
+                            <h4>Our Mission</h4>
+                        </a>
+                        <p>
+                            Our mission is to assist our clients to grow their business by providing the right labor
+                            solutions.
+                            <!-- lasting, and substantial enhancements in their business and to make a good firm that draws, develops, excites, and retains exceptional professionals. -->
+                            <a href="mission" class="read-more">(read more…)</a>
+                        </p>
+                        <a href="vision">
+                            <h4>Our Vision</h4>
+                        </a>
+                        <p>
+                            Our vision is to put Mates Group on the map as one of the leading organisations.
+                            <!-- and 3. Associated with clients, networks, controllers and one another; these qualities mirror the best parts of our legacy, and stay key to our long haul achievement. -->
+                            <a href="vision" class="read-more">(read more…)</a>
+                        </p>
+                        <a href="approach">
+                            <h4>Our Approach</h4>
+                        </a>
+                        <p>Our approach is to conduct our business in an honest and ethical manner.
+                            <!--  creating connections that last. Our faith in making the best decision stays key to our prosperity. -->
+                            <a href="approach" class="read-more">(read more…)</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="banner-head">
+                        <div class="banner-heading-line">
+                            <a href="">
+                                <h1>Mates Group</h1>
+                            </a>
+                        </div>
+
+                        <h2 class="banner-head-h1">Providing Recruitment and Labour Hire around The Globe</h2>
+
+                    </div>
+                    <br>
+                    <div class="banner-area">
+                        <img src="{{ asset('images/logo/mates_group_logo.png') }}"
+                            alt="MATES GROUP PROVIDES RECRUITMENT AND LABOUR HIRE AROUND THE GLOBE">
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="side-text">
+                        <a href="team">
+                            <h4>Our Team</h4>
+                        </a>
+                        <p>Our team members at Mates Group are well trained in their respective fields.
+                            <!-- Together, we ensure you're contributing where the best returns are, while building confidence over each touchpoint. -->
+                            <a href="team" class="read-more">(read more…)</a>
+                        </p>
+                        <a href="safety">
+                            <h4>Our Safety</h4>
+                        </a>
+                        <p>Safety and hygiene are our number one priority when it comes to our workers.
+                            <!-- unsafe   practices and occurrences of environmental injury from our activities. Our goal is to ensure a workplace that is completely free of injuries and accidents.-->
+                            <a href="safety" class="read-more">(read more…)</a>
+                        </p>
+                        <a href="commitment">
+                            <h4>Our Commitment</h4>
+                        </a>
+                        <p>Our commitment is to gather and select the best candidates which meet our clients criteria.
+                            <!--  and it’s 	the only  cause you can choose us. We dedicate ourselves to make sure our valued clients are successful. If they’re not prosperous then neither are we.-->
+                            <a href="commitment" class="read-more">(read more…)</a>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="container">
-        <div class="row mt-6">
-            <div class="col"></div>
+        <div class="container">
+            <div class="row mt-6">
+                <div class="col"></div>
+            </div>
         </div>
-    </div>
 
-    <!--    =================  Carousel    =================-->
-    <h4 class="text-center partners-text">Our Partners and Associates</h4>
-{{--    <div style="overflow:hidden !important;margin:0 auto">--}}
-    <div class="partners-carousel owl-carousel owl-theme">
-        <div class="item">
-            <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank">
-                <img src="{{asset('images/logo/freshexport.png')}}" alt="Specialises in exporting fresh fruits and fresh vegetables">
-            </a>
-            <p class="slogan">Specialises in exporting fresh fruits and fresh vegetables.</p>
+        <!--    =================  Carousel    =================-->
+        <h4 class="text-center partners-text">Our Partners and Associates</h4>
+        {{-- <div style="overflow:hidden !important;margin:0 auto"> --}}
+        <div class="partners-carousel owl-carousel owl-theme">
+            <div class="item">
+                <a rel="nofollow" href="http://www.freshexport.com.au" target="_blank">
+                    <img src="{{ asset('images/logo/freshexport.png') }}"
+                        alt="Specialises in exporting fresh fruits and fresh vegetables">
+                </a>
+                <p class="slogan">Specialises in exporting fresh fruits and fresh vegetables.</p>
+            </div>
+            <div class="item">
+                <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank">
+                    <img src="{{ asset('images/logo/logo2.jpg') }}"
+                        alt="Specialises in job recruitment, interviews and candidate selection">
+                </a>
+                <p class="slogan">Specialises in job recruitment, interviews and candidate selection.</p>
+            </div>
+            <div class="item">
+                <a rel="nofollow" href="http://matesglobal.com" target="_blank">
+                    <img src="{{ asset('images/logo/Mates-Global.png') }}"
+                        alt="Specialises in providing staff recruitment and labour hire to clients around the world">
+                </a>
+                <p class="slogan">Specialises in providing staff recruitment and labour hire to clients around the world.
+                </p>
+            </div>
+            <div class="item">
+                <a rel="nofollow" href="http://asc.net.au/" target="_blank">
+                    <img src="{{ asset('images/logo/asc.png') }}"
+                        alt="Specialises in worldwide import, export and shipping services.">
+                </a>
+                <p class="slogan">Specialises in worldwide import, export and shipping services.</p>
+            </div>
+            <div class="item">
+                <a rel="nofollow" href="http://winfred.com.au" target="_blank">
+                    <img src="{{ asset('images/logo/winfred.png') }}"
+                        alt="Speciallises in experienced cleaning labour and providing Security personal">
+                </a>
+                <p class="slogan">Speciallises in experienced cleaning labour and providing Security personal.</p>
+            </div>
+            <div class="item">
+                <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank">
+                    <img src="{{ asset('images/logo/logomw.png') }}"
+                        alt="Specializing providing skilled and unskilled labour to Australian companies">
+                </a>
+                <p class="slogan">Specialising providing skilled and unskilled labour to Australian companies.</p>
+            </div>
         </div>
-        <div class="item">
-            <a rel="nofollow" href="http://jobsgalore.com.au" target="_blank">
-                <img src="{{asset('images/logo/logo2.jpg')}}" alt="Specialises in job recruitment, interviews and candidate selection">
-            </a>
-            <p class="slogan">Specialises in job recruitment, interviews and candidate selection.</p>
-        </div>
-        <div class="item">
-            <a rel="nofollow" href="http://matesglobal.com" target="_blank">
-                <img src="{{asset('images/logo/Mates-Global.png')}}" alt="Specialises in providing staff recruitment and labour hire to clients around the world">
-            </a>
-            <p class="slogan">Specialises in providing staff recruitment and labour hire to clients around the world.</p>
-        </div>
-        <div class="item">
-            <a rel="nofollow" href="http://asc.net.au/" target="_blank">
-                <img src="{{asset('images/logo/asc.png')}}" alt="Specialises in worldwide import, export and shipping services.">
-            </a>
-            <p class="slogan">Specialises in worldwide import, export and shipping services.</p>
-        </div>
-        <div class="item">
-            <a rel="nofollow" href="http://winfred.com.au" target="_blank">
-                <img src="{{asset('images/logo/winfred.png')}}" alt="Speciallises in experienced cleaning labour and providing Security personal">
-            </a>
-            <p class="slogan">Speciallises in experienced cleaning labour and providing Security personal.</p>
-        </div>
-        <div class="item">
-            <a rel="nofollow" href="http://matesgroup.com.au/office-staff-recruitment" target="_blank">
-                <img src="{{asset('images/logo/logomw.png')}}" alt="Specializing providing skilled and unskilled labour to Australian companies">
-            </a>
-            <p class="slogan">Specialising providing skilled and unskilled labour to Australian companies.</p>
-        </div>
-    </div>
-{{--    </div>--}}
-    <!--    =================  First Slider    =================-->
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG OFFICE STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">Mates Group office provides specialised office support staff Australia wide. The main   contribution of our company is to have the right kind of staff who help to achieve goals in a business and reach the required targets.
-            </p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white text-18">
-                With a database of highly skilled office support staff, Mates has the administration recruitment resources, extensive experience and recruiting knowledge to provide qualified candidates to specific employers.
-            </p>
-        </div>
-    </div>
-</div>
+        {{-- </div> --}}
+        <!--    =================  First Slider    =================-->
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG OFFICE STAFF</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white text-18">Mates Group office provides specialised office support staff Australia
+                                wide. The main contribution of our company is to have the right kind of staff who help to
+                                achieve goals in a business and reach the required targets.
+                            </p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white text-18">
+                                With a database of highly skilled office support staff, Mates has the administration
+                                recruitment resources, extensive experience and recruiting knowledge to provide qualified
+                                candidates to specific employers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
 
 
- <div class="board-area">
-	 	<div class="board-pera">
-	 	    <div class="table-class">
-                    <h5 class="white font-cursive">Specialises in</h5>
-				    	<table class="table table-bordered key-th">
-				    	    <tr>
-				    	        <th>Accounting</th>
-				    	        <th>Administration</th>
-				    	        <th>IT and Technology</th>
-				    	        <th>Recruitment and selection</th>
-				    	    </tr>
+                <div class="board-area">
+                    <div class="board-pera">
+                        <div class="table-class">
+                            <h5 class="white font-cursive">Specialises in</h5>
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <th>Accounting</th>
+                                    <th>Administration</th>
+                                    <th>IT and Technology</th>
+                                    <th>Recruitment and selection</th>
+                                </tr>
 
-				    	    <tr>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Payroll officer</li>
-                                        <span id="dots">...</span>
-                                        <span id="more">
-				    	                <li>Book keeper</li>
-				    	                <li>Accounts payable officer</li>
-				    	                <li>Assistant accountant</li>
-				    	                <li>Financial analyst</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
+                                <tr>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Payroll officer</li>
+                                                <li>Book keeper</li>
+                                                <li>Accounts payable officer</li>
+                                                <li>Assistant accountant</li>
+                                                <li>Financial analyst</li>
+                                        </ul>
+                                    </td>
 
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Office administrator</li>
-                                        <span id="dots2"></span>
-                                        <span id="more2">
-				    	                <li>Executive assistant</li>
-				    	                <li>Receptionist</li>
-				    	                <li>Customer service officer</li>
-                                        <li>coordinator</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>IT Business Analyst</li>
-                                        <span id="dots3">...</span>
-                                        <span id="more3">
-                                        <li>Network administrator</li>
-				    	                <li>Database developer</li>
-				    	                <li>Systems engineer</li>
-				    	                <li>Help desk officer</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Office administrator</li>
+                                                <li>Executive assistant</li>
+                                                <li>Receptionist</li>
+                                                <li>Customer service officer</li>
+                                                <li>coordinator</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>IT Business Analyst</li>
+                                                <li>Network administrator</li>
+                                                <li>Database developer</li>
+                                                <li>Systems engineer</li>
+                                                <li>Help desk officer</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Recruitment consultant </li>
+                                                <li>Business development manager</li>
+                                                <li>Sales consultant</li>
+                                                <li>Assistant recruitment consultant</li>
+                                                <li>Assistant business development executive</li>
+                                        </ul>
+                                    </td>
+
+                                </tr>
+
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--    =================  Second Slider    =================-->
+
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-5">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG CONSTRUCTION STAFF</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white text-18">Mates group supply civil and construction workers to various sites
+                                around the Australia, from small to large level of projects and development. Mates Group
+                                provides construction services, managing and developing production.</p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white text-18">We provide superior carpentry labour and building components to the
+                                commercial construction industry with a team of qualified and experienced members.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="board-area">
+                    <div class="board-pera">
+                        <h5 class="white font-cursive">Specialises in</h5>
+                        <div class="table-class">
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Surveyor</li>
+                                            <li>Linemen</li>
+                                            <li>Fencer</li>
+                                            <li>Glazier </li>
+                                                <li>Heavy equipment operator,</li>
+                                                <li>Insulation installer</li>
+                                                <li>Ironworker (or steel erector</li>
+                                                <li>Labourer</li>
+                                                <li>Landscaper </li>
+                                                <li>Mason</li>
+                                                <li>Millwright </li>
+                                                <li>House painter and decorator</li>
+                                                <li>Pile driver</li>
+                                                <li>Electrician</li>
+                                                <li>Elevator mechanic </li>
+                                                <li>Carpenter</li>
+                                                <li>Project Assistant</li>
+                                                <li>Framing Carpenter</li>
+                                                <li>Safety Director</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Joiner</li>
+                                            <li>Joiner</li>
+                                            <li>Inspector</li>
+                                            <li>Plasterer </li>
+                                                <li>Dry Wall Finisher</li>
+                                                <li>Dry wall Installer</li>
+                                                <li>Planner</li>
+                                                <li>Equipment Operator</li>
+                                                <li>Welder </li>
+                                                <li>Painter</li>
+                                                <li>Master Plumber</li>
+                                                <li>Building Inspector</li>
+                                                <li>Civil Engineer</li>
+                                                <li>Plumber </li>
+                                                <li>Project Manager</li>
+                                                <li>Roofer</li>
+                                                <li>Contract Administrator</li>
+                                                <li>Scheduler</li>
+                                                <li>Field Engineer</li>
+                                        </ul>
+                                    </td>
+
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Concrete Laborers</li>
+                                            <li>Pipefitter</li>
+                                            <li>Crane Operator</li>
+                                            <li>Carpet layer</li>
+                                                <li>Sheet metal worker </li>
+                                                <li>Safety manager / Safety Officer</li>
+                                                <li>Site manager</li>
+                                                <li>Waterproofer</li>
+                                                <li>Contract Manager</li>
+                                                <li>General Labourer</li>
+                                                <li>Construction Assistant</li>
+                                                <li>Construction Coordinator</li>
+                                                <li>Construction Engineer</li>
+                                                <li>Construction Foreman</li>
+                                                <li>Construction Manager</li>
+                                                <li>Construction Superintendent</li>
+                                                <li>Construction Supervisor</li>
+                                                <li>Construction Worker</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-6">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG SHIPBUILDING</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white text-18">Mates provides ship and submarine building facilities with the
+                                assistance of highly qualified employees who specialise in the field.</p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white text-18">Our aim is to provide customers with outstanding value through quality
+                                ship construction and repair services that are delivered on schedule, while setting the
+                                industry standard for operational reliability and maintainability. We have qualified staff
+                                who finish the job to perfection.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="board-area">
+                    <div class="board-pera">
+                        <h5 class="white font-cursive">Specialises in</h5>
+                        <div class="table-class">
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <th>Pre-building</th>
+                                    <th>Building process</th>
+                                    <th>Post building</th>
+                                </tr>
+                                <td>
                                     <ul class="tab-l">
-                                        <li>Recruitment consultant </li>
-                                        <span id="dots4"></span>
-                                        <span id="more4">
-                                        <li>Business development manager</li>
-                                        <li>Sales consultant</li>
-                                        <li>Assistant recruitment consultant</li>
-                                        <li>Assistant business development executive</li>
-                                        </span>
+                                        <li>Naval Architect </li>
+                                        <li>Ship/Submarine designers </li>
+                                            <li>Mechanical Engineer</li>
+                                            <li>Electrical Engineers</li>
                                     </ul>
                                 </td>
-
-				            </tr>
-
-				    </table>
-
-                    <button onclick="read_more_less()" class="btn btn-primary btn-sm" id="mybtn">Load more...</button>
+                                <td>
+                                    <ul class="tab-l">
+                                        <li>Welders</li>
+                                        <li>Solderers</li>
+                                            <li>Structural Fabricators</li>
+                                            <li>Plumbers</li>
+                                            <li>Electricians</li>
+                                            <li>Carpenters</li>
+                                            <li>Riggers</li>
+                                            <li>Supervisors</li>
+                                            <li>Marine Surveyors</li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul class="tab-l">
+                                        <li>Quality Control Inspectors</li>
+                                        <li>Painters</li>
+                                            <li>Interior Plasterers</li>
+                                    </ul>
+                                </td>
+                            </table>
+                        </div>
+                    </div>
                 </div>
-	 	    </div>
-        </div>
-    </div>
-</div>
-
-<!--    =================  Second Slider    =================-->
-
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-5">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG CONSTRUCTION STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">Mates group supply civil and construction workers to various sites around the Australia, from small to large level of projects and development. Mates Group provides construction services, managing and developing production.</p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white text-18">We provide superior carpentry labour and building components to the commercial construction industry with a team of qualified and experienced members.</p>
-        </div>
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-        <h5 class="white font-cursive">Specialises in</h5>
-				<div class="table-class">
-				    <table class="table table-bordered key-th">
-				    	    <tr>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Surveyor</li>
-				    	                <li>Linemen</li>
-				    	                <li>Fencer</li>
-				    	                <li>Glazier </li>
-                                        <span id="dots5"></span>
-                                        <span id="more5">
-				    	                <li>Heavy equipment operator,</li>
-				    	                <li>Insulation installer</li>
-				    	                <li>Ironworker (or steel erector</li>
-				    	                <li>Labourer</li>
-				    	                <li>Landscaper </li>
-				    	                <li>Mason</li>
-				    	                <li>Millwright </li>
-				    	                <li>House painter and decorator</li>
-				    	                <li>Pile driver</li>
-				    	                <li>Electrician</li>
-				    	                <li>Elevator mechanic </li>
-				    	                <li>Carpenter</li>
-				    	                <li>Project Assistant</li>
-				    	                <li>Framing Carpenter</li>
-				    	                <li>Safety Director</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Joiner</li>
-				    	                <li>Joiner</li>
-				    	                <li>Inspector</li>
-				    	                <li>Plasterer </li>
-                                        <span id="dots6"></span>
-                                        <span id="more6">
-				    	                <li>Dry Wall Finisher</li>
-				    	                <li>Dry wall Installer</li>
-				    	                <li>Planner</li>
-				    	                <li>Equipment Operator</li>
-				    	                <li>Welder </li>
-				    	                <li>Painter</li>
-				    	                <li>Master Plumber</li>
-				    	                <li>Building Inspector</li>
-				    	                <li>Civil Engineer</li>
-				    	                <li>Plumber </li>
-				    	                <li>Project Manager</li>
-				    	                <li>Roofer</li>
-				    	                <li>Contract Administrator</li>
-				    	                <li>Scheduler</li>
-				    	                <li>Field Engineer</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Concrete Laborers</li>
-				    	                <li>Pipefitter</li>
-				    	                <li>Crane Operator</li>
-				    	                <li>Carpet layer</li>
-                                        <span id="dots7"></span>
-                                        <span id="more7">
-				    	                <li>Sheet metal worker </li>
-				    	                <li>Safety manager / Safety Officer</li>
-				    	                <li>Site manager</li>
-				    	                <li>Waterproofer</li>
-				    	                <li>Contract Manager</li>
-				    	                <li>General Labourer</li>
-				    	                <li>Construction Assistant</li>
-				    	                <li>Construction Coordinator</li>
-				    	                <li>Construction Engineer</li>
-				    	                <li>Construction Foreman</li>
-				    	                <li>Construction Manager</li>
-				    	                <li>Construction Superintendent</li>
-				    	                <li>Construction Supervisor</li>
-				    	                <li>Construction Worker</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	    </tr>
-				    	</table>
-                        <button onclick="read_more_less2()" class="btn btn-primary btn-sm" id="mybtn2">Load more...</button>
-				    </div>
-	 	        </div>
             </div>
         </div>
-    </div>
 
 
 
 
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-6">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG SHIPBUILDING</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">Mates provides ship and submarine building facilities with the assistance of highly qualified employees who specialise in the field.</p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white text-18">Our aim is to provide customers with outstanding value through quality ship construction and repair services that are delivered on schedule, while setting the industry standard for operational reliability and maintainability. We have qualified staff who finish the job to perfection.</p>
-        </div>
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-	 	    <h5 class="white font-cursive">Specialises in</h5>
-                <div class="table-class">
-                <table class="table table-bordered key-th">
-                   <tr>
-                       <th>Pre-building</th>
-                       <th>Building process</th>
-                       <th>Post building</th>
-                   </tr>
-                    <td>
-                        <ul class="tab-l">
-                            <li>Naval Architect </li>
-                            <li>Ship/Submarine designers </li>
-                            <span id="dots8">...</span>
-                            <span id="more8">
-                            <li>Mechanical Engineer</li>
-                            <li>Electrical Engineers</li>
-                            </span>
-                        </ul>
-                    </td>
-                    <td>
-                        <ul class="tab-l">
-                            <li>Welders</li>
-                            <li>Solderers</li>
-                            <span id="dots9">...</span>
-                            <span id="more9">
-                            <li>Structural Fabricators</li>
-                            <li>Plumbers</li>
-                            <li>Electricians</li>
-                            <li>Carpenters</li>
-                            <li>Riggers</li>
-                            <li>Supervisors</li>
-                            <li>Marine Surveyors</li>
-                            </span>
-                        </ul>
-                    </td>
-                    <td>
-                        <ul class="tab-l">
-                            <li>Quality Control Inspectors</li>
-                            <li>Painters</li>
-                            <span id="dots10">...</span>
-                            <span id="more10">
-                            <li>Interior Plasterers</li>
-                            </span>
-                        </ul>
-                    </td>
-                </table>
-                    <button onclick="read_more_less3()" class="btn btn-primary btn-sm" id="mybtn3">Load more...</button>
-              </div>
-	 	   </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-7">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG AGRICULTURE STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">Mates is an Australian company with clients around the world. Proudly representing major agribusiness, large primary producers and rural operators. We provide pickers, packer, turf cleaners and more suitable experienced workers according to requirements</p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white">Our team's combined experience in recruitment, working rurally and being in the vegetable industry for many years allows us to provide the best and most suitable candidates for the job</p>
-        </div>
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-        <h5 class="white font-cursive">Specialises in</h5>
-           <div class="table-class">
-				<table class="table table-bordered key-th">
-                    <tr>
-                        <th>Vegetable farm</th>
-                        <th>Fruit farm</th>
-                        <th>Dairy farm</th>
-                        <th>Farm work</th>
-                    </tr>
-                    <tr>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Vegetable grower</li>
-                                <li>Tractor operator</li>
-                                <li>Farm hand</li>
-                                <span id="dots11"></span>
-                                <span id="more11">
-                                <li>Washing/cleaning</li>
-                                <li>Vegetable pickers</li>
-                                <li>Vegetable packers</li>
-                                <li>Stock control clerk</li>
-                                </span>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Fruit pickers</li>
-                                <li>Forklift operator</li>
-                                <li>Administration clerk</li>
-                                <span id="dots12"></span>
-                                <span id="more12">
-                                <li>Fruit grower</li>
-                                <li>Orchard hand</li>
-                                </span>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Dairy farm hand</li>
-                                <li>Heard manager</li>
-                                <li>Milkers</li>
-                                <span id="dots13"></span>
-                                <span id="more13">
-                                <li>Calf rearing</li>
-                                </span>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="tab-l">
-                                <li>General farm work</li>
-                                <li>Weed sprayingr</li>
-                                <li>Painting job</li>
-                                <span id="dots14"></span>
-                                <span id="more14">
-                                <li>Farm sitter</li>
-                                <li>Turf cleaning</li>
-                                </span>
-                            </ul>
-                        </td>
-                    </tr>
-				</table>
-               <button onclick="read_more_less4()" class="btn btn-primary btn-sm" id="mybtn4">Load more...</button>
-            </div>
-	 	   </div>
-        </div>
-    </div>
-</div>
-
-
-
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-2">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG ENGINEERING STAFF</h3>
-          </div>
-
-        <div class="main-section-area">
-            <p class="white text-18">With a database of highly skilled office support staff, MG Engineers specialises in recruiting employees for a wide range of engineering jobs. Our specialist recruitment services include the recruitment of permanent, part time or casual staff who hold extensive experience in the desired engineering field.</p>
-        </div>
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-	 	    <div class="table-class">
-                    <h5 class="white font-cursive">Specialises in</h5>
-				    	<table class="table table-bordered key-th">
-				    	    <tr>
-				    	        <th>Civil Engineers</th>
-				    	        <th>Electrical Engineer</th>
-				    	        <th>Marine Engineer</th>
-				    	        <th>Computer Engineer</th>
-				    	    </tr>
-				    	    <tr>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Building control surveyor</li>
-				    	                <li>Consulting civil engineer</li>
-				    	                <li>Contracting civil engineer</li>
-                                        <span id="dots15"></span>
-                                        <span id="more15">
-				    	                <li>Design engineer</li>
-				    	                <li>Site engineer</li>
-				    	                <li>Structural engineer</li>
-				    	                <li>Building services engineer</li>
-				    	                <li>Construction manager</li>
-				    	                <li>Engineering geologist</li>
-				    	                <li>Environmental consultant</li>
-				    	                <li>Quantity surveyor</li>
-				    	                <li>Sustainability consultant</li>
-				    	                <li>Urban designer</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Project Engineer</li>
-				    	                <li>Senior software Engineer</li>
-				    	                <li>E engineering manager</li>
-                                        <span id="dots16"></span>
-                                        <span id="more16">
-				    	                <li>Electrics technician</li>
-				    	                <li>Electrical project engineer</li>
-				    	                <li>Principal electric engineer</li>
-				    	                <li>Design Engineer</li>
-				    	                <li>System design engineer</li>
-				    	                <li>Engineering Associate</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Coastal/Marine Environmental</li>
-				    	                <li>Scientist</li>
-				    	                <li>Marine Project Engineer</li>
-                                        <span id="dots17"></span>
-                                        <span id="more17">
-				    	                <li>Marine Design Engineers</li>
-				    	                <li>Projects Planners Estimators (Marine Engineering/Machining</li>
-				    	                <li>Senior Marine Engineer</li>
-				    	                <li>Mechanical Design Engineer</li>
-				    	                <li>Construction manager</li>
-				    	                <li>Maintenance technician</li>
-				    	                <li>Maintenance supervisor</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	              <li>Sitecore senior developer</li>
-				    	              <li>Software engineering intern</li>
-				    	              <li>Software engineering graduate</li>
-                                      <span id="dots18"></span>
-                                      <span id="more18">
-				    	              <li>Embedded wireless engineer</li>
-				    	              <li>Data centre operations</li>
-				    	              <li>Computer systems validation specialist</li>
-				    	              <li>Data scientist</li>
-				    	              <li>Test engineer</li>
-				    	              <li>Software engineer</li>
-				    	              <li>Android engineer</li>
-				    	              <li>Networking consultant</li>
-				    	              <li>developers</li>
-                                      </span>
-				    	            </ul>
-				    	        </td>
-				    	    </tr>
-				    	</table>
-                        <button onclick="read_more_less5()" class="btn btn-primary btn-sm" id="mybtn5">Load more...</button>
-                  </div>
-	 	        </div>
-            </div>
-        </div>
-    </div>
-
-<!-- ================ third Slider =================== -->
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-3">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG IT STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white">We source and place high quality technology, digital and business transformation professionals to clients who require.</p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white text-18">We find the most suitable people who can transform your business through technology and innovation.<br>We have experienced staff who do background checks and reference checks to make sure the candidates selected are up to the mark. </p>
-        </div>
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-	 	    <h5 class="white font-cursive">Specialises in</h5>
-				    	<div class="table-class">
-				    	<table class="table table-bordered key-th">
-				    	    <tr>
-				    	        <th>Software and programming</th>
-				    	        <th>Hardware and manufacturing</th>
-				    	    </tr>
-				    	    <tr>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Data analyst</li>
-				    	                <li>Graphic designer</li>
-				    	                <li>Systems administrator</li>
-                                        <span id="dots19"></span>
-                                        <span id="more19">
-				    	                <li>Web designer </li>
-				    	                <li>Technical support</li>
-				    	                <li>Computer programmer</li>
-				    	                <li>Software developer</li>
-				    	                <li>Cloud computing specialist</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Computer repair technician</li>
-				    	                <li>Assembler</li>
-				    	                <li>Computer aided drafter</li>
-                                        <span id="dots20"></span>
-                                        <span id="more20">
-				    	                <li>Tester</li>
-				    	                <li>Helpdesk technician</li>
-				    	                <li>Operations technician</li>
-				    	                <li>Desktop support analyst</li>
-				    	                <li>IT hardware sales professional</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	    </tr>
-				    	</table>
-                        <button onclick="read_more_less6()" class="btn btn-primary btn-sm" id="mybtn6">Load more...</button>
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-7">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG AGRICULTURE STAFF</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white text-18">Mates is an Australian company with clients around the world. Proudly
+                                representing major agribusiness, large primary producers and rural operators. We provide
+                                pickers, packer, turf cleaners and more suitable experienced workers according to
+                                requirements</p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white">Our team's combined experience in recruitment, working rurally and being in the
+                                vegetable industry for many years allows us to provide the best and most suitable candidates
+                                for the job</p>
+                        </div>
                     </div>
-	 	        </div>
-            </div>
-       </div>
-    </div>
+                </div>
 
-
-
-
-
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-8">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG GLOBAL STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">Specialising in recruitment for both Australian and international requirements.</p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white">We hire International high skill workers, allocating them to local jobs. We not only recruit them but also provide them with settlement services and support with visa processing insuring reliability and long-term work.</p>
-        </div>
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-            <h5 class="white font-cursive">Specialises in</h5>
-           <div class="table-class">
-                <table class="table table-bordered key-th">
-                    <tr>
-                        <th>Construction</th>
-                        <th>Labour</th>
-                        <th>Ship and Submarine building</th>
-                        <th>Office </th>
-                    </tr>
-                    <tr>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Labourer</li>
-                                <li>Electrician</li>
-                                <li>Plumber</li>
-                                <span id="dots21"></span>
-                                <span id="more21">
-                                <li>Engineer</li>
-                                <li>Architect</li>
-                                </span>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Warehouse</li>
-                                <li>Dry Cleaning and Laundry</li>
-                                <li>Gardening</li>
-                                <span id="dots22"></span>
-                                <span id="more22">
-                                <li>Manufacturing</li>
-                                </span>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Pre-building</li>
-                                <li>Building process </li>
-                                <li>Post building</li>
-                                <span id="dots20"></span>
-                                <span id="more20">
-                                </span>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="tab-l">
-                                <li>Accounting</li>
-                                <li>Administration</li>
-                                <li>It and technology</li>
-                                <span id="dots24"></span>
-                                <span id="more24">
-                                <li>Recruitment and selection</li>
-                                <li>HR</li>
-                                </span>
-                            </ul>
-                        </td>
-                    </tr>
-                </table>
-               <button onclick="read_more_less7()" class="btn btn-primary btn-sm" id="mybtn7">Load more...</button>
-            </div>
-	 	</div>
-    </div>
-</div>
-</div>
-
-
-
-
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-9">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG WAREHOUSE STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">We source staff for Permanent /Temporary /Part time /Casual /Long term and Short-term jobs. Fulfilling logistics, manufacturing, cleaning and gardening requirements.</p>
-            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-            <p class="white">We have worked with the major industry groups and we have a strong knowledge of their employment needs. We have experienced personnel who understand the labour market and can find the best candidates for any business.
-			</p>
-        </div>
-    </div>
-</div>
-<!-- Ten Slider    -->
- <div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-10">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG TRANSPORT STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">Mates Group supply staff for transport and logistics this includes, Delivery Drivers, Forklift Operators, Truck Drivers.
-
-			</p>
-	            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-	            <p class="white">We do proper background checks on our employees, making sure they have proper experience, the right licences to perform.
-
-			</p>
-        </div>
-    </div>
-</div>
-<!-- eleven Slider    -->
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-11">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG MAINTENANCE STAFF</h3>
-          </div>
-        <div class="main-section-area">
-            <p class="white text-18">We source staff who maintain domestic households and industrial places, gathering workers with a good amount of experience and willingness to work work the desired time of our clients.
-
-
-			</p>
-	            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
-	            <p class="white">We only recruit workers who have proper experience in the field. We hold a big database of suitable candidate so requirements can be find with urgency and ease.
-
-			</p>
-        </div>
-    </div>
-</div>
-
-
-<!-- ================= Forth Slider  = = =  -->
-
-<div class="main-bg">
-    <div class="single-main-area">
-    <div class="single-site-area-4">
-    <div class="heading">
-           <div class="page-header">
-            <h3 class="section-head">MG LABOURER</h3>
-          </div>
-
-        <div class="main-section-area">
-            <p class="white text-18">We have worked with the major industry groups and we have a strong knowledge of their employment needs. We have experienced personnel who understand the labour market and can find the best candidates for any business.</p>
-        </div>
-
-    </div>
-</div>
-
- <div class="board-area">
-	 	<div class="board-pera">
-                 <h5 class="white font-cursive">Specialises in</h5>
-				    	<div class="table-class">
-				    	<table class="table table-bordered key-th">
-				    	    <tr>
-				    	        <th>Warehouse </th>
-				    	        <th>Dry Cleaning and Laundry</th>
-				    	        <th>Gardening</th>
-				    	        <th>Manufacturing</th>
-
-				    	    </tr>
-				    	    <tr>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Warehouse picker</li>
-				    	                <li>Warehouse admin</li>
-				    	                <li>Forklift driver</li>
-                                        <span id="dots25"></span>
-                                        <span id="more25">
-				    	                <li>Van driver </li>
-				    	                <li>Cutter</li>
-				    	                <li>General hand</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Dry cleaner</li>
-				    	                <li>Presser</li>
-				    	                <li>Customer service</li>
-                                        <span id="dots26"></span>
-                                        <span id="more26">
-				    	                <li>Laundry hand</li>
-				    	                <li>Laundry machine operator</li>
-				    	                <li>Folder/ironer</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Horticulturalist</li>
-				    	                <li>General gardener</li>
-				    	                <li>Garden labourer</li>
-                                        <span id="dots27"></span>
-                                        <span id="more27">
-				    	                <li>Laundry hand</li>
-				    	                <li>Weeder</li>
-				    	                <li>Garden maintenance</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	        <td>
-				    	            <ul class="tab-l">
-				    	                <li>Production worker</li>
-				    	                <li>Production assembly operator</li>
-				    	                <li>Manufacturing packer</li>
-                                        <span id="dots28"></span>
-                                        <span id="more28">
-				    	                <li>Assembler</li>
-				    	                <li>Manufacturing general hand</li>
-                                        </span>
-				    	            </ul>
-				    	        </td>
-				    	    </tr>
-				    	</table>
-                        <button onclick="read_more_less8()" class="btn btn-primary btn-sm" id="mybtn8">Load more...</button>
+                <div class="board-area">
+                    <div class="board-pera">
+                        <h5 class="white font-cursive">Specialises in</h5>
+                        <div class="table-class">
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <th>Vegetable farm</th>
+                                    <th>Fruit farm</th>
+                                    <th>Dairy farm</th>
+                                    <th>Farm work</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Vegetable grower</li>
+                                            <li>Tractor operator</li>
+                                            <li>Farm hand</li>
+                                                <li>Washing/cleaning</li>
+                                                <li>Vegetable pickers</li>
+                                                <li>Vegetable packers</li>
+                                                <li>Stock control clerk</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Fruit pickers</li>
+                                            <li>Forklift operator</li>
+                                            <li>Administration clerk</li>
+                                                <li>Fruit grower</li>
+                                                <li>Orchard hand</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Dairy farm hand</li>
+                                            <li>Heard manager</li>
+                                            <li>Milkers</li>
+                                                <li>Calf rearing</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>General farm work</li>
+                                            <li>Weed sprayingr</li>
+                                            <li>Painting job</li>
+                                                <li>Farm sitter</li>
+                                                <li>Turf cleaning</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
                     </div>
-	 	        </div>
+                </div>
             </div>
         </div>
-    </div>
 
 
 
-        <script>
-            function read_more_less()
-            {
-                var dots = document.getElementById('dots');
-                var moretext = document.getElementById('more');
-                var mybtn = document.getElementById('mybtn');
-
-                if (dots.style.display === 'none')
-                {
-                    dots.style.display='inline';
-                    moretext.style.display='none';
-                    mybtn.innerHTML="Read more";
-                }
-                else
-                {
-                    dots.style.display="none";
-                    moretext.style.display="inline";
-                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
-                }
-
-                var dots2 = document.getElementById('dots2');
-                var moretext2 = document.getElementById('more2');
-
-                if (dots2.style.display === 'none')
-                {
-                    dots2.style.display='inline';
-                    moretext2.style.display='none';
-                    mybtn.innerHTML="Read more";
-
-                }
-                else
-                {
-                    dots2.style.display="none";
-                    moretext2.style.display="inline";
-                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
-
-                }
-
-                var dots3 = document.getElementById('dots3');
-                var moretext3 = document.getElementById('more3');
-
-                if (dots3.style.display === 'none')
-                {
-                    dots3.style.display='inline';
-                    moretext3.style.display='none';
-                    mybtn.innerHTML="Read more";
-                }
-                else
-                {
-                    dots3.style.display="none";
-                    moretext3.style.display="inline";
-                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
-
-                }
-
-                var dots4 = document.getElementById('dots4');
-                var moretext4 = document.getElementById('more4');
-
-                if (dots4.style.display === 'none')
-                {
-                    dots4.style.display='inline';
-                    moretext4.style.display='none';
-                    mybtn.innerHTML="Read more";
-                }
-                else
-                {
-                    dots4.style.display="none";
-                    moretext4.style.display="inline";
-                    mybtn.innerHTML="Read less";                    mybtn.style.display="none";
-
-                }
-            }
-        </script>
-        <script>
-            function read_more_less2()
-            {
-                var dots5 = document.getElementById('dots5');
-                var moretext5 = document.getElementById('more5');
-                var mybtn2 = document.getElementById('mybtn2');
-
-                if (dots5.style.display === 'none')
-                {
-                    dots5.style.display='inline';
-                    moretext5.style.display='none';
-                    mybtn2.innerHTML="Read more";
-                }
-                else
-                {
-                    dots5.style.display="none";
-                    moretext5.style.display="inline";
-                    mybtn2.innerHTML="Read less";                    mybtn2.style.display="none";
-
-                }
-
-                var dots6 = document.getElementById('dots6');
-                var moretext6 = document.getElementById('more6');
-
-
-                if (dots6.style.display === 'none')
-                {
-                    dots6.style.display='inline';
-                    moretext6.style.display='none';
-                    mybtn2.innerHTML="Read more";
-                }
-                else
-                {
-                    dots6.style.display="none";
-                    moretext6.style.display="inline";
-                    mybtn2.innerHTML="Read less";                    mybtn2.style.display="none";
-
-                }
-
-                var dots7 = document.getElementById('dots7');
-                var moretext7 = document.getElementById('more7');
-
-                if (dots7.style.display === 'none')
-                {
-                    dots7.style.display='inline';
-                    moretext7.style.display='none';
-                    mybtn2.innerHTML="Read more";
-                }
-                else
-                {
-                    dots7.style.display="none";
-                    moretext7.style.display="inline";
-                    mybtn2.innerHTML="Read less";                    mybtn2.style.display="none";
-
-                }
-
-            }
-        </script>
-        <script>
-            function read_more_less3()
-            {
-                var dots8 = document.getElementById('dots8');
-                var moretext8 = document.getElementById('more8');
-                var mybtn3 = document.getElementById('mybtn3');
-
-                if (dots8.style.display === 'none')
-                {
-                    dots8.style.display='inline';
-                    moretext8.style.display='none';
-                    mybtn3.innerHTML="Read more";
-                }
-                else
-                {
-                    dots8.style.display="none";
-                    moretext8.style.display="inline";
-                    mybtn3.innerHTML="Read less";                    mybtn3.style.display="none";
-
-                }
-
-                var dots9 = document.getElementById('dots9');
-                var moretext9 = document.getElementById('more9');
-
-
-                if (dots9.style.display === 'none')
-                {
-                    dots9.style.display='inline';
-                    moretext9.style.display='none';
-                    mybtn3.innerHTML="Read more";
-                }
-                else
-                {
-                    dots9.style.display="none";
-                    moretext9.style.display="inline";
-                    mybtn3.innerHTML="Read less";                    mybtn3.style.display="none";
-
-                }
-
-                var dots10 = document.getElementById('dots10');
-                var moretext10 = document.getElementById('more10');
-
-                if (dots10.style.display === 'none')
-                {
-                    dots10.style.display='inline';
-                    moretext10.style.display='none';
-                    mybtn3.innerHTML="Read more";
-                }
-                else
-                {
-                    dots10.style.display="none";
-                    moretext10.style.display="inline";
-                    mybtn3.innerHTML="Read less";                    mybtn3.style.display="none";
-
-                }
-
-            }
-        </script>
-        <script>
-            function read_more_less4()
-            {
-                var dots11 = document.getElementById('dots11');
-                var moretext11 = document.getElementById('more11');
-                var mybtn4 = document.getElementById('mybtn4');
-
-                if (dots11.style.display === 'none')
-                {
-                    dots11.style.display='inline';
-                    moretext11.style.display='none';
-                    mybtn4.innerHTML="Read more";
-                }
-                else
-                {
-                    dots11.style.display="none";
-                    moretext11.style.display="inline";
-                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
-
-                }
-
-                var dots12 = document.getElementById('dots12');
-                var moretext12 = document.getElementById('more12');
-
-
-                if (dots12.style.display === 'none')
-                {
-                    dots12.style.display='inline';
-                    moretext12.style.display='none';
-                    mybtn4.innerHTML="Read more";
-                }
-                else
-                {
-                    dots12.style.display="none";
-                    moretext12.style.display="inline";
-                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
-
-                }
-
-                var dots13 = document.getElementById('dots13');
-                var moretext13 = document.getElementById('more13');
-
-                if (dots13.style.display === 'none')
-                {
-                    dots13.style.display='inline';
-                    moretext13.style.display='none';
-                    mybtn4.innerHTML="Read more";
-                }
-                else
-                {
-                    dots13.style.display="none";
-                    moretext13.style.display="inline";
-                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
-
-                }
-
-                var dots14 = document.getElementById('dots14');
-                var moretext14 = document.getElementById('more14');
-
-                if (dots14.style.display === 'none')
-                {
-                    dots14.style.display='inline';
-                    moretext14.style.display='none';
-                    mybtn4.innerHTML="Read more";
-                }
-                else
-                {
-                    dots14.style.display="none";
-                    moretext14.style.display="inline";
-                    mybtn4.innerHTML="Read less";                    mybtn4.style.display="none";
-
-                }
-
-            }
-        </script>
-        <script>
-            function read_more_less5()
-            {
-                var dots15 = document.getElementById('dots15');
-                var moretext15 = document.getElementById('more15');
-                var mybtn5 = document.getElementById('mybtn5');
-
-                if (dots15.style.display === 'none')
-                {
-                    dots15.style.display='inline';
-                    moretext15.style.display='none';
-                    mybtn5.innerHTML="Read more";
-                }
-                else
-                {
-                    dots15.style.display="none";
-                    moretext15.style.display="inline";
-                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
-
-                }
-
-                var dots16 = document.getElementById('dots16');
-                var moretext16 = document.getElementById('more16');
-
-
-                if (dots16.style.display === 'none')
-                {
-                    dots16.style.display='inline';
-                    moretext16.style.display='none';
-                    mybtn5.innerHTML="Read more";
-                }
-                else
-                {
-                    dots16.style.display="none";
-                    moretext16.style.display="inline";
-                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
-
-                }
-
-                var dots17 = document.getElementById('dots17');
-                var moretext17 = document.getElementById('more17');
-
-                if (dots17.style.display === 'none')
-                {
-                    dots17.style.display='inline';
-                    moretext17.style.display='none';
-                    mybtn5.innerHTML="Read more";
-                }
-                else
-                {
-                    dots17.style.display="none";
-                    moretext17.style.display="inline";
-                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
-
-                }
-
-                var dots18 = document.getElementById('dots18');
-                var moretext18 = document.getElementById('more18');
-
-                if (dots18.style.display === 'none')
-                {
-                    dots18.style.display='inline';
-                    moretext18.style.display='none';
-                    mybtn5.innerHTML="Read more";
-                }
-                else
-                {
-                    dots18.style.display="none";
-                    moretext18.style.display="inline";
-                    mybtn5.innerHTML="Read less";                    mybtn5.style.display="none";
-
-                }
-
-            }
-        </script>
-        <script>
-            function read_more_less6()
-            {
-                var dots19 = document.getElementById('dots19');
-                var moretext19 = document.getElementById('more19');
-                var mybtn6 = document.getElementById('mybtn5');
-
-                if (dots19.style.display === 'none')
-                {
-                    dots19.style.display='inline';
-                    moretext19.style.display='none';
-                    mybtn6.innerHTML="Read more";
-                }
-                else
-                {
-                    dots19.style.display="none";
-                    moretext19.style.display="inline";
-                    mybtn6.innerHTML="Read less";                    mybtn6.style.display="none";
-
-                }
-
-                var dots20 = document.getElementById('dots20');
-                var moretext20 = document.getElementById('more20');
-
-
-                if (dots20.style.display === 'none')
-                {
-                    dots20.style.display='inline';
-                    moretext20.style.display='none';
-                    mybtn6.innerHTML="Read more";
-                }
-                else
-                {
-                    dots20.style.display="none";
-                    moretext20.style.display="inline";
-                    mybtn6.innerHTML="Read less";                    mybtn6.style.display="none";
-
-                }
-            }
-        </script>
-        <script>
-            function read_more_less7()
-            {
-                var dots21 = document.getElementById('dots21');
-                var moretext21 = document.getElementById('more21');
-                var mybtn7 = document.getElementById('mybtn7');
-
-                if (dots21.style.display === 'none')
-                {
-                    dots21.style.display='inline';
-                    moretext21.style.display='none';
-                    mybtn7.innerHTML="Read more";
-                }
-                else
-                {
-                    dots21.style.display="none";
-                    moretext21.style.display="inline";
-                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
-
-                }
-
-                var dots22 = document.getElementById('dots22');
-                var moretext22 = document.getElementById('more22');
-
-
-                if (dots22.style.display === 'none')
-                {
-                    dots22.style.display='inline';
-                    moretext22.style.display='none';
-                    mybtn7.innerHTML="Read more";
-                }
-                else
-                {
-                    dots22.style.display="none";
-                    moretext22.style.display="inline";
-                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
-
-                }
-
-                var dots23 = document.getElementById('dots23');
-                var moretext23 = document.getElementById('more23');
-
-
-                if (dots23.style.display === 'none')
-                {
-                    dots23.style.display='inline';
-                    moretext23.style.display='none';
-                    mybtn7.innerHTML="Read more";
-                }
-                else
-                {
-                    dots23.style.display="none";
-                    moretext23.style.display="inline";
-                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
-
-                }
-
-                var dots24 = document.getElementById('dots24');
-                var moretext24 = document.getElementById('more24');
-
-
-                if (dots24.style.display === 'none')
-                {
-                    dots24.style.display='inline';
-                    moretext24.style.display='none';
-                    mybtn7.innerHTML="Read more";
-                }
-                else
-                {
-                    dots24.style.display="none";
-                    moretext24.style.display="inline";
-                    mybtn7.innerHTML="Read less";                    mybtn7.style.display="none";
-
-                }
-            }
-        </script>
-        <script>
-            function read_more_less8()
-            {
-                var dots25 = document.getElementById('dots25');
-                var moretext25 = document.getElementById('more25');
-                var mybtn8 = document.getElementById('mybtn8');
-
-                if (dots25.style.display === 'none')
-                {
-                    dots25.style.display='inline';
-                    moretext25.style.display='none';
-                    mybtn8.innerHTML="Read more";
-                }
-                else
-                {
-                    dots25.style.display="none";
-                    moretext25.style.display="inline";
-                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
-
-                }
-
-                var dots26 = document.getElementById('dots26');
-                var moretext26 = document.getElementById('more26');
-
-
-                if (dots26.style.display === 'none')
-                {
-                    dots26.style.display='inline';
-                    moretext26.style.display='none';
-                    mybtn8.innerHTML="Read more";
-                }
-                else
-                {
-                    dots26.style.display="none";
-                    moretext26.style.display="inline";
-                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
-
-                }
-
-                var dots27 = document.getElementById('dots27');
-                var moretext27 = document.getElementById('more27');
-
-
-                if (dots27.style.display === 'none')
-                {
-                    dots27.style.display='inline';
-                    moretext27.style.display='none';
-                    mybtn8.innerHTML="Read more";
-                }
-                else
-                {
-                    dots27.style.display="none";
-                    moretext27.style.display="inline";
-                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
-
-                }
-
-                var dots28 = document.getElementById('dots28');
-                var moretext28 = document.getElementById('more28');
-
-
-                if (dots28.style.display === 'none')
-                {
-                    dots28.style.display='inline';
-                    moretext28.style.display='none';
-                    mybtn8.innerHTML="Read more";
-                }
-                else
-                {
-                    dots28.style.display="none";
-                    moretext28.style.display="inline";
-                    mybtn8.innerHTML="Read less";                    mybtn8.style.display="none";
-
-                }
-            }
-        </script>
-
-
-
-
-
-@endsection
-
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-2">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG ENGINEERING STAFF</h3>
+                        </div>
+
+                        <div class="main-section-area">
+                            <p class="white text-18">With a database of highly skilled office support staff, MG Engineers
+                                specialises in recruiting employees for a wide range of engineering jobs. Our specialist
+                                recruitment services include the recruitment of permanent, part time or casual staff who
+                                hold extensive experience in the desired engineering field.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="board-area">
+                    <div class="board-pera">
+                        <div class="table-class">
+                            <h5 class="white font-cursive">Specialises in</h5>
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <th>Civil Engineers</th>
+                                    <th>Electrical Engineer</th>
+                                    <th>Marine Engineer</th>
+                                    <th>Computer Engineer</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Building control surveyor</li>
+                                            <li>Consulting civil engineer</li>
+                                            <li>Contracting civil engineer</li>
+                                                <li>Design engineer</li>
+                                                <li>Site engineer</li>
+                                                <li>Structural engineer</li>
+                                                <li>Building services engineer</li>
+                                                <li>Construction manager</li>
+                                                <li>Engineering geologist</li>
+                                                <li>Environmental consultant</li>
+                                                <li>Quantity surveyor</li>
+                                                <li>Sustainability consultant</li>
+                                                <li>Urban designer</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Project Engineer</li>
+                                            <li>Senior software Engineer</li>
+                                            <li>E engineering manager</li>
+                                                <li>Electrics technician</li>
+                                                <li>Electrical project engineer</li>
+                                                <li>Principal electric engineer</li>
+                                                <li>Design Engineer</li>
+                                                <li>System design engineer</li>
+                                                <li>Engineering Associate</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Coastal/Marine Environmental</li>
+                                            <li>Scientist</li>
+                                            <li>Marine Project Engineer</li>
+                                                <li>Marine Design Engineers</li>
+                                                <li>Projects Planners Estimators (Marine Engineering/Machining</li>
+                                                <li>Senior Marine Engineer</li>
+                                                <li>Mechanical Design Engineer</li>
+                                                <li>Construction manager</li>
+                                                <li>Maintenance technician</li>
+                                                <li>Maintenance supervisor</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Sitecore senior developer</li>
+                                            <li>Software engineering intern</li>
+                                            <li>Software engineering graduate</li>
+                                                <li>Embedded wireless engineer</li>
+                                                <li>Data centre operations</li>
+                                                <li>Computer systems validation specialist</li>
+                                                <li>Data scientist</li>
+                                                <li>Test engineer</li>
+                                                <li>Software engineer</li>
+                                                <li>Android engineer</li>
+                                                <li>Networking consultant</li>
+                                                <li>developers</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ================ third Slider =================== -->
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-3">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG IT STAFF</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white">We source and place high quality technology, digital and business
+                                transformation professionals to clients who require.</p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white text-18">We find the most suitable people who can transform your business
+                                through technology and innovation.<br>We have experienced staff who do background checks and
+                                reference checks to make sure the candidates selected are up to the mark. </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="board-area">
+                    <div class="board-pera">
+                        <h5 class="white font-cursive">Specialises in</h5>
+                        <div class="table-class">
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <th>Software and programming</th>
+                                    <th>Hardware and manufacturing</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Data analyst</li>
+                                            <li>Graphic designer</li>
+                                            <li>Systems administrator</li>
+                                                <li>Web designer </li>
+                                                <li>Technical support</li>
+                                                <li>Computer programmer</li>
+                                                <li>Software developer</li>
+                                                <li>Cloud computing specialist</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Computer repair technician</li>
+                                            <li>Assembler</li>
+                                            <li>Computer aided drafter</li>
+                                                <li>Tester</li>
+                                                <li>Helpdesk technician</li>
+                                                <li>Operations technician</li>
+                                                <li>Desktop support analyst</li>
+                                                <li>IT hardware sales professional</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-8">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG GLOBAL STAFF</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white text-18">Specialising in recruitment for both Australian and international
+                                requirements.</p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white">We hire International high skill workers, allocating them to local jobs. We not
+                                only recruit them but also provide them with settlement services and support with visa
+                                processing insuring reliability and long-term work.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="board-area">
+                    <div class="board-pera">
+                        <h5 class="white font-cursive">Specialises in</h5>
+                        <div class="table-class">
+                            <table class="table table-bordered key-th">
+                                <tr>
+                                    <th>Construction</th>
+                                    <th>Labour</th>
+                                    <th>Ship and Submarine building</th>
+                                    <th>Office </th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Labourer</li>
+                                            <li>Electrician</li>
+                                            <li>Plumber</li>
+                                                <li>Engineer</li>
+                                                <li>Architect</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Warehouse</li>
+                                            <li>Dry Cleaning and Laundry</li>
+                                            <li>Gardening</li>
+                                                <li>Manufacturing</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Pre-building</li>
+                                            <li>Building process </li>
+                                            <li>Post building</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="tab-l">
+                                            <li>Accounting</li>
+                                            <li>Administration</li>
+                                            <li>It and technology</li>
+                                                <li>Recruitment and selection</li>
+                                                <li>HR</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="main-bg">
+            <div class="single-main-area">
+                <div class="single-site-area-9">
+                    <div class="heading">
+                        <div class="page-header">
+                            <h3 class="section-head">MG WAREHOUSE STAFF</h3>
+                        </div>
+                        <div class="main-section-area">
+                            <p class="white text-18">We source staff for Permanent /Temporary /Part time /Casual /Long term
+                                and Short-term jobs. Fulfilling logistics, manufacturing, cleaning and gardening
+                                requirements.</p>
+                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                            <p class="white">We have worked with the major industry groups and we have a strong knowledge of
+                                their employment needs. We have experienced personnel who understand the labour market and
+                                can find the best candidates for any business.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Ten Slider    -->
+                <div class="main-bg">
+                    <div class="single-main-area">
+                        <div class="single-site-area-10">
+                            <div class="heading">
+                                <div class="page-header">
+                                    <h3 class="section-head">MG TRANSPORT STAFF</h3>
+                                </div>
+                                <div class="main-section-area">
+                                    <p class="white text-18">Mates Group supply staff for transport and logistics this
+                                        includes, Delivery Drivers, Forklift Operators, Truck Drivers.
+
+                                    </p>
+                                    <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                                    <p class="white">We do proper background checks on our employees, making sure they have
+                                        proper experience, the right licences to perform.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- eleven Slider    -->
+                        <div class="main-bg">
+                            <div class="single-main-area">
+                                <div class="single-site-area-11">
+                                    <div class="heading">
+                                        <div class="page-header">
+                                            <h3 class="section-head">MG MAINTENANCE STAFF</h3>
+                                        </div>
+                                        <div class="main-section-area">
+                                            <p class="white text-18">We source staff who maintain domestic households and
+                                                industrial places, gathering workers with a good amount of experience and
+                                                willingness to work work the desired time of our clients.
+
+
+                                            </p>
+                                            <h5 class="white font-cursive text-30"><u>Why choose us?</u></h5>
+                                            <p class="white">We only recruit workers who have proper experience in the
+                                                field. We hold a big database of suitable candidate so requirements can be
+                                                find with urgency and ease.
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!-- ================= Forth Slider  = = =  -->
+
+                                <div class="main-bg">
+                                    <div class="single-main-area">
+                                        <div class="single-site-area-4">
+                                            <div class="heading">
+                                                <div class="page-header">
+                                                    <h3 class="section-head">MG LABOURER</h3>
+                                                </div>
+
+                                                <div class="main-section-area">
+                                                    <p class="white text-18">We have worked with the major industry groups
+                                                        and we have a strong knowledge of their employment needs. We have
+                                                        experienced personnel who understand the labour market and can find
+                                                        the best candidates for any business.</p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="board-area">
+                                            <div class="board-pera">
+                                                <h5 class="white font-cursive">Specialises in</h5>
+                                                <div class="table-class">
+                                                    <table class="table table-bordered key-th">
+                                                        <tr>
+                                                            <th>Warehouse </th>
+                                                            <th>Dry Cleaning and Laundry</th>
+                                                            <th>Gardening</th>
+                                                            <th>Manufacturing</th>
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <ul class="tab-l">
+                                                                    <li>Warehouse picker</li>
+                                                                    <li>Warehouse admin</li>
+                                                                    <li>Forklift driver</li>
+                                                                        <li>Van driver </li>
+                                                                        <li>Cutter</li>
+                                                                        <li>General hand</li>
+                                                                </ul>
+                                                            </td>
+                                                            <td>
+                                                                <ul class="tab-l">
+                                                                    <li>Dry cleaner</li>
+                                                                    <li>Presser</li>
+                                                                    <li>Customer service</li>
+                                                                        <li>Laundry hand</li>
+                                                                        <li>Laundry machine operator</li>
+                                                                        <li>Folder/ironer</li>
+                                                                </ul>
+                                                            </td>
+                                                            <td>
+                                                                <ul class="tab-l">
+                                                                    <li>Horticulturalist</li>
+                                                                    <li>General gardener</li>
+                                                                    <li>Garden labourer</li>
+                                                                        <li>Laundry hand</li>
+                                                                        <li>Weeder</li>
+                                                                        <li>Garden maintenance</li>
+                                                                </ul>
+                                                            </td>
+                                                            <td>
+                                                                <ul class="tab-l">
+                                                                    <li>Production worker</li>
+                                                                    <li>Production assembly operator</li>
+                                                                    <li>Manufacturing packer</li>
+                                                                        <li>Assembler</li>
+                                                                        <li>Manufacturing general hand</li>
+                                                                </ul>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            @endsection
