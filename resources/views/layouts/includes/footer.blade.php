@@ -81,7 +81,7 @@
                 <ul class="list-inline">
                     <li class="list-inline-item"><a href="/safety-policy">Safety Policy</a></li>
                     <li class="list-inline-item"><a href="/privacy-policy">Privacy Policy</a></li>
-                    <li class="list-inline-item"><a href="/terms-and-conditions">Terms & Condition</a></li>
+                    <li class="list-inline-item"><a href="/terms-and-conditions">Terms & Conditions</a></li>
                     <li class="list-inline-item"><a href="/sitemap.xml">Sitemap</a></li>
                 </ul>
                 <p>Copyright &copy; <a href="/">Mates Group</a> {{date('Y')}}</p>
