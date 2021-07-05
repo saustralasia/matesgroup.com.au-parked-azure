@@ -8,6 +8,307 @@
 
 @section('content')
 
+{{-- Delwar H --}}
+
+<div class="expanding-nav-wrapper">
+    <div data-collapse="small" data-animation="default" data-duration="400" role="banner" class="falgunnavbar w-nav">
+        <div class="nav-bar-script w-embed w-script">
+            <style>
+                @media (min-width: 767px) {
+                    .falgunnavbar {
+                        transition: background-color 350ms, height 350ms;
+                    }
+
+                    .falgunnavbar .nav-menu .nav-link {
+                        transition: background-color 350ms, color 350ms, margin 350ms;
+                    }
+
+                    .falgunnavbar-expanded {
+                        background: transparent;
+                        box-shadow: none;
+                        height: 100px;
+                    }
+
+                    .falgunnavbar-expanded .nav-logo {
+                        margin-left: 30px;
+                        height: 40px;
+                    }
+
+                    .falgunnavbar-expanded .nav-menu .nav-link {
+                        color: white;
+                    }
+
+                    .falgunnavbar-expanded .nav-menu .nav-link-button {
+                        background: white;
+                        border-color: white;
+                        color: #F27B30 !important;
+                        margin-right: 30px;
+                    }
+                }
+            </style>
+
+            <script>
+                window.addEventListener('DOMContentLoaded', function () {
+                    const maxOffset = 75;
+                    const wrapperElement = document.querySelector('.expanding-nav-wrapper');
+
+                    if (wrapperElement) {
+                        const falgunnavbarElement = wrapperElement.querySelector('.falgunnavbar');
+
+                        function setfalgunnavbarState() {
+                            const scrollPosition = document.body.scrollTop || document.documentElement.scrollTop;
+
+                            if (scrollPosition < maxOffset) {
+                                falgunnavbarElement.classList.add('falgunnavbar-expanded');
+                            } else {
+                                falgunnavbarElement.classList.remove('falgunnavbar-expanded');
+                            }
+                        }
+
+                        setfalgunnavbarState();
+                        window.addEventListener('scroll', setfalgunnavbarState);
+                    }
+                });
+            </script>
+        </div>
+        <div class="falgunconta w-falgunconta"><a href="https://www.optimism.co.nz/" aria-current="page"
+                class="link-block-3 w-inline-block w--current"><img
+                    src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1HOIkg3ZC2uNjSZFnXXaxZpXa.png"
+                    alt="Optimism logo" class="nav-logo" /></a>
+            <nav role="navigation" class="nav-menu w-nav-menu">
+                <div data-hover="1" data-delay="100" class="nav-dropdown w-dropdown">
+                    <div class="dropdown-toggle-button w-dropdown-toggle">
+                        <div class="text-block-15">Services</div>
+                        <div class="icon w-icon-dropdown-toggle"></div>
+                    </div>
+                    <nav class="dropdown-list w-dropdown-list">
+                        <div class="w-dyn-list">
+                            <div role="list" class="w-dyn-items">
+                                <div role="listitem" class="w-dyn-item"><a
+                                        href="#"
+                                        class="nav-dropdown-link w-inline-block">
+                                        <div class="text-block-16">Strategies &amp; Frameworks</div>
+                                    </a></div>
+                                <div role="listitem" class="w-dyn-item"><a
+                                        href="#"
+                                        class="nav-dropdown-link w-inline-block">
+                                        <div class="text-block-16">Targeted Learning Solutions</div>
+                                    </a></div>
+                                <div role="listitem" class="w-dyn-item"><a
+                                        href="#"
+                                        class="nav-dropdown-link w-inline-block">
+                                        <div class="text-block-16">Digital Learning Solutions</div>
+                                    </a></div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <div data-hover="1" data-delay="100" class="nav-dropdown w-dropdown">
+                    <div class="dropdown-toggle-button w-dropdown-toggle">
+                        <div class="text-block-15">Specialties</div>
+                        <div class="icon w-icon-dropdown-toggle"></div>
+                    </div>
+                    <nav class="dropdown-list w-dropdown-list">
+                        <div class="w-dyn-list">
+                            <div role="list" class="w-dyn-items">
+                                <div role="listitem" class="w-dyn-item"><a
+                                        href="https://www.optimism.co.nz/service-specialty/induction"
+                                        class="nav-dropdown-link w-inline-block">
+                                        <div class="text-block-16">Induction</div>
+                                    </a></div>
+                                <div role="listitem" class="w-dyn-item"><a
+                                        href="https://www.optimism.co.nz/service-specialty/health-safety-wellbeing"
+                                        class="nav-dropdown-link w-inline-block">
+                                        <div class="text-block-16">Health, Safety &amp; Wellbeing</div>
+                                    </a></div>
+                                <div role="listitem" class="w-dyn-item"><a
+                                        href="https://www.optimism.co.nz/service-specialty/technical"
+                                        class="nav-dropdown-link w-inline-block">
+                                        <div class="text-block-16">Technical</div>
+                                    </a></div>
+                            </div>
+                        </div>
+                    </nav>
+                </div><a href="#" class="nav-link w-nav-link">The Induction
+                    App</a><a href="#" class="nav-link w-nav-link">Case
+                    Studies</a><a href="#" class="nav-link tmp w-nav-link">Our Story</a><a
+                    href="#"
+                    class="nav-link nav-link-button w-nav-link">Contact</a>
+            </nav>
+            <div class="menu-button w-nav-button">
+                <div class="w-icon-nav-menu"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="home-hero-section">
+    <div class="looping-images-wrapper home-hero-background-image-wrapper">
+        <div class="html-embed-8 w-embed">
+            <style>
+                .home-hero-background-image-wrapper {
+                    position: fixed !important;
+                }
+
+                @media (max-width: 768px) {
+                    .home-hero-background-image-wrapper {
+                        position: absolute !important;
+                        top: 50% !important;
+                        height: calc(50% + 425px) !important;
+                    }
+                }
+            </style>
+        </div>
+            <img
+                src="images/1.jpg"
+                loading="lazy" sizes="100vw"
+                alt="" class="home-hero-cycling-image home-hero-cycling-image-reveal"
+            />
+            <img
+                src="images/2.jpg"
+                loading="lazy" sizes="100vw"
+                alt="" class="home-hero-cycling-image"
+            />
+        </div>
+    <div class="div-block-22">
+        <div class="div-block-27"></div>
+        <div class="home-hero-curve-embed w-embed">
+            <style>
+                .home-hero-curve {
+                    position: absolute;
+                    top: 0;
+                }
+
+                .home-hero-curve--vertical {
+                    right: 25%;
+                }
+
+                .home-hero-curve--horizontal,
+                .home-hero-curve-extension--horizontal {
+                    display: none;
+                }
+
+                .home-hero-curve--horizontal {
+                    bottom: 0;
+                    /*height: auto;*/
+                    height: 75px;
+                    position: relative;
+                    /*transform: rotateY(180deg);*/
+                    width: 100%;
+
+                    margin: -2px 0 0 0;
+                    transform: rotate(180deg);
+                }
+
+                .home-hero-curve-extension--horizontal {
+                    /*background: rgba(242, 123, 49, 0.9);*/
+                    background: #F27B30;
+                    height: 500px;
+                }
+
+                @media (max-width: 1100px) {
+                    .home-hero-curve--vertical {
+                        right: calc(25% - 100px);
+                    }
+                }
+
+                @media (max-width: 991px) {
+                    .home-hero-curve--vertical {
+                        right: calc(-600px + 65%);
+                    }
+                }
+
+                @media (max-width: 767px) {
+                    .home-hero-curve--vertical {
+                        display: none;
+                    }
+
+                    .home-hero-curve--horizontal,
+                    .home-hero-curve-extension--horizontal {
+                        display: block;
+                    }
+
+                    .home-hero-curve-wrapper {
+                        position: absolute;
+                        bottom: 0;
+                        width: 100%;
+                    }
+                }
+            </style>
+
+            <div class="home-hero-curve-wrapper">
+                <svg class="home-hero-curve home-hero-curve--vertical" height="720" fill="none" style="height: 100%"
+                    viewBox="0 0 2560 720" width="2560">
+                    <path
+                        d="M2200.58,360c-179.7,360 -287.53,360 -359.41,360l-1841.17,0l0,-720l2560,0c-71.89,0 -179.71,0 -359.42,360Z"
+                        fill="hsla(23, 88%, 57%, 0.9)" />
+                </svg>
+
+                <div class="home-hero-curve-extension--horizontal"></div>
+                <svg class="home-hero-curve home-hero-curve--horizontal" width="1000" height="105"
+                    viewBox="0 0 1000 105" preserveAspectRatio="none">
+                    <path d="M0,100c500,0 500,-100 1000,-100l0,105l-1000,0l0,-5Z" fill="#F27B30" />
+                </svg>
+                <!--<svg
+  class="home-hero-curve home-hero-curve--horizontal"
+  xmlns="http://www.w3.org/2000/svg"
+width="1281" height="405"
+viewBox="0 0 1281 405"
+fill="none"
+preserveAspectRatio="none"
+>
+<path d="M0 5C67.5754 98.9591 173.534 163.251 294.8 174.707L986.2 235.293C1107.47 246.749 1213.42 311.041 1281 405V0H0V5Z" fill="#F27B30"/>
+</svg>-->
+            </div>
+        </div>
+        <div class="falgunconta-4 w-falgunconta">
+            <h1 class="hero-heading">Making it easy for your people to be great at what they do</h1>
+            <h2 class="heading-9">Optimising performance through<br />targeted learning solutions</h2>
+        </div>
+    </div>
+</div>
+<div class="base-section client-logos-section">
+    <div class="div-block-26"><img
+            src="images/layer.svg"
+            alt="" class="image-24" /></div>
+    <div class="falgunconta-8 w-falgunconta">
+        <div class="w-embed">
+            <style>
+                @media (min-height: 720px) {
+                    .client-logos {
+                        top: 0;
+                    }
+                }
+            </style>
+        </div>
+        <div class="collection-list-wrapper-7 client-logos w-dyn-list">
+            <div role="list" class="collection-list-7 w-dyn-items">
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/2.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/3.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/4.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/2.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/3.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/4.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/2.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/3.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/4.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/2.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/3.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/4.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/2.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/3.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/4.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/2.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/3.png" alt="" class="image-20" /></div>
+                <div role="listitem" class="collection-item-3 w-dyn-item"><img src="images/logo/4.png" alt="" class="image-20" /></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="height: 2000px; background-color: white; "></div>
+
+{{-- Delwar H --}}
+
 
     <br>
         <div class="container-fluid">
