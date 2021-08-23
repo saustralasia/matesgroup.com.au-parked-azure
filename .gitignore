@@ -1,6 +1,15 @@
 /node_modules
-/public/hot
-/public/storage
+# /public/hot
+# /public/storage
+public/*
+!/public/.htaccess
+!/public/crossdomain.xml
+!/public/favicon.ico
+!/public/humans.txt
+!/public/index.php
+!/public/robots.txt
+!/public/admin-assets
+
 /storage/*.key
 /vendor
 .env
