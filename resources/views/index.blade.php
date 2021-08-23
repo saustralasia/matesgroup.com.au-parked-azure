@@ -111,7 +111,8 @@
                     <nav class="dropdown-list w-dropdown-list">
                         <div class="w-dyn-list">
                             <div role="list" class="w-dyn-items">
-                                <div role="listitem" class="w-dyn-item"><a
+                                <div role="listitem" class="w-dyn-item">
+                                    <a
                                         href="https://www.optimism.co.nz/service-specialty/induction"
                                         class="nav-dropdown-link w-inline-block">
                                         <div class="text-block-16">Induction</div>
@@ -142,7 +143,7 @@
     </div>
 </div>
 <div class="home-hero-section">
-    <div class="looping-images-wrapper home-hero-background-image-wrapper">
+    <div id="looping-images-wrapper" class="looping-images-wrapper home-hero-background-image-wrapper">
         <div class="html-embed-8 w-embed">
             <style>
                 .home-hero-background-image-wrapper {
@@ -164,7 +165,7 @@
                 alt="" class="home-hero-cycling-image home-hero-cycling-image-reveal"
             />
             <img
-                src="images/2.jpg"
+                src="images/5.jpg"
                 loading="lazy" sizes="100vw"
                 alt="" class="home-hero-cycling-image"
             />
@@ -305,7 +306,7 @@ preserveAspectRatio="none"
     </div>
 </div>
 
-<div style="height: 2000px; background-color: white; "></div>
+<!-- <div style="height: 2000px; background-color: white; "></div> -->
 
 {{-- Delwar H --}}
 
@@ -1149,3 +1150,28 @@ preserveAspectRatio="none"
 
 
                     @endsection
+
+
+    <script>
+        document.addEventListener('scroll', function() {
+
+            // if(window.scrollY > window.innerHeight) {
+            //     document.getElementById('looping-images-wrapper').style.opacity = 0; // or whatever...
+            // }
+
+
+        document.getElementById('looping-images-wrapper').style.opacity =  (window.innerHeight * 0.6 - window.scrollY)/window.scrollY ;
+
+        console.log(10*(window.innerHeight - window.scrollY)/window.scrollY)
+
+        });
+        // $(document).load(function(){
+        //     console.log("hello")
+        //     $(window).scroll(function(){
+        //     let sT =  $(window).scrollTop();
+        //     $('.looping-images-wrapper').css({
+        //         opacity: (sT < 201 ? 0 : (sT > 300 ? 1 : (sT - 200)/100))
+        //     })
+        //     });
+        // })
+    </script>
