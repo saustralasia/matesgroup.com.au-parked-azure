@@ -24,13 +24,22 @@
         <div class="row mt-5">
             <div class="col-md-6">
                 <div class="address">
-                    <h5>HEAD OFFICE</h5>
-                    <p>Level 1, 35 39 Auburn Road</p>
-                    <p>Auburn NSW 2144, Australia</p>
+                    <h5>SYDNEY OFFICE</h5>
+                    <p>Level 33, Australia Square, 264 George Street</p>
+                    <p>Sydney NSW 2000</p>
                     <p>Landline: <a href="tel:+61287333549">(02) 8733 3549</a></p>
                     <p>Email: <a href="mailto:enquiries@matesgroup.com.au">enquiries@matesgroup.com.au</a></p>
                 </div>
-
+            </div>
+            <div class="col-md-6">
+                <div class="address">
+                    <h5>MELBOURNE OFFICE</h5>
+                    <p>Collins Street Tower</p>
+                    <p>Level 3, 480 Collins Street</p>
+                    <p>Melbourne, Victoria 3000</p>
+                    <p>Landline: <a href="tel:+61386106333">(03) 8610 6333</a></p>
+                    <p>Email: <a href="mailto:enquiries@matesgroup.com.au">enquiries@matesgroup.com.au</a></p>
+                </div>
             </div>
             <div class="col-md-6">
                 <div class="address">
@@ -97,7 +106,8 @@
                 </form>
             </div>
             <div class="col-lg-6">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6626.991304659972!2d151.032701!3d-33.851115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb5f33454a7428244!2sMates%20Group!5e0!3m2!1sen!2sbd!4v1612439566414!5m2!1sen!2sbd" width="450" height="700" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6626.991304659972!2d151.032701!3d-33.851115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb5f33454a7428244!2sMates%20Group!5e0!3m2!1sen!2sbd!4v1612439566414!5m2!1sen!2sbd" width="450" height="700" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.958416763086!2d151.2055967158077!3d-33.86496252629232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae41a47511c3%3A0xe1029515b65ad5ce!2sAustralia%20Square%2C%20Level%2033%2F264%20George%20St%2C%20Sydney%20NSW%202000%2C%20Australia!5e0!3m2!1sen!2sbd!4v1635952060374!5m2!1sen!2sbd" width="450" height="700" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
     </div>
